@@ -1,0 +1,84 @@
+.videoguides
+> __**Video Guides**__
+
+__Normal Mode:__
+• Duo Scopulus - https://youtu.be/mbSZZITm5qg
+• Luring Scopulus perfectly - https://www.youtube.com/watch?v=wRcdDVuHvwA
+• Stone Clone skip (Phase 4 NM, Phase 9 HM) - https://www.youtube.com/watch?v=fFxTfKk0yIU
+• Hammer climbing - https://www.youtube.com/watch?v=i3gP7Tx2HlY
+• Natural Instinct - https://www.youtube.com/watch?v=nAS-AW2nFIw
+• Recentering Vorago on Phase 2 - https://www.youtube.com/watch?v=ETv6AGitCD8
+• Solo Lure on Phase 1 - https://www.youtube.com/watch?v=1mgdsTZGMuY
+
+.
+__Hard Mode:__
+
+• Duo HM - Phase 1 (Base POV) - https://www.youtube.com/watch?v=GTs6laViJfE
+• Duo HM - Phase 4 Scopulus (Base POV) - https://www.youtube.com/watch?v=neAeSDWC4OU
+• Duo HM - Phase 5 Vitalis (Base POV) - https://www.youtube.com/watch?v=KZCW_qE8kP0
+• Duo HM - Phase 6 Green Bomb (Base POV) - https://www.youtube.com/watch?v=Mii85UTiTdQ
+
+
+.discordguides
+> __**Discord Guides**__
+
+__Introduction:__
+
+• #introduction - Starting Vorago, How to get HP, Modes, Team sizes
+• #climbing - Top Lure climb - Standard, Acceleration climb - Advanced
+• #clearing-bleeds - Clearing bleeds, Taking 3 bleeds, Escape + Dive to clear 3 bleeds
+• #maul - Maul Pieces, Maul timings for HM, Achievements, Outfit of Omens
+• #item-info - Item Info To be Released
+
+Mechanics
+
+#mechanics - Vorago's Attacks, Smashes/Bleeds, Reflect Mechanic, Bring Him Down, Waterfalls, Phase 5 - Pushback Mechanics, Weekly specials
+#phase-overview - Phase overview, Phase 1, Phase 2, Phase 3, 4 and 5, Hard Mode Vorago
+
+The following have: Weekly special, Normal Mode: Phase 3, 4 and 5, Hard Mode: Phase 9, 10 and 11
+#ceilings - Weekly special: Ceiling Collapse
+#scopulus - Weekly special: Scopulus
+#vitalis - Weekly special: Vitalis
+#green-bomb - Weekly special: Green Bomb
+#team-split - Weekly special: Team Split
+#the-end - Weekly special: The End
+
+Normal Mode
+
+#large-teams - 4man+ approach, Roles, Weekly specials: Phase 3, 4 and 5 breakdown
+#trio - Similarities with 4man+, Weekly specials: Phase 3, 4 and 5 breakdown
+#duo - Phase 1 and 2, Weekly specials: Phase 3, 4 and 5, Base and Bomb Tank jobs
+#solo - Attack speed, Setup, Clearing bleeds, Push. Ability rotations
+
+Hard Mode
+
+#large-teams-hm - Large teams HM To be released
+#trio-hm - Introduction, Base Tank, Ranged Bomb Tank, Magic Bomb Tank, Hybrid Bomb Tank, Phase 9, 10 and 11
+#duo-hm - Split into #p1-2, #p3-8 and #p9-11-team-split Phase 1 to 11 breakdown
+
+Advanced strategies
+
+#breaking-team-split - How to break the TS
+#cade-cept - Barricade + Intercepting, Forcing Red bombs, 2-step Red bomb
+#clone-skip - How to skip the Stone Clone on Phase 4/9, Recommendations & Cooldown management
+#crack-healing - How to crack-heal, Timing crack-heal
+#hammer-climb - Check #climbing first, Excuting the hammer climb
+#lining-up - HM Phase 10 and 11: Lining up & Positioning
+#natty - Natural Instinct on Dummies, Phase 1 Natty, Natty to time Target Cycle, NM Phase 5 and HM Phase 10/11
+#recenter - Recentering Vorago on Phase 2, Walk directions
+#sgb-without-ioth - How to do special attacks without Ingen
+#shatter - Tick perfect Shatter rotations for Phase 2
+#solo-lure - How to solo lure on Phase 1, Walk directions
+#stalling-abilities - Stalling and releasing abilities To be released
+#stepping-under - How to step under (Duo HM strat)
+#target-cycle - Set-up, Alt1 alternative, Cheesing TC, Dummies and TC
+#zero-linking - Overflow, Stalling, Approaching zero links
+
+Ability Rotations
+Ability damage rotations are from now on outsourced from the Rago Hub Discord. They can all be found on the official Rago Hub spreadsheet:
+https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg
+
+The Rago Hub spreadsheet features 150+ unique ability damage rotations that we constantly maintain and update depending on the powercreep and other game updates.
+All rotations have been exported with Sheety (refer to #affiliates) to provide you all the best experience possible for learning new rotation sets for your Vorago journey.
+
+Shoutouts to Celly, Saif, XTL, Die Alive, Sly for contributing to the spreadsheet ability damage rotation collection! (placeholder, will use pings when posted)
