@@ -1,0 +1,95 @@
+.
+Everyone can edit the information covered in Rago Hub. This guide explains how to get started with contributing to Rago Hub.
+
+
+.
+> __**1. Create an account on github**__
+
+• Head to <https://github.com>
+• Your username and email account will both be visible, so make sure you do not include any sensitive personal information
+• If you have a github account already, it advised to make a new one for contributing to Rago Hub
+• If you are using the git CLI, make sure you check your git config `user.name` / `user.email`, as these settings can still expose information
+
+.
+https://cdn.discordapp.com/attachments/676485011268042761/812770689253507093/GHW09lA.png
+.
+
+> __**2. Fork the Rago Hub repository**__
+
+• Head to <https://github.com/schilffarth/rago-guides>
+• Think of this as "make a copy" on google drive; it will create a copy of the Rago Hub repository that you can edit
+
+.
+https://cdn.discordapp.com/attachments/676485011268042761/812771273075720192/6VbUnec.png
+.
+
+• Fork to your account
+.
+https://cdn.discordapp.com/attachments/676485011268042761/812771424577126470/v0WjKmQ.png
+.
+
+• Wait for the Fork loading screen to finish
+.
+https://cdn.discordapp.com/attachments/676485011268042761/812771576646598686/6TKjRFO.png
+.
+
+> __**3. Access your copy of the Rago Hub repository**__
+
+*Note: If you are already experienced with the github workflow, you can clone your forked repository and use an editor on your PC.*
+
+• The structure of the Rago Hub repository imitates the discord server category / text channel structure
+.
+https://cdn.discordapp.com/attachments/772256355380887634/812069669677826068/mpzD8jZ.png
+.
+
+• To navigate, simply click through folders (categories on the discord server) until you find this guide in the github repository
+• This guide can be found under the category / folder `lobby`, labeled `contribute.txt`
+
+Our goal in this tutorial is to add your name to the list at the bottom of this channel.
+
+.
+> __**4. Make your first edits**__
+
+The next step requires Discord developer options to be enabled, so that you can copy your own Discord ID. Open your Discord settings: `Appearance` > `Advanced` > `Developer Mode` > enable Developer Mode.
+.
+https://cdn.discordapp.com/attachments/772256355380887634/812069698781970483/YYSjTcU.png
+.
+
+• Right click on your profile picture and click `Copy ID`
+.
+https://cdn.discordapp.com/attachments/772256355380887634/812069699549659146/1fYJbxV.png
+.
+
+• Open the file of this guide and click on `Edit this file`, a pencil icon on the top-right
+.
+https://cdn.discordapp.com/attachments/772256355380887634/812069697885306950/nMe1tbu.png
+.
+
+• Paste your copied Discord ID to the end of this guide's file in the format <@YourDiscordID>
+
+.
+> __**5. Submit your changes**__
+
+• Give your changes a short description in the input box labeled `Commit changes`
+• Commit your changes
+.
+https://cdn.discordapp.com/attachments/772256355380887634/812069700446978058/B8Eukpx.png
+.
+
+• Create a pull request
+.
+https://cdn.discordapp.com/attachments/772256355380887634/812069701508792371/w2DPavL.png
+.
+https://cdn.discordapp.com/attachments/772256355380887634/812069726423351326/q3HPKfO.png
+.
+https://cdn.discordapp.com/attachments/772256355380887634/812069727081988126/pJuI6ib.png
+.
+
+> __**6. Wait for approval**__
+
+Wait for your changes to be approved, and if they are, your name will appear in this Discord channel the next time we synchronise it. If you did any mistakes throughout this guide, someone will write a comment on your Pull Request, explaining what to fix.
+
+.
+> __**Successful completion of Rago Hub's contribution tutorial**__
+
+<@316175818458136588>
