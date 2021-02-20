@@ -1,14 +1,22 @@
+.intro
 blobbies testing blobs (cannibalism btw)
 test second line
 
 
-.
-yes what's up man
-blob
-
+.first
 > __**test label**__
 
 blobbies like eat other blobs
+yes what's up man
+blob
 
-.
-this is it!
+.second
+> __**this is it**__
+
+some blubbergibberish
+
+.index
+> __**index**__
+- intro: {link:intro}
+- first: {link:first}
+- second: {link:second}
