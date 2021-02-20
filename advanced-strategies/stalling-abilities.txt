@@ -8,12 +8,11 @@ An ability is *stalled* when cast outside of its maximum attack range. For melee
 Stalling an ability by casting it outside of its maximum attack range is described as **Far Casting**.
 
 Example of stalling an ability by Far Casting: https://i.imgur.com/5ZE92F7.mp4
-
 .
+
 __Stalling Within Attack Range:__
 
 An alternative method of stalling ranged and magic abilities can be used by equipping an off-hand melee weapon (such as Excalibur $excal). Dual-wield attack range is always determined by the weapon with the lower attack range. Equipping an off-hand melee weapon automatically reduces every ability's maximum cast range to 1 (melee distance).
-
 
 .releasingstalls
 > __**Releasing Stalled Abilities**__
@@ -30,8 +29,8 @@ You must **wait 1 tick before you cast another ability** or the stall is lost. T
 This method is useless at Vorago specifically due to it only working if stalling off and releasing onto the same target. For taking advantage of stalled abilities at Vorago, refer to the following section.
 
 Example of stalling and releasing an ability by clicking on the same target: https://i.imgur.com/hxwevfm.mp4
-
 .
+
 __Auto Attacks:__
 
 • Stall an ability
@@ -44,11 +43,12 @@ Releasing a stalled ability with a spell stores the used spell as your next auto
 Using magic $magic at Vorago is commonly done with the Ancient spellbook, from which both Vulnerability and Entangle are unavailable. Due to this, your primary auto attack should be used to release stalled abilities. Casting a magic auto attack requires a magic weapon to be equipped, forcing ranged $ranged and melee $attack to make use of either Vulnerability or Entangle in order to release stalled abilities.
 
 Example of stalling and releasing an ability with Vulnerability $vuln on the same target: https://i.imgur.com/pCmZa1V.mp4
+.
 Same scenario but following the released stall up with another ability in the same tick: https://i.imgur.com/UNySy0n.mp4
+.
 Same scenario but releasing the stall onto a different target: https://i.imgur.com/eKZdW6j.mp4
-
-
 .takingadvantage
+
 > __**Taking Advantage**__
 
 Vorago is a lengthy fight with repeating DPS downtimes, ranging from phase transitions, Reflects $ragoreflect to Team Splits $ts. This offers an ideal opportunity to make use of stalled abilities and enhancing your ability rotations with Natural Instinct $natty (reference: <#701072208486727761>).
@@ -69,10 +69,10 @@ Vorago is a lengthy fight with repeating DPS downtimes, ranging from phase trans
 $warning If you acquire a new target, initiate combat and execute a consecutive order of stalled abilities, only the first basic will generate adrenaline.
 
 Example of stalling an ability, utilising Bladed Dive $bd for adrenaline gain and following the released stall with another ability in the same tick: https://i.imgur.com/tvwXAqR.mp4
-An example execution of an advanced melee ability damage rotation ($gbarge > $freedom Darkbow Auto > $swh Stall): https://i.imgur.com/Rk6BAIX.mp4
-
-
 .
+An example execution of an advanced melee ability damage rotation ($gbarge > $freedom Darkbow Auto > $swh Stall): https://i.imgur.com/Rk6BAIX.mp4
+.
+
 > __**Index**__
 
 • $pin **Introduction** {link:intro}
