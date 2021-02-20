@@ -87,6 +87,6 @@ The Rago Hub spreadsheet features 150+ unique ability damage rotations that we c
 .
 > __**Index**__
 
-• **Video Guides** {link:videoguides}
-• **Discord Guides** {link:discordguides}
-• **Ability Rotations** {link:abilityrotations}
+• $youtube **Video Guides** {link:videoguides}
+• $discord **Discord Guides** {link:discordguides}
+• $vuln **Ability Rotations** {link:abilityrotations}
