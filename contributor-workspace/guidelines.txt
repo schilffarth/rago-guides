@@ -1,0 +1,18 @@
+.guidewriting
+> __**Guide Writing**__
+
+Before you dive into Rago Hub guide writing, you should take a couple of minutes for understanding the syntax that our <@&812409511179845663> Discord bot uses to parse guides into proper styling.
+
+Discord messages have a limit of `2000` characters. Emojis are converted to a different format than visually used for the normal Discord user, which use up more characters than it looks like. Don't worry though, our Discord bot automatically converts emojis of your needs into the appropriate syntax.
+
+Emojis are simply converted with the following format: `$emoji`. A full list of Emojis will be provided at some point but right now we do not have any PepeLaugh. Example: `$vuln` will be parsed into `<:Vulnerability:625788254674747392>`, which displays the Vulnerability emoji.
+
+Due to the `2000` character limit, Rago Hub guides need to be sent in multiple messages. To achieve an intentional separation of content into respective messages, this is simply achieved by adding a dot in the start of a line: `.`. This `.` will tell the Discord bot to start parsing a new message.
+
+Indexing is a very important aspect of writing larger guides. The Discord bot will automatically link messages for you. Remember the sentence I said about message character limit and how to separate those? Exactl: You simply give your messages an ID which is appended to the content separator. Example: `.intro`. This will store the message ID of the message following the `.intro` content separator. To add a message link, use this syntax: `{link:message}`. Example: {link:intro}.
+
+
+.index
+> __**Index**__
+
+• **Guide Writing** {link:guidewriting}
