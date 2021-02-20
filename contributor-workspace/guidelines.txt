@@ -9,10 +9,19 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 
 Due to the `2000` character limit, Rago Hub guides need to be sent in multiple messages. To achieve an intentional separation of content into respective messages, this is simply achieved by adding a dot in the start of a line: `.`. This `.` will tell the Discord bot to start parsing a new message.
 
-Indexing is a very important aspect of writing larger guides. The Discord bot will automatically link messages for you. Remember the sentence I said about message character limit and how to separate those? Exactl: You simply give your messages an ID which is appended to the content separator. Example: `.intro`. This will store the message ID of the message following the `.intro` content separator. To add a message link, use this syntax: `{link:message}`. Example: {link:intro}.
+Indexing is a very important aspect of writing larger guides. The Discord bot will automatically link messages for you. Remember the sentence I said about message character limit and how to separate those? Exactly: You simply give your messages an ID which is appended to the content separator. Example: `.intro`. This will store the message ID of the message following the `.intro` content separator. To add a message link, use this syntax: `{link:message}`. Example: `{link:intro}`.
+
+
+.guidestyling
+> __**Guide Styling**__
+
+• Section headlines: `> __**Headline**__`
+• Sub-headlines: `__Sub-Headline:__`
+• Listing: `• Item of a big list`
 
 
 .index
 > __**Index**__
 
-• **Guide Writing** {link:guidewriting}
+• $pin **Guide Writing** {link:guidewriting}
+• **Guide Styling** {link:guidestyling}

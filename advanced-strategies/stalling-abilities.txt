@@ -12,7 +12,7 @@ Example of stalling an ability by Far Casting: https://i.imgur.com/5ZE92F7.mp4
 .
 __Stalling Within Attack Range:__
 
-An alternative method of stalling ranged and magic abilities can be used by equipping an off-hand melee weapon (such as Excalibur $excalibur). Dual-wield attack range is always determined by the weapon with the lower attack range. Equipping an off-hand melee weapon automatically reduces every ability's maximum cast range to 1 (melee distance).
+An alternative method of stalling ranged and magic abilities can be used by equipping an off-hand melee weapon (such as Excalibur $excal). Dual-wield attack range is always determined by the weapon with the lower attack range. Equipping an off-hand melee weapon automatically reduces every ability's maximum cast range to 1 (melee distance).
 
 
 .releasingstalls
@@ -75,6 +75,6 @@ An example execution of an advanced melee ability damage rotation ($gbarge > $fr
 .
 > __**Index**__
 
-• $pushpin **Introduction** {link:intro}
+• $pin **Introduction** {link:intro}
 • $vuln **Releasing Stalled Abilities** {link:releasingstalls}
 • $veryhappycat **Taking Advantage** {link:takingadvantage}
