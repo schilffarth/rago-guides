@@ -88,4 +88,11 @@ https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqg
 The Rago Hub spreadsheet features 150+ unique ability damage rotations that we constantly maintain and update depending on the powercreep and other game updates.
 All rotations have been exported with Sheety (refer to <#809153802132783154>) to provide you all the best experience possible for learning new rotation sets for your Vorago journey.
 
-Shoutouts to <@!164133228989513728> <@!129324652114739200> <@191388421548146689> <@!291257966584397824> for contributing to the spreadsheet ability damage rotation collection! 
+Shoutouts to <@!164133228989513728> <@!129324652114739200> <@191388421548146689> <@!291257966584397824> for contributing to the spreadsheet ability damage rotation collection!
+
+> __**Index**__
+• **Video Guides** {link:videoguides}
+• **Discord Guides** {link:discordguides}
+• **Ability Rotations** {link:abilityrotations}
+
+
