@@ -31,3 +31,5 @@ __Introduction:__
 • <#747079548348268584> - Maul Pieces, Maul timings for HM, Achievements, Outfit of Omens
 • <#699612835944071238> - Item Info To be Released
 • <#802179892326039573> - Ability travel speed
+
+fun!
