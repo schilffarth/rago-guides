@@ -10,14 +10,12 @@ __Normal Mode:__
 • Recentering Vorago on Phase 2 - <https://www.youtube.com/watch?v=ETv6AGitCD8>
 • Solo Lure on Phase 1 - <https://www.youtube.com/watch?v=1mgdsTZGMuY>
 
-.
 __Hard Mode:__
 
 • Duo HM - Phase 1 (Base POV) - <https://www.youtube.com/watch?v=GTs6laViJfE>
 • Duo HM - Phase 4 Scopulus (Base POV) - <https://www.youtube.com/watch?v=neAeSDWC4OU>
 • Duo HM - Phase 5 Vitalis (Base POV) - <https://www.youtube.com/watch?v=KZCW_qE8kP0>
 • Duo HM - Phase 6 Green Bomb (Base POV) - <https://www.youtube.com/watch?v=Mii85UTiTdQ>
-
 
 .discordguides
 > __**Discord Guides**__
@@ -32,4 +30,63 @@ __Introduction:__
 • <#699612835944071238> - Item Info To be Released
 • <#802179892326039573> - Ability travel speed
 
-fun!
+__Mechanics:__
+
+• <#736325239138418719> - Vorago's Attacks, Smashes/Bleeds, Reflect Mechanic, Bring Him Down, Waterfalls, Phase 5 - Pushback Mechanics, Weekly specials
+• <#748577998503936111> - Phase overview, Phase 1, Phase 2, Phase 3, 4 and 5, Hard Mode Vorago
+
+The following have: Weekly special, Normal Mode: Phase 3, 4 and 5, Hard Mode: Phase 9, 10 and 11
+• <#741401762010759209> - Weekly special: Ceiling Collapse
+• <#741401806864777340> - Weekly special: Scopulus
+• <#741401849894273074> - Weekly special: Vitalis
+• <#741401890398535770> - Weekly special: Green Bomb
+• <#741401929959211008> - Weekly special: Team Split
+• <#741401962121265305> - Weekly special: The End
+
+.
+__Normal Mode:__
+
+• <#744505609696837726> - 4man+ approach, Roles, Weekly specials: Phase 3, 4 and 5 breakdown
+• <#753663290718158898> - Similarities with 4man+, Weekly specials: Phase 3, 4 and 5 breakdown
+• <#744505794682290217> - Phase 1 and 2, Weekly specials: Phase 3, 4 and 5, Base and Bomb Tank jobs
+• <#757226530194849832> - Attack speed, Setup, Clearing bleeds, Push. Ability rotations
+
+__Hard Mode:__
+
+• <#744505929759981619> - Large teams HM To be released
+• <#802162163686572082> - Introduction, Base Tank, Ranged Bomb Tank, Magic Bomb Tank, Hybrid Bomb Tank, Phase 9, 10 and 11
+• <#714808600123408384> - Split into <#715356060482797568>, <#715355791544287255> and <#715355755745902752> Phase 1 to 11 breakdown
+
+.
+__Advanced strategies:__
+
+• <#727940230014828545> - How to break the TS
+• <#744505436685991986> - Barricade + Intercepting, Forcing Red bombs, 2-step Red bomb
+• <#810845123914498048> - How to skip the Stone Clone on Phase 4/9, Recommendations & Cooldown management
+• <#727940098158493761> - How to crack-heal, Timing crack-heal
+• <#671092193066221569> - Check <#744505344088080434> first, Excuting the hammer climb
+• <#744506071661543424> - HM Phase 10 and 11: Lining up & Positioning
+• <#701072208486727761> - Natural Instinct on Dummies, Phase 1 Natty, Natty to time Target Cycle, NM Phase 5 and HM Phase 10/11
+• <#734513334837182486> - Recentering Vorago on Phase 2, Walk directions
+• <#718431678086774925> - How to do special attacks without Ingen
+• <#701368853766209576> - Tick perfect Shatter rotations for Phase 2
+• <#734513833489596496> - How to solo lure on Phase 1, Walk directions
+• <#810941436484517889> - Stalling and releasing abilities To be released
+• <#718435693432406157> - How to step under (Duo HM strat)
+• <#731487797336211507> - Set-up, Alt1 alternative, Cheesing TC, Dummies and TC
+• <#734513733883396146> - Overflow, Stalling, Approaching zero links
+
+.abilityrotations
+> __**Ability Rotations**__
+
+All ability damage rotations can be found on the official Rago Hub spreadsheet:
+<https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg>
+
+The Rago Hub spreadsheet features 150+ unique ability damage rotations that we constantly maintain and update depending on the powercreep and other game updates. All rotations have been exported with Sheety (refer to <#809153802132783154>) to provide you all the best experience possible for learning new rotation sets for your Vorago journey.
+
+.
+> __**Index**__
+
+• $youtube **Video Guides** {link:videoguides}
+• $discord **Discord Guides** {link:discordguides}
+• $vuln **Ability Rotations** {link:abilityrotations}
