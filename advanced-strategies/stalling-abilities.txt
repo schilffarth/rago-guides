@@ -12,7 +12,7 @@ Example of stalling an ability by Far Casting: https://i.imgur.com/5ZE92F7.mp4
 .
 __Stalling Within Attack Range:__
 
-An alternative method of stalling ranged and magic abilities can be used by equipping an off-hand melee weapon (such as Excalibur :EnhancedExcalibur:). Dual-wield attack range is always determined by the weapon with the lower attack range. Equipping an off-hand melee weapon automatically reduces every ability's maximum cast range to 1 (melee distance).
+An alternative method of stalling ranged and magic abilities can be used by equipping an off-hand melee weapon (such as Excalibur $excalibur). Dual-wield attack range is always determined by the weapon with the lower attack range. Equipping an off-hand melee weapon automatically reduces every ability's maximum cast range to 1 (melee distance).
 
 
 .releasingstalls
@@ -35,15 +35,15 @@ Example of stalling and releasing an ability by clicking on the same target: htt
 __Auto Attacks:__
 
 • Stall an ability
-• Cast a spell that is considered an auto attack (Blood Barrage :blood_barrage:, Vulnerability :Vulnerability:, Entangle :entangle:)
+• Cast a spell that is considered an auto attack (Blood Barrage $barrage, Vulnerability $vuln, Entangle $entangle)
 
-Casting the respective spell will release the stalled ability. Similar to how magic 4taa works, this method of releasing a stalled ability can be followed with another ability in the same tick, effectively using two abilities in the same tick. Using this method allows you to stall and release on different targets, hence it is used in advanced Vorago ability damage rotations. Refer to #natty, #target-cycle and #📌ability-rotations for more information.
+Casting the respective spell will release the stalled ability. Similar to how magic 4taa works, this method of releasing a stalled ability can be followed with another ability in the same tick, effectively using two abilities in the same tick. Using this method allows you to stall and release on different targets, hence it is used in advanced Vorago ability damage rotations. Refer to <#811661894695518279>, <#811661894695518279> and <#811661894695518279> for more information.
 
-Releasing a stalled ability with a spell stores the used spell as your next auto attack (i.e.: You release a stalled ability with Vulnerability :vuln: and try to 5taa later in your rotation results in the 5taa being replaced with Vulnerability)
+Releasing a stalled ability with a spell stores the used spell as your next auto attack (i.e.: You release a stalled ability with Vulnerability $vuln and try to 5taa later in your rotation results in the 5taa being replaced with Vulnerability)
 
-Using magic :Magic: at Vorago is commonly done with the Ancient spellbook, from which both Vulnerability and Entangle are unavailable. Due to this, your primary auto attack should be used to release stalled abilities. Casting a magic auto attack requires a magic weapon to be equipped, forcing ranged :Ranged: and melee :Attack: to make use of either Vulnerability or Entangle in order to release stalled abilities.
+Using magic $magic at Vorago is commonly done with the Ancient spellbook, from which both Vulnerability and Entangle are unavailable. Due to this, your primary auto attack should be used to release stalled abilities. Casting a magic auto attack requires a magic weapon to be equipped, forcing ranged $ranged and melee $attack to make use of either Vulnerability or Entangle in order to release stalled abilities.
 
-Example of stalling and releasing an ability with Vulnerability :vuln: on the same target: https://i.imgur.com/pCmZa1V.mp4
+Example of stalling and releasing an ability with Vulnerability $vuln on the same target: https://i.imgur.com/pCmZa1V.mp4
 Same scenario but following the released stall up with another ability in the same tick: https://i.imgur.com/UNySy0n.mp4
 Same scenario but releasing the stall onto a different target: https://i.imgur.com/eKZdW6j.mp4
 
@@ -51,30 +51,30 @@ Same scenario but releasing the stall onto a different target: https://i.imgur.c
 .takingadvantage
 > __**Taking Advantage**__
 
-Vorago is a lengthy fight with repeating DPS downtimes, ranging from phase transitions, Reflects :reflect: to Team Splits :teamsplit:. This offers an ideal opportunity to make use of stalled abilities and enhancing your ability rotations with Natural Instinct :NaturalInstinct: (reference: #natty).
+Vorago is a lengthy fight with repeating DPS downtimes, ranging from phase transitions, Reflects $ragoreflect to Team Splits $ts. This offers an ideal opportunity to make use of stalled abilities and enhancing your ability rotations with Natural Instinct $natty (reference: <#811661955223388200>).
 
-• The ability's cooldown is triggered as it is stalled (an exception is the Seren Godbow :SerenGodbow: special attack, which goes on CD when it is released and deals damage - A splashed SGB does not trigger its CD)
+• The ability's cooldown is triggered as it is stalled (an exception is the Seren Godbow $sgb special attack, which goes on CD when it is released and deals damage - A splashed SGB does not trigger its CD)
 • Delays damage to offer higher burst potential
 • Releasing a stalled ability can be followed with another ability in the same tick (essentially 2 abilities deal damage simultaneously)
 • A stalled ability deals damage according to your currently equipped weapon: Stalling with weapon A and releasing with weapon B results in damage calculations as well as weapon effects considering weapon B (an exception are Shadow Tendrils, which deal damage based off what they were stalled with)
-• Specific scenarios also modify the ability travel speed - Refer to #ability-travel-speed
+• Specific scenarios also modify the ability travel speed - Refer to <#811661955223388200>
 .
 • Vorago phases are aimed to be short and burst heavy
-• The Statius's Warhammer :SWH: special attack should be applied as soon as possible in all phases (preferably on TC, refer to #target-cycle)
+• The Statius's Warhammer $swh special attack should be applied as soon as possible in all phases (preferably on TC, refer to <#811661972978139137>)
 • Stalling offers more abilities to be used within given time windows, resulting in more damage
-• Bladed Dive :BladedDive: does **not** cancel stalled abilities
-• Stalling channelled abilities results in only the first hit being stalled (Greater Barge :greater_barge: bleed hits 2, 3 and 4 are applied from any cast distance)
-• Stalling an Essence of Finality :EssenceOfFinalityAmuletOrnamente: special attack requires the exact same amulet to be worn when releasing the ability
+• Bladed Dive $bd does **not** cancel stalled abilities
+• Stalling channelled abilities results in only the first hit being stalled (Greater Barge $gbarge bleed hits 2, 3 and 4 are applied from any cast distance)
+• Stalling an Essence of Finality $eof special attack requires the exact same amulet to be worn when releasing the ability
 
-:warning: If you acquire a new target, initiate combat and execute a consecutive order of stalled abilities, only the first basic will generate adrenaline.
+$warning If you acquire a new target, initiate combat and execute a consecutive order of stalled abilities, only the first basic will generate adrenaline.
 
-Example of stalling an ability, utilising Bladed Dive :BladedDive: for adrenaline gain and following the released stall with another ability in the same tick: https://i.imgur.com/tvwXAqR.mp4
-An example execution of an advanced melee ability damage rotation (:greater_barge: > :Freedom: Darkbow Auto > :SuperiorStatiusWarhammer: Stall): https://i.imgur.com/Rk6BAIX.mp4
+Example of stalling an ability, utilising Bladed Dive $bd for adrenaline gain and following the released stall with another ability in the same tick: https://i.imgur.com/tvwXAqR.mp4
+An example execution of an advanced melee ability damage rotation ($gbarge > $freedom Darkbow Auto > $swh Stall): https://i.imgur.com/Rk6BAIX.mp4
 
 
 .
 > __**Index**__
 
-• :pushpin: **Introduction** {link:intro}
-• :vuln: **Releasing Stalled Abilities** {link:releasingstalls}
-• :VeryHappyCat: **Taking Advantage** {link:takingadvantage}
+• $pushpin **Introduction** {link:intro}
+• $vuln **Releasing Stalled Abilities** {link:releasingstalls}
+• $veryhappycat **Taking Advantage** {link:takingadvantage}
