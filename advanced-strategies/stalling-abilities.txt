@@ -37,7 +37,7 @@ __Auto Attacks:__
 • Stall an ability
 • Cast a spell that is considered an auto attack (Blood Barrage $barrage, Vulnerability $vuln, Entangle $entangle)
 
-Casting the respective spell will release the stalled ability. Similar to how magic 4taa works, this method of releasing a stalled ability can be followed with another ability in the same tick, effectively using two abilities in the same tick. Using this method allows you to stall and release on different targets, hence it is used in advanced Vorago ability damage rotations. Refer to <#811661894695518279>, <#811661894695518279> and <#811661894695518279> for more information.
+Casting the respective spell will release the stalled ability. Similar to how magic 4taa works, this method of releasing a stalled ability can be followed with another ability in the same tick, effectively using two abilities in the same tick. Using this method allows you to stall and release on different targets, hence it is used in advanced Vorago ability damage rotations. Refer to <#701072208486727761>, <#731487797336211507> and <#712039730543460432> for more information.
 
 Releasing a stalled ability with a spell stores the used spell as your next auto attack (i.e.: You release a stalled ability with Vulnerability $vuln and try to 5taa later in your rotation results in the 5taa being replaced with Vulnerability)
 
@@ -51,16 +51,16 @@ Same scenario but releasing the stall onto a different target: https://i.imgur.c
 .takingadvantage
 > __**Taking Advantage**__
 
-Vorago is a lengthy fight with repeating DPS downtimes, ranging from phase transitions, Reflects $ragoreflect to Team Splits $ts. This offers an ideal opportunity to make use of stalled abilities and enhancing your ability rotations with Natural Instinct $natty (reference: <#811661955223388200>).
+Vorago is a lengthy fight with repeating DPS downtimes, ranging from phase transitions, Reflects $ragoreflect to Team Splits $ts. This offers an ideal opportunity to make use of stalled abilities and enhancing your ability rotations with Natural Instinct $natty (reference: <#701072208486727761>).
 
 • The ability's cooldown is triggered as it is stalled (an exception is the Seren Godbow $sgb special attack, which goes on CD when it is released and deals damage - A splashed SGB does not trigger its CD)
 • Delays damage to offer higher burst potential
 • Releasing a stalled ability can be followed with another ability in the same tick (essentially 2 abilities deal damage simultaneously)
 • A stalled ability deals damage according to your currently equipped weapon: Stalling with weapon A and releasing with weapon B results in damage calculations as well as weapon effects considering weapon B (an exception are Shadow Tendrils, which deal damage based off what they were stalled with)
-• Specific scenarios also modify the ability travel speed - Refer to <#811661955223388200>
+• Specific scenarios also modify the ability travel speed - Refer to <#802179892326039573>
 .
 • Vorago phases are aimed to be short and burst heavy
-• The Statius's Warhammer $swh special attack should be applied as soon as possible in all phases (preferably on TC, refer to <#811661972978139137>)
+• The Statius's Warhammer $swh special attack should be applied as soon as possible in all phases (preferably on TC, refer to <#731487797336211507>)
 • Stalling offers more abilities to be used within given time windows, resulting in more damage
 • Bladed Dive $bd does **not** cancel stalled abilities
 • Stalling channelled abilities results in only the first hit being stalled (Greater Barge $gbarge bleed hits 2, 3 and 4 are applied from any cast distance)
