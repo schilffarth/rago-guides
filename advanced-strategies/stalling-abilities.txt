@@ -77,4 +77,4 @@ An example execution of an advanced melee ability damage rotation ($gbarge > $fr
 
 • $pin **Introduction** {link:intro}
 • $vuln **Releasing Stalled Abilities** {link:releasingstalls}
-• $veryhappycat **Taking Advantage** {link:takingadvantage}
+• $maul **Taking Advantage** {link:takingadvantage}
