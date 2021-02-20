@@ -1,7 +1,6 @@
 .
 Everyone can edit the information covered in Rago Hub. This guide explains how to get started with contributing to Rago Hub.
 
-
 .
 > __**1. Create an account on github**__
 
@@ -11,35 +10,29 @@ Everyone can edit the information covered in Rago Hub. This guide explains how t
 • If you are using the git CLI, make sure you check your git config `user.name` / `user.email`, as these settings can still expose information
 
 .
-https://cdn.discordapp.com/attachments/676485011268042761/812770689253507093/GHW09lA.png
+https://cdn.discordapp.com/attachments/676485011268042761/812783272971075584/001_login.PNG
 .
 
 > __**2. Fork the Rago Hub repository**__
 
 • Head to <https://github.com/schilffarth/rago-guides>
 • Think of this as "make a copy" on google drive; it will create a copy of the Rago Hub repository that you can edit
-
 .
-https://cdn.discordapp.com/attachments/676485011268042761/812771273075720192/6VbUnec.png
+https://cdn.discordapp.com/attachments/676485011268042761/812783287834640484/002_fork.PNG
 .
 
 • Fork to your account
-.
-https://cdn.discordapp.com/attachments/676485011268042761/812771424577126470/v0WjKmQ.png
-.
-
 • Wait for the Fork loading screen to finish
 .
-https://cdn.discordapp.com/attachments/676485011268042761/812771576646598686/6TKjRFO.png
+https://cdn.discordapp.com/attachments/676485011268042761/812783300526866462/003_loading.PNG
 .
 
 > __**3. Access your copy of the Rago Hub repository**__
 
-*Note: If you are already experienced with the github workflow, you can clone your forked repository and use an editor on your PC.*
-
+• If you are already experienced with the github workflow, you can clone your forked repository and use an editor on your PC
 • The structure of the Rago Hub repository imitates the discord server category / text channel structure
 .
-https://cdn.discordapp.com/attachments/772256355380887634/812069669677826068/mpzD8jZ.png
+https://cdn.discordapp.com/attachments/676485011268042761/812783308152373268/004_structure.PNG
 .
 
 • To navigate, simply click through folders (categories on the discord server) until you find this guide in the github repository
@@ -52,37 +45,36 @@ Our goal in this tutorial is to add your name to the list at the bottom of this 
 
 The next step requires Discord developer options to be enabled, so that you can copy your own Discord ID. Open your Discord settings: `Appearance` > `Advanced` > `Developer Mode` > enable Developer Mode.
 .
-https://cdn.discordapp.com/attachments/772256355380887634/812069698781970483/YYSjTcU.png
+https://cdn.discordapp.com/attachments/676485011268042761/812783321717014618/005_discord.PNG
 .
 
 • Right click on your profile picture and click `Copy ID`
 .
-https://cdn.discordapp.com/attachments/772256355380887634/812069699549659146/1fYJbxV.png
+https://cdn.discordapp.com/attachments/676485011268042761/812783329413562368/006_copyid.PNG
 .
 
 • Open the file of this guide and click on `Edit this file`, a pencil icon on the top-right
-.
-https://cdn.discordapp.com/attachments/772256355380887634/812069697885306950/nMe1tbu.png
-.
-
 • Paste your copied Discord ID to the end of this guide's file in the format <@YourDiscordID>
-
 .
+https://cdn.discordapp.com/attachments/676485011268042761/812783336874704936/007_edit.PNG
+.
+
 > __**5. Submit your changes**__
 
 • Give your changes a short description in the input box labeled `Commit changes`
 • Commit your changes
 .
-https://cdn.discordapp.com/attachments/772256355380887634/812069700446978058/B8Eukpx.png
+https://cdn.discordapp.com/attachments/676485011268042761/812783346622529556/008_commit.PNG
 .
 
+• Return to your repository's main page
 • Create a pull request
 .
-https://cdn.discordapp.com/attachments/772256355380887634/812069701508792371/w2DPavL.png
+https://cdn.discordapp.com/attachments/676485011268042761/812783358014521404/009_pullrequest.PNG
 .
-https://cdn.discordapp.com/attachments/772256355380887634/812069726423351326/q3HPKfO.png
+https://cdn.discordapp.com/attachments/676485011268042761/812783370340794368/010_confirm.PNG
 .
-https://cdn.discordapp.com/attachments/772256355380887634/812069727081988126/pJuI6ib.png
+https://cdn.discordapp.com/attachments/676485011268042761/812783379815596072/011_confirmv2.PNG
 .
 
 > __**6. Wait for approval**__
