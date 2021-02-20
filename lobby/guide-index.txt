@@ -16,7 +16,7 @@ __Hard Mode:__
 • Duo HM - Phase 4 Scopulus (Base POV) - <https://www.youtube.com/watch?v=neAeSDWC4OU>
 • Duo HM - Phase 5 Vitalis (Base POV) - <https://www.youtube.com/watch?v=KZCW_qE8kP0>
 • Duo HM - Phase 6 Green Bomb (Base POV) - <https://www.youtube.com/watch?v=Mii85UTiTdQ>
-** **
+
 .discordguides
 > __**Discord Guides**__
 
@@ -29,7 +29,7 @@ __Introduction:__
 • <#747079548348268584> - Maul Pieces, Maul timings for HM, Achievements, Outfit of Omens
 • <#699612835944071238> - Item Info To be Released
 • <#802179892326039573> - Ability travel speed
-** **
+
 __Mechanics:__
 
 • <#736325239138418719> - Vorago's Attacks, Smashes/Bleeds, Reflect Mechanic, Bring Him Down, Waterfalls, Phase 5 - Pushback Mechanics, Weekly specials
@@ -41,7 +41,7 @@ The following have: Weekly special, Normal Mode: Phase 3, 4 and 5, Hard Mode: Ph
 • <#741401849894273074> - Weekly special: Vitalis
 • <#741401890398535770> - Weekly special: Green Bomb
 • <#741401929959211008> - Weekly special: Team Split
-• <#741401962121265305> - `Weekly special: The End
+• <#741401962121265305> - Weekly special: The End
 
 .
 __Normal Mode:__
@@ -79,13 +79,10 @@ __Advanced strategies:__
 .abilityrotations
 > __**Ability Rotations**__
 
-Ability damage rotations are from now on outsourced from the Rago Hub Discord. They can all be found on the official Rago Hub spreadsheet:
+All ability damage rotations can be found on the official Rago Hub spreadsheet:
 <https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg>
 
-The Rago Hub spreadsheet features 150+ unique ability damage rotations that we constantly maintain and update depending on the powercreep and other game updates.
-All rotations have been exported with Sheety (refer to <#809153802132783154>) to provide you all the best experience possible for learning new rotation sets for your Vorago journey.
-
-Shoutouts to <@!164133228989513728> <@!129324652114739200> <@191388421548146689> <@!291257966584397824> for contributing to the spreadsheet ability damage rotation collection!
+The Rago Hub spreadsheet features 150+ unique ability damage rotations that we constantly maintain and update depending on the powercreep and other game updates. All rotations have been exported with Sheety (refer to <#809153802132783154>) to provide you all the best experience possible for learning new rotation sets for your Vorago journey.
 
 .
 > __**Index**__
