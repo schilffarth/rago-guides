@@ -24,8 +24,10 @@ __Hard Mode:__
 
 __Introduction:__
 
-• #introduction - Starting Vorago, How to get HP, Modes, Team sizes
-• #climbing - Top Lure climb - Standard, Acceleration climb - Advanced
-• #clearing-bleeds - Clearing bleeds, Taking 3 bleeds, Escape + Dive to clear 3 bleeds
-• #maul - Maul Pieces, Maul timings for HM, Achievements, Outfit of Omens
-• #item-info - Item Info To be Released
+• <#741384437283160134> - Starting Vorago, How to get HP, Modes, Team sizes
+• <#766937675176345610> - Presets
+• <#744505344088080434> - Top Lure climb - Standard, Acceleration climb - Advanced
+• <#742095011696476201> - Clearing bleeds, Taking 3 bleeds, Escape + Dive to clear 3 bleeds
+• <#747079548348268584> - Maul Pieces, Maul timings for HM, Achievements, Outfit of Omens
+• <#699612835944071238> - Item Info To be Released
+• <#802179892326039573> - Ability travel speed
