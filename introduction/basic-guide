@@ -87,12 +87,12 @@ As Base, make sure to place Vorago in the spot, which is 2 South of the middle L
 **New mechanics**: Smashes (or Bleeds) and Reflect. On most Rotations there's Bleeds on Phase 4 too, as well as on Vitalis Phase 3. There's Reflects on all Phase 2, 3, 4 and 5, except for Scopulus Phase 3. There's another new mechanic called Bring Him Down, but it only happens in Phase 2.
 Roles will deal with Bleeds and Red Bombs in this Phase. For more information about how this is done, go to <#742095011696476201> and <#744505436685991986>.
 
-__Reflect__
+$ragoreflect __Reflect__
 
 During the Reflect mechanic Vorago redirects all damage dealt to him to a random player. It lasts for 9.6 seconds, which is approximately 3 Attacks.
 The player that is "Linked" will receive a message, and everyone else will be informed that this mechanic started.
 
-__Bleeds__
+$bleed __Bleeds__
 
 Vorago smashes his main target with both hands inflicting a Bleed on them dealing 1,200 melee damage every other tick and resetting all defensive abilities. There's 5 Bleeds on Phase 2 and Phase 4, and 3 on Phase 5. Bleeds animation: https://i.imgur.com/sXR9B5R.gif
 
@@ -136,7 +136,7 @@ Add gif reference of where to stand
 
 As a bomb tank make sure you are standing by the north wall with cept cade the team depending on the rotation during that week.
 
-Causes pushback: $blue $swipe $dismember $vitalis (orb and melee hits) $green, shared $purple
+Causes pushback: $blue $swipe $bleed $vitalis (orb and melee hits) $green, shared $purple
 Helps reduce pushback: $cade $disrupt $dome (only if 50% dome) $debilitate. Even though Debilitate works, avoid using it.
 Gif reference of a triple bleed clear
 
