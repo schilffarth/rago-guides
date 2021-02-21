@@ -11,17 +11,90 @@ Due to the `2000` character limit, Rago Hub guides need to be sent in multiple m
 
 Indexing is a very important aspect of writing larger guides. The Discord bot will automatically link messages for you. Remember the sentence I said about message character limit and how to separate those? Exactly: You simply give your messages an ID which is appended to the content separator. Example: `.intro`. This will store the message ID of the message following the `.intro` content separator. To add a message link, use this syntax: `{link:message}`. Example: `{link:intro}`.
 
-
 .guidestyling
 > __**Guide Styling**__
 
-• Section headlines: `> __**Headline**__`
-• Sub-headlines: `__Sub-Headline:__`
-• Listing: `• Item of a big list`
+• Section headlines: `> __**Headline**__`, one blank line preceding and following the headline
+• Sub-headlines: `__Sub-Headline:__`, one blank line preceding and following the headline
+• Listing: `• Item of a big list`, one blank line before the first and one after the last item
 
+.emojilist
+> __**Emoji List**__
+
+Emojis are simply converted with the following format: `$emoji`. A full list of Emojis can be found below. Example: `$emoji` will be parsed into `<:SomeEmoji:12398407103928653>`, which displays the Emoji emoji (does not actually exist). Each keyword will be converted into the respective emoji when a preceding `$` is applied.
+
+• $asphyx `asphyx`
+• $attack `attack`
+• $barrage `barrage`
+• $bd `bd`
+• $bleed `bleed`
+• $blitz `blitz`
+• $blue `blue`
+• $cade `cade`
+• $ceil `ceil`
+• $cept `cept`
+.
+• $dbow `dbow`
+• $dbreath `dbreath`
+• $devo `devo`
+• $discord `discord`
+• $disrupt `disrupt`
+• $dome `dome`
+• $dummy `dummy`
+• $ent `ent`
+• $eof `eof`
+• $escape `escape`
+• $excal `excal`
+• $freedom `freedom`
+.
+• $gbarge `gbarge`
+• $gravity `gravity`
+• $green `green`
+• $grico `grico`
+• $gstaff `gstaff`
+• $heal `heal`
+• $heal `ingen`
+• $limitless `limitless`
+• $magic `magic`
+• $mammoth `mammoth`
+• $maul `maul`
+• $natty `natty`
+.
+• $pin `pin`
+• $purple `purple`
+• $pvme `pvme`
+• $ragopvm `ragopvm`
+• $ragoreflect `ragoreflect`
+• $ranged `ranged`
+• $red `red`
+• $scop `scop`
+• $scythe `scythe`
+• $sgb `sgb`
+• $shard `shard`
+• $shatter `shatter`
+• $sheety `sheety`
+• $snipe `snipe`
+• $str `str`
+• $swh `swh`
+• $swipe `swipe`
+.
+• $tc `tc`
+• $ts `ts`
+• $vbomb `vbomb`
+• $vitalis `vitalis`
+• $vitality `vitality`
+• $voke `voke`
+• $vorago `vorago`
+• $vuln `vuln`
+• $warning `warning`
+• $waterfall `waterfall`
+• $wm `wm`
+• $yak `yak`
+• $youtube `youtube`
 
 .index
 > __**Index**__
 
 • $pin **Guide Writing** {link:guidewriting}
 • **Guide Styling** {link:guidestyling}
+• **Emoji List** {link:emojilist}
