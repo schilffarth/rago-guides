@@ -39,12 +39,12 @@ Rago Hub spreadsheet: <https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQ
 .overview
 > __**Strategy Overview**__
 
-Bomb Tank strategy summary:
+• Bomb Tank strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/813164912002990200/duohm_overview_bombtank.PNG
 .
 
-Base Tank strategy summary:
+• Base Tank strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/813165255860944926/unknown.png
 .p1
