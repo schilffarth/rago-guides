@@ -33,7 +33,7 @@ Swipes can splash. These Melee hits affect a 2 tile radius around the main targe
 
 $blue __Blue Bombs (Blues)__
 
-Blues can't splash. It's a Magic hit that affects a 7x7n't area. Only one Blue is fired at a time and it's send to the furthest player (Bomb Tank). These bombs will trace the targeted player.
+Blues can't splash. It's a Magic hit that affects a 7x7 area. Only one Blue is fired at a time and it's send to the furthest player (Bomb Tank). These bombs will trace the targeted player.
 
 $red **Red Bomb**
 
