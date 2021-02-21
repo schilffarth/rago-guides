@@ -1,7 +1,7 @@
 .
-Everyone can edit the information covered in Rago Hub. This guide explains how to get started with contributing to Rago Hub.
-
+Everyone can edit the information covered in Rago Hub. This guide explains how to get started with contributing to Rago Hub. Alternatively to following this text guide, you can also check out the YouTube walk-through: https://www.youtube.com/watch?v=KbXEFjnrq8w
 .
+
 > __**1. Create an account on github**__
 
 • Head to <https://github.com>
