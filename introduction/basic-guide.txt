@@ -45,14 +45,14 @@ Every phase has unique mechanics and conditions to defeat Vorago. In phases 2 an
 .p1
 > __**Phase 1**__
 
-Red Bomb $red ➔ 4 auto attacks $swipe ➔ repeat $repeat
+Red Bomb $red ➔ 4 auto attacks $auto ➔ repeat $repeat
 
 The Phase ends once the climber jumps and Vorago is killed.
 
 .p2
 > __**Phase 2**__
 
-5 Bleeds $bleed ➔ 3 auto attacks $swipe ➔ Reflect $link ➔ 3 auto attacks ➔ Red Bomb $red ➔ 4 auto attacks ➔ repeat $repeat
+5 Bleeds $bleed ➔ 3 auto attacks $auto ➔ Reflect $link ➔ 3 auto attacks ➔ Red Bomb $red ➔ 4 auto attacks ➔ repeat $repeat
 
 • $bleed Bleeds: Vorago smashes the ground, applying a melee bleed to the player which also cancel most defensive abilities
 • If a bleed is not cleared before another is applied, the player will take `6,000` typeless damage
@@ -65,7 +65,7 @@ If you happen to receive a Bleed $bleed, simply use Freedom $freedom to clear it
 .p3
 > __**Phase 3**__
 
-Weekly Special Mechanic ➔ 3 or 5 auto attacks $swipe ➔ Reflect $link ➔ 3 auto attacks $swipe → Weekly Special Mechanic ➔ 3 or 5 auto attacks $swipe ➔ repeat $repeat
+Weekly Special Mechanic ➔ 3 or 5 auto attacks $auto ➔ Reflect $link ➔ 3 auto attacks $auto → Weekly Special Mechanic ➔ 3 or 5 auto attacks $auto ➔ repeat $repeat
 
 Phase 3 depends on the current rotation (Weekly Special Mechanic) and Vorago phases once killed. There are 6 rotations in total, changing weekly.
 
@@ -79,7 +79,7 @@ Phase 3 depends on the current rotation (Weekly Special Mechanic) and Vorago pha
 .p4
 > __**Phase 4**__
 
-Waterfall $waterfall ➔ 3 auto attacks $swipe ➔ Stone Clone $vitalis ➔ 7 auto attacks $swipe ➔ Weekly Special Mechanic ➔ 3 or 5 auto attacks $swipe ➔ 5 Bleeds $bleed ➔ 3 auto attacks $swipe ➔ Reflect $link ➔ 3 auto attacks $swipe → repeat $repeat
+Waterfall $waterfall ➔ 3 auto attacks $auto ➔ Stone Clone $vitalis ➔ 7 auto attacks $auto ➔ Weekly Special Mechanic ➔ 3 or 5 auto attacks $auto ➔ 5 Bleeds $bleed ➔ 3 auto attacks $auto ➔ Reflect $link ➔ 3 auto attacks $auto → repeat $repeat
 
 • $waterfall Waterfall: Vorago charges a high-hitting explosion, cancelling most defensive abilities
 • The explosion can be avoided by moving behind the spawned Waterfall (a randomly selected corner of the arena)
@@ -89,7 +89,7 @@ Waterfall $waterfall ➔ 3 auto attacks $swipe ➔ Stone Clone $vitalis ➔ 7 au
 .p5
 > __**Phase 5**__
 
-Weekly Special Mechanic ➔ 3 or 5 auto attacks $swipe ➔ Reflect $link ➔ 3 auto attacks $swipe ➔ 3 Bleeds $bleed ➔ 3 auto attacks $swipe ➔ repeat $repeat
+Weekly Special Mechanic ➔ 3 or 5 auto attacks $auto ➔ Reflect $link ➔ 3 auto attacks $auto ➔ 3 Bleeds $bleed ➔ 3 auto attacks $auto ➔ repeat $repeat
 
 In Phase 5 the goal is to push Vorago to the very eastern end of the arena and finish him off with the Maul Of Omens $maul (reference: #maul).
 
@@ -112,7 +112,7 @@ Just like in preceding phases, Vorago applies Bleeds in Phase 5. There exist sev
 > __**Index**__
 
 • $vorago **Starting Vorago** {link:intro}
-• $swipe **Vorago's Basic Attacks** {link:mechanics}
+• $auto **Vorago's Basic Attacks** {link:mechanics}
 • $repeat **Phases** {link:phases}
 • $blue **Phase 1** {link:p1}
 • $gravity **Phase 2** {link:p2}
