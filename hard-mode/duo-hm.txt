@@ -107,10 +107,16 @@ If both players use magic, Shatter $shatter should be utilised for consistently 
 .overview
 > __**Overview of Phases 3 - 8**__
 
-__**TODO TODO TODO**__
-__**POST THE MINI-GUIDES AS IN TRIO HM**__
+Bomb Tank strategy summary:
+.
+https://cdn.discordapp.com/attachments/676485011268042761/813164912002990200/duohm_overview_bombtank.PNG
+.
 
+Base Tank strategy summary:
+.
+https://cdn.discordapp.com/attachments/676485011268042761/813165255860944926/unknown.png
 .p3
+
 > __**Phase 3 Ceilings**__
 
 $ceil Ceilings reference: #ceilings
@@ -151,7 +157,7 @@ Intercept $cept does not register while moving. Make sure you stand still when c
 • Base Tank start at the green circle in the north-west and tag the northern Scopulus $scop
 • Bomb Tank start at the red circle in the south-west and tag both of the southern Scopuli
 • Meet your partner at the white cross in the middle of the western wall
-• At the second Blue Bomb, the Blue Bomb cade cepts $cade $cept
+• At the second Blue Bomb $blue, the Bomb Tank cade cepts $cade $cept
 • Bomb Tank vokes $voke the northern Scopulus in order to stack all 3
 • After Barricade runs out, the Bomb Tank devo cepts $devo $cept
 • As Intercept runs out, the Base Tank follows devo cept $devo $cept
@@ -175,7 +181,7 @@ The goal is to camp melee protection prayer $deflectmelee and pray flick every s
 .
 __Strategy:__
 
-• Base Tank pre-ultimate $sunshine $swiftness (do not Apot)
+• Base Tank pre-ultimate $sunshine $swiftness and Apot $apot
 • Bomb Tank apply SWH $swh on TC $tc
 • At Reflect $link, the Base Tank devo cepts $devo $cept
 • Base Tank must voke $voke before Vorago applies the first Bleed $bleed
@@ -217,21 +223,21 @@ Use Reprisal situationally, depending on your life points, adrenaline and Vorago
 
 • Bomb Tank vokes $voke the entire phase
 • Bomb Tank apply SWH $swh on TC $tc
-• The Bomb Tank should step under throughout this phase (reference: #stepping-under)
+• The Base Tank should step under throughout this phase (reference: #stepping-under)
 • At the start of Reflect $link, both players ultimate $sunshine $swiftness
 • Resonance $resonance the first Blue Bomb $blue in Reflect
-• Bomb Tank devo cepts $devo $cept the Red Bomb $red after the second Team Split $ts
+• Base Tank devo cepts $devo $cept the Red Bomb $red after the second Team Split $ts
 
 .p8
 > __**Phase 8 The End**__
 
 • Base Tank apply SWH $swh on TC $tc
 • It is ideal to use your SGB $sgb special attack in the first quadrant, as it is guaranteed to connect all 5 arrows (reference: #sgb-without-ioth)
-• At the quadrant with Blue Bombs $blue, the Base Tank devo cepts $devo $cept and the Bomb Tank tags all bombs
+• At the quadrant with Blue Bombs $blue, the Bomb Tank devo cepts $devo $cept and the Base Tank tags all bombs
 • At the quadrant with Red Bombs $red, each player tags 2 bombs
 • Between the third and last quadrant, both players ultimate $sunshine $swiftness with Apot $apot
-• At stand-up, the Bomb Tank vokes $voke
-• Base Tank should step under after stand-up (reference: #stepping-under)
+• At stand-up, the Base Tank vokes $voke
+• Bomb Tank should step under after stand-up (reference: #stepping-under)
 
 If a second stand-up is possibly happening, switch around Devotion Intercept $devo $cept and tagging Blue Bombs $blue. Again, both players tag 2 Red Bombs $red each.
 
