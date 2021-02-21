@@ -1,154 +1,121 @@
-.startingvorago
+.intro
+Guide written by <@300296497277173761>.
+
 > __**Starting Vorago**__
 
-This Guide is a quick walk-through for your first few Normal Mode kills. Give this channel a quick read and you should be ready to do an hour!
-We recommend you also check all the channels in the *Introduction* section, as well as <#810091490491367444> and <#712039730543460432> for specific strategies.
+This guide is a short summary of knowledge required for your first few Normal Mode kills. To read up on in-depth explained mechanics and strategy guides, refer to the respective topic in #index. The following steps are only required if you have never been to Vorago before and only need to be done **once**.
 
-**If you are 0 KC or have never joined a kill, follow these steps or you won't be eligible to join kills. You only need to do this __once__**:
-Go through all the chat options until you get a message pop-up about a Fight, decline it and you're ready.
+• Talk to Vorago and go through all available chat options
+• Once you receive a message asking you to confirm fight Vorago, decline it
 
-__Challenging Vorago__
+__Challenging Vorago:__
 
-• 20 seconds after Vorago is challenged, your team will be hit 50,000 typeless damage
-• A team size of at least 4 players is advised when learning and then jump to Trios whenever you feel comfortable
-• The entry hit is split between all players that accepted the challenge. This damage is capped at 12.5k per player, i.g. 5 man NM: 50k/5 = 10k damage per player
-The easiest way to get 12.5k HP for 4 man and lower is to grab a T90 shield, bonfire and then eat a Soup.
-Other ways to boost your HP are Oo'glog Thermal Bath, Soups, Fortitude, Powerburst Of Vitality.
+• Joining a fight at Vorago will start with every team member taking variable typeless damage up to `12,500` each player
+• Boost your life points above `12,500` in order to pass the entry hit (T90 shield, bonfire and eat a Rocktail Soup $soup)
+• The Powerburst of Vitality can be utilised shortly before the entry hit (drink it ~ 15 seconds after challenging)
 
-.gearing
-> __**Gearing for a kill**__
+__Setup:__
 
-Preset example: https://cdn.discordapp.com/attachments/728295935762759781/812498840217190420/unknown.png
-Some items don't work at Vorago or aren't helpful, for example LoTD, Achto or Summoning potions, so we recommend you check <#766937675176345610> for examples of what to bring.
+Some items are useless at Vorago, refer to #presets for an overview of what to take and adjust the examples to your needs. Preset example:
+.
+https://cdn.discordapp.com/attachments/728295935762759781/812498840217190420/unknown.png
+.mechanics
 
-.attacks
-> __**Auto Attacks**__
+> __**Vorago's Basic Attacks**__
 
-Vorago has 2 different basic attacks: Blue Bombs $blue and melee Swipes $swipe. Each attack has a 50% chance of happening. Vorago might also send both at the same time.
-Blues are guaranteed when the primary target (Base Tank) isn't in melee distance. Melee hits will only happen if the Base is MD.
+Vorago has 2 different basic attacks: Blue Bombs $blue and melee Swipes $swipe. Sometimes both happen at the same time. Blue Bombs are guaranteed if the primary target (Base Tank) is not in melee distance. Generally speaking, the Base Tank vokes $voke Vorago and takes melee Swipes and the Bomb Tank stays farther out to receive all Blue Bombs $blue.
 
-$swipe __Melee Swipes (Swipes)__
+• $swipe Melee Swipes can splash and they affect a 2 tile radius around the primary target, as well as anyone surrounding Vorago in melee distance
+• $blue Blues are sent to the farthest player (Bomb Tank), can not splash and deal magic damage in a 3 tile radius
+• $red Red Bombs cancel most defensive abilities and deal typeless damage of `2,000`, increasing for every player close to their target (Reds sometimes target a random player)
+• Reds are best dealt by moving away from the rest of your team
 
-Swipes can splash. These Melee hits affect a 2 tile radius around the main target.
+.phases
+> __**Phases**__
 
-$blue __Blue Bombs (Blues)__
+Every phase has unique mechanics and conditions to defeat Vorago. In phases 2 and 4 the life points will keep resetting to `75,000` until specific mechanics have been passed.
 
-Blues can't splash. It's a Magic hit that affects a 7x7 area. Only one Blue is fired at a time and it's send to the furthest player (Bomb Tank). These bombs will trace the targeted player.
-
-$red **Red Bomb**
-
-These bombs give typeless damage of 2k, increasing by 1k for every player close to you and capping at 7k.  Reds will cancel your defensives. Red Bombs **can be random** sometimes. It's important you don't panic if you get it. It won't kill you as long as you run away from the rest of the team before it hits. Avoid going farther than the BT. For a strategy on how to deal with Red Bombs :redbomb: refer to #cade-cept. 
-
-$blue __Non-Homing Blue Bomb__
-
-This Bomb is fired with every :redbomb:. It behaves exactly like a normal Blue, with the difference that it targets the player's location at the time of being launched.
-This Bomb always hits before the Red Bomb, so you can either avoid it (by moving 3 steps towards any direction) or Resonance it for a heal.
-
-.condition
-> __**Condition to Phase**__
-
-Every Phase has a condition that will stop Vorago from reaching 0 HP until they're met. Vorago will keep resetting his HP to 75k until this happens.
-• Phase 1: The TL5 must jump on Vorago
-• Phase 2: 4 Gravity orbs must be tagged, then the damage on BHD must be passed
-• Phase 3: No condition, just DPS until 0 HP
-• Phase 4: 3 Waterfalls
-• Phase 5: Mauling
+• $maulpiecea Phase 1: Vorago can be killed once the Top Lure jumps (reference: #climbing)
+• $maulpieceb Phase 2: Four gravity orbs $gravity must be tagged to proceed with Bring Him Down, after which Vorago can be killed
+• $blue Phase 3: Vorago dies once reaching `0` life points
+• $red Phase 4: Three waterfalls $waterfall have to be passed
+• $maul Phase 5: Vorago has to be pushed to the east and can then be defeated by using the Maul of Omens (reference: #maul)
+• While phases 1 and 2 remain the same at all times, phases 3, 4 and 5 change based on weekly rotating special mechanics (reference: #phase-overview)
 
 .p1
 > __**Phase 1**__
 
-**Phase pattern**: *Red Bomb→ 4 Attacks→ Repeat*
+Red Bomb $red ➔ 4 auto attacks $swipe ➔ repeat $repeat
 
-Phase 1 & 2 are always the same regardless of the Rotation. Although the other Phases depend on the current Rotation, all of them follow a pattern too, which makes learning them easier.
-
-__Top Lure and voke 5 (TL5)__
-
-The TL5 has to do the climb on Phase 1 and will receive Bombs while doing so. Don't stop to eat or you will take even more damage, eat while climbing. Check #climbing for reference.
-Gif reference: TL5 using Face spot then going West to spam the rock + Voke spot image
-
-__Base Tank (Base)__
-
-Use provoke as soon as the TL5 goes past the rock (not before) to avoid an aggression change. Lure Vorago slightly NW. This will force bombs on the TL5 so the BT can focus on the DPS.
-Image reference: Gif of 4 man spot > goes to img of trio spot
-
-__Bomb Tank (BT)__
-
-For teams of 4 man+, you will take all Bombs on Phase 1. Make use of Resonance and Devotion to reduce the damage. Avoiding Non-Homing Blues will help with the damage. Try to benefit from Soulsplit as much as possible after a Blue hits. In Trios you won't get Bombs until Vorago is in spot, due to the TL5 being farther than the BT.
-
-The Phase ends once the TL5 jumps on Vorago.
+The Phase ends once the climber jumps and Vorago is killed.
 
 .p2
 > __**Phase 2**__
 
-**Phase pattern**: *5 Bleeds→ 3 Attacks→ Reflect→ 3 Attacks→ Red Bomb→ 4 Attacks→ Repeat until 4th Orb then BHD starts*
+5 Bleeds $bleed ➔ 3 auto attacks $swipe ➔ Reflect $link ➔ 3 auto attacks ➔ Red Bomb $red ➔ 4 auto attacks ➔ repeat $repeat
 
-As Base, make sure to place Vorago in the spot, which is 2 South of the middle L-crack.
+• $bleed Bleeds: Vorago smashes the ground, applying a melee bleed to the player which also cancel most defensive abilities
+• If a bleed is not cleared before another is applied, the player will take `6,000` typeless damage
+• $link Reflect: Vorago links to a random player **for 9.6 seconds**, channeling all incoming damage towards them (stop attacking during reflects)
 
-**New mechanics**: Smashes (or Bleeds) and Reflect. On most Rotations there's Bleeds on Phase 4 too, as well as on Vitalis Phase 3. There's Reflects on all Phase 2, 3, 4 and 5, except for Scopulus Phase 3. There's another new mechanic called Bring Him Down, but it only happens in Phase 2.
-Roles will deal with Bleeds and Red Bombs in this Phase. For more information about how this is done, go to <#742095011696476201> and <#744505436685991986>.
+The Base, Bomb Tank and TL5 deal with bleeds $bleed and Reds $red until the 4th Gravity Field $gravity is activated. At this point, Vorago progresses with the Bring Him Down mechanic (reference: #mechanics). Spam-click Vorago and deal damage with 1 - 2 thresholds until the fight phases.
 
-$link __Reflect__
-
-During the Reflect mechanic Vorago redirects all damage dealt to him to a random player. It lasts for 9.6 seconds, which is approximately 3 Attacks.
-The player that is "Linked" will receive a message, and everyone else will be informed that this mechanic started.
-
-$bleed __Bleeds__
-
-Vorago smashes his main target with both hands inflicting a Bleed on them dealing 1,200 melee damage every other tick and resetting all defensive abilities. There's 5 Bleeds on Phase 2 and Phase 4, and 3 on Phase 5. Bleeds animation: https://i.imgur.com/sXR9B5R.gif
+If you happen to receive a Bleed $bleed, simply use Freedom $freedom to clear it. To read an in-depth explanation, refer to #clearing-bleeds.
 
 .p3
 > __**Phase 3**__
 
-**Phase pattern**: *Weekly Special→ X Attacks→ Reflect → 3 Attacks→ Weekly Special→ Z Attacks → Repeat*
+Weekly Special Mechanic ➔ 3 or 5 auto attacks $swipe ➔ Reflect $link ➔ 3 auto attacks $swipe → Weekly Special Mechanic ➔ 3 or 5 auto attacks $swipe ➔ repeat $repeat
 
-This Phase depends on the Weekly Special (known as Rotation) and the only condition to finish the Phase is to get Vorago to 0 HP.
-There's 6 rotations in total and they change every week. Only one rotation happens at a time and they change how Phase 3, 4 and 5 will behave. Rotations:
-• <#741401762010759209>
-• <#741401806864777340>
-• <#741401849894273074>
-• <#741401890398535770>
-• <#741401929959211008>
-• <#741401962121265305>
+Phase 3 depends on the current rotation (Weekly Special Mechanic) and Vorago phases once killed. There are 6 rotations in total, changing weekly.
+
+• #ceilings
+• #scopulus
+• #vitalis
+• #green-bomb
+• #team-split
+• #the-end
 
 .p4
 > __**Phase 4**__
 
-**Phase pattern**: *Waterfalls→ 3 Attacks→ Clones→ 7 Attacks→ Weekly special→ X Attacks→ 5 Bleeds→ Z Attacks→ Reflect→ 3 Attacks→ Repeat*
+Waterfall $waterfall ➔ 3 auto attacks $swipe ➔ Stone Clone $vitalis ➔ 7 auto attacks $swipe ➔ Weekly Special Mechanic ➔ 3 or 5 auto attacks $swipe ➔ 5 Bleeds $bleed ➔ 3 auto attacks $swipe ➔ Reflect $link ➔ 3 auto attacks $swipe → repeat $repeat
 
-__Waterfall__
-
- The Waterfall $waterfall mechanic is unique to Phase 4 and will always happen regardless of the Rotation. A Waterfall $waterfall appears in a random corner and will reset defensive abilities. Vorago will then charge a blast for 10.2 seconds that will deal a 9-10k typeless hit. This hit can be avoided by standing behind the Waterfall.
-Gif reference: going behind the waterfall
-
-__Stone Clone__
-
-Stone Clones always spawn 3 attacks after a Waterfall $waterfall . Vorago performs an attack visually similar to a melee Swipe $swipe, cloning a player. This clone will attack you with your same combat style. After this special, Vorago will take approximately 80% less damage. Kill it as soon as possible to avoid receiving additional damage or being stunned by it.
+• $waterfall Waterfall: Vorago charges a high-hitting explosion, cancelling most defensive abilities
+• The explosion can be avoided by moving behind the spawned Waterfall (a randomly selected corner of the arena)
+• $vitalis Stone Clone: Vorago performs an attack visually similar to a melee Swipe $swipe, cloning a random player
+• If you receive a Stone Clone, kill it (nobody besides the cloned player can deal damage to it)
 
 .p5
 > __**Phase 5**__
 
-In Phase 5 the goal is to push Vorago to the very end of the arena and then finish him off with the Maul Of Omens $maul (reference: <#747079548348268584>). The general mechanic is simple:
-• Deal damage to Vorago in order to push him forward (push)
-• Upon Vorago dealing damage he pushes the other direction backwards (pushback)
+Weekly Special Mechanic ➔ 3 or 5 auto attacks $swipe ➔ Reflect $link ➔ 3 auto attacks $swipe ➔ 3 Bleeds $bleed ➔ 3 auto attacks $swipe ➔ repeat $repeat
 
-As a Base/TL5/DPS you want to stand by the South wall and 1-2 tiles way from rago, making sure you to use your Ultimate before Vorago spawns. This is completely different in Trios, where roles usually split into: Base North, TL5 South.
-Add gif reference of where to stand
+In Phase 5 the goal is to push Vorago to the very eastern end of the arena and finish him off with the Maul Of Omens $maul (reference: #maul).
 
-As a bomb tank make sure you are standing by the north wall with cept cade the team depending on the rotation during that week.
+• Deal damage to Vorago in order to push him forward (push forwards)
+• Upon Vorago dealing damage to players, he pushes the other direction backwards (push backwards)
 
-Causes pushback: $blue $swipe $bleed $vitalis (orb and melee hits) $green, shared $purple
-Helps reduce pushback: $cade $disrupt $dome (only if 50% dome) $debil. Even though Debilitate works, avoid using it.
-Gif reference of a triple bleed clear
+While the Bomb Tank (orange) positions in the north-west at the northern wall of the arena, all remaining players (green) should move to the south-east at the southern wall. Do not stay in melee distance to Vorago in order to avoid melee Swipes $swipe.
+.
+https://cdn.discordapp.com/attachments/500971699349749760/813064006210027570/phase5_grid_positioning_001.png
+.
+
+__Bleeds:__
+
+Just like in preceding phases, Vorago applies Bleeds in Phase 5. There exist several methods of clearing them in this phase. To read an in-depth explanation, refer to #clearing-bleeds.
+
+• Freedom $freedom immediately clears any applied bleeds
+• A Bleed is also cleared by moving 7 tiles away from where it was applied (utilise Escape $escape, Bladed Dive $bd, Surge $surge and Barge $barge)
 
 .
 > __**Index**__
 
-• $vorago **Starting Vorago** {link:startingvorago}
-• $eof **Gearing** {link:gearing}
-• $attack **Attacks** {link:attacks}
-• :clipboard: **Condition to Phase** {link:condition}
-• $swipe **Phase 1** {link:p1}
+• $vorago **Starting Vorago** {link:intro}
+• $swipe **Vorago's Basic Attacks** {link:mechanics}
+• $repeat **Phases** {link:phases}
+• $blue **Phase 1** {link:p1}
 • $gravity **Phase 2** {link:p2}
-• $vuln **Phase 3** {link:p3}
+• $link **Phase 3** {link:p3}
 • $waterfall **Phase 4** {link:p4}
 • $maul **Phase 5** {link:p5}
