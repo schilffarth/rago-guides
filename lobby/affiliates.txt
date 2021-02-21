@@ -1,19 +1,18 @@
 .sheety
-$sheety **__Sheety__** $sheety
+$sheety __**Sheety**__ $sheety
 
 **Discord:** https://discord.gg/8WG7bR58QE
 
 Tired of losing ticks? Unsatisfied with your kill times? Sheety's got you covered!
 
-Sheety is a **Dynamic Rotation Builder** for RS3, featuring **automated adrenaline** and **damage calculations** as well as **advanced error detection** so everyone can write their own rotations with ease. Sheety is a spreadsheet that everyone can get for free.
+Sheety is a **Dynamic Rotation Builder** for RS3, featuring **automated adrenaline** and **damage calculations** as well as **advanced error detection** so everyone can write their own rotations with ease. Sheety is a spreadsheet that *everyone* can get for free.
 
 Our Discord offers a place of support and individual help for anything Sheety-related. We provide an FAQ and a voting-system for feedback.
 
-**Contact:** <@316175818458136588>, <@164133228989513728>
- 
- 
+**Contact:** <@316175818458136588> and <@164133228989513728>
 .ragoiron
- $Vorago **__Ironman Vorago Hub__** $Vorago
+
+$vorago __**Ironman Vorago Hub**__ $vorago
 
 **Discord:** https://discord.gg/YrFydAQ
 
@@ -26,11 +25,10 @@ We offer:
 • Normal and Hard Mode Vorago groups of any size
 • Learner sessions at least once a week
 
-**Contact:** <@336592776181317654>, <@454373507967483917>
-
-
+**Contact:** <@336592776181317654> and <@454373507967483917>
 .ragopvm
-$ragopvm **__Rago PvM__** $ragopvm 
+
+$ragopvm __**Rago PvM**__ $ragopvm
 
 **Discord:** https://discord.gg/Q8xpnYp
 
@@ -47,13 +45,12 @@ Learners and experienced players are welcome to join.
 Helping people improve is our main goal.
 
 **Contact:** <@300296497277173761>
-
-
 .pvme
-$pvme  **__PvM Encyclopedia__** $pvme
+
+$pvme __**PvM Encyclopedia**__ $pvme
 
 **Discord:** https://discord.gg/6djqFVN
 
 Collection of high level guides compiled by high level players, including current record holders. Includes guides for every boss, and has breakdowns by skill level all the way up to extremely experienced.
 
-**Contact:** <@277989267656146944>, <@414995552393232394> , <@238646799433203712> , <@435481585379180554>
+**Contact:** <@277989267656146944>, <@414995552393232394>, <@238646799433203712> and <@435481585379180554>
