@@ -166,8 +166,8 @@ Intercept $cept does not register while moving. Make sure you stand still when c
 Most of the times, as you kill the last Scopulus, you are going to drop target and will not be able to build adrenaline with defensive abilities any longer. Due to this, it is highly recommended to place a combat dummy $dummy as the last Scopulus dies.
 
 Example Phase 4 Scopulus (Base Tank POV): https://www.youtube.com/watch?v=neAeSDWC4OU
-
 .p5
+
 > __**Phase 5 Vitalis**__
 
 $vitalis Vitalis reference: #vitalis
@@ -193,8 +193,8 @@ __Strategy:__
 If the Bomb Tank has Malletops $malletops unlocked, they can alternatively skip their voke $voke for the last Bleed $bleed. Refresh Intercept as Barricade's timer reaches 11 seconds. The Base Tank has to Freedom $freedom the last Bleed instead of the fourth.
 
 Example Phase 5 Vitalis (Base Tank POV): https://www.youtube.com/watch?v=KZCW_qE8kP0
-
 .p6
+
 > __**Phase 6 Green Bomb**__
 
 $green Green Bomb reference: #green-bomb
@@ -213,8 +213,8 @@ If comfortable, Natural Instinct $natty can be used in the end of Phase 5 on the
 • Make sure to have high enough life points for the Red Bomb $red following the second Green Bomb
 
 Example Phase 6 Green Bomb (Base Tank POV): https://www.youtube.com/watch?v=Mii85UTiTdQ
-
 .p7
+
 > __**Phase 7 Team Split**__
 
 $ts Team Split reference: #team-split
