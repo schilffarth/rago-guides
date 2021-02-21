@@ -69,6 +69,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $maulpiecehandle `maulpiecehandle`
 • $maul `maul`
 • $natty `natty`
+• $nihil `nihil`
 .
 • $pin `pin`
 • $purple `purple`
