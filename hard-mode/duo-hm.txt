@@ -54,12 +54,12 @@ https://cdn.discordapp.com/attachments/676485011268042761/813165255860944926/unk
 In phase 1, Blue Bombs $blue have a drastic chance of *dragging* the Bomb Tank from his climb. To prevent this from happening, the Base Tank has to keep Vorago far enough on the eastern wall, so that no blues are launched at the climber. Only once they reached the final platform from which they can voke $voke, the Base Tank lures Vorago closer to the west.
 
 .
-__Base tank:__
+__Base Tank:__
 
 Stall Vorago and delay the first Red Bomb $red until shortly before the Bomb Tank can voke $voke. The goal with stalling the Red Bomb launch that long is to avoid one being launched early during jump. If done correctly, the second Red Bomb will be fired *after* the Bomb Tank has jumped.
 
 .
-https://cdn.discordapp.com/attachments/676485011268042761/812954102740156477/p1_002.png
+https://cdn.discordapp.com/attachments/676485011268042761/813169487863873566/duohm_p1.png
 .
 
 • Disrupt $disrupt and Excalibur $excal as you drop into Phase 1
