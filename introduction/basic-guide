@@ -1,0 +1,134 @@
+.startingvorago
+> __**Starting Vorago**__
+This Guide is a quick walk-through for your first few Normal Mode kills. Give this channel a quick read and you should be ready to do an hour!
+We recommend you also check all the channels in the *Introduction* section, as well as <#810091490491367444> and <#712039730543460432> for specific strategies.
+
+**If you are 0 KC or have never joined a kill, follow these steps or you won't be eligible to join kills. You only need to this __once__**:
+Go through all the chat options until you get a message pop-up about a Fight, decline it and you're ready.
+
+__Challenging Vorago__
+• 20 seconds after Vorago is challenged, your team will be hit 50,000 typeless damage
+• The entry hit is split between all players that accepted the challenge. This damage is capped at 12.5k per player, i.g. 5 man NM: 50k/5 = 10k damage per player
+• A team size of at least 4 players is advised when learning and then jump to Trios whenever you feel comfortable
+
+__Boosting your life points for the entry hit__
+The easiest way to get HP (usually 12.5k for 4 man and lower) is to grab a T90 shield, bonfire and then eat a Soup.
+• Other ways to boost your HP are: Oo'glog Thermal Bath, Soups, Fortitude, Powerburst Of Vitality
+
+.gearing
+> __**Gearing for a kill**__
+Preset example: https://cdn.discordapp.com/attachments/728295935762759781/812498840217190420/unknown.png
+Some items don't work at Vorago or aren't helpful, for example LoTD, Achto or Summoning potions, so we recommend you check <#766937675176345610> for examples of what to bring.
+
+.attacks
+> __**Auto Attacks**__
+Vorago has 2 different basic attacks: Blue Bombs $blue and melee Swipes $swipe. Each attack has a 50% chance of happening. Vorago might also send both at the same time.
+Blues are guaranteed when the primary target (Base Tank) isn't in melee distance. Melee hits will only happen if the Base is MD.
+
+$swipe __Melee Swipes (Swipes)__
+Swipes can splash. These Melee hits affect a 2 tile radius around the main target.
+
+$blue __Blue Bombs (Blues)__
+Blues can't splash. It's a Magic hit that affects a 7x7n't area. Only one Blue is fired at a time and it's send to the furthest player (Bomb Tank). These bombs will trace the targeted player.
+
+$red **Red Bomb**
+These bombs give typeless damage of 2k, increasing by 1k for every player close to you and capping at 7k.  Reds will cancel your defensives. Red Bombs **can be random** sometimes. It's important you don't panic if you get it. It won't kill you as long as you run away from the rest of the team before it hits. Avoid going farther than the BT. For a strategy on how to deal with Red Bombs :redbomb: refer to #cade-cept. 
+
+$blue __Non-Homing Blue Bomb__
+This Bomb is fired with every :redbomb:. It behaves exactly like a normal Blue, with the difference that it targets the player's location at the time of being launched.
+This Bomb always hits before the Red Bomb, so you can either avoid it (by moving 3 steps towards any direction) or Resonance it for a heal.
+
+.condition
+> __**Condition to Phase**__
+Every Phase has a condition that will stop Vorago from reaching 0 HP until they're met. Vorago will keep resetting his HP to 75k until this happens.
+• Phase 1: The TL5 must jump on Vorago
+• Phase 2: 4 Gravity orbs must be tagged, then the damage on BHD must be passed
+• Phase 3: No condition, just DPS until 0 HP
+• Phase 4: 3 Waterfalls
+• Phase 5: Mauling
+
+.p1
+> __**Phase 1**__
+**Phase pattern**: *Red Bomb→ 4 Attacks→ Repeat*
+
+Phase 1 & 2 are always the same regardless of the Rotation. Although the other Phases depend on the current Rotation, all of them follow a pattern too, which makes learning them easier.
+
+__Top Lure and voke 5 (TL5)__
+The TL5 has to do the climb on Phase 1 and will receive Bombs while doing so. Don't stop to eat or you will take even more damage, eat while climbing. Check #climbing for reference.
+Gif reference: TL5 using Face spot then going West to spam the rock + Voke spot image
+
+__Base Tank (Base)__
+Use provoke as soon as the TL5 goes past the rock (not before) to avoid an aggression change. Lure Vorago slightly NW. This will force bombs on the TL5 so the BT can focus on the DPS.
+Image reference: Gif of 4 man spot > goes to img of trio spot
+
+__Bomb Tank (BT)__
+For teams of 4 man+, you will take all Bombs on Phase 1. Make use of Resonance and Devotion to reduce the damage. Avoiding Non-Homing Blues will help with the damage. Try to benefit from Soulsplit as much as possible after a Blue hits. In Trios you won't get Bombs until Vorago is in spot, due to the TL5 being farther than the BT.
+
+The Phase ends once the TL5 jumps on Vorago.
+
+.p2
+> __**Phase 2**__
+**Phase pattern**: *5 Bleeds→ 3 Attacks→ Reflect→ 3 Attacks→ Red Bomb→ 4 Attacks→ Repeat until 4th Orb then BHD starts*
+
+As Base, make sure to place Vorago in the spot, which is 2 South of the middle L-crack.
+
+**New mechanics**: Smashes (or Bleeds) and Reflect. On most Rotations there's Bleeds on Phase 4 too, as well as on Vitalis Phase 3. There's Reflects on all Phase 2, 3, 4 and 5, except for Scopulus Phase 3. There's another new mechanic called Bring Him Down, but it only happens in Phase 2.
+Roles will deal with Bleeds and Red Bombs in this Phase. For more information about how this is done, go to <#742095011696476201> and <#744505436685991986>.
+
+__Reflect__
+During the Reflect mechanic Vorago redirects all damage dealt to him to a random player. It lasts for 9.6 seconds, which is approximately 3 Attacks.
+The player that is "Linked" will receive a message, and everyone else will be informed that this mechanic started.
+
+__Bleeds__
+Vorago smashes his main target with both hands inflicting a Bleed on them dealing 1,200 melee damage every other tick and resetting all defensive abilities. There's 5 Bleeds on Phase 2 and Phase 4, and 3 on Phase 5. Bleeds animation: https://i.imgur.com/sXR9B5R.gif
+
+.p3
+> __**Phase 3**__
+**Phase pattern**: *Weekly Special→ X Attacks→ Reflect → 3 Attacks→ Weekly Special→ Z Attacks → Repeat*
+
+This Phase depends on the Weekly Special (known as Rotation) and the only condition to finish the Phase is to get Vorago to 0 HP.
+There's 6 rotations in total and they change every week. Only one rotation happens at a time and they change how Phase 3, 4 and 5 will behave. Rotations:
+• <#741401762010759209>
+• <#741401806864777340>
+• <#741401849894273074>
+• <#741401890398535770>
+• <#741401929959211008>
+• <#741401962121265305>
+
+.p4
+> **Phase 4**
+**Phase pattern**: *Waterfalls→ 3 Attacks→ Clones→ 7 Attacks→ Weekly special→ X Attacks→ 5 Bleeds→ Z Attacks→ Reflect→ 3 Attacks→ Repeat*
+
+__Waterfall__
+ The Waterfall $waterfall mechanic is unique to Phase 4 and will always happen regardless of the Rotation. A Waterfall $waterfall appears in a random corner and will reset defensive abilities. Vorago will then charge a blast for 10.2 seconds that will deal a 9-10k typeless hit. This hit can be avoided by standing behind the Waterfall.
+Gif reference: going behind the waterfall
+
+__Stone Clone__
+Stone Clones always spawn 3 attacks after a Waterfall $waterfall . Vorago performs an attack visually similar to a melee Swipe $swipe, cloning a player. This clone will attack you with your same combat style. After this special, Vorago will take approximately 80% less damage. Kill it as soon as possible to avoid receiving additional damage or being stunned by it.
+
+.p5
+> __**Phase 5**__
+In Phase 5 the goal is to push Vorago to the very end of the arena and then finish him off with the Maul Of Omens $maul (reference: <#747079548348268584>). The general mechanic is simple:
+• Deal damage to Vorago in order to push him forward (push)
+• Upon Vorago dealing damage he pushes the other direction backwards (pushback)
+
+As a Base/TL5/DPS you want to stand by the South wall and 1-2 tiles way from rago, making sure you to use your Ultimate before Vorago spawns. This is completely different in Trios, where roles usually split into: Base North, TL5 South.
+Add gif reference of where to stand
+
+As a bomb tank make sure you are standing by the north wall with cept cade the team depending on the rotation during that week.
+
+Causes pushback: $blue $swipe $dismember $vitalis (orb and melee hits) $green, shared $purple
+Helps reduce pushback: $cade $disrupt $dome (only if 50% dome) $debilitate. Even though Debilitate works, avoid using it.
+Gif reference of a triple bleed clear
+
+.
+> __**Index**__
+• $vorago **Starting Vorago** {link:startingvorago}
+• $eof **Gearing** {link:gearing}
+• $attack **Attacks** {link:attacks}
+• :clipboard: **Condition to Phase** {link:condition}
+• $swipe **Phase 1** {link:p1}
+• $gravity **Phase 2** {link:p2}
+• $vuln **Phase 3** {link:p3}
+• $waterfall **Phase 4** {link:p4}
+• $maul **Phase 5** {link:p5}
