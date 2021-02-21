@@ -21,6 +21,8 @@ Indexing is a very important aspect of writing larger guides. The Discord bot wi
 
 Emojis are simply converted with the following format: `$emoji`. A full list of Emojis can be found below. Example: `$emoji` will be parsed into `<:SomeEmoji:12398407103928653>`, which displays the Emoji emoji (does not actually exist). Each keyword will be converted into the respective emoji when a preceding `$` is applied.
 
+• $anticipation `anticipation`
+• $apot `apot`
 • $asphyx `asphyx`
 • $attack `attack`
 • $auto `auto`
@@ -36,6 +38,9 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $dbow `dbow`
 • $dbreath `dbreath`
 • $debil `debil`
+• $deflectmagic `deflectmagic`
+• $deflectmelee `deflectmelee`
+• $deflectranged `deflectranged`
 • $devo `devo`
 • $discord `discord`
 • $disrupt `disrupt`
@@ -57,6 +62,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $limitless `limitless`
 • $link `link`
 • $magic `magic`
+• $malletops `malletops`
 • $mammoth `mammoth`
 • $maulpiecea `maulpiecea`
 • $maulpieceb `maulpieceb`
@@ -71,6 +77,8 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $ranged `ranged`
 • $red `red`
 • $repeat `repeat`
+• $reprisal `reprisal`
+• $resonance `resonance`
 • $scop `scop`
 • $scythe `scythe`
 • $sgb `sgb`
@@ -80,8 +88,10 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $snipe `snipe`
 • $soup `soup`
 • $str `str`
+• $sunshine `sunshine`
 • $swh `swh`
 • $swipe `swipe`
+• $swiftness `swiftness`
 .
 • $tc `tc`
 • $ts `ts`
