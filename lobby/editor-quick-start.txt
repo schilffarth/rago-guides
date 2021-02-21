@@ -81,6 +81,8 @@ https://cdn.discordapp.com/attachments/676485011268042761/812783379815596072/011
 
 Wait for your changes to be approved, and if they are, your name will appear in this Discord channel the next time we synchronise it. If you did any mistakes throughout this guide, someone will write a comment on your Pull Request, explaining what to fix.
 
+If anything didn't work out despite following this tutorial, don't hesitate to write any questions in #general or alternatively check out the YouTube walk-through: https://www.youtube.com/watch?v=KbXEFjnrq8w
+
 .
 > __**Successful completion of Rago Hub's contribution tutorial**__
 
