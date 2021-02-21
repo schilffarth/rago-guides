@@ -34,6 +34,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 .
 • $dbow `dbow`
 • $dbreath `dbreath`
+• $debil `debil`
 • $devo `devo`
 • $discord `discord`
 • $disrupt `disrupt`
@@ -51,10 +52,14 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $grico `grico`
 • $gstaff `gstaff`
 • $heal `heal`
-• $heal `ingen`
+• $ingen `ingen`
 • $limitless `limitless`
+• $link `link`
 • $magic `magic`
 • $mammoth `mammoth`
+• $maulpiecea `maulpiecea`
+• $maulpieceb `maulpieceb`
+• $maulpiecehandle `maulpiecehandle`
 • $maul `maul`
 • $natty `natty`
 .
@@ -62,7 +67,6 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $purple `purple`
 • $pvme `pvme`
 • $ragopvm `ragopvm`
-• $ragoreflect `ragoreflect`
 • $ranged `ranged`
 • $red `red`
 • $scop `scop`
