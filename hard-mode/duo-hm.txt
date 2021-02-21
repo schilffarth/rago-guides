@@ -36,7 +36,19 @@ Rago Hub maintains a spreadsheet with over 150+ unique ability rotations. Whilst
 
 Rago Hub spreadsheet: <https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit?usp=sharing>
 
+.overview
+> __**Strategy Overview**__
+
+Bomb Tank strategy summary:
+.
+https://cdn.discordapp.com/attachments/676485011268042761/813164912002990200/duohm_overview_bombtank.PNG
+.
+
+Base Tank strategy summary:
+.
+https://cdn.discordapp.com/attachments/676485011268042761/813165255860944926/unknown.png
 .p1
+
 > __**Phase 1**__
 
 In phase 1, Blue Bombs $blue have a drastic chance of *dragging* the Bomb Tank from his climb. To prevent this from happening, the Base Tank has to keep Vorago far enough on the eastern wall, so that no blues are launched at the climber. Only once they reached the final platform from which they can voke $voke, the Base Tank lures Vorago closer to the west.
@@ -104,19 +116,7 @@ __Bring Him Down:__
 
 If both players use magic, Shatter $shatter should be utilised for consistently passing the damage check.
 
-.overview
-> __**Overview of Phases 3 - 8**__
-
-Bomb Tank strategy summary:
-.
-https://cdn.discordapp.com/attachments/676485011268042761/813164912002990200/duohm_overview_bombtank.PNG
-.
-
-Base Tank strategy summary:
-.
-https://cdn.discordapp.com/attachments/676485011268042761/813165255860944926/unknown.png
 .p3
-
 > __**Phase 3 Ceilings**__
 
 $ceil Ceilings reference: #ceilings
@@ -334,9 +334,9 @@ Finish him! Congrats on your kill! Make sure to post your personal Duo Hard Mode
 > __**Index**__
 
 • $pin **Introduction** {link:intro}
+• $blue **Strategy Overview** {link:overview}
 • $maulpiecea **Phase 1** {link:p1}
 • $maulpieceb **Phase 2** {link:p2}
-• $blue **Phase Overview** {link:overview}
 • $ceil **Ceilings Phase 3** {link:p3}
 • $scop **Scopulus Phase 4** {link:p4}
 • $vitalis **Vitalis Phase 5** {link:p5}
