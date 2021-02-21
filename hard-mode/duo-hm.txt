@@ -314,7 +314,7 @@ Example Phase 10 (Base Tank POV): https://www.youtube.com/watch?v=vaawIOmKJcw
 __Strategy:__
 
 • After every Team Split $ts, your team rotates ultimating $sunshine $swiftness and Barricade Intercept $cade $cept
-• At the start of each Reflect $reflect, the player **not** barricading should reapply the SWH $swh special attack
+• At the start of each Reflect $link, the player **not** barricading should reapply the SWH $swh special attack
 • Disruption Shield $disrupt should optimally be used when scuffing lining up or after a Purple Bomb $purple detonation
 • **Important:** Line up vertically, like you did in Phase 10 (reference: #lining-up)
 
