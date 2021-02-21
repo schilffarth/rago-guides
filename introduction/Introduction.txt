@@ -1,0 +1,67 @@
+.vorago
+> **__Vorago__**
+
+Vorago $vorago is a medium to high level multiplayer boss offering a lot of diversity in weekly changing rotations which will never get you bored. To read more about the history and background information, feel free to check out the official RuneScape Wiki at https://runescape.wiki/w/Vorago.
+
+This <#741384437283160134> channel provides you a short overview for those who have never been to Vorago. If you are looking for specific strategy guides refer to <#712039035404681287>
+
+
+.startingout
+> **__Starting Vorago__**
+
+• Vorago is located north of Falador, inside the borehole entrance 
+• Enter the borehole, jump past all gaps and speak to Vorago (attuning the PvM Hub or Max Guild portal allows you to teleport inside the cave)
+• Go through all available chat options until you see a highlighted message popping up in your chat that states that you are now eligible to fight Vorago
+• Challenging Vorago will open a chat prompt for all players located in the starting area, asking to join the fight
+
+__Challenging Vorago:__
+
+• 20 seconds after Vorago is challenged, your team will be hit 50,000 typeless damage (70,000 in Hard Mode)
+• The entry hit is split between all players that joined the challenge, capped at 12,500 each player (14,000 in Hard Mode), i.g. challenging in Normal Mode with 5 players, everyone will take 10,000 damage
+
+__Boosting your life points for the entry hit:__
+
+• Bonfire $bonfire <https://runescape.wiki/w/Bonfire> (provides up to 5% increased maximum life points)
+• Oo'glog Thermal Bath $thermalflask <https://runescape.wiki/w/Ogre_flask_(thermal)> (provides up to 297 increased maximum life points)
+• Soups $soup <https://runescape.wiki/w/Rocktail_soup> (provides healing 15% above maximum life points)
+• Fortitude $fortitude <https://runescape.wiki/w/Fortitude> (lobby with Fortitude active to benefit from the boost without keeping the prayer active)
+• Powerburst Of Vitality $vitality <https://runescape.wiki/w/Powerburst_of_vitality#(4)> (doubles current life points for 6 seconds)
+ 
+ 
+.modes
+> **__Modes__** 
+
+Vorago offers two different modes: **Normal Mode / NM** $blue and **Hard Mode / HM** $red . The differences between Normal Mode to Hard Mode are explained in #mechanics.
+
+Hard Mode can only be started by creating an instance from the borehole entrance after having mauled $maul all rotations in NM - Joining a friend does not share this requirement. In HM, there are no message box or chat warnings for mechanics such as Red Bombs $red , Reflects $link and Green Bombs $Green .
+
+In both difficulties (NM & HM) the strategies for how to deal with mechanics does not vary a lot between team sizes. Bomb and Base Tank have to take care of their designated responsibilities. Generally speaking, any size greater than duo simply adds a free DPS to the team.
+
+__Normal Mode:__
+
+• 4man+ <#744505609696837726> Any person other than the Base Tank, Bomb Tank and TL5 are free DPS
+• Trio Normal Mode <#753663290718158898> Roles are split into Base Tank, Bomb Tank and TL5
+• Duo Normal Mode <#742616349658054656> Base Tank does not vary and the Bomb Tank takes over the TL5's responsibilities
+
+__Hard Mode:__
+
+• Trio Hard Mode <#802162163686572082> In-depth breakdown of everything Trio HM (strategies for roles in 4man+ HM vary insignificantly)
+• Duo Hard Mode <#714808600123408384> The Base Tank is simultaneously the Bomb Tank #2
+
+
+.position
+> **__Positioning__**
+
+ Pay attention to circles for aoe damage surrounding the base and the bombtank, keeping in mind to be closer to vorago than the bombtank is
+.
+https://cdn.discordapp.com/attachments/428945702450757643/805515091533234207/vorago.png
+.
+
+> **__Index__**
+
+•$pin Introduction : {link:vorago}
+•$vorago Starting Vorago: {link:startingout}
+•$red Modes : {link:modes}
+•$scythe Positioning: {link:position}
+
+ 
