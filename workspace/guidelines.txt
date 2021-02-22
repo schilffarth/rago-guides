@@ -31,6 +31,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $bleed `bleed`
 • $blitz `blitz`
 • $blue `blue`
+• $bonfire `bonfire`
 • $cade `cade`
 • $ceil `ceil`
 • $cept `cept`
@@ -50,6 +51,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $eof `eof`
 • $escape `escape`
 • $excal `excal`
+• $fortitude `fortitude`
 • $freedom `freedom`
 .
 • $gbarge `gbarge`
