@@ -21,17 +21,20 @@ Indexing is a very important aspect of writing larger guides. The Discord bot wi
 
 Emojis are simply converted with the following format: `$emoji`. A full list of Emojis can be found below. Example: `$emoji` will be parsed into `<:SomeEmoji:12398407103928653>`, which displays the Emoji emoji (does not actually exist). Each keyword will be converted into the respective emoji when a preceding `$` is applied.
 
+• $accel `accel`
 • $anticipation `anticipation`
 • $apot `apot`
 • $asphyx `asphyx`
 • $attack `attack`
 • $auto `auto`
+.
 • $barrage `barrage`
 • $bd `bd`
 • $bleed `bleed`
 • $blitz `blitz`
 • $blue `blue`
 • $bonfire `bonfire`
+.
 • $cade `cade`
 • $ceil `ceil`
 • $cept `cept`
@@ -46,11 +49,15 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $discord `discord`
 • $disrupt `disrupt`
 • $dome `dome`
+• $doubleescape `doubleescape`
+• $doublesurge `doublesurge`
 • $dummy `dummy`
+.
 • $ent `ent`
 • $eof `eof`
 • $escape `escape`
 • $excal `excal`
+.
 • $fortitude `fortitude`
 • $freedom `freedom`
 .
@@ -59,10 +66,14 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $green `green`
 • $grico `grico`
 • $gstaff `gstaff`
+.
 • $heal `heal`
+.
 • $ingen `ingen`
+.
 • $limitless `limitless`
 • $link `link`
+.
 • $magic `magic`
 • $malletops `malletops`
 • $mammoth `mammoth`
@@ -71,18 +82,43 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $maulpiecehandle `maulpiecehandle`
 • $maul `maul`
 • $metamorphosis `metamorphosis`
+.
 • $natty `natty`
 • $nihil `nihil`
 .
 • $pin `pin`
 • $purple `purple`
 • $pvme `pvme`
+.
 • $ragopvm `ragopvm`
 • $ranged `ranged`
 • $red `red`
 • $repeat `repeat`
 • $reprisal `reprisal`
 • $resonance `resonance`
+.
+• $runeair `runeair`
+• $runeastral `runeastral`
+• $runeblood `runeblood`
+• $runebody `runebody`
+• $runechaos `runechaos`
+• $runecosmic `runecosmic`
+• $runedeath `runedeath`
+• $runedust `runedust`
+• $runeearth `runeearth`
+• $runefire `runefire`
+• $runelaw `runelaw`
+• $runemind `runemind`
+• $runenature `runenature`
+• $runepouch `runepouch`
+• $runepouchblack `runepouchblack`
+• $runepouchblue `runepouchblue`
+• $runepouchgreen `runepouchgreen`
+• $runepouchpurple `runepouchpurple`
+• $runepouchyellow `runepouchyellow`
+• $runesoul `runesoul`
+• $runewater `runewater`
+.
 • $scop `scop`
 • $scythe `scythe`
 • $sgb `sgb`
@@ -93,6 +129,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $soup `soup`
 • $str `str`
 • $sunshine `sunshine`
+• $surge `surge`
 • $swh `swh`
 • $swipe `swipe`
 • $swiftness `swiftness`
@@ -100,15 +137,18 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $tc `tc`
 • $thermal `thermal`
 • $ts `ts`
+.
 • $vbomb `vbomb`
 • $vitalis `vitalis`
 • $vitality `vitality`
 • $voke `voke`
 • $vorago `vorago`
 • $vuln `vuln`
+.
 • $warning `warning`
 • $waterfall `waterfall`
 • $wm `wm`
+.
 • $yak `yak`
 • $youtube `youtube`
 
@@ -116,5 +156,5 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 > __**Index**__
 
 • $pin **Guide Writing** {link:guidewriting}
-• **Guide Styling** {link:guidestyling}
-• **Emoji List** {link:emojilist}
+• $dome **Guide Styling** {link:guidestyling}
+• $bonfire **Emoji List** {link:emojilist}
