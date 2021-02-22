@@ -1,0 +1,61 @@
+.bleeds
+Guide written by <@226871275216175116>
+
+> __**How to Clear Bleeds**__
+
+There are two primary ways of clearing a bleed:
+
+• **Freedom** $freedom:
+• **Distancing** - Being at least 7 tiles away from Vorago. To achieve this without taking a single bleed hit, you can use Escape $escape, Bladed Dive $bd or Surge $surge. 
+
+In Phases 2 - 4 (Phases 2 - 9 in HM) there must be **7 tiles between Vorago and your character**.
+
+In Phases 5 (10/11 in HM), due to the nature of Vorago and the arena, distancing works slightly differently to other phases: There must be 7 tiles between the location you received the Bleed :Dismember: at and your character's position. Here again, you can simply use Escape $escape, Bladed Dive $bd or Surge $surge, but additionally you can make use of Barge $gbarge.
+Having a distance of 7 tiles or greater to melee distance of Vorago provides you with the capability of barging onto Vorago, setting yourself 7 or more tiles away from the original location where the Bleed was applied. Bare in mind that staying too close to Vorago and at an edge either north or south of the arena will result in escaping diagonally. You can avoid this by taking 1 step to the center.
+
+.3bleeds
+> __**Approaching 3 Bleeds**__
+
+__Phases 2/3/4 NM and 2/5/ 9 HM:__
+
+• Clear first Bleed with Freedom $freedom
+• Clear second Bleed with Escape $escape 1 tick after the application
+• Take 1 or 3 steps back in closer to Vorago (not needed if Crossbows are equipped)
+• Clear last Bleed by either escaping again (if Double Escape $doubleescape is unlocked) or simply walk away from Vorago to get yourself in safe distance
+
+Why to take 1 or 3 steps back in closer to Vorago: Vorago's walking speed is 2 tiles/tick. Therefore, staying an uneven amount of tiles distanced to Vorago will cause overwalking. Taking 1/3 steps back in after Escape will set you in a distance of 6/4 tiles to Vorago which results in a linear walking direction without any overwalking.
+
+__Phases NM and 10/11 HM:__
+
+• Freedom $freedom first Bleed
+• Escape $escape second Bleed
+• Bladed Dive $bd or Barge $arge last Bleed
+
+You can of course switch around the order in which you clear each Bleed, for example you can simply Escape $escape 1st, Barge $gbarge 2nd and Freedom $freedom 3rd Bleed.
+
+.bd
+> __**Escape-Diving Bleeds**__
+
+*Escape-bladed diving* is a strategy for clearing Bleeds by using the method of distancing but not moving Vorago a single tile.
+
+• Equip your Bladed Dive $bd weapon switches (Statius's Warhammer $swh and Excalibur $excal)
+• Pre-select Bladed Dive onto Vorago (do not click it on the ground)
+• 1 tick after the Bleed application, respectively 1 tick before the Bleed would deal damage, you Escape $escape and consecutively activate Bladed Dive $bd within the same tick
+
+Escaping in this exact tick and Bladed Diving right after will:
+1) Set you in distance for clearing the Bleed
+2) Put you back into MD so that Vorago doesn't move anywhere
+
+This strategy opens a new meta for clearing **3 Bleeds in a row**:
+
+• Clear first Bleed with Freedom $freedom
+• Clear second Bleed with escape-bladed diving $escape $bd
+• Clear third Bleed by either escaping again (if Double Escape $doubleescape is unlocked) or simply walk away from Vorago to get yourself in safe distance
+• Make sure you **never** do this method from a corner, because you might walk Vorago. Always do it from a side
+
+.index
+> __**Index**__
+
+• $freedom **How to Clear Bleeds** {link:bleeds}
+• $escape **Approaching 3 Bleeds** {link:3bleeds}
+• $bd **Escape-Dive Bleeds** {link:bd}
