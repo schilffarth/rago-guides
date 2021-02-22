@@ -1,30 +1,27 @@
-This presets guide and its related spreadsheet was written and developed by <@!300296497277173761>, <@!781280949790572554>, <@104691370324688896>, @Serene, @Celly and <@316175818458136588>. Thanks for incredible support & feedback from @Treecko160 and \@TheLol_1#3456.
+This presets guide and its related spreadsheet was written and developed by <@300296497277173761>, <@781280949790572554>, <@104691370324688896>, @Serene, <@164133228989513728> and <@316175818458136588>. Thanks for feedback from @Treecko and <@154709973710929920>.
 
 > __**Presets**__
 
 <https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit#gid=590147764&range=B2:AV2>
 
-__Rune Pouches__
+__Rune Pouches:__
 
-$pouchpurple $runecosmic $runeastral $runelaw
-$pouchblue $runebody $runeblood $runefire
-$pouchgreen $runesoul $runewater $runedust
+$runepouchpurple $runecosmic $runeastral $runelaw
+$runepouchblue $runebody $runeblood $runefire
+$runepouchgreen $runesoul $runewater $runedust
 
 .
-__Normal Mode Presets__
-
+• Normal Mode Presets
 .
 https://cdn.discordapp.com/attachments/625342479360851968/772131295224135711/presets_nm.PNG
 . 
 
-__Trio+ Hard Mode__
-
+• Trio / 4man+ Hard Mode
 .
 https://cdn.discordapp.com/attachments/625342479360851968/772131293118726184/presets_hm.PNG
 .
 
-__Duo Hard Mode__
-
+• Duo Hard Mode
 .
 https://cdn.discordapp.com/attachments/625342479360851968/772131289737723904/presets_duohm.PNG
 .
