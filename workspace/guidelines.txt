@@ -9,6 +9,8 @@ Due to the `2000` character limit, Rago Hub guides need to be sent in multiple m
 
 Indexing is a very important aspect of writing larger guides. The Discord bot will automatically link messages for you. Remember the sentence I said about message character limit and how to separate those? Exactly: You simply give your messages an ID which is appended to the content separator. Example: `.intro`. This will store the message ID of the message following the `.intro` content separator. To add a message link, use this syntax: `{link:message}`. Example: `{link:intro}`.
 
+Automatic pinning: Giving a message the section ID of `index` will automatically pin the respective message.
+
 .guidestyling
 > __**Guide Styling**__
 
@@ -19,138 +21,7 @@ Indexing is a very important aspect of writing larger guides. The Discord bot wi
 .emojilist
 > __**Emoji List**__
 
-Emojis are simply converted with the following format: `$emoji`. A full list of Emojis can be found below. Example: `$emoji` will be parsed into `<:SomeEmoji:12398407103928653>`, which displays the Emoji emoji (does not actually exist). Each keyword will be converted into the respective emoji when a preceding `$` is applied.
-
-• $accel `accel`
-• $anticipation `anticipation`
-• $apot `apot`
-• $asphyx `asphyx`
-• $attack `attack`
-• $auto `auto`
-.
-• $barrage `barrage`
-• $bd `bd`
-• $bleed `bleed`
-• $blitz `blitz`
-• $blue `blue`
-• $bonfire `bonfire`
-.
-• $cade `cade`
-• $ceil `ceil`
-• $cept `cept`
-.
-• $dbow `dbow`
-• $dbreath `dbreath`
-• $debil `debil`
-• $deflectmagic `deflectmagic`
-• $deflectmelee `deflectmelee`
-• $deflectranged `deflectranged`
-• $devo `devo`
-• $discord `discord`
-• $disrupt `disrupt`
-• $dome `dome`
-• $doubleescape `doubleescape`
-• $doublesurge `doublesurge`
-• $dummy `dummy`
-.
-• $ent `ent`
-• $eof `eof`
-• $escape `escape`
-• $excal `excal`
-.
-• $fortitude `fortitude`
-• $freedom `freedom`
-.
-• $gbarge `gbarge`
-• $gravity `gravity`
-• $green `green`
-• $grico `grico`
-• $gstaff `gstaff`
-.
-• $heal `heal`
-.
-• $ingen `ingen`
-.
-• $limitless `limitless`
-• $link `link`
-.
-• $magic `magic`
-• $malletops `malletops`
-• $mammoth `mammoth`
-• $maulpiecea `maulpiecea`
-• $maulpieceb `maulpieceb`
-• $maulpiecehandle `maulpiecehandle`
-• $maul `maul`
-• $metamorphosis `metamorphosis`
-.
-• $natty `natty`
-• $nihil `nihil`
-.
-• $pin `pin`
-• $purple `purple`
-• $pvme `pvme`
-.
-• $ragopvm `ragopvm`
-• $ranged `ranged`
-• $red `red`
-• $repeat `repeat`
-• $reprisal `reprisal`
-• $resonance `resonance`
-.
-• $runeair `runeair`
-• $runeastral `runeastral`
-• $runeblood `runeblood`
-• $runebody `runebody`
-• $runechaos `runechaos`
-• $runecosmic `runecosmic`
-• $runedeath `runedeath`
-• $runedust `runedust`
-• $runeearth `runeearth`
-• $runefire `runefire`
-• $runelaw `runelaw`
-• $runemind `runemind`
-• $runenature `runenature`
-• $runepouch `runepouch`
-• $runepouchblack `runepouchblack`
-• $runepouchblue `runepouchblue`
-• $runepouchgreen `runepouchgreen`
-• $runepouchpurple `runepouchpurple`
-• $runepouchyellow `runepouchyellow`
-• $runesoul `runesoul`
-• $runewater `runewater`
-.
-• $scop `scop`
-• $scythe `scythe`
-• $sgb `sgb`
-• $shard `shard`
-• $shatter `shatter`
-• $sheety `sheety`
-• $snipe `snipe`
-• $soup `soup`
-• $str `str`
-• $sunshine `sunshine`
-• $surge `surge`
-• $swh `swh`
-• $swipe `swipe`
-• $swiftness `swiftness`
-.
-• $tc `tc`
-• $thermal `thermal`
-• $ts `ts`
-.
-• $vbomb `vbomb`
-• $vitalis `vitalis`
-• $vitality `vitality`
-• $voke `voke`
-• $vorago `vorago`
-• $vuln `vuln`
-.
-• $warning `warning`
-• $waterfall `waterfall`
-• $wm `wm`
-.
-• $yak `yak`
-• $youtube `youtube`
+A full list of Emojis and how to use them can be found in #emojis.
 
 .index
 > __**Index**__

@@ -1,0 +1,160 @@
+.intro
+> __**Emoji List**__
+
+Emojis are simply converted with the following format: `$emoji`. A full list of Emojis can be found below. Example: `$emoji` will be parsed into `<:SomeEmoji:12398407103928653>`, which displays the Emoji emoji (does not actually exist). Each keyword will be converted into the respective emoji when a preceding `$` is applied.
+
+.a
+• $accel `accel`
+• $anticipation `anticipation`
+• $apot `apot`
+• $asphyx `asphyx`
+• $attack `attack`
+• $auto `auto`
+.b
+• $barrage `barrage`
+• $bd `bd`
+• $bleed `bleed`
+• $blitz `blitz`
+• $blue `blue`
+• $bonfire `bonfire`
+.c
+• $cade `cade`
+• $ceil `ceil`
+• $cept `cept`
+.d
+• $dbow `dbow`
+• $dbreath `dbreath`
+• $debil `debil`
+• $deflectmagic `deflectmagic`
+• $deflectmelee `deflectmelee`
+• $deflectranged `deflectranged`
+• $devo `devo`
+• $discord `discord`
+• $disrupt `disrupt`
+• $dome `dome`
+• $doubleescape `doubleescape`
+• $doublesurge `doublesurge`
+• $dummy `dummy`
+.e
+• $ent `ent`
+• $eof `eof`
+• $escape `escape`
+• $excal `excal`
+.f
+• $fortitude `fortitude`
+• $freedom `freedom`
+.g
+• $gbarge `gbarge`
+• $gravity `gravity`
+• $green `green`
+• $grico `grico`
+• $gstaff `gstaff`
+.h
+• $heal `heal`
+.i
+• $ingen `ingen`
+.l
+• $limitless `limitless`
+• $link `link`
+.m
+• $magic `magic`
+• $malletops `malletops`
+• $mammoth `mammoth`
+• $maulpiecea `maulpiecea`
+• $maulpieceb `maulpieceb`
+• $maulpiecehandle `maulpiecehandle`
+• $maul `maul`
+• $metamorphosis `metamorphosis`
+.n
+• $natty `natty`
+• $nihil `nihil`
+.p
+• $pin `pin`
+• $purple `purple`
+• $pvme `pvme`
+.r
+• $ragopvm `ragopvm`
+• $ranged `ranged`
+• $red `red`
+• $repeat `repeat`
+• $reprisal `reprisal`
+• $resonance `resonance`
+.
+• $runeair `runeair`
+• $runeastral `runeastral`
+• $runeblood `runeblood`
+• $runebody `runebody`
+• $runechaos `runechaos`
+• $runecosmic `runecosmic`
+• $runedeath `runedeath`
+• $runedust `runedust`
+• $runeearth `runeearth`
+• $runefire `runefire`
+• $runelaw `runelaw`
+• $runemind `runemind`
+• $runenature `runenature`
+• $runepouch `runepouch`
+• $runepouchblack `runepouchblack`
+• $runepouchblue `runepouchblue`
+• $runepouchgreen `runepouchgreen`
+• $runepouchpurple `runepouchpurple`
+• $runepouchyellow `runepouchyellow`
+• $runesoul `runesoul`
+• $runewater `runewater`
+.s
+• $scop `scop`
+• $scythe `scythe`
+• $sgb `sgb`
+• $shard `shard`
+• $shatter `shatter`
+• $sheety `sheety`
+• $snipe `snipe`
+• $soup `soup`
+• $str `str`
+• $sunshine `sunshine`
+• $surge `surge`
+• $swh `swh`
+• $swipe `swipe`
+• $swiftness `swiftness`
+.t
+• $tc `tc`
+• $thermal `thermal`
+• $ts `ts`
+.v
+• $vbomb `vbomb`
+• $vitalis `vitalis`
+• $vitality `vitality`
+• $voke `voke`
+• $vorago `vorago`
+• $vuln `vuln`
+.w
+• $warning `warning`
+• $waterfall `waterfall`
+• $wm `wm`
+.y
+• $yak `yak`
+• $youtube `youtube`
+
+.index
+> __**Index**__
+
+• $pin **Introduction** {link:intro}
+• **A** {link:a}
+• **B** {link:b}
+• **C** {link:c}
+• **D** {link:d}
+• **E** {link:e}
+• **F** {link:f}
+• **G** {link:g}
+• **H** {link:h}
+• **I** {link:i}
+• **L** {link:l}
+• **M** {link:m}
+• **N** {link:n}
+• **P** {link:p}
+• **R** {link:r}
+• **S** {link:s}
+• **T** {link:t}
+• **V** {link:v}
+• **W** {link:w}
+• **Y** {link:y}
