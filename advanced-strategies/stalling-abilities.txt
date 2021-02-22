@@ -71,7 +71,7 @@ $warning If you acquire a new target, initiate combat and execute a consecutive 
 Example of stalling an ability, utilising Bladed Dive $bd for adrenaline gain and following the released stall with another ability in the same tick: https://i.imgur.com/tvwXAqR.mp4
 .
 An example execution of an advanced melee ability damage rotation ($gbarge > $freedom Darkbow Auto > $swh Stall): https://i.imgur.com/Rk6BAIX.mp4
-.
+.index
 
 > __**Index**__
 

@@ -108,7 +108,7 @@ Just like in preceding phases, Vorago applies Bleeds in Phase 5. There exist sev
 • Freedom $freedom immediately clears any applied bleeds
 • A Bleed is also cleared by moving 7 tiles away from where it was applied (utilise Escape $escape, Bladed Dive $bd, Surge $surge and Barge $barge)
 
-.
+.index
 > __**Index**__
 
 • $vorago **Starting Vorago** {link:intro}

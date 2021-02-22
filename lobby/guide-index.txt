@@ -85,7 +85,7 @@ All ability damage rotations can be found on the official Rago Hub spreadsheet:
 
 The Rago Hub spreadsheet features 150+ unique ability damage rotations that we constantly maintain and update depending on the powercreep and other game updates. All rotations have been exported with Sheety (refer to <#809153802132783154>) to provide you all the best experience possible for learning new rotation sets for your Vorago journey.
 
-.
+.index
 > __**Index**__
 
 • $youtube **Video Guides** {link:videoguides}

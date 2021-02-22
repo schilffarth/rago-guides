@@ -62,7 +62,7 @@ Position at the tile marked with a green cross, east to the entry.
 • Bladed Dive $bd
 • Bladed Dive $bd
 
-.
+.index
 > __**Index**__
 
 • $pin **Introduction** {link:intro}

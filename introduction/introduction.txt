@@ -50,7 +50,7 @@ __Hard Mode:__
  Pay attention to circles for aoe damage surrounding the Base and Bomb Tank, keeping in mind to be closer to Vorago than the Bomb tank is.
 .
 https://cdn.discordapp.com/attachments/428945702450757643/805515091533234207/vorago.png
-.
+.index
 
 > __**Index**__
 
