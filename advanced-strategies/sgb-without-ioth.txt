@@ -5,7 +5,7 @@ Guide written by <@316175818458136588>.
 This quick guide’s purpose is to explain how to effectively make use of the Seren Godbow $sgb without wasting the Ingenuity of the Humans $ingen.
 Having 7 or more affinity stacks applied to Vorago (Statius's Warhammer  $swh with Guthix Staff $gstaff or Quake $quake) will better, but isn’t necessary for the method.
 
-__How to:__
+__Execution:__
 
 • Unequip your armour chest, legs and head
 • Unequipping your head slot is optional, but highly recommended
@@ -14,7 +14,7 @@ __How to:__
 
 The exact same principle can be used to reapply SWH (use Malevolence $malevolence instead) during **P5 NM and 10/11 HM!**, but can be used on any other phase for the same purpose.
 
-> __**Useful example scenarios**__
+> __**Useful Example Scenarios**__
 
 • The End special attack in the first quadrant
 • Normal mode P5 / Hard Mode P10 and P11

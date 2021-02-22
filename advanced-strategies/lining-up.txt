@@ -4,12 +4,14 @@ Lining Up is described as a strategy for how to halve push back taken in Phases 
 
 The reason for having the Bomb Tanks lined up is due to Vorago's push mechanic being limited to 1 tile per game tick. Lining up vertically causes both launched Blue Bombs to deal damage in the same tick. Vorago's push mechanic reference: $zero-linking.
 
+.
 > __**Positioning**__
 
 You must be lined up from the very start on, at any cast distance. Optimal distancing is at 3 - 5 tiles from Vorago, so that channels will not be interrupted by exceeding maximum cast distance, but it also provides appropriate space for when Vorago pushes multiple times backwards.
 
 Make sure to **always** maintain cast distance and readjust your positioning when your partner moves.
 
+.
 __Team Splits:__
 
 You must both exit the Team Split at the same time and split to each respective side (North/South walls) **as soon as possible** to avoid sharing Blue Bombs.
@@ -18,14 +20,11 @@ When leaving a Team Split, you should click on a tile that is exactly at the edg
 
 Sometimes one person might have a far Team Split, while the other does not. In this case it would be best for the person farther out to reprisal or tank the Team Split preferably with vitality. If you don’t have enough HP, both players must watch out and initially line up at maximum cast distance (7 tiles with a ranger, 8 tiles with mages). After 2 GCDs, quickly move in in order to reposition at 3 - 5 tiles distanced to Vorago.
 
-.
-__Phase 10__
-
+• Phase 10
 .
 https://cdn.discordapp.com/attachments/680567174552617107/785250159462055946/p10.png
 .
 
-__Phase 11__
-
+• Phase 11
 .
 https://cdn.discordapp.com/attachments/680567174552617107/785250944883228672/p11.png
