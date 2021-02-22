@@ -170,6 +170,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • **N** {link:n}
 • **O** {link:o}
 • **P** {link:p}
+• **Q** {link:q}
 • **R** {link:r}
 • **S** {link:s}
 • **T** {link:t}
