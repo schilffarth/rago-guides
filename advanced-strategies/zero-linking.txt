@@ -1,12 +1,12 @@
 .intro
 Guide written by <@316175818458136588>.
 
-> __**0-linking Vorago in phase 5**__
+> __**Zero-linking Vorago in phase 5**__
 
 The purpose of this strategy is to finish Vorago off **before reflect** $link occurs.
 
 __Common terms:__
-• Zero-linking
+• 0-linking
 • One-pushing
 
 __Required knowledge:__
@@ -42,7 +42,7 @@ When Vorago gets pushed (both forwards and backwards), the next auto attack will
 • Weekly specials are integrated in the 3 tick auto attack speed
 
 .approach
-> __**Approaching 0-links**__
+> __**Approaching Zero-links**__
 
 The goals you should be working on are the following:
 
@@ -50,7 +50,7 @@ The goals you should be working on are the following:
 • From there on, push once every GCD / 3 ticks (maximizing stall)
 • Focus on a consistent start of pushing multiple steps before the spec release
 
-Bare in mind that 0-linking is a team effort. Both players have to coordinate their rotations properly in order to achieve 0-links.
+Bare in mind that zero-linking is a team effort. Both players have to coordinate their rotations properly in order to achieve zero-links.
 
 .examples
 > __**Examples**__
@@ -64,5 +64,5 @@ https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqg
 • $pin **Intro** {link:intro}
 • **Overflow** {link:overflow}
 • **Stalling** {link:stalling}
-• **Approaching 0-links** {link:approach}
+• **Approaching zero-links** {link:approach}
 • **Examples** {link:examples}
