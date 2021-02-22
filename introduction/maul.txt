@@ -53,12 +53,12 @@ A common strategy used in Hard Mode is to use Shield Dome $dome in combination w
 __Omens Outfit__
 
 Mauling in Hard Mode will unlock a piece of the Omens override. Each rotation unlocks a different piece:
-• $omenstorso Torso of Omens - Ceilings
-• $omenshelm Helm of Omens - Scopulus
-• $omenslegs Legs of Omens - Vitalis
-• $omensboots Boots of Omens - Green Bomb
-• $maul Maul of Omens - Team Split
-• $omensgloves Gloves of Omens - The End
+• $omenstorso Torso of Omens - Ceilings $ceil
+• $omenshelm Helm of Omens - Scopulus $scop
+• $omenslegs Legs of Omens - Vitalis $vitalis
+• $omensboots Boots of Omens - Green Bomb $green
+• $maul Maul of Omens - Team Split $ts
+• $omensgloves Gloves of Omens - The End $purple
 
 .index
 > __**Index**__
