@@ -17,4 +17,4 @@ The exact same principle can be used to reapply SWH (use Malevolence $malevolenc
 > __**Useful Example Scenarios**__
 
 • The End special attack in the first quadrant
-• Normal mode P5 / Hard Mode P10 and P11
+• Normal mode Phase 5 / Hard Mode Phase 10 and 11
