@@ -143,6 +143,8 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 .y
 • $yak `yak`
 • $youtube `youtube`
+.z
+• $zbrew `zbrew`
 
 .
 > __**Index**__
