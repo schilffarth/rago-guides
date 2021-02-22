@@ -12,7 +12,7 @@ __Execution:__
 • Activate Desolation $desolation
 • Use the Seren Godbow special attack $sgb
 
-The exact same principle can be used to reapply SWH (use Malevolence $malevolence instead) during **P5 NM and 10/11 HM!**, but can be used on any other phase for the same purpose.
+The exact same principle can be used to reapply SWH (use Malevolence $malevolence instead) during **Normal mode Phase 5 / Hard Mode Phase 10 and 11**, but can be used on any other phase for the same purpose.
 
 > __**Useful Example Scenarios**__
 
