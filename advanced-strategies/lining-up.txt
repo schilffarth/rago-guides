@@ -5,7 +5,7 @@ Guide written by <@250986556217622538>, <@781280949790572554> and <@164133228989
 
 Lining Up is described as a strategy for how to halve push back taken in Phases 10 and 11 in Hard Mode. The fundamental basis of both Bomb Tanks lining up is to stay in the same grid column, in order to be horizontally distanced to Vorago with an equal number of tiles.
 
-The reason for having the Bomb Tanks lined up is due to Vorago's push mechanic being limited to 1 tile per game tick. Lining up vertically causes both launched Blue Bombs to deal damage in the same tick. Vorago's push mechanic reference: $zero-linking.
+The reason for having the Bomb Tanks lined up is due to Vorago's push mechanic being limited to 1 tile per game tick. Lining up vertically causes both launched Blue Bombs to deal damage in the same tick. Vorago's push mechanic reference: #zero-linking.
 
 .
 > __**Positioning**__
