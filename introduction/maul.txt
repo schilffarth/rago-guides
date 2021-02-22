@@ -1,0 +1,69 @@
+.intro
+Guide written by <@226871275216175116>.
+
+> __**Maul**__
+
+The Maul Of Omens $maul is the only weapon that can defeat Vorago $vorago. It is used to apply the final blow in phase 5 (phases 10 and 11 in Hard Mode), related to as mauling. The Maul is broken into three pieces that are gathered during the fight: Ancient Weapon Piece (a) $maulpiecea, Ancient Weapon Piece (b) $maulpieceb and the Ancient Weapon Handle $maulpiecehandle.
+
+.piecesandconstruction
+> __**Pieces & Construction**__
+
+__Maul Pieces__
+
+• $maulpiecea Ancient Weapon Piece (a)
+This piece is acquired in phase 1 during the jump on Vorago's back. It will automatically appear in the inventory of the person who is jumping, this is why you need to have at least one free inventory space to be able to jump.
+
+• $maulpieceb Ancient Weapon Piece (b)
+This piece can be acquired in phase 2 after the Bring Him Down mechanic is passed (reference: #mechanics). You are required to deal enough damage to Vorago to knock this piece loose. The piece will drop on the floor and can be picked up. If the piece is left on the ground it carries through all phases. It is recommended to pick it up after phase 3 (phase 8 in Hard Mode).
+
+• $maulpiecehandle Ancient Weapon Handle
+The Handle can be acquired in phase 4 (or 9 in Hard Mode). Once Vorago is killed, the piece will drop on the floor and can be picked up.
+
+__Maul Construction__
+
+Once you carry all three pieces in your inventory the Maul $maul becomes constructible by clicking any of the three pieces in your inventory. If carrying all three pieces and not having finished the construction, the player suffers 100 typeless damage every other tick once entered phase 5 (phase 10 in Hard Mode). The suffocation stops as soon as the Maul is built.
+
+.mauling
+> __**Mauling**__
+
+The constructed Maul $maul has a left-click option: "Finish him!". You can drag the item onto an action bar key-bind. Vorago can be mauled once he is pushed all the way forward to the edge of the arena (8 tiles to be pushed from the spawn location). You can maul within 2 tiles distance to Vorago, so make sure you are close enough. In Normal Mode, mauling ends the kill.
+
+__Hard Mode__
+
+Mauling Vorago in Hard Mode phase 10 will transition you to phase 11. Adrenaline is drained to 0 and Vorago will jump back to the center, from where he needs to be pushed to the opposite side. Phase 11 can be mauled just like phase 5 in Normal Mode. Vorago's attack rotation continues in phase 11 according to when phase 10 was mauled. For Vorago's full attack rotations relate to the weekly rotation channels categorised under MECHANICS (reference: #phase-overview). Optimal phase 10 maul timing:
+
+• $ceil #ceilings Green Bomb $green release
+• $scop #scopulus Team Split $ts spawn
+• $vitalis #vitalis  start of Reflect $link
+• $green #green-bomb Green Bomb $green release
+• $ts #team-split start of Reflect $link
+• $purple #the-end after last Bleed $bleed
+
+__Shield Dome__
+
+A common strategy used in Hard Mode is to use Shield Dome $dome in combination with mauling $maul. It breaks the Maul animation and enables players to move around and use abilities during the phase transition. This is very useful for building adrenaline on a dummy during the animation, since all your adrenaline will be lost in the end of phase 10.
+
+.achievements
+> __**Achievements**__
+
+• Mauling in either Normal or Hard Mode is required for the Trimmed Completionist Cape $trimcape
+• Mauling any week in Hard Mode will unlock the Defeater title: `<rsn>, the Defeater`
+• Mauling all Hard Mode rotations makes you eligible to receive the Ancient Artefact which unlocks you the Bombi pet $purple
+
+__Omens Outfit__
+
+Mauling in Hard Mode will unlock a piece of the Omens override. Each rotation unlocks a different piece:
+• $omenstorso Torso of Omens - Ceilings
+• $omenshelm Helm of Omens - Scopulus
+• $omenslegs Legs of Omens - Vitalis
+• $omensboots Boots of Omens - Green Bomb
+• $maul Maul of Omens - Team Split
+• $omensgloves Gloves of Omens - The End
+
+.
+> __**Index**__
+
+• $pin **Introduction** {link:intro}
+• $maulpieceb **Pieces & Construction** {link:piecesandconstruction}
+• $maul **Mauling** {link:mauling}﻿
+• $achievement **Achievements** {link:achievements}﻿
