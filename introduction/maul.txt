@@ -50,9 +50,10 @@ A common strategy used in Hard Mode is to use Shield Dome $dome in combination w
 • Mauling any week in Hard Mode will unlock the Defeater title: `<rsn>, the Defeater`
 • Mauling all Hard Mode rotations makes you eligible to receive the Ancient Artefact which unlocks you the Bombi pet $purple
 
-__Omens Outfit__
+__Omens Outfit:__
 
-Mauling in Hard Mode will unlock a piece of the Omens override. Each rotation unlocks a different piece:
+Mauling in Hard Mode will unlock a piece of the Omens override, with each rotation unlocking a different piece.
+
 • $omenstorso Torso of Omens - Ceilings $ceil
 • $omenshelm Helm of Omens - Scopulus $scop
 • $omenslegs Legs of Omens - Vitalis $vitalis
