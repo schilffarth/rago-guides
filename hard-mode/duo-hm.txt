@@ -183,12 +183,12 @@ __Strategy:__
 
 • Base Tank pre-ultimate $sunshine $swiftness and Apot $apot
 • Bomb Tank apply SWH $swh on TC $tc
-• At Reflect $link, the Base Tank devo cepts $devo $cept
+• At Reflect $link, the Bomb Tank devo cepts $devo $cept
 • Base Tank must voke $voke before Vorago applies the first Bleed $bleed
 • Bomb Tank cade cepts $cade $cept bleeds 1 - 4
 • Base Tank Freedom $freedom the fourth Bleed
 • Bomb Tank voke and Freedom the last Bleed
-• If the phase takes a lot longer after Bleeds are over, the Bomb Tank can utilise Devotion Intercept $devo $cept
+• If the phase takes a lot longer after Bleeds are over, the Base Tank can utilise Devotion Intercept $devo $cept
 
 If the Bomb Tank has Malletops $malletops unlocked, they can alternatively skip their voke $voke for the last Bleed $bleed. Refresh Intercept as Barricade's timer reaches 11 seconds. The Base Tank has to Freedom $freedom the last Bleed instead of the fourth.
 
