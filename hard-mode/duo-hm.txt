@@ -141,7 +141,7 @@ The goal is to camp magic protection prayer $deflectmagic for the Blue Bombs $bl
 https://cdn.discordapp.com/attachments/676485011268042761/813137143361699860/duohm_p4.png
 .
 
-__*Pathing Scopulus*__
+__Pathing Scopulus:__
 
 • Whoever has 2 Scopuli $scop on them, voke $voke the third
 • During Barricade $cade and Devotion Intercept $devo $cept, both players DD (to avoid Scopuli decoupling)
@@ -150,7 +150,7 @@ __*Pathing Scopulus*__
 • Do not walk too close to the center, or Scopuli will not be in line of sight any longer if they get stuck behind Vorago
 
 .
-__*Strategy*__
+__Strategy:__
 
 Intercept $cept does not register while moving. Make sure you stand still when cepting!
 
@@ -307,8 +307,8 @@ __Mauling:__
 • During the phase transition, both players build up to 100% on the dummy (use defensive abilities + auto attacks)
 
 Example Phase 10 (Base Tank POV): https://www.youtube.com/watch?v=vaawIOmKJcw
-
 .p11
+
 > __**Phase 11 - Team Split**__
 
 __Strategy:__
