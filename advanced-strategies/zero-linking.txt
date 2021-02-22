@@ -1,0 +1,68 @@
+.intro
+Guide written by <@316175818458136588>.
+
+> __**Zero-linking Vorago in phase 5**__
+
+The purpose of this strategy is to finish Vorago off **before reflect** $link occurs.
+
+__Common terms:__
+• 0-linking
+• One-pushing
+
+__Required knowledge:__
+• Vorago's spawn location until maul $maul requires 8 tiles of push forward
+• No push for 4 ticks allows Vorago to trigger an auto attack
+• Pushing at TC will stall Vorago's special attack, such as Team Split $ts - Guide: #target-cycle
+
+.overflow
+> __**Overflow**__
+
+• One tile push requires 20,000 damage dealt
+
+For example:
+
+Imagine critting an Omnipower $omni on a target with 100 HP left. The Omnipower is in fact not going to deal its full potential (let us assume 15,000), but will instead deal the exact remaining life points of 100. At Vorago P5/10/11, the 20,000 damage act as individual health pools, so once a hit finishes the required cap, its remaining damage is lost entirely, just as if you were killing that 100 HP monster with a 15k Omnipower.
+
+**Vorago can only move 1 tile per 1 tick.** Yet, other hit splats / damage dealt in the same tick as Vorago is being pushed is not lost. It is going to count towards the so-called **overflow** damage. It is simply added up to the next 20k damage needed to push the next tile.
+
+.stalling
+> __**Stalling**__
+
+• Vorago's auto attack speed is 3 ticks
+• Vorago being pushed resets the auto attack timer plus an additional tick (generated stall adds 3 ticks)
+• 4 ticks after a push Vorago's next auto attack is triggered
+• Without stall Vorago's autos happen consecutively every 3 ticks
+
+When Vorago gets pushed (both forwards and backwards), the next auto attack will be 4 ticks after the push. If you push 1 tick before an auto attack would have come, the next auto attack will be delayed by another 3 ticks, generating you 7 ticks of stall before Vorago continues his attack rotation.
+
+**Stalling periodically every 3 ticks** is going to prevent Vorago from releasing *any* attack, until you haven't pushed for 4 ticks or longer. At that point, an auto attack is triggered.
+
+• Dealing the push cap (20,000) in TC is going to stall any weekly special $ts $purple $vitalis $green
+• Weekly specials act as auto attacks $auto
+• Weekly specials are integrated in the 3 tick auto attack speed
+
+.approach
+> __**Approaching Zero-links**__
+
+The goals you should be working on are the following:
+
+• Push at TC $tc (deal 20k+ damage in the very first tick of target cycle)
+• From there on, push once every GCD / 3 ticks (maximizing stall)
+• Focus on a consistent start of pushing multiple steps before the spec release
+
+Bare in mind that zero-linking is a team effort. Both players have to coordinate their rotations properly in order to achieve zero-links.
+
+.examples
+> __**Examples**__
+
+Check out the official RagoHub spreadsheet for advanced Phase 5 ability damage rotations with the purpose of consistent 0-linking:
+https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit?usp=sharing
+
+.index
+> __**Index**__
+
+• $pin **Intro** {link:intro}
+• **Overflow** {link:overflow}
+• **Stalling** {link:stalling}
+• **Approaching zero-links** {link:approach}
+• **Examples** {link:examples}
