@@ -1,3 +1,6 @@
+.intro
+Guide written by <@250986556217622538>, <@781280949790572554> and <@164133228989513728>.
+
 > __**Lining Up**__
 
 Lining Up is described as a strategy for how to halve push back taken in Phases 10 and 11 in Hard Mode. The fundamental basis of both Bomb Tanks lining up is to stay in the same grid column, in order to be horizontally distanced to Vorago with an equal number of tiles.
