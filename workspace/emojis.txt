@@ -143,7 +143,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $yak `yak`
 • $youtube `youtube`
 
-.index
+.
 > __**Index**__
 
 • $pin **Introduction** {link:intro}
@@ -157,6 +157,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • **H** {link:h}
 • **I** {link:i}
 • **L** {link:l}
+.
 • **M** {link:m}
 • **N** {link:n}
 • **O** {link:o}
