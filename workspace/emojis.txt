@@ -5,6 +5,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 
 .a
 • $accel `accel`
+• $achievement `achievement`
 • $anticipation `anticipation`
 • $apot `apot`
 • $asphyx `asphyx`
@@ -64,10 +65,17 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $maulpieceb `maulpieceb`
 • $maulpiecehandle `maulpiecehandle`
 • $maul `maul`
+• $maxcape `maxcape`
 • $metamorphosis `metamorphosis`
 .n
 • $natty `natty`
 • $nihil `nihil`
+.o
+• $omensboots `omensboots`
+• $omensgloves `omensgloves`
+• $omenshelm `omenshelm`
+• $omenslegs `omenslegs`
+• $omenstorso `omenstorso`
 .p
 • $pin `pin`
 • $purple `purple`
@@ -151,6 +159,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • **L** {link:l}
 • **M** {link:m}
 • **N** {link:n}
+• **O** {link:o}
 • **P** {link:p}
 • **R** {link:r}
 • **S** {link:s}
