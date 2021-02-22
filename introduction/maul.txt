@@ -1,5 +1,4 @@
 .intro
-
 Guide written by <@226871275216175116>.
 
 > __**Maul**__
