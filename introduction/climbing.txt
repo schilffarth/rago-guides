@@ -1,0 +1,70 @@
+.intro
+Guide written by <@316175818458136588>.
+
+> __**Climbing**__
+
+Jump onto Vorago's back to loosen and pick up the Ancient Weapon Piece (a) $maulpiecea for constructing the Maul of Omens $maul (reference: #maul). At least **one free inventory space** is required to jump.
+
+• Top Lure: Climbing past the western entry obstacle in Phase 1 and voking $voke Vorago into jump spot at the final platform; Voking becomes irrelevant if your Base Tank solo lures (reference: #solo-lure)
+• Standard Climb: A simple order of Surge $surge and Bladed Dive $bd in order to achieve a 36 second voke $voke
+• Acceleration Climb: Reaching the final platform at 28.2 seconds by making use of the Powerburst Of Acceleration $accel (earliest jump at 28.8 seconds)
+
+Refer to #hammer-climb for advanced climbing methods.
+
+.standardclimb
+> __**Standard Climb**__
+
+Leave out the Surge $surge at spot **5)** if Double Surge $doublesurge is not unlocked.
+
+• Phase 1 arena reference
+.
+https://cdn.discordapp.com/attachments/500971699349749760/813399965183377418/standard.png
+.
+
+• GIF
+.
+https://cdn.discordapp.com/attachments/500971699349749760/813400314073841744/climbing_standard_v2.gif
+.
+
+Position at the tile marked with a green cross, east to the entry obstacle.
+
+• Surge $surge
+• Bladed Dive $bd
+• Surge $surge
+• Surge $surge again (only if Double Surge $doublesurge is unlocked)
+
+__Final platform:__
+
+• Bladed Dive $bd 1 tile east of the crack in the ground (2 tiles west of eastern edge)
+• Can leave out BD and attack Vorago earlier instead - Simply walk to the marked spot
+• Voke $voke Vorago from this position
+
+.accelclimb
+> __**Acceleration Climb**__
+
+This climbing method makes use of the Powerburst Of Acceleration $accel. You reach the final platform at 28,2 seconds.
+
+• Phase 1 arena reference
+.
+https://cdn.discordapp.com/attachments/500971699349749760/813401140850458634/acceleration.png
+.
+
+• GIF
+.
+https://cdn.discordapp.com/attachments/500971699349749760/813401330789515284/climbing_accel_v2.gif
+.
+
+Position at the tile marked with a green cross, east to the entry.
+
+• Surge $surge
+• Bladed Dive $bd
+• Acceleration $accel and Surge $surge
+• Bladed Dive $bd
+• Bladed Dive $bd
+
+.
+> __**Index**__
+
+• $pin **Introduction** {link:intro}
+• $maulpiecea **Standard Climb** {link:standardclimb}
+• $accel **Acceleration Climb** {link:accelclimb}
