@@ -5,7 +5,7 @@ Guide written by <@316175818458136588>.
 
 Jump onto Vorago's back to loosen and pick up the Ancient Weapon Piece (a) $maulpiecea for constructing the Maul of Omens $maul (reference: #maul). At least **one free inventory space** is required to jump.
 
-• Top Lure: Climbing past the western entry obstacle in Phase 1 and voking $voke Vorago into jump spot at the final platform; Voking becomes irrelevant if your Base Tank solo lures (reference: #solo-lure)
+• Top Lure: Climbing past the western entry obstacle and voking $voke Vorago into jump spot; Voking becomes irrelevant if your Base Tank solo lures (reference: #solo-lure)
 • Standard Climb: A simple order of Surge $surge and Bladed Dive $bd in order to achieve a 36 second voke $voke
 • Acceleration Climb: Reaching the final platform at 28.2 seconds by making use of the Powerburst Of Acceleration $accel (earliest jump at 28.8 seconds)
 
