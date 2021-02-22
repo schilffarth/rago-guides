@@ -8,7 +8,7 @@ The Maul Of Omens $maul is the only weapon that can defeat Vorago $vorago. It is
 .piecesandconstruction
 > __**Pieces & Construction**__
 
-__Maul Pieces__
+__Maul Pieces:__
 
 • $maulpiecea Ancient Weapon Piece (a)
 This piece is acquired in phase 1 during the jump on Vorago's back. It will automatically appear in the inventory of the person who is jumping, this is why you need to have at least one free inventory space to be able to jump.
@@ -19,7 +19,7 @@ This piece can be acquired in phase 2 after the Bring Him Down mechanic is passe
 • $maulpiecehandle Ancient Weapon Handle
 The Handle can be acquired in phase 4 (or 9 in Hard Mode). Once Vorago is killed, the piece will drop on the floor and can be picked up.
 
-__Maul Construction__
+__Maul Construction:__
 
 Once you carry all three pieces in your inventory the Maul $maul becomes constructible by clicking any of the three pieces in your inventory. If carrying all three pieces and not having finished the construction, the player suffers 100 typeless damage every other tick once entered phase 5 (phase 10 in Hard Mode). The suffocation stops as soon as the Maul is built.
 
@@ -28,7 +28,7 @@ Once you carry all three pieces in your inventory the Maul $maul becomes constru
 
 The constructed Maul $maul has a left-click option: "Finish him!". You can drag the item onto an action bar key-bind. Vorago can be mauled once he is pushed all the way forward to the edge of the arena (8 tiles to be pushed from the spawn location). You can maul within 2 tiles distance to Vorago, so make sure you are close enough. In Normal Mode, mauling ends the kill.
 
-__Hard Mode__
+__Hard Mode:__
 
 Mauling Vorago in Hard Mode phase 10 will transition you to phase 11. Adrenaline is drained to 0 and Vorago will jump back to the center, from where he needs to be pushed to the opposite side. Phase 11 can be mauled just like phase 5 in Normal Mode. Vorago's attack rotation continues in phase 11 according to when phase 10 was mauled. For Vorago's full attack rotations relate to the weekly rotation channels categorised under MECHANICS (reference: #phase-overview). Optimal phase 10 maul timing:
 
@@ -39,7 +39,7 @@ Mauling Vorago in Hard Mode phase 10 will transition you to phase 11. Adrenaline
 • $ts #team-split start of Reflect $link
 • $purple #the-end after last Bleed $bleed
 
-__Shield Dome__
+__Shield Dome:__
 
 A common strategy used in Hard Mode is to use Shield Dome $dome in combination with mauling $maul. It breaks the Maul animation and enables players to move around and use abilities during the phase transition. This is very useful for building adrenaline on a dummy during the animation, since all your adrenaline will be lost in the end of phase 10.
 
@@ -60,10 +60,10 @@ Mauling in Hard Mode will unlock a piece of the Omens override. Each rotation un
 • $maul Maul of Omens - Team Split
 • $omensgloves Gloves of Omens - The End
 
-.
+.index
 > __**Index**__
 
 • $pin **Introduction** {link:intro}
 • $maulpieceb **Pieces & Construction** {link:piecesandconstruction}
-• $maul **Mauling** {link:mauling}﻿
-• $achievement **Achievements** {link:achievements}﻿
+• $maul **Mauling** {link:mauling}
+• $achievement **Achievements** {link:achievements}
