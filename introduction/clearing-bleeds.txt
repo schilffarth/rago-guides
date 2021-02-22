@@ -6,7 +6,7 @@ Guide written by <@226871275216175116>
 There are two primary ways of clearing a Bleed $bleed.
 
 • **Freedom** $freedom
-• **Distancing:** Being at least 7 tiles away from Vorago. To achieve this without taking a single bleed hit, you can use Escape $escape, Bladed Dive $bd or Surge $surge.
+• **Distancing:** Being at least 7 tiles away from Vorago; to achieve this without taking a single bleed hit, you can use Escape $escape, Bladed Dive $bd or Surge $surge
 
 In Phases 2 - 4 (Phases 2 - 9 in HM) there must be **7 tiles between Vorago and your character**.
 
@@ -51,7 +51,7 @@ This strategy opens a new meta for clearing **3 Bleeds in a row**:
 • Clear first Bleed with Freedom $freedom
 • Clear second Bleed with escape-bladed diving $escape $bd
 • Clear third Bleed by either escaping again (if Double Escape $doubleescape is unlocked) or simply walk away from Vorago to get yourself in safe distance
-• Make sure you **never** do this method from a corner, because you might walk Vorago. Always do it from a side
+• Make sure you **never** do this method from a corner, because you might walk Vorago. Always do it from a side.
 
 .index
 > __**Index**__
