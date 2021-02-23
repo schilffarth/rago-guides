@@ -188,7 +188,7 @@ In the above scenario, Vorago pushes back 3 times and you can only take advantag
 
 Debilitating prevents the first Blue Bomb $blue from stalling Vorago which means that the third Blue gets sent out, allowing the Team Split attack to happen earlier. If you have Disruption Shield $disrupt, it is best to use it on the second blue and use one threshold. If you push Vorago after he sends out the third Blue, you have a chance to take advantage of the stall from the last Blue rather than getting pushed during Team Split.
 
-.intro
+.index
 > __**Index**__
 
 • $pin **Entry Hit** {link:entryhit}
