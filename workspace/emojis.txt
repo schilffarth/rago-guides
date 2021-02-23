@@ -16,17 +16,23 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 .b
 • $barrage `barrage`
 • $bd `bd`
+• $berserker `berserker`
+• $berserkersfury `berserkersfury`
+• $biting `biting`
 • $bleed `bleed`
 • $blitz `blitz`
 • $blue `blue`
 • $bonfire `bonfire`
+• $bsa `bsa`
 .c
 • $cade `cade`
 • $cblast `cblast`
 • $ceil `ceil`
 • $cept `cept`
 • $cheese `cheese`
+• $chins `chins`
 • $cleave `cleave`
+• $crackling `crackling`
 • $cshot `cshot`
 .d
 • $dbow `dbow`
@@ -38,6 +44,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $deflectranged `deflectranged`
 • $desolation `desolation`
 • $destroy `destroy`
+• $detonate `detonate`
 • $devo `devo`
 • $discord `discord`
 • $disrupt `disrupt`
@@ -46,15 +53,19 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $doublesurge `doublesurge`
 • $dummy `dummy`
 .e
+• $ecb `ecb`
 • $ent `ent`
 • $eof `eof`
 • $escape `escape`
 • $excal `excal`
 .f
 • $fortitude `fortitude`
+• $fots `fots`
 • $freedom `freedom`
 .g
 • $gbarge `gbarge`
+• $gchain `gchain`
+• $gear `gear`
 • $gfury `gfury`
 • $gravity `gravity`
 • $green `green`
@@ -62,6 +73,8 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $gstaff `gstaff`
 .h
 • $heal `heal`
+• $heightenedsenses `heightenedsenses`
+• $hydrixbolts `hydrixbolts`
 .i
 • $ingen `ingen`
 .l
@@ -69,6 +82,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $link `link`
 .m
 • $magic `magic`
+• $maniacal `maniacal`
 • $malevolence `malevolence`
 • $malletops `malletops`
 • $mammoth `mammoth`
@@ -78,6 +92,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $maul `maul`
 • $maxcape `maxcape`
 • $metamorphosis `metamorphosis`
+• $mobile `mobile`
 .n
 • $natty `natty`
 • $needle `needle`
@@ -89,6 +104,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $omenslegs `omenslegs`
 • $omenstorso `omenstorso`
 • $omni `omni`
+• $onyxbolts `onyxbolts`
 .p
 • $pin `pin`
 • $purple `purple`
@@ -104,7 +120,10 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $reprisal `reprisal`
 • $resonance `resonance`
 .
+• $reckless `reckless`
+• $reflect `reflect`
 • $runeair `runeair`
+• $rubybolts `rubybolts`
 • $runeastral `runeastral`
 • $runeblood `runeblood`
 • $runebody `runebody`
@@ -146,6 +165,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 .t
 • $tc `tc`
 • $thermal `thermal`
+• $transfigure `transfigure`
 • $trimcape `trimcape`
 • $ts `ts`
 .v
@@ -164,6 +184,8 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $youtube `youtube`
 .z
 • $zbrew `zbrew`
+• $zerk `zerk`
+• $zgs `zgs`
 
 .
 > __**Index**__
