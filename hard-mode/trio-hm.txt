@@ -9,7 +9,7 @@ __General Requirements:__
 
 • Proper gear (T90+ weapons, T80+ power armour, Invention perks)
 • The team's Base Tank (melee) is responsible for applying the Statius's Warhammer $swh special attack in all phases
-• A base knowledge for approaching Vorago in Hard Mode, all its weekly special attacks and appropriate intuition for occurrences such as random Red Bombs :redbomb~1:
+• A base knowledge for approaching Vorago in Hard Mode, all its weekly special attacks and appropriate intuition for occurrences such as random Red Bombs $red
 • Intercept $cept (reference: #cade-cept)
 • Heal Other $heal (reference: #crack-healing)
 • Powerburst of Vitality $vitality (14k entry hit, Green Bomb damage, Team Split damage)
@@ -159,7 +159,7 @@ Drink a sip of the Powerburst of Vitality $vitality a few seconds after Stand Up
 • The Statius's Warhammer $swh special attack enables all following abilities in that tick cast by yourself with 100% hitchance
 • Following advanced ability rotations as provided on the Rago Hub spreadsheet
 • This includes pre-Berserk and pre-Barge rotations, or at a highest skill level utilising Darkbow auto attacks for optimal adrenaline gain
-• Heightened Senses $heightenedsenses and Fury of the Small $furyofthesmall cause a drastic improvement for your Berserk $zerk ability rotations, significantly more than Berserker's Fury $berserkersfury would
+• Heightened Senses $heightenedsenses and Fury of the Small $fots cause a drastic improvement for your Berserk $zerk ability rotations, significantly more than Berserker's Fury $berserkersfury would
 • Optimizing the usage of Natural Instinct - Reference: #natty
 • Remove the Mobile perk $mobile from your armour so that Surge, Escape and Bladed Dive generate adrenaline
 • Disruption Shield $disrupt should be used during P2 BHD, end of P3, end of P4 / start of P5, during first TS P7 and before P8 Stand Up
@@ -206,7 +206,7 @@ https://cdn.discordapp.com/attachments/676485011268042761/802308753491361822/tri
 
 It is always recommended to have one Bomb Tank ranging in Trio Hard Mode, who will pre-Ultimate $swiftness start of Phase 1 and deal damage to Vorago, referred to as Bomb Tank #1. The other Bomb Tank is responsible for Climbing and Top Luring $maulpiecea, also referred to as Bomb Tank #2. Refer to #climbing for a detailed breakdown of responsibilities as P1 Top Lure.
 
-A simple Death's Swiftness standard rotation should be enough to bring Vorago's lifepoints low enough before the Climber jumps. Your Ultimate should be placed right in melee distance, west of Vorago's spawn location. This position should provide you 100% uptime of your Ultimate for most locations that Vorago is lured to. Slow down dealing damage as Vorago reaches 50,000 HP and off early enough to avoid a reset.
+A simple Death's Swiftness standard rotation should be enough to bring Vorago's lifepoints low enough before the Climber jumps. Your Ultimate should be placed right in melee distance, west of Vorago's spawn location. This position should provide you 100% uptime of your Ultimate for most locations that Vorago is lured to. Slow down dealing damage as Vorago reaches `50,000` HP and off early enough to avoid a reset.
 
 If the Base Tank receives the second Red Bomb $red (random), you should cast Heal Other $heal to support the Base Tank's food management.
 
@@ -374,7 +374,7 @@ __Required:__
 __Recommended:__
 
 • Guthix Staff $gstaff stored in an Essence of Finality $eof
-• Fury of the Small $furyofthesmall
+• Fury of the Small $fots
 • Seren Godbow $sgb
 • Biting 17 $biting
 • Converting to a Ranged Bomb Tank
@@ -572,7 +572,7 @@ Equip your secondary combat style for the Phase 1 to allow for tagging from the 
 
 The Bomb Tank's responsibilities throughout Phase 2 are not any different to bomb tanking Normal Mode.
 
-Usually the Bomb Tank #2 (the Climber) takes over cade cepting $cade $cept the first and third Red Bomb :redbomb~1:. The Bomb Tank #1 cade cepts the second one.
+Usually the Bomb Tank #2 (the Climber) takes over cade cepting $cade $cept the first and third Red Bomb $red. The Bomb Tank #1 cade cepts the second one.
 
 You should have one person dedicated to shattering $shatter the end of Bring Him Down (preferably the Ranger).
 
