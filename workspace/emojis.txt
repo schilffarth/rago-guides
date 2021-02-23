@@ -4,6 +4,7 @@
 Emojis are simply converted with the following format: `$emoji`. A full list of Emojis can be found below. Example: `$emoji` will be parsed into `<:SomeEmoji:12398407103928653>`, which displays the Emoji emoji (does not actually exist). Each keyword will be converted into the respective emoji when a preceding `$` is applied.
 
 .a
+**A**
 • $accel `accel`
 • $achievement `achievement`
 • $affliction `affliction`
@@ -14,6 +15,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $attack `attack`
 • $auto `auto`
 .b
+**B**
 • $barrage `barrage`
 • $bd `bd`
 • $berserker `berserker`
@@ -25,6 +27,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $bonfire `bonfire`
 • $bsa `bsa`
 .c
+**C**
 • $cade `cade`
 • $cblast `cblast`
 • $ceil `ceil`
@@ -35,6 +38,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $crackling `crackling`
 • $cshot `cshot`
 .d
+**D**
 • $dbow `dbow`
 • $dbreath `dbreath`
 • $debil `debil`
@@ -53,16 +57,19 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $doublesurge `doublesurge`
 • $dummy `dummy`
 .e
+**E**
 • $ecb `ecb`
 • $ent `ent`
 • $eof `eof`
 • $escape `escape`
 • $excal `excal`
 .f
+**F**
 • $fortitude `fortitude`
 • $fots `fots`
 • $freedom `freedom`
 .g
+**G**
 • $gbarge `gbarge`
 • $gchain `gchain`
 • $gear `gear`
@@ -73,15 +80,19 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $grico `grico`
 • $gstaff `gstaff`
 .h
+**H**
 • $heal `heal`
 • $heightenedsenses `heightenedsenses`
 • $hydrixbolts `hydrixbolts`
 .i
+**I**
 • $ingen `ingen`
 .l
+**L**
 • $limitless `limitless`
 • $link `link`
 .m
+**M**
 • $magic `magic`
 • $maniacal `maniacal`
 • $malevolence `malevolence`
@@ -95,10 +106,12 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $metamorphosis `metamorphosis`
 • $mobile `mobile`
 .n
+**N**
 • $natty `natty`
 • $needle `needle`
 • $nihil `nihil`
 .o
+**O**
 • $omensboots `omensboots`
 • $omensgloves `omensgloves`
 • $omenshelm `omenshelm`
@@ -107,12 +120,15 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $omni `omni`
 • $onyxbolts `onyxbolts`
 .p
+**P**
 • $pin `pin`
 • $purple `purple`
 • $pvme `pvme`
 .q
+**Q**
 • $quake `quake`
 .r
+**R**
 • $ragopvm `ragopvm`
 • $ranged `ranged`
 • $rapid `rapid`
@@ -146,6 +162,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $runesoul `runesoul`
 • $runewater `runewater`
 .s
+**S**
 • $scop `scop`
 • $scythe `scythe`
 • $sever `sever`
@@ -165,12 +182,14 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $swipe `swipe`
 • $swiftness `swiftness`
 .t
+**T**
 • $tc `tc`
 • $thermal `thermal`
 • $transfigure `transfigure`
 • $trimcape `trimcape`
 • $ts `ts`
 .v
+**V**
 • $vbomb `vbomb`
 • $vitalis `vitalis`
 • $vitality `vitality`
@@ -178,13 +197,16 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $vorago `vorago`
 • $vuln `vuln`
 .w
+**W**
 • $warning `warning`
 • $waterfall `waterfall`
 • $wm `wm`
 .y
+**Y**
 • $yak `yak`
 • $youtube `youtube`
 .z
+**Z**
 • $zbrew `zbrew`
 • $zerk `zerk`
 • $zgs `zgs`
