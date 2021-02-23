@@ -1,0 +1,65 @@
+Guide written by <@781280949790572554>
+.intro
+> **__Ability Travel Speed__**
+
+Ability Travel Speed defines the amount of ticks an ability requires to connect its damage.
+
+Vorago is a boss with very limited DPS time windows, thus maximizing all damage dealt is vital, so ensuring all your abilities are fast hitting where important can aid in increasing damage output before specific mechanics happen.
+
+In Phase 5 it is relatively important when following or creating rotations to exploit these hit timings to ensure you do not cause lost overflow, as Vorago can only move 1 tile per tick. Refer to <#734513733883396146> for more information.
+
+At certain distances from the true center of a target (for large mobs such as Vorago it is the South-West corner), abilities hit a tick later than usual (in rare instances it will get slower again), and so it is important to remain within that range if the rotation requires you to do fast hitting abilities just before Reflect $reflect - Most Rago Hub ability damage rotations require exactly that. Reference: <https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit?usp=sharing>
+
+__Purpose of multiple Ranged tables:__
+
+Ranged is interesting in the fact that all its weapons have differing hit timings for certain abilities (i.e.: $snap  and Dazing Shot $dazing). This is very important to remember for the weekly special mechanics Team Split $ts and The End $purple, where if you wish to Target Cycle $tc an ability (reference: <#731487797336211507> and <#701072208486727761>) it must be fast hitting (things that hit on tick 1 in the listed tables), otherwise its damage will be nulled due to mechanical reasons. Thus, it is recommended for Ranged to use fast hitting cosmetic overrides, as they turn selected slow hitting abilities into fast hitting abilities for several tiles before they get slowed again.
+ 
+.melee
+> **__Melee__**
+
+Game update on 8th February, these changes are not in the Sheet / screenshots:
+• Bled Flurry $gflurry / Destroy $destroy hit 1 now hits on tick 1 (instant, one tick earlier than it used to)
+• Bled dual-wielded Assault $assault hit 1 now hits on tick 3 (one tick later than it used to)
+
+https://cdn.discordapp.com/attachments/676485011268042761/802190572113756191/unknown.png
+https://cdn.discordapp.com/attachments/676485011268042761/802190669359742976/unknown.png
+
+
+
+ 
+.magic
+> **__Magic__**
+
+https://cdn.discordapp.com/attachments/676485011268042761/802190375950876672/unknown.png
+
+ 
+
+.range
+> **__Ranged__**
+
+.
+$blowpipe __Blowpipe:__
+
+https://cdn.discordapp.com/attachments/676485011268042761/802190867057737748/unknown.png
+
+.
+$dart __Darts:__
+
+https://cdn.discordapp.com/attachments/676485011268042761/802190993658740757/unknown.png
+
+.
+$chins __Mechanised Chinchompas:__
+
+These tests were done using Chinchompas as main-hand only, unless otherwise stated (needle + unload where dual-wielded off-hand is used). When 10 tiles are stated it equals to 1 tile out of the weapon's maximum cast range, so if you used a dual-wielded off-hand crossbow, it may get delayed at 8 tiles instead. Overrides affect chins as well, with same hit timing modifications as you would expect from the override.
+
+https://cdn.discordapp.com/attachments/676485011268042761/802191138744041512/unknown.png
+https://cdn.discordapp.com/attachments/676485011268042761/802191194745864233/unknown.png
+
+
+.
+> **__index__**
+
+• $pin **Introduction** {link:intro}
+• $attack **Melee** {link:melee}
+• $magic **Magic** {link:magic}
+• $ranged **Ranged** {link:range}
