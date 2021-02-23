@@ -66,6 +66,7 @@ The Phase order for Hard Mode is as follows:
 
 .index
 > __**Index**__
+
 • **Overview** {link:overview}
 • **Phase 1** {link:p1}
 • **Phase 2** {link:p2}
