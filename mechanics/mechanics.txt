@@ -153,7 +153,7 @@ Vorago performs an attack visually similar to a melee Swipe $swipe, cloning rand
 .push
 > __**Phase 5 Push**__
 
-In phase 5 (in Hard Mode phases 10 and 11) the goal is to push Vorago to the very end of the arena and then finish him off with the Maul Of Omens $maul (reference: #maul).
+In phase 5 (in Hard Mode phases 10 and 11) the goal is to push Vorago to the very end of the arena and then finish him off with the Maul Of Omens $maul (reference: #maul). Detailed information about the push mechanic can be found in our advanced strategy guide #zero-linking.
 
 • Deal damage to Vorago in order to push him forward
 • Upon Vorago dealing damage he pushes the other direction backwards
@@ -175,7 +175,18 @@ __Abilities Reducing Pushback:__
 • $dome Shield Dome
 • $debil Debilitate (should never be used)
 
-Detailed information about the push mechanic can be found in our advanced strategy guide #zero-linking.
+__Skipping Debilitate on Phase 5:__
+
+Debilitate should be skipped after bleeds because while it does have a chance of blocking pushback, it can negatively impact stall. This is most notable on the Team Split $ts rotation because the person who ultimates relies heavily on his thresholds before Team Split. Not needed in other rotations, however, it may still prevent players from using the full duration of their ultimate. This is the reason why to skip Debilitate $debil and gain more stall, resulting in more DPS uptime.
+
+.
+**Without Debilitating:** $blue Blue Bomb ➔ $blue Blue Bomb ➔ first Blue hits and creates stall ➔ second Blue hits and creates stall ➔ $blue Blue Bomb ➔ $ts Team Split ➔ third Blue hits and creates stall (during Team Split)
+
+In the above scenario, Vorago pushes back 3 times and you can only take advantage of 2 times he stalls, 2 of which are 3 ticks apart.
+
+**Using Debilitate:** $blue Blue Bomb ➔ $blue Blue Bomb ➔ first Blue hits ➔ $blue Blue Bomb ➔ second Blue hits and creates stall ➔ $ts Team Split ➔ third Blue hits and creates stall (during Team Split)
+
+Debilitating prevents the first Blue Bomb $blue from stalling Vorago which means that the third Blue gets sent out, allowing the Team Split attack to happen earlier. If you have Disruption Shield $disrupt, it is best to use it on the second blue and use one threshold. If you push Vorago after he sends out the third Blue, you have a chance to take advantage of the stall from the last Blue rather than getting pushed during Team Split.
 
 .intro
 > __**Index**__

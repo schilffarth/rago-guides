@@ -32,6 +32,10 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $cblast `cblast`
 • $ceil `ceil`
 • $cept `cept`
+• $chare `chare`
+• $charn `charn`
+• $chars `chars`
+• $charw `charw`
 • $cheese `cheese`
 • $chins `chins`
 • $cleave `cleave`
@@ -86,6 +90,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $hydrixbolts `hydrixbolts`
 .i
 **I**
+• $immortality `immortality`
 • $ingen `ingen`
 .l
 **L**
@@ -167,6 +172,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $scythe `scythe`
 • $sever `sever`
 • $sgb `sgb`
+• $shadowtendrils `shadowtendrils`
 • $shard `shard`
 • $shatter `shatter`
 • $sheety `sheety`

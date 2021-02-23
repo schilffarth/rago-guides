@@ -4,6 +4,7 @@ Guide written by <@316175818458136588>.
 > __**Solo luring P1**__
 
 Solo luring describes a strategy to position Vorago at jump spot in phase 1.
+
 .
 https://media.discordapp.net/attachments/734513833489596496/735115790373879878/visual.png
 .
@@ -21,36 +22,36 @@ Solo luring P1 itself is fairly straight forward: Simply follow the exact tiles 
 .westwalk
 > __**West walk**__
 
-• Illustration:
+• Illustration
 .
 https://media.discordapp.net/attachments/734513833489596496/735115879842316398/history_west.png
 .
 
-• GIF:
+• GIF
 .
 https://media.discordapp.net/attachments/734513833489596496/735115944568815676/GIF_west.gif
 .southwalk
 
 > __**South walk**__
 
-• Illustration:
+• Illustration
 .
 https://cdn.discordapp.com/attachments/734513833489596496/735116035069313034/history_south.png
 .
 
-• GIF:
+• GIF
 .
 https://cdn.discordapp.com/attachments/734513833489596496/735116074303094784/GIF_south.gif
 .eastwalk
 
 > __**East walk**__
 
-• Illustration:
+• Illustration
 .
 https://cdn.discordapp.com/attachments/734513833489596496/735116137787817984/history_east.png
 .
 
-• GIF:
+• GIF
 .
 https://cdn.discordapp.com/attachments/734513833489596496/735116164723769404/GIF_east.gif
 .video
@@ -59,7 +60,6 @@ https://cdn.discordapp.com/attachments/734513833489596496/735116164723769404/GIF
 
 .
 https://www.youtube.com/watch?v=1mgdsTZGMuY
-
 .index
 
 > __**Index**__
