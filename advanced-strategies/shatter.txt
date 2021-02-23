@@ -10,7 +10,7 @@ After unlocking the Storm Shards & Shatter abilities $shard $shatter from the Ma
 Using Shatter as a slow hitting ability (Range $ranged without fast hitting overrides or Mage $magic from 5+ tiles) will allow you to Shatter 1 tick earlier.
 BHD has a duration, counting from the first GCD of the damage check, of 20 ticks / 12 seconds in **Normal Mode** and 13 ticks / 7.8 seconds in **Hard Mode**. Example rotations:
 
-:bluebomb: __Normal Mode:__
+$blue __Normal Mode:__
 
 **Mage:** $wm $cblast ➔ $barrage $asphyx 4hit ➔ $dbreath ➔ $barrage $shatter
 
@@ -18,8 +18,8 @@ BHD has a duration, counting from the first GCD of the damage check, of 20 ticks
 
 **Range:** $sgb ➔ $rapid 5hit ➔ $snipe (4t) ➔ $snap ➔ $needle ➔ $shatter
 
-
-:redbomb: __Hard Mode:__
+.
+$red __Hard Mode:__
 
 **Mage:** $wm ➔ $dbreath ➔ $barrage $sonic ➔ $shatter
 
