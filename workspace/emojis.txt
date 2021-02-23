@@ -71,6 +71,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $excal `excal`
 .f
 **F**
+• $flank `flank`
 • $fortitude `fortitude`
 • $fots `fots`
 • $freedom `freedom`
