@@ -3,16 +3,19 @@ Guide written by <@300296497277173761>.
 
 > __**Starting Vorago**__
 
-This guide is a short summary of knowledge required for your first few Normal Mode kills. To read up on in-depth explained mechanics and strategy guides, refer to the respective topic in #index. The following steps are only required if you have never been to Vorago before and only need to be done **once**.
+This guide is a short summary of knowledge required for your first few Normal Mode kills. To read up on in-depth explained mechanics and strategy guides, refer to the respective topic in #index.
 
+The following steps are only required if you have never been to Vorago before and only need to be done **once**.
+
+• Enter the borehole north of Falador and jump past all gaps
 • Talk to Vorago and go through all available chat options
-• Once you receive a message asking you to confirm fight Vorago, decline it
+• Once you receive a message asking you to confirm fighting Vorago, decline it
 
 __Challenging Vorago:__
 
 • Joining a fight at Vorago will start with every team member taking variable typeless damage up to `12,500` each player
-• Boost your life points above `12,500` in order to pass the entry hit (T90 shield, bonfire and eat a Rocktail Soup $soup)
-• The Powerburst of Vitality can be utilised shortly before the entry hit (drink it ~ 15 seconds after challenging)
+• Boost your life points above `12,500` in order to pass the entry hit (T90 shield, bonfire $bonfire and eat a Rocktail Soup $soup)
+• The Powerburst of Vitality $vitality can be utilised shortly before the entry hit (drink it ~ 15 seconds after challenging)
 
 __Setup:__
 
@@ -30,7 +33,13 @@ Vorago has 2 different basic attacks: Blue Bombs $blue and melee Swipes $swipe. 
 • $red Red Bombs cancel most defensive abilities and deal typeless damage of `2,000`, increasing for every player close to their target (Reds sometimes target a random player)
 • Reds are best dealt by moving away from the rest of your team
 
+__Positioning:__
+
+• Pay attention to AOE damage surrounding the Base and Bomb Tank (keep in mind to stay closer to Vorago than the Bomb Tank)
+.
+https://cdn.discordapp.com/attachments/428945702450757643/805515091533234207/vorago.png
 .phases
+
 > __**Phases**__
 
 Every phase has unique mechanics and conditions to defeat Vorago. In phases 2 and 4 the life points will keep resetting to `75,000` until specific mechanics have been passed.
@@ -45,14 +54,14 @@ Every phase has unique mechanics and conditions to defeat Vorago. In phases 2 an
 .p1
 > __**Phase 1**__
 
-Red Bomb $red ➔ 4 auto attacks $auto ➔ repeat $repeat
+$red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
 
 The Phase ends once the climber jumps and Vorago is killed.
 
 .p2
 > __**Phase 2**__
 
-5 Bleeds $bleed ➔ 3 auto attacks $auto ➔ Reflect $link ➔ 3 auto attacks ➔ Red Bomb $red ➔ 4 auto attacks ➔ repeat $repeat
+$bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
 
 • $bleed Bleeds: Vorago smashes the ground, applying a melee bleed to the player which also cancel most defensive abilities
 • If a bleed is not cleared before another is applied, the player will take `6,000` typeless damage
@@ -65,7 +74,7 @@ If you happen to receive a Bleed $bleed, simply use Freedom $freedom to clear it
 .p3
 > __**Phase 3**__
 
-Weekly Special Mechanic ➔ 3 or 5 auto attacks $auto ➔ Reflect $link ➔ 3 auto attacks $auto → Weekly Special Mechanic ➔ 3 or 5 auto attacks $auto ➔ repeat $repeat
+Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks → Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $repeat repeat
 
 Phase 3 depends on the current rotation (Weekly Special Mechanic) and Vorago phases once killed. There are 6 rotations in total, changing weekly.
 
@@ -79,7 +88,7 @@ Phase 3 depends on the current rotation (Weekly Special Mechanic) and Vorago pha
 .p4
 > __**Phase 4**__
 
-Waterfall $waterfall ➔ 3 auto attacks $auto ➔ Stone Clone $vitalis ➔ 7 auto attacks $auto ➔ Weekly Special Mechanic ➔ 3 or 5 auto attacks $auto ➔ 5 Bleeds $bleed ➔ 3 auto attacks $auto ➔ Reflect $link ➔ 3 auto attacks $auto → repeat $repeat
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 • $waterfall Waterfall: Vorago charges a high-hitting explosion, cancelling most defensive abilities
 • The explosion can be avoided by moving behind the spawned Waterfall (a randomly selected corner of the arena)
@@ -89,7 +98,7 @@ Waterfall $waterfall ➔ 3 auto attacks $auto ➔ Stone Clone $vitalis ➔ 7 aut
 .p5
 > __**Phase 5**__
 
-Weekly Special Mechanic ➔ 3 or 5 auto attacks $auto ➔ Reflect $link ➔ 3 auto attacks $auto ➔ 3 Bleeds $bleed ➔ 3 auto attacks $auto ➔ repeat $repeat
+Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 In Phase 5 the goal is to push Vorago to the very eastern end of the arena and finish him off with the Maul Of Omens $maul (reference: #maul).
 

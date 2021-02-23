@@ -1,0 +1,192 @@
+.entryhit
+> __**Entry Hit**__
+
+If you have never been to Vorago before, check out our #basic-guide.
+
+• Challenging Vorago will open a chat prompt for all players located in the starting area, asking to join the fight
+• **20 seconds** after Vorago is challenged, your team will be hit `50,000` typeless damage (`70,000` in Hard Mode)
+• The entry hit is split between all players that joined the challenge, capped at `12,500` each player (`14,000` in Hard Mode)
+• Challenging in Normal Mode with 5 players results in everyone taking `10,000` damage
+
+.attacks
+> __**Auto Attacks**__
+
+Vorago has 2 different basic attacks: Blue Bombs $blue and melee Swipes $swipe. When the person holding Vorago's aggression (the Base Tank) stays in melee distance, there is a 50% chance for Vorago to trigger each of his Auto Attacks. Vorago can fire both a Blue Bomb and use a Swipe in the same action. If the Base Tank does not stay in melee distance, Vorago throws a Blue Bomb guaranteed.
+
+__Blue Bomb:__
+
+• Damage type: **Magic** $deflectmagic
+• Affected area: **3 tile radius** (7x7 area)
+• Blue Bombs can **not** splash
+• Vorago always fires the Blue Bomb $blue to the player farthest away within his attack range
+• With 11 or more players in Normal Mode or at any team size in Hard Mode, Vorago fires two Blue Bombs at once
+
+__Melee Swipe:__
+
+• Damage type: **Melee** $deflectmelee
+• Affected area: **2 tile radius** (5x5 area) around the main target **and in melee distance** (area of 7x7 tiles from Vorago's center)
+• Swipes can splash
+• Vorago performs a Swipe $swipe to his primary target (Base Tank)
+
+.reds
+> __**Red Bomb**__
+
+At the Red Bomb $red attack Vorago fires both a **Non-Homing Blue Bomb** $blue and a Red Bomb to the player farthest away within attack range, cancelling most defensive abilities and setting them on a short cooldown. There is an approximately **10% chance** that the Red Bomb targets a **randomly selected player** instead. In Normal Mode you receive a chat warning: "Vorago has sent a bomb after you. Run!".
+
+For a strategy on how to deal with Red Bombs refer to #cade-cept.
+
+__Non-Homing Blue Bomb:__
+
+• In most aspects, this bomb behaves exactly like the normal attack Blue Bomb $blue
+• It targets the player's location at the time of launching, instead of tracing the player
+• The Non-Homing Blue Bomb always hits before the Red Bomb (can be resonanced $resonance)
+• You can avoid damage by running away right after the Red Bomb $red has been launched
+
+.
+__Red Bomb:__
+
+• Damage type: **Typeless**
+• Affected area: **2 tile radius** (5x5 area)
+• Damage dealt: `2,000` increasing by `1,000` for every player within a 5 tile radius (11 x 11 area), capping at `7,000`
+• Scaled damage in Hard Mode: `3,000` increasing by `1,500` for every player within a 5 tile radius (11 x 11 area), capping at `10,500`
+• Cancelled abilities: $resonance $devo $reflect $debil $cade $immortality
+
+.bleeds
+> __**Bleeds**__
+
+Vorago smashes his main target with both hands inflicting a Bleed $bleed on them dealing `1,200` melee damage every other tick (`3,000` in Hard Mode) and resetting all defensive abilities. Shield Dome $dome can be used to reduce the damage over time of a Bleed.
+
+For strategies on how to clear bleeds properly refer to #clearing-bleeds.
+
+• Bleeds show up in the debuff bar with a Dismember $bleed icon
+• In phases 2, 3 and 4 (2, 5 and 9 in Hard Mode) Vorago applies 5 Bleeds
+• In phase 5 (10 and 11 in Hard Mode) Vorago applies 3 Bleeds
+• Vorago will deal `6,000` typeless unblockable damage (`10,000` in Hard Mode) if a second Bleed is received before the previous is cleared
+• Damage modifiers such as melee protect will apply and reduce bleed damage over time, but not the typeless unblockable hit
+• Bleed damage decreases with higher distance to Vorago clearing at 6 squares away
+
+.reflect
+> __**Reflect**__
+
+During the Reflect $link mechanic (also commonly called "Link") Vorago redirects all damage dealt to him to a random player. At the beginning of the mechanic Vorago raises his arm and the linked player will receive a chat warning saying: "Vorago channels incoming damage to you. Beware!". Unaffected players receive the warning: "Vorago reflects incoming damage to nearby foes!". In Hard Mode no chat messages appear.
+
+• Damage type: According to the **player's attack style**
+• Damage dealt: **100-200% of the original damage** dealt
+• Duration: **16 ticks** / **9.6 seconds**
+• Linked targets: **1** or 2 if the team size is greater than 11 (doubled in Hard Mode)
+• In Hard Mode both the player attacking and the player linked receive damage
+• Reflect $link clears any bleeds and dots applied to Vorago
+• Slow hitting abilities are nulled if cast before Reflect start (SGB $sgb, Snipe $snipe and Shadow Tendrils $shadowtendrils are unaffected and deal full damage)
+
+At the end of the mechanic, a swirling green animation occurs around the linked player and the same player will receive a chat warning saying: "Vorago releases his mental link on you.". In Hard Mode, no chat messages appear.
+
+.bhd
+> __**Bring Him Down**__
+
+Throughout phase 2 Vorago spawns Gravity Fields $gravity (abbreviation: "Orb") that have to be clicked so that Vorago absorbs them.
+
+__Gravity Fields:__
+
+• Gravity Fields spawn as Vorago starts the Reflect $link mechanic
+• Each orb spawns randomly in one of the 9 square grids in the arena
+• Every Gravity Field progresses towards destabilizing Vorago in order to break off the second maul piece (b) $maulpieceb (reference: #maul)
+• Vorago must be kept in range to Gravity Fields or they can not be activated (reference: #recenter)
+• **4 orbs must be tagged** to enter the mechanic **Bring Him Down** (abbreviation: BHD)
+
+.
+__Bring Him Down:__
+
+• Vorago $vorago becomes unattackable and the camera changes focus on Vorago
+• You will have to fill the bar that appears on top by clicking on Vorago (only one click per tick is registered)
+• All players take a `150` typeless bleed (`250` in Hard Mode) until the bar is filled
+• $warning Standing beneath Vorago during the clicking part will get you stuck underneath until Vorago dies
+• A damage check of `50,000` must be passed - Achieve this with thresholds and basics (reference: #shatter)
+• The damage check takes 12.0 seconds (7.8 seconds in Hard Mode)
+• Failing the damage check results in a repetition of 2 more Gravity Fields $gravity to be tagged alongside with another Bring Him Down
+• Finishing the Bring Him Down mechanic will loosen and drop the second maul piece (b) $maulpieceb
+
+After BHD has been passed Vorago can be killed and progressed to phase 3.
+
+.rotations
+> __**Weekly Specials**__
+
+Every reset after Tuesday the weekly special rotation changes for Vorago. There is a total of 6 rotations: Ceilings $ceil, Scopulus $scop, Vitalis $vitalis, Green Bomb $green, Team Split $ts and The End $purple.
+
+Each of these rotations will affect the mechanics in phases 3, 4 and 5 (phases 9, 10 and 11 in Hard Mode). To read up on the mechanics refer to the following channels:
+
+• $ceil #ceilings
+• $scop #scopulus
+• $vitalis #vitalis
+• $green #green-bomb
+• $ts #team-split
+• $purple #the-end
+
+.waterfall
+> __**Waterfall**__
+
+The Waterfall $waterfall mechanic is unique to phase 4 (phase 9 in Hard Mode) and occurs at all weekly rotations.
+
+• All active defensive abilities are reset
+• Vorago charges a blast dealing `9,000` - `10,000` typeless damage (increased by `1,000` in Hard Mode)
+• A Waterfall $waterfall appears in a random corner
+• Standing behind it will block the blast completely
+• Duration: 10.2 seconds (7.8 in Hard Mode)
+• After the third Waterfall the last maul piece $maulpiecehandle (reference: #maul) drops on the floor and Vorago can be phased
+
+During the weekly rotation Team Split $ts, the third TS in phase 4 will be bugged. Refer to **Breaking Team Splits** in #team-split.
+
+.clone
+> __**Stone Clone**__
+
+This mechanic can be skipped entirely with barely any downsides whatsoever. Reference: #clone-skip
+
+Vorago performs an attack visually similar to a melee Swipe $swipe, cloning random players $vitalis. After this special, Vorago's damage taken is reduced by approximately 80%.
+
+• Stone Clones always spawn three Auto Attacks $blue after a Waterfall $waterfall
+• Life points: `10,000`
+• Combat style: The **same as their target** used at the time of creation
+• One Stone Clone is spawned for every 7 players in the arena (clone count is doubled in Hard Mode)
+• The Base Tank never receives a clone
+• They can only be damaged by their target or someone who has already killed their clone
+• In Hard Mode Stone Clones begin their ability order with stunning the player
+
+.push
+> __**Phase 5 Push**__
+
+In phase 5 (in Hard Mode phases 10 and 11) the goal is to push Vorago to the very end of the arena and then finish him off with the Maul Of Omens $maul (reference: #maul).
+
+• Deal damage to Vorago in order to push him forward
+• Upon Vorago dealing damage he pushes the other direction backwards
+
+__Mechanics Causing Pushback:__
+
+• $blue Blue Bomb damage
+• $swipe Melee Swipe damage
+• $bleed Bleeds
+• $vitalis Vitalis orb explosion & damage dealt by spawned Vitali
+• $green Green Bomb (both bridging and explosion damage)
+• $purple Purple Bomb hitting others (in Hard Mode it also causes push backwards on the primary target)
+
+.
+__Abilities Reducing Pushback:__
+
+• $cade Barricade
+• $disrupt Disruption Shield
+• $dome Shield Dome
+• $debil Debilitate (should never be used)
+
+Detailed information about the push mechanic can be found in our advanced strategy guide #zero-linking.
+
+.intro
+> __**Index**__
+
+• $pin **Entry Hit** {link:entryhit}
+• $auto **Auto Attacks** {link:attacks}
+• $red **Red Bomb** {link:reds}
+• $bleed **Bleeds** {link:bleeds}
+• $link **Reflect** {link:reflect}
+• $gravity **Bring Him Down** {link:bhd}
+• $ts **Rotations** {link:rotations}
+• $waterfall **Waterfall** {link:waterfall}
+• $vitalis **Stone Clone** {link:clone}
+• $maul **Phase 5 / 10 / 11 Push** {link:push}
