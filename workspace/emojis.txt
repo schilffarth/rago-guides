@@ -23,6 +23,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $biting `biting`
 • $bleed `bleed`
 • $blitz `blitz`
+• $blowpipe `blowpipe`
 • $blue `blue`
 • $bonfire `bonfire`
 • $bsa `bsa`
@@ -43,6 +44,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $cshot `cshot`
 .d
 **D**
+• $darts `darts`
 • $dbow `dbow`
 • $dbreath `dbreath`
 • $debil `debil`
@@ -76,6 +78,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 **G**
 • $gbarge `gbarge`
 • $gchain `gchain`
+• $gdazing `gdazing`
 • $gear `gear`
 • $gflurry `gflurry`
 • $gfury `gfury`
