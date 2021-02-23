@@ -66,6 +66,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $gbarge `gbarge`
 • $gchain `gchain`
 • $gear `gear`
+• $gflurry `gflurry`
 • $gfury `gfury`
 • $gravity `gravity`
 • $green `green`
@@ -152,6 +153,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $shard `shard`
 • $shatter `shatter`
 • $sheety `sheety`
+• $slaughter `slaughter`
 • $snap `snap`
 • $snipe `snipe`
 • $sonic `sonic`

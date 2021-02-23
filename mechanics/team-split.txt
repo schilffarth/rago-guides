@@ -1,0 +1,91 @@
+.intro
+> __**Team Split**__
+
+At the weekly special Team Split $ts Vorago charges up a high hitting explosion.
+
+• Vorago becomes invulnerable
+• A red or blue message box appears: "Vorago gets ready to split everyone in two!"
+• The team is halved by colors, split into red and blue
+• On the ground appear two squares with red and blue colored outlines
+• All defensive abilities are cancelled and set on a short cooldown
+• Staying outside of the appropriate box will deal typeless damage at the explosion
+
+.nm
+> __**Normal Mode**__
+
+• Square size: **3 x 2 tiles**
+• Duration: **7.8 seconds**
+• Typeless damage: `8,000`
+
+__Phase 3:__
+
+$ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $ts Team Split ➔ $swipe 3 auto attacks ➔ $red Red Bomb ➔ $swipe 4 auto attacks ➔ $repeat repeat
+
+__Phase 4:__
+
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $ts Team Split ➔ $auto 3 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
+
+__Phase 5:__
+
+$ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
+
+• Illustration reference for phase 5 Normal Mode:
+.
+https://cdn.discordapp.com/attachments/676485011268042761/767020116763738112/phase5_grid_ts_001.png
+.hm
+
+> __**Hard Mode**__
+
+• Visual square size: **1 x 1 tile** (in phase 10 and 11 the square size is stretched east by 1 tile, in phase 7 and 9 this only accounts for the red TS)
+• Duration - Phase 7 and 9: **6.6 seconds**
+• Duration - Phase 10 and 11: **5.4 seconds**
+• Typeless damage: `9,000`
+• No chat warning or message box appears indicating the start of Team Split $ts
+
+.
+__Phase 7:__
+
+$ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $ts Team Split ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
+
+__Phase 9:__
+
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $ts Team Split ➔ $auto 3 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
+
+.
+__Phase 10:__
+
+$ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $ts Team Split ➔ $auto 3 auto attacks ➔ $repeat repeat
+
+• Optimal maul $maul timing is after start of Reflect $link (reference: #maul)
+
+__Phase 11:__
+
+$ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $purple Purple Bomb ➔ $auto 5 auto attacks ➔ $repeat repeat
+
+.breakingts
+> __**Breaking Team Splits**__
+
+Guide section written by <@129324652114739200>.
+
+Broken Team Splits are referred to as the phenomenon Vorago firing auto attacks $auto while channeling a Team Split $ts. Vorago can use both melee Swipes $swipe and Blue Bombs $blue, depending on his primary target's distance. On phases 3 and 5 (in Hard Mode phases 7 and 10 / 11 respectively) this is extremely harmful, as it decreases the time you are able to attack between Team Splits and Reflects $link. In phase 4 (phase 9 in Hard Mode) though, you can intentionally break Team Splits in order to speed up your phase times.
+
+To break a team split $ts, you simply have to apply a bled melee channel shortly before Vorago starts charging the Team Split. Gaining the effect of Greater Barge $gbarge will allow you to apply your next channeled melee ability (Flurry $gflurry, Destroy $destroy and Assault $assault) as a Damage-Over-Time effect. It is important to know that a bled channeled ability acts differently to a normal bleed, such as Dismember $bleed or Slaughter $slaughter. The first hit of your bled channel acts as a normal-hitting ability, and the remaining 3 hits are applied as a bleed.
+
+.
+Simply said: A few seconds before a Team Split, use Greater Barge $gbarge and follow a bled melee channel. The first **bleed** hit of your channel is going to stop Vorago's interruption, triggering auto attacks $auto to be fired.
+
+__Optimal Execution:__
+
+As explained earlier, the first hit of a bled channel does not act as a bleed, therefore it can not break a team split. Only the 2nd, 3rd and 4th hit can. According to that there are 3 different timings for when to apply your ability in order to break the Team Split $ts the fastest way possible.
+
+• 1 tick **before the last** auto attack - The second bleed hit breaks
+• 1 tick **after the second last** auto attack - The third bleed hit breaks
+• 1 tick **before the second last** auto attack - The last bleed hit breaks
+
+.index
+> __**Index**__
+
+• $pin **Introduction** {link:intro}
+• $blue **Normal Mode** {link:nm}
+• $red **Hard Mode** {link:hm}
+• $gbarge **Breaking Team Splits** {link:breakingts}
