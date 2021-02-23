@@ -12,7 +12,7 @@ At Vorago, this becomes specifically useful for phases starting with Team Split 
 Also for any other phase TC $tc will allow you to attack Vorago multiple ticks earlier than you could by clicking.
 
 .setup
-> __**Set-Up**__
+> __**Set Up**__
 
 .
 https://media.discordapp.net/attachments/731487797336211507/756915251592560731/settings_controls.png
@@ -104,9 +104,9 @@ Avoid this by using backwards TC onto Vorago and your target will be switched pr
 .index
 > __**Index**__
 
-• $pin Introduction {link:intro}
-• $gear Set-Up {link:setup}
-• $tc Timing TC {link:timing}
-• $alt1 Alt1 Toolkit {link:alt1}
-• $cheese Cheesing TC {link:cheesing}
-• $dummy Dummies and TC {link:dummytc}
+• $pin **Introduction** {link:intro}
+• $gear **Set Up** {link:setup}
+• $tc **Timing TC** {link:timing}
+• $alt1 **Alt1 Toolkit** {link:alt1}
+• $cheese **Cheesing TC** {link:cheesing}
+• $dummy **Dummies and TC** {link:dummytc}
