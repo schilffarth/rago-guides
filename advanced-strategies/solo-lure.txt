@@ -1,0 +1,72 @@
+.intro
+Guide written by <@316175818458136588>.
+
+> __**Solo luring P1**__
+
+Solo luring describes a strategy to position Vorago at jump spot in phase 1.
+
+__Phase 1 arena reference:__
+.
+https://media.discordapp.net/attachments/734513833489596496/735115790373879878/visual.png
+.
+
+__Luring:__
+Solo luring P1 itself is fairly straight forward: Simply follow the exact tiles marked on the image in the correct order and you will have solo lured P1. The difficult part is combining the solo lure with a perfect dps rotation $zerk, pray flicking $deflectmelee (or $deflectmagic if you happen to get a bomb $blue) and vuln bombing $vbomb.
+
+• Take Vorago to the western wall (recommended: orange highlighted **"init"**)
+• Position yourself at the green highlighted "X"
+• **Vorago walks west or south**: Take 5 steps east to the red highlighted **"E"**
+• **Vorago walks east**: Take one step west to the red highlighted **"W"**
+• Bladed Dive $bd south of Vorago
+
+.westwalk
+> __**West walk**__
+
+__Illustration:__
+.
+https://media.discordapp.net/attachments/734513833489596496/735115879842316398/history_west.png
+.
+
+__GIF:__
+.
+https://media.discordapp.net/attachments/734513833489596496/735115944568815676/GIF_west.gif
+.southwalk
+
+> __**South walk**__
+
+__Illustration:__
+.
+https://cdn.discordapp.com/attachments/734513833489596496/735116035069313034/history_south.png
+.
+
+__GIF:__
+.
+https://cdn.discordapp.com/attachments/734513833489596496/735116074303094784/GIF_south.gif
+.eastwalk
+
+> __**East walk**__
+
+__Illustration:__
+.
+https://cdn.discordapp.com/attachments/734513833489596496/735116137787817984/history_east.png
+.
+
+__GIF:__
+.
+https://cdn.discordapp.com/attachments/734513833489596496/735116164723769404/GIF_east.gif
+.video
+
+> __**Video guide**__
+
+.
+https://www.youtube.com/watch?v=1mgdsTZGMuY
+
+.index
+
+> __**Index**__
+
+• $pin **Intro** {link:intro}
+• :regional_indicator_w: **West walk** {link:westwalk}
+• :regional_indicator_s: **South walk** {link:southwalk}
+• :regional_indicator_e: **East walk** {link:eastwalk}
+• $youtube **Video guide** {link:video}
