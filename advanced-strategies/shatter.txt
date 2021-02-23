@@ -1,0 +1,33 @@
+Guide written by <@316175818458136588>.
+
+> __**Shatter**__
+
+After unlocking the Storm Shards & Shatter abilities $shard $shatter from the Mazcab ability codex, it is a commonly used strategy to apply as many storm shards $shard as possible during Phase 2 and 4 to then use Shatter $shatter as you passed Bring Him Down or after the third waterfall $waterfall to trigger all stacked shards and kill Vorago in the first possible tick.
+ 
+.
+> __**Bring Him Down example rotations**__
+Using Shatter as a slow hitting ability ($ranged without fast hitting overrides or $magic from 5+ tiles) will allow you to Shatter 1 tick earlier.
+BHD has a duration, counting from the first GCD of the damage check, of 20 ticks / 12 seconds in **Normal Mode** and 13 ticks / 7.8 seconds in **Hard Mode**. Example rotations:
+ 
+:bluebomb: __Normal Mode:__
+
+**Mage** $magic
+• $wm $cblast ➔ $barrage $asphyx 4hit ➔ $dbreath ➔ $barrage $shatter
+
+**Melee** $attack
+• $gbarge ➔ 4tick $assault ➔ $deci ➔ $sever ➔ $cleave ➔ $gfury ➔ $shatter
+
+**Range** $ranged
+• $sgb ➔ $rapid 5hit ➔ $snipe (4t) ➔ $snap ➔ $needle ➔ $shatter
+
+
+:redbomb: __Hard Mode:__
+
+**Mage** $magic
+• $wm ➔ $dbreath ➔ $barrage $sonic ➔ $shatter
+
+**Melee** $attack
+• $gbarge ➔ $destroy ➔ $cleave ➔ $deci ➔ $shatter
+
+**Range** $ranged
+• $snap ➔ $snipe (4t) ➔ $needle ➔ 4tick $shatter
