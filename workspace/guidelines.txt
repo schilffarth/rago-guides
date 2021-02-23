@@ -17,6 +17,7 @@ Automatic pinning: Giving a message the section ID of `index` will automatically
 • Section headlines: `> __**Headline**__`, one blank line preceding and following the headline
 • Sub-headlines: `__Sub-Headline:__`, one blank line preceding and following the headline
 • Listing: `• Item of a big list`, one blank line before the first and one after the last item
+• Damage numbers are formatted with in-line code blocks, i.e. `10,000`, `4,000`, `10,667`
 
 .emojilist
 > __**Emoji List**__
