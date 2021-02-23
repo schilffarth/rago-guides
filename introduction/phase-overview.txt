@@ -1,0 +1,71 @@
+.overview
+> __**Phase Overview**__
+
+This channel provides a general overview for all mechanics occurring throughout a full kill at Vorago.
+
+• $maulpiecea Phase 1 - Vorago has to be jumped on to progress to phase 2
+• $gravity Phase 2 - Time-gated phase; Vorago has to be destabilized to progress to phase 3
+• $ts Phase 3 - Weekly changing mechanics start in this phase
+• $waterfall Phase 4 - Time-gated phase; Vorago implodes thrice before you can progress to phase 5
+• $maul Phase 5 - Out-last Vorago's damage by dealing more damage to him
+
+ The phase breakdown of Hard Mode can be found in the last section.
+
+.p1
+> __**Phase 1**__
+
+$red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat Repeat
+
+Vorago does not leave the spawn location until a player climbs past the entry obstacle in the west (reference: #climbing). At this point Vorago will follow whoever vokes :Provoke: to hold his aggression. Vorago repeats a basic attack pattern of a Red Bomb $red followed by 4 auto attacks, Blue Bombs $blue or melee Swipes $auto, until the phase is finished (reference: #mechanics).
+
+As described in #climbing, Vorago needs to be jumped on from the Top Lure / final platform of the climb. During the jump animation Vorago has a chance of switching his aggression to a random player. The attack pattern continues steadily.
+
+After the jump Vorago's HP can be lowered to 0 and you will progress to phase 2.
+
+.p2
+> __**Phase 2**__
+
+$bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat Repeat
+
+At the start of every Reflect a Gravity Field $gravity spawns (abbreviation: "Orb"). 4 orbs have to be activated (left-clicked) in order to progress to the Bring Him Down mechanic. After passing the damage check Vorago can be killed and you continue to Phase 3.
+
+• $bleed Bleeds
+• $link Reflect
+• $red Red Bomb
+• $gravity Gravity Fields and Bring Him Down
+
+Check #mechanics for additional information.
+
+.specials
+> __**Weekly Specials**__
+Every reset after Tuesday the weekly special rotation changes for Vorago. This change applies to both Modes.
+
+Each of these rotations will affect the mechanics in **Phases 3 to 5** Normal Mode and **Phases 9 to 11** in Hard Mode.
+There’s a total of **6 rotations** or **Weekly Specials**.
+
+__Normal Mode__
+
+• $ceil Celing Collapse #ceilings
+• $scop Scopulus #scopulus
+• $vitalis Vitalis #vitalis
+• $green Green Bomb #green-bomb
+• $ts Team Split #team-split
+• $purple The End #the-end
+
+.hm
+>  __**Hard Mode**__
+
+Phase 1 and 2 are similar to Normal Mode. In Phase 1, every Blue Bomb $blue has a chance of dragging the TL5 back into the arena and the climb has to be restarted. For Phase 2 the duration of BHD is reduced from **12 seconds** to **7.8 seconds**.
+Phases 3 to 8 feature weekly specials, following the same attack pattern as Normal Mode on each respective Phase 3, with all differences listed in each channel.
+Phases 9, 10 and 11 change according to the current week's special rotation.
+
+The Phase order for Hard Mode is as follows:
+• $maulpiecea Phase 1 ➔ $gravity Phase 2 ➔ $ceil Phase 3 ➔ $scop Phase 4 ➔ $vitalis Phase 5 ➔ $green Phase 6 ➔ $ts Phase 7 ➔ $purple Phase 8 ➔ Phase 9 ➔ $dome Phase 10 ➔ $maul Phase 11
+
+.index
+> __**Index**__
+• **Overview** {link:overview}
+• **Phase 1** {link:p1}
+• **Phase 2** {link:p2}
+• **Phase 3, 4 and 5** {link:specials}
+• **Hard Mode** {link:hm}
