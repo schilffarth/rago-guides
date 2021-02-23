@@ -355,8 +355,8 @@ For advanced ability damage rotations, refer to the official Rago Hub spreadshee
 • Strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/802308753491361822/triohm_ranged.PNG
-
 .mage
+
 > __**Magic Bomb Tank**__
 
 The Mage Bomb Tank section of this Trio Hard Mode guide was written by <@250986556217622538>, <@184918342392479744> and <@316175818458136588>.
