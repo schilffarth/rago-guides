@@ -1,0 +1,112 @@
+.intro
+Guide written by <@316175818458136588> and <@175995416955977728>.
+
+> __**Target cycling at Vorago**__
+
+*Abbreviation: TC* $tc
+
+Target cycling is changing your current target or acquiring a new target with a keybind, instead of clicking it with your mouse. With the use of TC you are able to target and attack bosses before specific mechanics trigger, or even before they visibly appear.
+
+At Vorago, this becomes specifically useful for phases starting with Team Split $ts or The End $purple where you can attack *before* the mechanic starts. In P5 (P10 in HM) start, you can even push Vorago multiple steps before the first special is released, which offers a ton of opportunities to improve your kill times and consistency (reference: #zero-linking).
+
+Also for any other phase TC $tc will allow you to attack Vorago multiple ticks earlier than you could by clicking.
+
+.setup
+> __**Set-Up**__
+
+.
+https://media.discordapp.net/attachments/731487797336211507/756915251592560731/settings_controls.png
+.
+
+Set keybinds for **"Cycle Target Forwards"** and **"Cycle Target Backwards"**:
+• Forwards: Selects the target closest to you
+• Backwards: Selects the target furthest away from you
+
+.
+https://media.discordapp.net/attachments/731487797336211507/756915285881126912/settings_gameplay.png
+.
+
+• Set **"Targeting mode"** to **"radial"** - If using *"conal"* target cycling, you will not always be able to target cycle, even if you are right next to your target, as it will try to acquire a target in front of you only
+• Recommended: Set maximum target distance to 9
+
+.timing
+> __**Timing TC**__
+
+• For timing Target Cycle $tc the same tick is used as for #crack-healing
+• TC is mathematically written in the 17th tick of a phase
+• Simply use an ability with a **10 second cooldown** on the last tick of a phase (same tick as #crack-healing)
+• The tick for TC $tc is the moment your ability becomes ready again
+• **Important:** Bare in mind that you have to use the ability **before** Heal Other $heal or your heal will not be cast
+
+An advanced alternative for timing Target Cycle is explained in #natty.
+
+__Cooldown Timing:__
+
+It is recommended to have the Mobile $mobile perk active and use Escape $escape, Surge $surge or Provoke $voke as those can be used off GCD and provide the required 10 second cooldown. You learn timing TC best by practicing it. Set your Target Cycle settings as described and give it a try. Escape / Surge last tick of a phase, hit the TC $tc keybind and any ability as the Escape / Surge comes off cooldown again.
+
+Other abilities can also be used to time TC. Simply substract 10 seconds off the abilities cooldown and TC will be at that calculated leftover cooldown time.
+
+Escape cooldown for when to TC:
+
+.
+https://cdn.discordapp.com/attachments/676485011268042761/767606846763827240/escapecd.png
+.
+
+__Messing Up TC:__
+
+• Freezing screen when surging / escaping for TC timing
+    - This happens when you are 1 tick too late, respectively in the first tick of the following phase, instead of the last tick of the previous phase
+
+• Taking damage from Heal Other $heal
+    - This happens when you are either too late or too early
+    - Guide for Crack Healing: #crack-healing
+
+__Incorrect TC:__
+
+• Once TC $tc is used, it will stop taking updated server information and will rather use the previously scanned client location area
+• Repeated "No valid target found" chat notification
+• Spamming your keyboard with TC does not work reliably, you should rather learn to know the exact tick
+• If you messed up your TC timing, refer to the "Cheesing Target Cycle" section in this guide
+
+.alt1
+> __**Alt1 Toolkit**__
+
+An alternative to timing Target Cycle $tc is the Alt1 $alt1 TC timer. Alt1 is an application that allows you to have helpful tools and windows open. To install Alt1, follow this link: <https://runeapps.org/alt1>
+
+Once Alt1 is installed, copy and paste the text below into your internet browser - **Not** in the alt1 browser: `alt1://addapp/http://holycoil.nl/alt1/VoragoTag/appconfig.json`
+
+After a Scopulus $scop phase, Alt1 does not show a timer due to Vorago not showing an HP bar during the phase.
+
+The timer operates by taking a screenshot of your screen every 100ms because Alt1 can not directly inject code into the RuneScape client, otherwise it would be against the Terms of Service. The timer starts as soon as Vorago is 0 HP. The timer counts down from 24 seconds and the Target Cycle tick is 0.0s. Your input needs to be registered at the tick before the TC tick so you must do your inputs at 0.6s.
+
+Due to the timer taking screenshots every 100ms this application is very CPU intensive - Weak computers will notice an impact on performance.
+
+.cheesing
+> __**Cheesing TC**__
+
+As described previously, if Target Cycle $tc can not find a valid target, it will stop using updated server information for a short period of time and will instead use the cached client data from the tick your TC most recently failed to acquire a valid target.
+
+A workaround for this is to **continuously move**. It will force your client to update area location data, and TC $tc will repeatedly try to find a target with updated data. Simply run around in a circle round Vorago's center and spam the life out of your keyboard with TC and an ability.
+
+If there is a Combat Dummy $dummy nearby, make sure you stay at the opposite side of Vorago - Refer to the next section *"Dummies and TC"*.
+
+.dummytc
+> __**Dummies and TC**__
+
+It is a common strategy to use Combat Dummies $dummy during a kill in multiple phases to offer opportunities for preparing better ability damage rotations during the down-time of phase transitions (reference: #natty). At Vorago, Target Cycle $tc acts differently when Dummies are placed.
+
+• **Forward target cycle** will **always** acquire the target closest to you, even if it is your already targeted Dummy
+Avoid this by staying closer to Vorago than the Dummy
+
+• If dummying next to / within your Sunshine $sunshine or Death's Swiftness $swiftness you will not always be able to step closer to Vorago because you would be losing your Ultimate
+Avoid this by using backwards TC onto Vorago and your target will be switched properly
+
+.index
+> __**Index**__
+
+• $pin Introduction {link:intro}
+• $gear Set-Up {link:setup}
+• $tc Timing TC {link:timing}
+• $alt1 Alt1 Toolkit {link:alt1}
+• $cheese Cheesing TC {link:cheesing}
+• $dummy Dummies and TC {link:dummytc}
