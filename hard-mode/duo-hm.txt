@@ -176,9 +176,11 @@ The goal is to camp melee protection prayer $deflectmelee and pray flick every s
 
 • Excalibur $excal should be activated in the start of Phase 5
 • Base and Bomb tank position next to each other to ensure no spawned Vitali blocking their line of sight to each other
-• Ideally, position west of Vorago at the L-Rock, where one player can utilise
-
+• Ideally, position west of Vorago at the L-Rock, where one player can utilise flanking $flank (blue circled tile of the following arena reference)
 .
+https://i.imgur.com/F6oslzi.png
+.
+
 __Strategy:__
 
 • Base Tank pre-ultimate $sunshine $swiftness and Apot $apot
