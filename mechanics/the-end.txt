@@ -1,20 +1,21 @@
 .intro
 > **__The End__**
 
-The weekly special The End $purple is split in two separate main mechanics: **The End** and a **Purple Bomb**.
- 
+The weekly special The End $purple is split in two separate main mechanics: **The End** and **Purple Bomb**.
+
 __The End:__
 
 • Vorago charges up the special attack towards one of 4 quadrants in the arena
 • Not staying inside the selected area will cause *suffocation* damage, increasing over time
 • After Vorago opened a new quadrant his arm drags and deals damage to all players located in the previous quadrant
 • The second quadrant contains either Blue Bombs $blue or Red Bombs $red, the third includes the other and the last always contains Purple Bombs $purple
-• Bombs can be tagged in their quadrants to trigger them early (note: tagging Blue Bombs $blue resets all defensives)
+• Bombs can be tagged in their quadrants to trigger them early (note: tagging Blue Bombs $blue resets all defensive abilities)
 • The amount of bombs scales with team size and is increased in Hard Mode
 • As Vorago reaches the last quadrant he finishes The End with a Stand Up and continues his attack rotation
 • All bombs that have not been tagged are launched at Stand Up
 
-Glitching Out defines the phenomen of leaving Vorago's arms during The End special attack.
+__Glitching Out:__
+
 • Glitching Out is only possible on the South and East side
 • As Vorago opens his arms, position in the exact center of the currently opened quadrants
 • Once the arms close to the new quadrant, move away
@@ -26,7 +27,6 @@ __Purple Bomb:__
 • The countdown is visualized with a red timer and a blue-orange progress bar on top of the player
 • At detonation, the Purple Bomb $purple deals AOE damage in a 2 tile radius (area of 5x5 tiles)
 
- 
 .nm
 > **__Normal Mode__**
 
@@ -36,19 +36,19 @@ __Purple Bomb:__
 • Blue Bombs: At least **5**
 • Red Bombs: At least **3**
 • Maximum of Purple Bombs launched: **5**
- 
+
 __Phase 3:__
 
 $purple The End ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $purple The End ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
- 
+
 __Phase 4:__
 
 $waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $purple The End ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $link reflect ➔ $auto 3 auto attacks ➔ $repeat Repeat
- 
+
 __Phase 5:__
 
 $purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
- 
+
 .hm
 > **__Hard Mode__**
 
@@ -63,22 +63,22 @@ $purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link reflect ➔ $auto 3 auto 
 __Phase 8:__
 
 $purple The End ➔ $auto 3 auto attacks ➔ $link reflect ➔ $auto 3 auto attacks ➔ $purple The End ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
- 
+
 __Phase 9:__
 
 $waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $purple The End ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $link reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
- 
+
 __Phase 10:__
 
 $purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 Optimal time to maul $maul is after the last Bleed $bleed (reference: #maul).
- 
+
 __Phase 11:__
 
 $purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $vitalis Vitalis ➔ $auto 3 auto attacks ➔ $repeat repeat
 
-.
+.index
 > **__Index__**
 • $pin **Introduction** {link:intro}
 • $blue **Normal Mode** {link:nm}
