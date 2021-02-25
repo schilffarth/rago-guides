@@ -39,15 +39,15 @@ __Purple Bomb:__
  
 __Phase 3:__
 
-$purple The End ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $purple The End ➔ $auto 3 Auto Attacks ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ $repeat Repeat
+$purple The End ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $purple The End ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
  
 __Phase 4:__
 
-$waterfall Waterfall ➔ $auto 3 Auto Attacks ➔ $vitalis Stone Clone ➔ $auto 7 Auto Attacks ➔ $purple The End ➔ $auto 3 Auto Attacks ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $purple The End ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $link reflect ➔ $auto 3 auto attacks ➔ $repeat Repeat
  
 __Phase 5:__
 
-$purple Purple Bomb ➔ $auto 5 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $bleed 3 Bleeds ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+$purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
  
 .hm
 > **__Hard Mode__**
@@ -62,21 +62,21 @@ $purple Purple Bomb ➔ $auto 5 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto 
 .
 __Phase 8:__
 
-$purple The End ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $purple The End ➔ $auto 3 Auto Attacks ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ $repeat Repeat
+$purple The End ➔ $auto 3 auto attacks ➔ $link reflect ➔ $auto 3 auto attacks ➔ $purple The End ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
  
 __Phase 9:__
 
-$waterfall Waterfall ➔ $auto 3 Auto Attacks ➔ $vitalis Stone Clone ➔ $auto 7 Auto Attacks ➔ $purple The End ➔ $auto 3 Auto Attacks ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $purple The End ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $link reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
  
 __Phase 10:__
 
-$purple Purple Bomb ➔ $auto 5 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $bleed 3 Bleeds ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+$purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 Optimal time to maul $maul is after the last Bleed $bleed (reference: #maul).
  
 __Phase 11:__
 
-$purple Purple Bomb ➔ $auto 5 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+$purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $vitalis Vitalis ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 .
 > **__Index__**
