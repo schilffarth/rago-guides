@@ -5,7 +5,7 @@ Guide written by <@184918342392479744>, <@164133228989513728>, <@316175818458136
 
 The Top Lure Voke 5 (TL5) is the primary focus of this guide. The responsibilities of the TL5 are to climb in Phase 1 (reference: #climbing) and lure Vorago him into jump spot, and to take the 5th Bleed $bleed with provoke $voke on every Bleed set throughout Phase 2 to 4 (reference: #clearing-bleeds). The TL5 always positions farther away from Vorago than the Base Tank and closer than the Bomb Tank (3-4 steps away).  If a Phase, Rotation or role isn’t mentioned on any Phase, it’s because their jobs don’t differ from higher team sizes and the TL5 doesn't have a specific job other than dpsing.
 
-This guide focuses on Trio Normal Mode Vorago only and won’t explain the basics of Vorago, for those go to #mechanics and #phase-overview. The guide is split into three roles: Base Tank, Bomb Tank and TL5.For the full strategies on Base Tank and Bomb Tank check #duo.
+This guide focuses on Trio Normal Mode Vorago only and won’t explain the basics of Vorago, for those go to #mechanics and #phase-overview. The guide is split into three roles: Base Tank, Bomb Tank and TL5. For the full strategies on Base Tank and Bomb Tank check #duo.
 
 .guide
 > __**Phase 1**__
