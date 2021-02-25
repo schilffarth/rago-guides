@@ -10,7 +10,7 @@ This guide focuses on Trio Normal Mode Vorago only and won’t explain the basic
 .guide
 > __**Phase 1**__
 
-Climbing reference: #climbing.
+$maulpiecea Climbing reference: #climbing.
 
 The only difference between Phase 1 in Trios compared to 4 man teams is that the TL5 will receive the Bombs $blue during the climb. This is to allow the Bomb Tank to focus on damage. Bombs $blue are forced on the TL5 when the Base Tank places Vorago West.
 • Use Excalibur $excal on dropdown and Vitality $vitality if you’re not doing the Acceleration climb $accel
@@ -48,7 +48,7 @@ Every Wednesday at 00:00 GT (in-game reset), the weekly special rotation changes
 .ceil
 > __**Ceiling Collapse**__
 
-Mechanic breakdown: #ceilings 
+$ceil Ceilings reference: #ceilings
  
 __Phase 3:__
 
@@ -65,7 +65,7 @@ Ceilings $ceil Phase 5 shares the same mechanics and strategies with #team-split
 .scop
 > __**Scopulus**__
 
-Mechanic breakdown: #scopulus 
+$scop Scopulus reference: #scopulus
 
 • Arena reference
 .
@@ -88,7 +88,7 @@ Scopulus $scop Phase 5 shares the same mechanics and strategies with #the-end $p
 .vit
 > __**Vitalis**__
 
-Mechanic breakdown: #vitalis
+$vitalis Vitalis reference: #vitalis
 
 Vitalis is considered one of the hardest rotations. If you have done the other rotations properly, this won’t represent an issue, but having some experience is recommended.
 
@@ -122,7 +122,7 @@ As described in the mechanics channel for #vitalis, Vitalii $vitalis occasionall
 .gb
 > __**Green Bomb**__
 
-Mechanic breakdown: #green-bomb 
+$green Green Bomb reference: #green-bomb
 
 __Phase 3:__
 
@@ -143,7 +143,7 @@ __Phase 5:__
 .ts
 > __**Team Split**__
 
-Mechanic breakdown: #team-split
+$ts Team Split reference: #team-split
  
 __General Overview:__
 
@@ -168,7 +168,7 @@ https://cdn.discordapp.com/attachments/738844964447846473/814500478594842667/11_
 
 > __**The End**__
 
-Mechanic breakdown: #the-end 
+$purple The End reference: #the-end
 
 __Phase 3:__
 
