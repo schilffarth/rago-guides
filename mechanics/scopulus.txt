@@ -73,13 +73,13 @@ $waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto
 .
 __Phase 10:__
 
-$purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $ts Team Split ➔ $auto 3 auto attacks ➔ :repeat: repeat
+$purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $ts Team Split ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 Optimal time to maul $maul is after Team Split $ts spawn (reference: #maul).
 
 __Phase 11:__
 
-$purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $vitalis Vitalis ➔ $auto 3 auto attacks ➔ :repeat: repeat
+$purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $vitalis Vitalis ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 .index
 > __**Index**__
