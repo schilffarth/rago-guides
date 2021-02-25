@@ -80,6 +80,6 @@ $purple Purple Bomb ➔ $auto 5 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto 
 
 .
 > **__Index__**
-• $pin Introduction {link:intro}
-• $blue Normal Mode {link:nm}
-• $red Hard Mode {link:hm}
+• $pin **Introduction** {link:intro}
+• $blue **Normal Mode** {link:nm}
+• $red **Hard Mode** {link:hm}
