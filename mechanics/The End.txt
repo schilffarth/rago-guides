@@ -15,9 +15,9 @@ __The End:__
 • All bombs that have not been tagged are launched at Stand Up
 
 Glitching Out defines the phenomen of leaving Vorago's arms during The End special attack.
-1. Glitching Out is only possible on the South and East side
-2. As Vorago opens his arms, position in the exact center of the currently opened quadrants
-3. Once the arms close to the new quadrant, move away
+• Glitching Out is only possible on the South and East side
+• As Vorago opens his arms, position in the exact center of the currently opened quadrants
+• Once the arms close to the new quadrant, move away
 
 __Purple Bomb:__
 
