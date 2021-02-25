@@ -19,7 +19,7 @@ Climbing reference: #climbing.
 The only difference between Phase 1 in Trios compared to 4 man teams, is that the TL5 will receive the Bombs during the climb. This is to allow the Bomb to focus on damage. Bombs are forced on the TL5 when the Base Tank places Vorago West.
 
 • Use Excalibur $excal on dropdown and Vitality $vitality if you’re not doing the Acceleration climb $accel
-• Eat to 8,000 HP since you’re getting Blues $blue
+• Eat to `8,000` HP since you’re getting Blues $blue
 • The general idea is: The faster you are, the less damage you’ll take
 • In Trios you should jump under 50k HP or right away if there’s a Melee Base
 • If you need to drop the piece because you need the inventory space, don't do it until Phase 2 starts		
@@ -102,7 +102,7 @@ __Phase 3:__
 
 • Everyone will pick a corner and be in melee distance. Avoid going close to anyone else
 • You will receive both Melee swipes $swipe and Blue Bombs $blue during this Phase because everyone is MD
-• You must prayer flick them in time $deflectmelee $deflectmage
+• You must prayer flick them in time $deflectmelee $deflectmagic
 • During Reflect $link, equip an item via clicking in your inventory. This will make you stop attacking
 • You can also click under yourself to OFF if you are more experienced
 • This Phase has Bleeds $dismember after the second cycle. If they happen, the the 5th one as usual
