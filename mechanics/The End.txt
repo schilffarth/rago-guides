@@ -1,0 +1,85 @@
+.intro
+> **__The End__**
+
+The weekly special The End $purple is split in two separate main mechanics: **The End** and a **Purple Bomb**.
+ 
+__The End:__
+
+• Vorago charges up the special attack towards one of 4 quadrants in the arena
+• Not staying inside the selected area will cause *suffocation* damage, increasing over time
+• After Vorago opened a new quadrant his arm drags and deals damage to all players located in the previous quadrant
+• The second quadrant contains either Blue Bombs $blue or Red Bombs $red, the third includes the other and the last always contains Purple Bombs $purple
+• Bombs can be tagged in their quadrants to trigger them early (note: tagging Blue Bombs $blue resets all defensives)
+• The amount of bombs scales with team size and is increased in Hard Mode
+• As Vorago reaches the last quadrant he finishes The End with a Stand Up and continues his attack rotation
+• All bombs that have not been tagged are launched at Stand Up
+
+Glitching Out defines the phenomen of leaving Vorago's arms during The End special attack.
+1. Glitching Out is only possible on the South and East side
+2. As Vorago opens his arms, position in the exact center of the currently opened quadrants
+3. Once the arms close to the new quadrant, move away
+
+__Purple Bomb:__
+
+• The player turns into an explosive Vitalis $vitalis with a countdown
+• During the countdown, Metamorphosis $metamorphosis can not be activated and gets cleared upon the release of the Purple Bomb
+• The countdown is visualized with a red timer and a blue-orange progress bar on top of the player
+• At detonation, the Purple Bomb $purple deals AOE damage in a 2 tile radius (area of 5x5 tiles)
+
+ 
+.nm
+> **__Normal Mode__**
+
+• Purple Bomb damage: **2,000**
+• Suffocation damage: **100**, increasing every **second game tick by 100**
+• Arm damage: **2,500**
+• Blue Bombs: At least **5**
+• Red Bombs: At least **3**
+• Maximum of Purple Bombs launched: **5**
+ 
+__Phase 3:__
+
+$purple The End ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $purple The End ➔ $auto 3 Auto Attacks ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ $repeat Repeat
+ 
+__Phase 4:__
+
+$waterfall Waterfall ➔ $auto 3 Auto Attacks ➔ $vitalis Stone Clone ➔ $auto 7 Auto Attacks ➔ $purple The End ➔ $auto 3 Auto Attacks ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+ 
+__Phase 5:__
+
+$purple Purple Bomb ➔ $auto 5 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $bleed 3 Bleeds ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+ 
+.hm
+> **__Hard Mode__**
+
+• Purple Bomb damage: **4,000**
+• Suffocation damage: **100**, increasing **every game tick** by **100**
+• Arm damage: **5,000**
+• Blue Bombs: At least **7**
+• Red Bombs: At least **4**
+• Maximum of Purple Bombs launched: **10**
+
+.
+__Phase 8:__
+
+$purple The End ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $purple The End ➔ $auto 3 Auto Attacks ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ $repeat Repeat
+ 
+__Phase 9:__
+
+$waterfall Waterfall ➔ $auto 3 Auto Attacks ➔ $vitalis Stone Clone ➔ $auto 7 Auto Attacks ➔ $purple The End ➔ $auto 3 Auto Attacks ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+ 
+__Phase 10:__
+
+$purple Purple Bomb ➔ $auto 5 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $bleed 3 Bleeds ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+
+Optimal time to maul $maul is after the last Bleed $bleed (reference: #maul).
+ 
+__Phase 11:__
+
+$purple Purple Bomb ➔ $auto 5 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+
+.
+> **__Index__**
+• $pin Introduction {link:intro}
+• $blue Normal Mode {link:nm}
+• $red Hard Mode {link:hm}
