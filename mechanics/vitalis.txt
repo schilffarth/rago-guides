@@ -61,7 +61,8 @@ __Phase 11:__
 $vitalis Vitalis ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 .index
-> **__Index__** 
+> **__Index__**
+
 • $pin **Introduction** {link:intro}
 • $blue **Normal Mode** {link:nm}
 • $red **Hard Mode** {link:hm}

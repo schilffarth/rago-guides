@@ -61,7 +61,7 @@ __Phase 11:__
 $green Green Bomb ➔ $auto 5 auto attacks (skip at `10,000`) ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $teamsplit Team Split ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 .index
-> __**index**__
+> __**Index**__
 
 • $pin **Introduction** {link:intro}
 • $blue **Normal Mode** {link:nm}
