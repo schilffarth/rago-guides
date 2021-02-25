@@ -3,9 +3,9 @@ Guide written by <@184918342392479744>, <@164133228989513728>, <@316175818458136
 
 > __**Trio Normal Mode**__
 
-The Top Lure Voke 5 (TL5) is the primary focus of this guide. The responsibilities of the TL5 are to climb in Phase 1 (reference: #climbing) and lure Vorago him into jump spot, and to take the 5th Bleed $bleed with provoke $voke on every Bleed set throughout Phase 2 to 4 (reference: #clearing-bleeds). The TL5 always positions farther away from Vorago than the Base Tank and closer than the Bomb Tank (3-4 steps away).  If a Phase, Rotation or role isn’t mentioned on any Phase, it’s because their jobs don’t differ from higher team sizes and the TL5 doesn't have a specific job other than dpsing.
+The Top Lure Voke 5 (TL5) is the primary focus of this guide. The responsibilities of the TL5 are to climb in Phase 1 (reference: #climbing) and lure Vorago him into jump spot, and to take the 5th Bleed $bleed with provoke $voke on every Bleed set throughout Phase 2 to 4 (reference: #clearing-bleeds). The TL5 always positions farther away from Vorago than the Base Tank and closer than the Bomb Tank (3-4 steps away).  If a Phase, Rotation or role is not mentioned on any Phase, it is because their jobs do not differ from higher team sizes and the TL5 does not have a specific job other than dpsing.
 
-This guide focuses on Trio Normal Mode Vorago only and won’t explain the basics of Vorago, for those go to #mechanics and #phase-overview. The guide is split into three roles: Base Tank, Bomb Tank and TL5. For the full strategies on Base Tank and Bomb Tank check #duo.
+This guide focuses on Trio Normal Mode Vorago only and will not explain the basics of Vorago, for those go to #mechanics and #phase-overview. The guide is split into three roles: Base Tank, Bomb Tank and TL5. For the full strategies on Base Tank and Bomb Tank check #duo.
 
 .guide
 > __**Phase 1**__
@@ -13,33 +13,35 @@ This guide focuses on Trio Normal Mode Vorago only and won’t explain the basic
 $maulpiecea Climbing reference: #climbing.
 
 The only difference between Phase 1 in Trios compared to 4 man teams is that the TL5 will receive the Bombs $blue during the climb. This is to allow the Bomb Tank to focus on damage. Bombs $blue are forced on the TL5 when the Base Tank places Vorago West.
-• Use Excalibur $excal on dropdown and Vitality $vitality if you’re not doing the Acceleration climb $accel
+
+• Use Excalibur $excal on dropdown and Vitality $vitality if you are not doing the Acceleration climb $accel
 • Eat to `8,000` HP since you’re getting Blues $blue
-• The general idea is: The faster you are, the less damage you’ll take
-• In Trios you should jump under 50k HP or right away if there’s a Melee Base Tank
-• If you need to drop the piece because you need the inventory space, don't do it until Phase 2 starts		
+• The faster you are, the less damage you will take
+• In Trios you should jump under `50,000` HP or right away if there is a Melee Base Tank
+• If you need to drop the piece because you need the inventory space, do not do it until Phase 2 starts
 
 > __**Phase 2**__
 
 • Provoke $voke after every 4th Bleed $bleed to take 5th one (reference: #clearing-bleeds)
 • Activate all Gravity Fields so Base Tank and Bomb can focus on the other mechanics 
-• If you’re in charge of dummying $dummy Phase 2, drop it before BHD finishes
+• If you are in charge of dummying $dummy Phase 2, drop it before BHD finishes
 
 .
 > __**Phase 4**__
 
 • Make sure to pick up at pieces as Phase 4 starts or as Phase 2 ends (reference: #maul)
 • Provoke $voke after every 4th Bleed $bleed to take 5th one (reference: #clearing-bleeds)
-• At the end of Phase 4, it’s the TL5’s job to pick up all the maul pieces and make the maul $maul before Phase 5 starts
-• If you couldn’t pick up the last piece in time, do it right away on Phase 5 so you can ultimate before Vorago appears
+• At the end of Phase 4, it is the TL5’s job to pick up all the maul pieces and make the maul $maul before Phase 5 starts
+• If you could not pick up the last piece in time, do it right away on Phase 5 so you can ultimate before Vorago appears
 
 > __**Phase 5**__
 
-The Tl5 is expected to do the following for all Phase 5 regardless of the rotation:
-• Same as the Base Tank except you're not switching with the BT, you stay as DPS for the whole Phase
+The Tl5 is expected to do the following for all Phase 5 regardless of the rotation.
+
+• Same as the Base Tank except you are not switching with the BT, you stay as DPS for the whole Phase
 • Having the maul $maul ready on dropdown and mauling in time (reference: #maul)
-• If there's a Melee Base Tank you must do the Bomb Tank switch instead
-• Let the Melee Base Tank maul $maul due to them being in melee distance for most of the Phase.
+• If there is a Melee Base Tank you must do the Bomb Tank switch instead
+• Let the Melee Base Tank maul $maul due to them being in melee distance for most of the Phase
 
 > __**Weekly Specials (Rotations)**__
 
@@ -56,7 +58,7 @@ This phase is FFA-Bomb Tank after Vorago jumps. Since you will be separated from
  
 __Phase 4:__
 
-Maul pieces $maulpiecea $maulpieceb can be stuck beneath rocks $ceil. Check your minimap to know where the piece is found if you can’t find it. If after breaking the rock you still can’t see it you have to move your camera up and they will appear. Otherwise wait until the next phase as they will be automatically dropped into Phase 5.
+Maul pieces $maulpiecea $maulpieceb can be stuck beneath rocks $ceil. Check your minimap to know where the piece is found if you ca not find it. If after breaking the rock you still ca not see it you have to move your camera up and they will appear. Otherwise wait until the next phase as they will be automatically dropped into Phase 5.
 
 __Phase 5:__
 
@@ -90,34 +92,36 @@ Scopulus $scop Phase 5 shares the same mechanics and strategies with #the-end $p
 
 $vitalis Vitalis reference: #vitalis
 
-Vitalis is considered one of the hardest rotations. If you have done the other rotations properly, this won’t represent an issue, but having some experience is recommended.
+Vitalis is considered one of the hardest rotations. If you have done the other rotations properly, this will not represent an issue, but having some experience is recommended.
 
 Bringing Dominion Mines $mines is highly recommended for Phases 4 and 5!
 
 __Phase 3:__
 
-• Everyone will pick a corner and be in melee distance. Avoid going close to anyone else
+• Everyone will pick a corner and be in melee distance
 • You will receive both Melee swipes $swipe and Blue Bombs $blue during this Phase because everyone is MD
 • You must prayer flick them in time $deflectmelee $deflectmagic
-• During Reflect $link, equip an item via clicking in your inventory. This will make you stop attacking
+• During Reflect $link, equip an item via clicking in your inventory (this will make you stop attacking)
 • You can also click under yourself to OFF if you are more experienced
-• This Phase has Bleeds $bleed after the second cycle. If they happen, the the 5th one as usual
+• This Phase has Bleeds $bleed after the second cycle (if they happen, voke $voke the 5th one as usual)
 • Do not move out of MD at any point during the Phase and __**never**__ go the Vitalis orb on Phase 3
 
 .
 __Phase 4:__
 
-• Position yourself in the North-East quadrant (reference: #vitalis)
+• Position yourself in the north-east quadrant (reference: #vitalis)
 • Place Dominion Mines $mines at the correct location where the Vitalis orb is launched
-• Step into the Vitalis orb explosion. Prioritize killing all spawned Vitali $vitalis right away
+• Step into the Vitalis orb explosion
+• Prioritize killing all spawned Vitalii $vitalis right away
 
 __Phase 5:__
 
 As described in the mechanics channel for #vitalis, Vitalii $vitalis occasionally force your active target to switch back to Vorago. This can cause deadly PKs. Be careful your target stays on the Vitalis, and avoid using any AoE abilities if it’s close to Reflect $link.
 
 • Place Dominion Mines close to MD as the Phase starts (place them again whenever they are ready)
-• Step back, while following the South wall, to step into the Vitalis orb explosion. Prioritize killing all spawned Vitali 
-• After blocking the orb go back to your spot 1-2 steps away from MD and by the South wall
+• Step back, while following the South wall, to step into the Vitalis orb explosion
+• Prioritize killing all spawned Vitalii
+• After blocking the orb go back to your spot 1-2 steps away from MD and by the south wall
 
 .gb
 > __**Green Bomb**__
@@ -127,8 +131,8 @@ $green Green Bomb reference: #green-bomb
 __Phase 3:__
 
 • Ultimate on dropdown away from everyone else, but in range to not get Bombs $blue
-• Tank all Green Bombs $green targeting you by eating above `10,000` HP or use the Powerburst Of Vitality
-• Don’t accidentally bounce the Green $green on anyone.
+• Tank all Green Bombs $green targeting you by eating above `10,000` HP or use the Powerburst of Vitality
+• Do not accidentally bounce the Green Bomb $green on anyone
  
 __Phase 4:__
 
@@ -138,7 +142,8 @@ __Phase 4:__
 __Phase 5:__
 
 • Position yourself South as usual, with the difference that whoever gets the Green $green must run North, tank it and then go back South
-• Tank the Green Bomb $green if it’s on you. The Bomb Tank should be Intercepting $cept whoever gets it, but you should have enough hp (`10,000`) in case this doesn’t happen
+• Tank the Green Bomb $green if it’s on you
+• The Bomb Tank should be Intercepting $cept whoever gets it, but you should have enough hp (`10,000`) in case this does not happen
 
 .ts
 > __**Team Split**__
@@ -153,15 +158,15 @@ __General Overview:__
 
 __Phase 3:__
 
-• If you are using an Ultimate on dropdown, make sure you place it close to Vorago and Surge $surge or Bladed Dive $bd to it after Team Split ends
-• Reprisal $reprisal can be used to tank the typeless hit of the Team Split. 
-• You can’t Reprisal the first Team Split of Phase 3/5 if you don’t target cycle on dropdown (reference: #target-cycle)
+• If you are using an ultimate on dropdown, make sure you place it close to Vorago and Surge $surge or Bladed Dive $bd to it after Team Split ends
+• Reprisal $reprisal can be used to tank the typeless hit of the Team Split
+• You can not Reprisal the first Team Split of Phases 3 and 5 if you do not TC (reference: #target-cycle)
  
 __Phase 5:__
 
 • Reprisal $reprisal can be used if you use Target Cycle before the first Team Split spawns (reference: #target-cycle) 
-• Position in the South-East (not MD) and Ultimate before Vorago spawns if you are TCing or right after spawn if not TCing
-• Use this gif for reference
+• Position in the South-East (not MD) and Ultimate before Vorago spawns if you are target cycling or right after spawn if not
+• Gif for reference
 .
 https://cdn.discordapp.com/attachments/738844964447846473/814500478594842667/11_1.gif
 .pb
@@ -173,8 +178,8 @@ $purple The End reference: #the-end
 __Phase 3:__
 
 • Follow Vorago's arms rotating counterclockwise
-• Glitch out of Vorago's arms (reference: #the-end) whenever it’s possible and Ultimate during the 3rd quadrant
-• If you don’t glitch out, make sure you pray Mage $deflectmagic and stay in melee distance so you don’t get extra damage from the Bombs that are being tagged (usually Blues $blue in Trio)
+• Glitch out of Vorago's arms (reference: #the-end) whenever it is possible and Ultimate during the 3rd quadrant
+• If you do not glitch out, make sure you pray Mage $deflectmagic and stay in melee distance so you do not get extra damage from the Bombs that are being tagged (usually Blues $blue in trio)
 
 __Phase 4:__
 
@@ -183,9 +188,10 @@ __Phase 4:__
  
 __Phase 5:__
 
-• Position in the North-East 1 tile away from melee distance
-• You can Onslaught $onslaught on dropdown. If the team is able to push on dropdown, you can Onslaught in MD instead
-• Melee Base Tank will go South-East. For non-melee Base Tanks, Base Tank usually goes North and TL5 South instead
+• Position in the north-east 1 tile away from melee distance
+• You can Onslaught $onslaught on dropdown
+• If the team is able to push on dropdown, you can Onslaught in MD instead
+• Melee Base Tank will go south-east (non-melee Base Tanks usually go north and TL5 south instead)
 
 .index
 > __**Index**__
