@@ -150,6 +150,7 @@
   "$maul": "<:maul:812659653850300416>",
   "$maxcape": "<:max_cape:813431503178039316>",
   "$metamorphosis": "<:Metamorphosis:603015598347124781>",
+  "$mines": "<:dominionmines:814487401279389706>",
   "$mobile": "<:Mobile:695612671923585094>",
   "$natty": "<:NaturalInstinct:612343197489692672>",
   "$needle": "<:NeedleStrike:624335344241868852>",
@@ -161,6 +162,7 @@
   "$omenslegs": "<:legsofomens:813431434005970974>",
   "$omenstorso": "<:torsoofomens:813431379088900187>",
   "$omni": "<:Omnipower:603015641896583182>",
+  "$onslaught": "<:onslaught:814487401081864243>",
   "$onyxbolts": "<:OnyxBakriminelBolts:729839749879169044>",
   "$pin": ":pushpin:",
   "$purple": "<:PurpleBomb:812651807737774080>",
@@ -175,6 +177,7 @@
   "$rapid": "<:RapidFire:624335359660261387>",
   "$reckless": "<:Reckless_aura:813692295118716939>",
   "$reflect": "<:Reflect:612343271515095081>",
+  "$ripper": "<:ripperdemon:814488499126403072>",
   "$rubybolts": "<:RubyBakriminelBolts:759662044143812608>",
   "$runeair": "<:RuneAir:640701634409922628>",
   "$runeastral": "<:RuneAstral:640701646812348416>",
@@ -234,8 +237,5 @@
   "$youtube": "<:Youtube:812768268108038214>",
   "$zbrew": "<:zbrew:813441386929717298>",
   "$zerk": "<:Berserk:629132737852473354>",
-  "$zgs": "<:ZarosGodsword:629133733601083394>",
-  "$mines": "<:dominionmines:814487401279389706>",
-  "$onslaught": "<:onslaught:814487401081864243>",
-  "$ripper": "<:ripperdemon:814488499126403072>"
+  "$zgs": "<:ZarosGodsword:629133733601083394>"
 }
