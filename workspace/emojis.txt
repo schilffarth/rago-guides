@@ -120,6 +120,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $natty `natty`
 • $needle `needle`
 • $nihil `nihil`
+• $nihilice `nihilice`
 .o
 **O**
 • $omensboots `omensboots`
@@ -128,7 +129,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $omenslegs `omenslegs`
 • $omenstorso `omenstorso`
 • $omni `omni`
-• $ons `onslaught`
+• $onslaught `onslaught`
 • $onyxbolts `onyxbolts`
 .p
 **P**
@@ -150,6 +151,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 .
 • $reckless `reckless`
 • $reflect `reflect`
+• $ripper `ripperdemon`
 • $runeair `runeair`
 • $rubybolts `rubybolts`
 • $runeastral `runeastral`
