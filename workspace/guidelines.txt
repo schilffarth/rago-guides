@@ -3,26 +3,55 @@
 
 Before you dive into Rago Hub guide writing, you should take a couple of minutes for understanding the syntax that our <@&812409511179845663> Discord bot uses to parse guides into proper styling.
 
-Discord messages have a limit of `2000` characters. Emojis are converted to a different format than visually used for the normal Discord user, which use up more characters than it looks like. Don't worry though, our Discord bot automatically converts emojis of your needs into the appropriate syntax.
+__Character Limit:__
 
-Due to the `2000` character limit, Rago Hub guides need to be sent in multiple messages. To achieve an intentional separation of content into respective messages, this is simply achieved by adding a dot in the start of a line: `.`. This `.` will tell the Discord bot to start parsing a new message.
+Due to Discord messages having a limit of `2000` characters, Rago Hub guides need to be sent in multiple messages. To achieve an intentional separation of content into respective messages, this is simply achieved by adding a dot `.` to the start of a line. This dot will tell the Discord bot to send the current message and start parsing a new section.
 
-Indexing is a very important aspect of writing larger guides. The Discord bot will automatically link messages for you. Remember the sentence I said about message character limit and how to separate those? Exactly: You simply give your messages an ID which is appended to the content separator. Example: `.intro`. This will store the message ID of the message following the `.intro` content separator. To add a message link, use this syntax: `{link:message}`. Example: `{link:intro}`.
+.
+__Indices:__
 
-Automatic pinning: Giving a message the section ID of `index` will automatically pin the respective message.
+Indexing is a very important aspect of writing large guides. The Discord bot automatically links messages by following a specific syntax. Messages are linked by assigning section identifiers to messages. This identifier is added to the start of a message, appended to the content separator `.`. The message ID can be retrieved and linked by this short syntax: `{link:id}`, with the `id` representing the section identifier you assigned earlier. Furthermore, you can tell the Discord bot to automatically pin indices. Do so by assigning the Index message the section identifier `index`.
 
+• `.` Write a new message
+.
+https://cdn.discordapp.com/attachments/500971699349749760/814519501278019634/unknown.png
+.
+
+• `.newmessage` Assign a section ID to the message
+.
+https://cdn.discordapp.com/attachments/500971699349749760/814519604319223869/unknown.png
+.
+
+• `{link:newmessage}` Retrieve the message link in the Index
+.
+https://cdn.discordapp.com/attachments/500971699349749760/814519860158922802/unknown.png
+.
+
+• `.index` Automatically pin the Index
+.
+https://cdn.discordapp.com/attachments/500971699349749760/814519920791781436/unknown.png
 .guidestyling
+
 > __**Guide Styling**__
 
-• Section headlines: `> __**Headline**__`, one blank line preceding and following the headline
-• Sub-headlines: `__Sub-Headline:__`, one blank line preceding and following the headline
+• Avoid using contractions such as "isn't", rather use "is not" (formal writing)
+• Format damage numbers with in-line code blocks, i.e. `10,000`, `4,000`, `10,667`
+• If possible, follow proper capitalisation in English grammar: <https://en.wikipedia.org/wiki/Capitalization_in_English>
+• Use british over american spelling, i.e. "colour" instead of "color"
+• Section headlines: `> __**Headline**__`, one preceding and one trailing blank line
+• Sub-headlines: `__Sub-Headline:__`, one preceding and one trailing blank line
 • Listing: `• Item of a big list`, one blank line before the first and one after the last item
-• Damage numbers are formatted with in-line code blocks, i.e. `10,000`, `4,000`, `10,667`
+• Images should be labeled as list items without colons or other formatting
 
 .emojilist
 > __**Emoji List**__
 
-A full list of Emojis and how to use them can be found in #emojis.
+The emoji syntax is parsed by adding the character dollar `$` preceding to emoji keywords. For example, writing `$flush` will be converted to :flushed:. A full list of Emojis can be found in #emojis.
+
+.testing
+> __**Testing**__
+
+Head to our <#812595920935321632> channel and use the command `/txtpost` either with an attached text file or with the content added within the Discord message.
 
 .index
 > __**Index**__
@@ -30,3 +59,4 @@ A full list of Emojis and how to use them can be found in #emojis.
 • $pin **Guide Writing** {link:guidewriting}
 • $dome **Guide Styling** {link:guidestyling}
 • $bonfire **Emoji List** {link:emojilist}
+• $achievement **Testing** {link:testing}
