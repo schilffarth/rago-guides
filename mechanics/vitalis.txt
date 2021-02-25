@@ -1,0 +1,72 @@
+.intro
+> **__Vitalis__**
+
+At the weekly special Vitalis $vitalis Vorago launches an orb to a random direction, spawning multiple Vitalii.
+
+• The orb is launched towards a cardinal direction
+• If Vorago $vorago does not get moved, the orb direction is always east, north or north-east
+• Once walked, the orb direction can be anywhere
+• For each player tanking the explosion, one Vitalis $vitalis will be prevented from spawning
+• The orb deals soft typeless damage to every player blocking a spawn (damage can be reduced by defensives)
+
+__Vitali:__
+
+• Vitali have 20,000 life points
+• They attack with melee, dealing damage every 1.2 seconds
+• Vitali are acting as blockades, interrupting the line of sight and blocking movement
+• Their targeted player changes frequently, unrelated to player aggression
+
+
+.nm
+> **__Normal Mode__**
+
+• Phases 3 and 4 Vitali spawns: 5
+• Phase 5 Vitali spawns: 2 - 4 
+• Orb explosion damage: 2,000
+ 
+__Phase 3:__
+
+$vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $bleed 5 Bleeds ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+ 
+__Phase 4:__
+
+$waterfall Waterfall ➔ $auto 3 Auto Attacks ➔ $vitalis Stone Clone ➔ $auto 7 Auto Attacks ➔ $vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $bleed 5 Bleeds ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+ 
+__Phase 5:__
+
+$vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $bleed 3 Bleeds > $auto 3 Auto Attacks ➔ $repeat Repeat
+
+
+ 
+.hm
+> **__Hard Mode__**
+
+• Phases 3 and 9 Vitali spawns: 8 
+• Phases 10 and 11 Vitali spawns: 3 - 5 
+• Orb explosion damage: 3,000
+ 
+__Phase 5:__
+
+$vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $bleed 5 Bleeds ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+ 
+__Phase 9:__
+
+$waterfall Waterfall ➔ $auto 3 Auto Attacks ➔ $vitalis Stone Clone ➔ $auto 7 Auto Attacks ➔ $vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $bleed 5 Bleeds ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+ 
+__Phase 10:__
+
+$vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $purple Purple Bomb ➔ $auto 5 Auto Attacks ➔ $repeat Repeat
+
+Optimal time to maul $maul is after start of Reflect $link (reference: #maul).
+ 
+__Phase 11:__
+
+$vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $bleed 3 Bleeds ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+
+.
+> **__Index__** 
+• $pin Introduction {link:intro}
+• $blue Normal Mode {link:nm}
+• $red Hard Mode {link:hm}
+
+ 
