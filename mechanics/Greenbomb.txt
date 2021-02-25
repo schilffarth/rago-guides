@@ -1,0 +1,73 @@
+.intro
+**__Green Bomb__**
+
+At the weekly special Green Bomb $green Vorago launches a bomb, dealing **10,000** damage to its last primary target.
+
+• The Green Bomb is first launched to one of the 9 square grids in the arena
+• Once the Green Bomb bounces on the ground, it leaves a **green mist**
+• Staying in the green mist will drain your life points, prayer points and run energy, increasing progressively
+• A player target is selected randomly and a message box appears: "Vorago has sent a green bomb after you."
+• On explosion, **10,000** damage is dealt to the primary target, cancelling all defensives and draining **10%** adrenaline
+• Taking the 10,000 damage results in Vorago $vorago going into a Reflect $link immediately
+
+A confirmed bug exists that a player signing to the 10,000 typeless damage causes Vorago to immediately send out another Green Bomb $green.
+
+__Bridging:__
+
+• A Green Bomb can be bridged by staying next to another player
+• The Green Bomb will then deal minor damage to both players and bounce onto the other player in a 2 tile radius
+• Upon bridging all defensives are cancelled and 10% adrenaline is drained
+• The Green Bomb disappears after having bounced 5 times in phase 3, for phases 4 and 5 it requires to be bridged 4 times
+• If the Green Bomb hits the same target multiple times, they take additional damage
+
+Read more about Green Bomb $greem at the official RuneScape Wiki: <https://runescape.wiki/w/Vorago/Strategies#Green_bomb>
+ 
+
+.nm
+> **__Normal Mode__**
+
+• You receive the chat warning and message box indicating that you are targeted by the Green Bomb $green
+ 
+__Phase 3:__
+
+$green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ $repeat Repeat
+ 
+__Phase 4:__
+
+$waterfall Waterfall ➔ $auto 3 Auto Attacks ➔ $vitalis Stone Clone ➔ $auto 7 Auto Attacks ➔ $green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $bleed 5 Bleeds ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+ 
+__Phase 5:__
+
+$green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $bleed 3 Bleeds ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+ 
+
+.hm
+> __**Hard Mode**__
+
+• No chat warning or message box appears for the player targeted by the Green Bomb :GreenBomb:
+ 
+__Phase 6:__
+
+$green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ :repeat: Repeat
+ 
+__Phase 9:__
+
+$waterfall Waterfall ➔ $auto 3 Auto Attacks ➔ $vitalis Stone Clone ➔ $auto 7 Auto Attacks ➔ $green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $bleed 5 Bleeds ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+ 
+__Phase 10:__
+
+$green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+
+Optimal time to maul $maul is after Green Bomb $green release (reference: #maul).
+ 
+__Phase 11:__
+
+$green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $teamsplit Team Split ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+
+.
+> __**index**__
+
+• $pin Introduction {link:intro}
+• $blue Normal Mode {link:nm}
+• $red Hard Mode {link:hm}
+
