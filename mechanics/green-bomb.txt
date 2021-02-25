@@ -30,15 +30,15 @@ Read more about Green Bomb $greem at the official RuneScape Wiki: <https://runes
  
 __Phase 3:__
 
-$green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ $repeat Repeat
+$green Green Bomb ➔ $auto 5 auto attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $green Green Bomb ➔ $auto 5 auto attacks (skip at 10k) ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
  
 __Phase 4:__
 
-$waterfall Waterfall ➔ $auto 3 Auto Attacks ➔ $vitalis Stone Clone ➔ $auto 7 Auto Attacks ➔ $green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $bleed 5 Bleeds ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $green Green Bomb ➔ $auto 5 auto attacks (skip at 10k) ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
  
 __Phase 5:__
 
-$green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $bleed 3 Bleeds ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+$green Green Bomb ➔ $auto 5 auto attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
  
 
 .hm
@@ -48,21 +48,21 @@ $green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $link Reflect ➔ $
  
 __Phase 6:__
 
-$green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $red Red Bomb ➔ $auto 4 Auto Attacks ➔ :repeat: Repeat
+$green Green Bomb ➔ $auto 5 auto attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $green Green Bomb ➔ $auto 5 auto attacks (skip at 10k) ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ :repeat: repeat
  
 __Phase 9:__
 
-$waterfall Waterfall ➔ $auto 3 Auto Attacks ➔ $vitalis Stone Clone ➔ $auto 7 Auto Attacks ➔ $green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $bleed 5 Bleeds ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $green Green Bomb ➔ $auto 5 auto attacks (skip at 10k) ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
  
 __Phase 10:__
 
-$green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+$green Green Bomb ➔ $auto 5 auto attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $vitalis Vitalis ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 Optimal time to maul $maul is after Green Bomb $green release (reference: #maul).
  
 __Phase 11:__
 
-$green Green Bomb ➔ $auto 5 Auto Attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $teamsplit Team Split ➔ $auto 3 Auto Attacks ➔ $repeat Repeat
+$green Green Bomb ➔ $auto 5 auto attacks (skip at 10k) ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $teamsplit Team Split ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 .
 > __**index**__
