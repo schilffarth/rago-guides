@@ -1,0 +1,90 @@
+.intro
+> __**Scopulus**__
+
+At the weekly special Scopulus $scop Vorago summons multiple Scopulii, dealing rapid melee damage $deflectmelee to players surrounding them.
+
+• Scopulii have `150,000` life points
+• Rarely, their aggression changes randomly (Ice Nihils $nihilice and Ripper Demons $ripper always cause Scopulii to change aggression)
+• Scopulus target the player standing closest to their spawn or the player attacking first
+• Their defence is significantly lowered towards magic attacks $magic
+• When one Scopulus $scop dies, all remaining Scopulii become stronger and heal by `15,000` life points
+
+Phases 4 and 5 do **not** feature the Scopulus mechanic and make use of other standard mechanics instead.
+
+.brokenflanking
+__Broken Flanking:__
+
+Scopulii can be flanked $flank by the person holding their aggression. The flanking angle of a Scopulus breaks upon a diagonal square moved within a flanking angle / diagonal compass direction, due to their size being 2 x 2 tiles. The flanking angle updates and gets fixed once the angle is turned for more than 90°.
+
+• Broken flanking reference
+.
+https://cdn.discordapp.com/attachments/670985868021989415/761917910745612308/history_001.png
+.nm
+
+> __**Normal Mode**__
+
+• Vorago spawns 2 Scopulii $scop
+• Spawn locations
+.
+https://cdn.discordapp.com/attachments/676485011268042761/747035088776200313/scop_nm.png
+.
+
+• Example video for stacking Scopulii perfectly as melee $attack Base Tank
+https://youtu.be/mbSZZITm5qg
+.
+
+• Example video for stacking Scopulii perfectly as magic $magic Base Tank
+https://www.youtube.com/watch?v=wRcdDVuHvwA
+.
+
+__Phase 3:__
+
+$blue Blue Bomb ➔ $repeat repeat
+
+2 Scopulii $scop are summoned and Vorago repeatedly fires Blue Bombs $blue until both Scopulii died. Their spawn locations are south-west and south-east.
+
+__Phase 4:__
+
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
+
+__Phase 5:__
+
+$purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
+
+.hm
+> __**Hard Mode**__
+
+• Vorago spawns 3 Scopulii
+• Spawn locations
+.
+https://cdn.discordapp.com/attachments/676485011268042761/747037809810079804/scop_hm.png
+.
+
+__Phase 4:__
+
+$blue Blue Bomb ➔ $repeat repeat
+
+2 Scopulii $scop are summoned and Vorago repeatedly fires Blue Bombs $blue until all Scopulii died. Their spawn locations are south-west, south-east and north.
+
+__Phase 9:__
+
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
+
+.
+__Phase 10:__
+
+$purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $ts Team Split ➔ $auto 3 auto attacks ➔ :repeat: repeat
+
+Optimal time to maul $maul is after Team Split $ts spawn (reference: #maul).
+
+__Phase 11:__
+
+$purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $vitalis Vitalis ➔ $auto 3 auto attacks ➔ :repeat: repeat
+
+.index
+> __**Index**__
+
+• $pin **Introduction** {link:intro}
+• $flank **Broken Flanking** {link:brokenflanking}
+• $blue **Normal Mode** {link:nm}
+• $red **Hard Mode** {link:hm}
