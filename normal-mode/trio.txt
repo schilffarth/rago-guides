@@ -1,5 +1,5 @@
 .intro
-Guide written by @Serene, @Celly and @Durmoth.
+Guide written by <@184918342392479744>, <@164133228989513728>, <@316175818458136588> and <@300296497277173761>.
 
 > __**Trio Normal Mode**__
 
@@ -32,12 +32,14 @@ The only difference between Phase 1 in Trios compared to 4 man teams, is that th
 
 .
 > __**Phase 4**__
+
 • Make sure to pick up at pieces as Phase 4 starts or as Phase 2 ends (reference: #maul)
 • Provoke $voke after every 4th Bleed $dismember to take 5th one (reference: #clearing-bleeds)
 • At the end of Phase 4, it’s the TL5’s job to pick up all the maul pieces and make the maul $maul before Phase 5 starts
 • If you couldn’t pick up the last piece in time, do it right away on Phase 5 so you can ultimate before Vorago appears
 
 > __**Phase 5**__
+
 The Tl5 is expected to do the following for all Phase 5 regardless of the rotation:
 • Same as the Base Tank except you're not switching with the BT, you stay as DPS for the whole Phase
 • Having the maul $maul ready on dropdown and mauling in time (reference: #maul)
@@ -45,6 +47,7 @@ The Tl5 is expected to do the following for all Phase 5 regardless of the rotati
 • Let the Melee Base maul $maul due to them being in melee distance for most of the Phase.
 
 > __**Weekly Specials (Rotations)**__
+
 Every Wednesday at 00:00 GT (in-game reset), the weekly special rotation changes for Vorago. There are a total of 6 rotations: Ceilings $ceil Scopulus $scop:, Vitalis $vitalis, Green Bomb $green, Team Split $ts and The End $purple. These rotations will affect the mechanics in Phases 3, 4 and 5.
 
 .ceil
@@ -69,8 +72,7 @@ Ceilings $ceil Phase 5 shares the same mechanics and strategies with #team-split
 
 Mechanic breakdown: #scopulus 
 
-• Arena reference:
-
+• Arena reference
 .
 https://cdn.discordapp.com/attachments/676485011268042761/747035088776200313/scop_nm.png
 .
@@ -94,7 +96,7 @@ Mechanic breakdown: #vitalis
 
 Vitalis is considered one of the hardest rotations. If you have done the other rotations properly, this won’t represent an issue, but having some experience is recommended.
 
-$mines Bringing Dominion Mines is highly recommended for Phases 4 and 5!
+Bringing Dominion Mines $mines is highly recommended for Phases 4 and 5!
 
 __Phase 3:__
 
@@ -147,7 +149,8 @@ __Phase 5:__
 
 Mechanic breakdown: #team-split
  
-__General Overview__
+__General Overview:__
+
 • Step into your respective color for each Team Split and go back to your position as soon as possible to avoid dragging Bombs
 • This applies to Phases 3 to 5
 • Make sure you have at least `8,000` HP if you plan on tanking a Team Split
@@ -162,10 +165,9 @@ __Phase 5:__
 
 • Reprisal $reprisal can be used if you use Target Cycle before the first Team Split spawns (reference: #target-cycle) 
 • Position in the South-East (not MD) and Ultimate before Vorago spawns if you are TCing or right after spawn if not TCing
-• Use this gif for reference:
-
+• Use this gif for reference
 .
-https://cdn.discordapp.com/attachments/671035860111589396/814120398333542421/p5-vorago.gif
+https://cdn.discordapp.com/attachments/738844964447846473/814500478594842667/11_1.gif
 .pb
 
 > __**The End**__
