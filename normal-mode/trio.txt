@@ -131,7 +131,7 @@ Mechanic breakdown: #green-bomb
 __Phase 3:__
 
 • Ultimate on dropdown away from everyone else, but in range to not get Bombs $blue
-• Tank all Green Bombs $green targeting you by eating above 10,000 HP or use the Powerburst Of Vitality
+• Tank all Green Bombs $green targeting you by eating above `10,000` HP or use the Powerburst Of Vitality
 • Don’t accidentally bounce the Green $green on anyone.
  
 __Phase 4:__
