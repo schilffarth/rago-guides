@@ -3,7 +3,7 @@ Guide written by <@184918342392479744>, <@164133228989513728>, <@316175818458136
 
 > __**Trio Normal Mode**__
 
-This guide focuses on Trio Normal Mode Vorago only. This guide won’t explain the basics of Vorago, for those go to #mechanics and #phase-overviewl. The guide is split into three roles: Base Tank, Bomb Tank and TL5. If a Phase, Rotation or role isn’t mentioned on any Phase, it’s because their jobs don’t differ from higher team sizes. For the full strategies on Base and Bomb check #duo.
+This guide focuses on Trio Normal Mode Vorago only. This guide won’t explain the basics of Vorago, for those go to #mechanics and #phase-overview. The guide is split into three roles: Base Tank, Bomb Tank and TL5. If a Phase, Rotation or role isn’t mentioned on any Phase, it’s because their jobs don’t differ from higher team sizes. For the full strategies on Base and Bomb check #duo.
 
 > __**Top Lure Voke 5 - TL5**__
 
