@@ -16,7 +16,6 @@ __Vitali:__
 • Vitali are acting as blockades, interrupting the line of sight and blocking movement
 • Their targeted player changes frequently, unrelated to player aggression
 
-
 .nm
 > **__Normal Mode__**
 
@@ -35,7 +34,6 @@ $waterfall Waterfall ➔ $auto 3 Auto Attacks ➔ $vitalis Stone Clone ➔ $auto
 __Phase 5:__
 
 $vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Attacks ➔ $bleed 3 Bleeds > $auto 3 Auto Attacks ➔ $repeat Repeat
-
 
  
 .hm
@@ -65,8 +63,6 @@ $vitalis Vitalis ➔ $auto 3 Auto Attacks ➔ $link Reflect ➔ $auto 3 Auto Att
 
 .
 > **__Index__** 
-• $pin Introduction {link:intro}
-• $blue Normal Mode {link:nm}
-• $red Hard Mode {link:hm}
-
- 
+• $pin **Introduction** {link:intro}
+• $blue **Normal Mode** {link:nm}
+• $red **Hard Mode** {link:hm}
