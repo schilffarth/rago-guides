@@ -153,6 +153,7 @@
   "$mobile": "<:Mobile:695612671923585094>",
   "$natty": "<:NaturalInstinct:612343197489692672>",
   "$needle": "<:NeedleStrike:624335344241868852>",
+  "$nihilice": "<:icenihil:814488498915901472>",
   "$nihil": "<:SmokeNihilPouch:715365973363785768>",
   "$omensboots": "<:bootsofomens:813431455278825482>",
   "$omensgloves": "<:glovesofomens:813431480503369740>",
@@ -235,7 +236,6 @@
   "$zerk": "<:Berserk:629132737852473354>",
   "$zgs": "<:ZarosGodsword:629133733601083394>",
   "$mines": "<:dominionmines:814487401279389706>",
-  "$ons": "<:onslaught:814487401081864243>",
-  "$nihilice": "<:icenihil:814488498915901472>",
+  "$onslaught": "<:onslaught:814487401081864243>",
   "$ripper": "<:ripperdemon:814488499126403072>"
 }
