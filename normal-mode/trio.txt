@@ -191,8 +191,9 @@ __Phase 5:__
 
 .index
 > __**Index**__
+
 • $pin **Introduction** {link:intro}
-• $pin **Overview** {link:guide}
+• $repeat **Overview** {link:guide}
 • $ceil **Ceiling Collapse** {link:ceil}
 • $scop **Scopulus** {link:scop}
 • $vitalis **Vitalis** {link:vit}
