@@ -1,0 +1,55 @@
+.intro
+Guide written by <@175995416955977728> and <@316175818458136588>.
+
+> __**Stone Clone Skip**__
+
+A Stone Clone $vitalis in Phase 4 / 9 (reference: #mechanics) always targets a person that Vorago does not hold aggression towards (the Base Tank). In other words, the Base Tank **never** receives a Stone Clone. It has been discovered in scenarios where you end in a Solo Phase 4, that Vorago will bug for a few ticks and then proceed with the weekly special, skipping the Stone Clone and its following 7 auto attacks completely.
+
+• One player vokes $voke, underwalks Vorago $vorago and lures him to whatever wall he is walking towards
+• All other players quickly position at the opposite side of the arena, so that they leave the visibility range to Vorago
+• Due to the Base Tank being the only visible player in the arena, Vorago will skip the Stone Clone $vitalis and its following 7 auto attacks
+• Vorago will continue his attack order with the weekly special mechanic
+
+In place of creating the Stone Clone, Vorago bugs for 12 ticks and skips all 7 auto attacks which equals to `0,6 seconds * 4 * 7 * 2`: **A total of __33,6 seconds__ can be saved.**
+
+• Reference of walking Vorago & proper positioning
+.
+https://cdn.discordapp.com/attachments/671035860111589396/811747161834389504/unknown.png
+.execution
+
+> __**Execution**__
+
+• Toggle off running once you enter the Waterfall
+• Post-Waterfall: Either use Barge $gbarge as your first ability or Surge $surge within your first ability's GCD
+• $warning On Team Split $ts, use the Mobile perk $mobile with Barge if you plan on breaking the TS (reference: #team-split)*
+• Walk towards Vorago's walking direction (do not run)
+• Toggle on running as Vorago reaches the wall
+• The moment that Vorago starts moving, all other players should immediately position at the opposite side of Vorago's walking direction (utilise Surge and Bladed Dive $bd)
+• Once the Stone Clone $vitalis special mechanic is skipped, move back to the Base Tank
+
+__Cooldown Management:__
+
+Due to the incredible amount of time gained by a Clone Skip, Barricade $cade will mostly no longer be available for each weekly special mechanic. Due to this it is required to alternate Barricades between the Base and Bomb Tank. Preferably the Bomb Tank barricades the first cycle so that it is going to be ready in case of a Phase 5 / 10 Barricade.
+
+.tiersystem
+> __**Rago Hub Tier System Changes**__
+
+Reference: #info
+Type `.info` in #bots to retrieve more information about our synchronised Tier System.
+
+Since skipping a Stone Clone :Vitalis: does not require any sort of skill, we will not be changing our Tier system for now. Instead, as soon as one Stone Clone is skipped, the respective Tier requires a **34 seconds faster** kill time. Example: Vitalis T5 **9:19 turns into 8:45**.
+
+If Jagex ever confirms to classify Clone Skips as a feature and not patch it, we will update our Tier times to be 34 seconds faster each.
+
+.video
+> __**YouTube Video Guide**__
+
+Check out <@175995416955977728>'s video guide: https://www.youtube.com/watch?v=fFxTfKk0yIU
+.index
+
+> __**Index**__
+
+• $pin **Introduction** {link:intro}
+• $voke **Execution** {link:execution}
+• $vorago **Rago Hub Tier System Changes** {link:tiersystem}
+• $youtube **YouTube Video Guide** {link:video}
