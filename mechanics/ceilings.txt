@@ -1,0 +1,66 @@
+.intro
+> __**Ceilings**__
+
+At the weekly special Ceilings $ceil Vorago collapses one of the 9 square grids in the arena, dropping a blocking rock onto the selected area.
+
+• A shadow indicates the location of the rock before it drops down
+• Players located beneath the rock in a 3 tile radius (area of 7x7 tiles) take typeless damage
+• Vorago jumps to the sky and lands in a random section that is not blocked by a rock
+• Players located beneath a rock or Vorago's jump destination $vorago will be pushed away (it is possible to be stuck under a rock - Get free by destroying it)
+• Rocks can be destroyed by right-clicking them, dealing typeless damage to the player
+• Maul pieces $maul can be stuck beneath dropped rocks, destroy the rocks to retrieve them
+
+__Shadows:__
+
+• The shadow indicating the location of a rock fall destination is not always visible
+• Your graphics settings must be set to **medium** for shadows
+• Additionally, specific sky boxes cause shadows to disappear
+
+.nm
+> __**Normal Mode**__
+
+• Rock damage: `8,000` damage split between all affected players
+• Clearing a rock: `4,000` damage
+• Rocks from phase 3 carry over to phase 4, dealing `4,000` damage to players staying at affected areas
+
+__Phase 3:__
+
+$ceil Ceilings ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $ceil Ceilings ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
+
+__Phase 4:__
+
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $ceil Ceilings ➔ $auto 3 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
+
+__Phase 5:__
+
+$ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
+
+.hm
+> __**Hard Mode**__
+
+• Rock damage: `6,000` damage to every affected player
+• Clearing a rock: `7,000` damage
+• Rocks do **not** carry over to following phases
+
+__Phase 3:__
+
+$ceil Ceilings ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $ceil Ceilings ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
+
+__Phase 9:__
+
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $ceil Ceilings ➔ $auto 3 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
+
+__Phase 10:__
+
+$ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $green Green Bomb ➔ $auto 5 auto attacks ➔ $repeat repeat
+
+__Phase 11:__
+
+$ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $vitalis Vitalis ➔ $auto 3 auto attacks ➔ $repeat repeat
+
+.index
+> __**Index**__
+
+• $pin **Introduction** {link:intro}
+• $blue **Normal Mode** {link:nm}
+• $red **Hard Mode** {link:hm}
