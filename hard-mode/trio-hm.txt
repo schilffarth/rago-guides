@@ -31,6 +31,18 @@ The Base Tank section of this Trio Hard Mode guide was written by <@129324652114
 
 .
 https://cdn.discordapp.com/attachments/671035860111589396/796195572712210462/hammer_slave.png
+.baseindex:edit
+
+• $swh **Base Tank - Introduction** {link:base}
+• $maulpiecea **Base Tank - Phase 1** {link:basep1}
+• $gravity **Base Tank - Phase 2** {link:basep2}
+• $ceil **Base Tank - Phase 3 Ceilings** {link:basep3}
+• $scop **Base Tank - Phase 4 Scopulus** {link:basep4}
+• $vitalis **Base Tank - Phase 5 Vitalis** {link:basep5}
+• $green **Base Tank - Phase 6 Green Bomb** {link:basep6}
+• $ts **Base Tank - Phase 7 Team Split** {link:basep7}
+• $purple **Base Tank - Phase 8 The End** {link:basep8}
+• $vuln **Base Tank - Tips & Tricks** {link:basetips}
 .
 
 Basing Trio Hard Mode is typically performed by a **Melee**. The Base Tank has several responsibilities, the most important being to apply the Statius's Warhammer $swh special attack in **every** phase. Additionally you are expected to properly lure Vorago in phase 1 on the eastern wall so that the Climber (referred to as *Bomb Tank #2*) does not receive any Blue Bombs $blue.
@@ -180,6 +192,18 @@ The Ranged Bomb Tank section of this Trio Hard Mode guide was written by <@19138
 
 .
 https://cdn.discordapp.com/attachments/509185424464412672/775575411467878460/image0.jpg
+.rangedindex:edit
+
+• $ranged **Ranged Bomb Tank - Introduction** {link:ranged}
+• $maulpiecea **Ranged Bomb Tank - Phase 1** {link:rangedp1}
+• $gravity **Ranged Bomb Tank - Phase 2** {link:rangedp2}
+• $ceil **Ranged Bomb Tank - Phase 3 Ceilings** {link:rangedp3}
+• $scop **Ranged Bomb Tank - Phase 4 Scopulus** {link:rangedp4}
+• $vitalis **Ranged Bomb Tank - Phase 5 Vitalis** {link:rangedp5}
+• $green **Ranged Bomb Tank - Phase 6 Green Bomb** {link:rangedp6}
+• $ts **Ranged Bomb Tank - Phase 7 Team Split** {link:rangedp7}
+• $purple **Ranged Bomb Tank - Phase 8 The End** {link:rangedp8}
+• $vuln **Ranged Bomb Tank - Tips & Tricks** {link:rangedtips}
 .
 
 Bomb Tanking at Trio Hard Mode can be performed in several setups. This section focuses Ranged, covering both Bomb Tank's responsibilities: Bomb Tank #1 and Bomb Tank #2 (the Climber). If you are Ranged bomb tanking with a Hybrid on your team, read up on both this and the Hybrid section. This guide section also covers strategies for approaching Double Ranged bomb tanking in Trio Hard Mode.
@@ -363,6 +387,18 @@ The Mage Bomb Tank section of this Trio Hard Mode guide was written by <@2509865
 
 .
 https://i.imgur.com/Yk0OqK4.png
+.mageindex:edit
+
+• $magic **Magic Bomb Tank - Introduction** {link:mage}
+• $maulpiecea **Magic Bomb Tank - Phase 1** {link:magep1}
+• $gravity **Magic Bomb Tank - Phase 2** {link:magep2}
+• $ceil **Magic Bomb Tank - Phase 3 Ceilings** {link:magep3}
+• $scop **Magic Bomb Tank - Phase 4 Scopulus** {link:magep4}
+• $vitalis **Magic Bomb Tank - Phase 5 Vitalis** {link:magep5}
+• $green **Magic Bomb Tank - Phase 6 Green Bomb** {link:magep6}
+• $ts **Magic Bomb Tank - Phase 7 Team Split** {link:magep7}
+• $purple **Magic Bomb Tank - Phase 8 The End** {link:magep8}
+• $vuln **Magic Bomb Tank - Tips & Tricks** {link:magetips}
 .
 
 Bomb Tanking at Trio Hard Mode can be performed in several setups. This section focuses on Magic, covering both Bomb Tank's responsibilities: Bomb Tank #1 and Bomb Tank #2 (the Climber). If you are Magic bomb tanking with a Hybrid on your team, read up on both this and the Hybrid section (refer to pinned Index).
@@ -535,10 +571,22 @@ https://cdn.discordapp.com/attachments/676485011268042761/802308752186671104/tri
 
 > __**Hybrid / Melee Bomb Tank**__
 
-The Hybrid Bomb Tank section of this Trio Hard Mode guide was written and compiled by <@316175818458136588>.
+The Hybrid Bomb Tank section of this Trio Hard Mode guide was written by <@316175818458136588>.
 
 .
 https://cdn.discordapp.com/attachments/744506002006868050/799318383333081148/What_The_Hell_Is_This.png
+.hybridindex:edit
+
+• $attack **Hybrid Bomb Tank - Introduction** {link:hybrid}
+• $maulpiecea **Hybrid Bomb Tank - Phase 1** {link:hybridp1}
+• $gravity **Hybrid Bomb Tank - Phase 2** {link:hybridp2}
+• $ceil **Hybrid Bomb Tank - Phase 3 Ceilings** {link:hybridp3}
+• $scop **Hybrid Bomb Tank - Phase 4 Scopulus** {link:hybridp4}
+• $vitalis **Hybrid Bomb Tank - Phase 5 Vitalis** {link:hybridp5}
+• $green **Hybrid Bomb Tank - Phase 6 Green Bomb** {link:hybridp6}
+• $ts **Hybrid Bomb Tank - Phase 7 Team Split** {link:hybridp7}
+• $purple **Hybrid Bomb Tank - Phase 8 The End** {link:hybridp8}
+• $vuln **Hybrid Bomb Tank - Tips & Tricks** {link:hybridtips}
 .
 
 A general Hybrid setup for Trio HM consists of Melee $attack as primary and either Ranged $ranged or Magic $magic as secondary combat style. Magic is recommended due to the naturally increased hitchance on Scopuli $scop. At the current unbalanced state of combat styles, there exists only one method of making Hybrid effective over a double Ranged Bomb Tank setup. Hybridding is only recommended if your goal is improved kill speed, as your team is a lot more likely to lose a kill.
@@ -665,9 +713,8 @@ Refer to the official Rago Hub spreadsheet for advanced ability damage rotations
 • Strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/802308751041888296/triohm_hybrid.PNG
-.
-
 .rotations
+
 > __**Weekly Special Mechanics**__
 
 This section was written by <@191388421548146689>, <@300296497277173761> and <@316175818458136588>.
