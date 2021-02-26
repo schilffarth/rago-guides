@@ -30,6 +30,26 @@ https://cdn.discordapp.com/attachments/500971699349749760/814519860158922802/unk
 • `.index` Automatically pin the Index
 .
 https://cdn.discordapp.com/attachments/500971699349749760/814519920791781436/unknown.png
+.editmessages
+
+> __**Edit Messages**__
+
+This feature comes primarily handy for linking messages that are sent **after** the message you want to link from. Using this syntax will send a temporary placeholder in place of the actual message and edit it once all messages are sent.
+
+• Edit a message by appending a trailing `:edit` notation to the section identifier
+.
+https://cdn.discordapp.com/attachments/500971699349749760/814653598947606579/unknown.png
+.
+
+• The added notation `:edit` is not included in the message reference
+• Retrieve the message link with `{link:example}` and **not** with `{link:example:edit}`
+.
+https://cdn.discordapp.com/attachments/500971699349749760/814653872656089118/unknown.png
+.
+
+• Make use of the `:edit` notation to link messages sent **after** the message containing the message link
+.
+https://cdn.discordapp.com/attachments/500971699349749760/814654038854991952/unknown.png
 .guidestyling
 
 > __**Guide Styling**__
@@ -58,5 +78,6 @@ Head to our <#812595920935321632> channel and use the command `/txtpost` either 
 
 • $pin **Guide Writing** {link:guidewriting}
 • $dome **Guide Styling** {link:guidestyling}
+• $gear **Edit Messages** {link:editmessages}
 • $bonfire **Emoji List** {link:emojilist}
 • $achievement **Testing** {link:testing}
