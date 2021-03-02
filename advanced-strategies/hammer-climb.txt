@@ -3,30 +3,30 @@ Guide written by <@316175818458136588>.
 
 > __**Hammer climb**__
 
-Standard climbs for P1: #climbing
+• Phase 1 standard and acceleration $accel climb: #climbing
 
-Hammer climbing is the use of cycle target $tc to attack Vorago before starting your climb in phase 1 without losing any ticks in the process. The goals when hammer climbing are:
+Hammer Climbing describes the use of Target Cycle $tc to attack Vorago before starting your climb in Phase 1 without losing any ticks in the process.
 
-• Force the first red bomb $red that is launched upon target cycling on the climber (yourself)
-• Apply SWH $swh to Vorago to save your base tank the adrenaline they'd have needed for applying it themselves
+• Force the first Red Bomb $red that is launched upon target cycling on the climber (yourself)
+• Apply SWH $swh on Vorago to save your Base Tank the adrenaline they would have needed for hammering themselves
 • Do not lose any ticks
 
 .tips
 > __**Tips**__
 
-• The target cycle $tc tick (refer to: #target-cycle) in phase 1 is at `9.0 - 9.6` seconds
-• The starting red bomb $red is launched in the second tick at `9.6 - 10.2` seconds
+• The Target Cycle $tc tick (reference: #target-cycle) in Phase 1 is at `9.0` - `9.6` seconds
+• The starting red bomb $red is launched in the second tick at `9.6` - `10.2` seconds
 • Climbing an obstacle nullifies any damage dealt
 
 .execution
 > __**Executing the hammer climb**__
 
-Phase 1 arena reference:
+• Phase 1 arena reference
 .
 https://media.discordapp.net/attachments/671092193066221569/735934661787910245/hammer.png
 .
 
-GIF:
+• GIF
 .
 https://cdn.discordapp.com/attachments/671092193066221569/735934706910101525/hammer_v3.gif
 .
@@ -34,12 +34,12 @@ https://cdn.discordapp.com/attachments/671092193066221569/735934706910101525/ham
 __Preparation:__
 
 • Activate Excalibur $excal
-• Drop a dummy at your drop down location (if base tank requires one - **Do not place it in MD**)
-• Eat up to `~6,500` HP
+• Place a Combat Dummy $dummy at your drop down location (if your Base Tank requires one - **Do not place it in MD**)
+• Eat up to ~ `6,500` life points
 • Equip SWH $swh and Excalibur $excal
-• Position at the green square marked with $greencross, east to the entry
-• Select BD $bd at climb entrance
-• Activate IOH $ingen (not too early)
+• Position at the highlighted tile marked with $greencross, east to the entry
+• Select Bladed Dive $bd at the climb entrance
+• Activate IOTH $ingen (not too early)
 
 __Execution:__
 
@@ -52,14 +52,12 @@ __Execution:__
 • **#4** Anticipate $anticipation and eat once $soup $superbrew
 • **#5** Bladed Dive $bd across the corner (do not click too far in the north)
 • **#6** Hit Vorago with an ability and eat once $soup $superbrew
-• Surge $surge
-• Jump
+• Surge $surge and jump
 
 .examples
 > __**Example climbs**__
 
 https://www.youtube.com/watch?v=i3gP7Tx2HlY
-
 .index
 
 > __**Index**__
