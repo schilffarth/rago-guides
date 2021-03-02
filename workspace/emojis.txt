@@ -84,8 +84,8 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $gflurry `gflurry`
 • $gfury `gfury`
 • $gravity `gravity`
-• $greencross `greencross`
 • $green `green`
+• $greencross `greencross`
 • $grico `grico`
 • $gstaff `gstaff`
 .h
