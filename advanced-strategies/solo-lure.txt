@@ -1,71 +1,73 @@
 .intro
 Guide written by <@316175818458136588>.
 
-> __**Solo luring P1**__
+> __**Phase 1 Solo Lure**__
 
-Solo luring describes a strategy to position Vorago at jump spot in phase 1.
+Solo luring describes an advanced strategy to position Vorago at jump spot in Phase 1. This guide covers two strategies of solo luring Normal Mode and one for Hard Mode.
 
-.
-https://media.discordapp.net/attachments/734513833489596496/735115790373879878/visual.png
+.nm
+> __**Normal Mode**__
+
+https://www.youtube.com/watch?v=1mgdsTZGMuY
 .
 
 __Luring:__
 
-Solo luring P1 itself is fairly straight forward: Simply follow the exact tiles marked on the image in the correct order and you will have solo lured P1. The difficult part is combining the solo lure with a perfect dps rotation $zerk, pray flicking $deflectmelee (or $deflectmagic if you happen to get a bomb $blue) and vuln bombing $vbomb.
+Solo luring Phase 1 itself is fairly straight forward: Simply follow the exact tiles marked on the image in the correct order and you will have solo lured Phase 1. The difficult part is combining the Solo Lure with a perfect DPS rotation $zerk, pray flicking $deflectmelee $deflectmagic (deflect magic if you happen to get a Blue Bomb $blue) and vuln bombing $vbomb.
 
-• Take Vorago to the western wall (recommended: orange highlighted **"init"**)
-• Position yourself at the green highlighted "X"
-• **Vorago walks west or south**: Take 5 steps east to the red highlighted **"E"**
-• **Vorago walks east**: Take one step west to the red highlighted **"W"**
+• Phase 1 arena reference
+.
+https://media.discordapp.net/attachments/734513833489596496/735115790373879878/visual.png
+.
+
+• Take Vorago to the western wall (recommended: orange highlighted `init`)
+• Position yourself at the green highlighted `X`
+• **Vorago walks west or south**: Take 5 steps east to the red highlighted `E`
+• **Vorago walks east**: Take one step west to the red highlighted `W`
 • Bladed Dive $bd south of Vorago
 
-.westwalk
-> __**West walk**__
+__Illustrations:__
 
-• Illustration
+• West walk
 .
-https://media.discordapp.net/attachments/734513833489596496/735115879842316398/history_west.png
-.
-
-• GIF
-.
-https://media.discordapp.net/attachments/734513833489596496/735115944568815676/GIF_west.gif
-.southwalk
-
-> __**South walk**__
-
-• Illustration
-.
-https://cdn.discordapp.com/attachments/734513833489596496/735116035069313034/history_south.png
+https://cdn.discordapp.com/attachments/676485011268042761/816382000390209566/history_west.png
 .
 
-• GIF
+• South walk
 .
-https://cdn.discordapp.com/attachments/734513833489596496/735116074303094784/GIF_south.gif
-.eastwalk
-
-> __**East walk**__
-
-• Illustration
-.
-https://cdn.discordapp.com/attachments/734513833489596496/735116137787817984/history_east.png
+https://cdn.discordapp.com/attachments/676485011268042761/816381994367451156/history_south.png
 .
 
-• GIF
+• East walk
 .
-https://cdn.discordapp.com/attachments/734513833489596496/735116164723769404/GIF_east.gif
-.video
+https://cdn.discordapp.com/attachments/676485011268042761/816381992017985566/history_east.png
+.nmadv
 
-> __**Video guide**__
+> __**Normal Mode - Advanced Method**__
+
+Sorry buddy, this content is subject of soon:tm:. This solo luring method will be added in Q1 2027.
+.hm
+
+> __**Hard Mode**__
+
+In Hard Mode Phase 1 all Blue Bombs $blue have a drastic chance of dragging the climber. Therefore, Vorago must be lured to the east rather than west in order to not cause a climb's failure. Solo luring from the east is a tad easier than performing the Normal Mode lure from the west. The Hard Mode Solo Lure consists of a simple execution of surges $surge in order to place Vorago in spot consistently, completely independent of his walking direction.
 
 .
-https://www.youtube.com/watch?v=1mgdsTZGMuY
+https://cdn.discordapp.com/attachments/676485011268042761/816378954063544410/unknown.png
+.
+
+• Position in melee distance east of Vorago's spawn at `#1`
+• Move to either tile of `#2`
+• Surge $surge in Target Cycle $tc and Provoke $voke one tick after
+• Remain at tile `#3` until the timer hits 26 - 27 seconds (or later if your climber is slow)
+• Move to `#4`, one step to the west and Surge $surge
+• Remain at `#5` for 4 ticks until Vorago reached jump spot
+• Bladed Dive $bd to `#6`, in melee distance south of Vorago
+
 .index
-
 > __**Index**__
 
-• $pin **Intro** {link:intro}
-• $charw **West walk** {link:westwalk}
-• $chars **South walk** {link:southwalk}
-• $chare **East walk** {link:eastwalk}
-• $youtube **Video guide** {link:video}
+• $pin **Introduction** {link:intro}
+• $blue **Normal Mode** {link:nm}
+• $purple **Normal Mode - Advanced Method** {link:nmadv}
+• $red **Hard Mode** {link:hm}
