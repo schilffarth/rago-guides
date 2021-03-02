@@ -85,6 +85,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $gfury `gfury`
 • $gravity `gravity`
 • $green `green`
+• $greencross `greencross`
 • $grico `grico`
 • $gstaff `gstaff`
 .h
@@ -191,6 +192,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $soup `soup`
 • $str `str`
 • $sunshine `sunshine`
+• $superbrew `superbrew`
 • $surge `surge`
 • $swh `swh`
 • $swipe `swipe`
