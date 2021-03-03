@@ -1,11 +1,9 @@
-This presets guide and its related spreadsheet was written and developed by <@300296497277173761>, <@781280949790572554>, <@104691370324688896>, <@184918342392479744>, <@164133228989513728> and <@316175818458136588>. Thanks for feedback from <@163815114355507200> and <@154709973710929920>.
-
+.intro
 > __**Presets**__
 
 <https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit#gid=590147764&range=B2:AV2>
 
-__Rune Pouches:__
-
+• Rune Pouches
 $runepouchpurple $runecosmic $runeastral $runelaw
 $runepouchblue $runebody $runeblood $runefire
 $runepouchgreen $runesoul $runewater $runedust
@@ -13,7 +11,7 @@ $runepouchgreen $runesoul $runewater $runedust
 .
 • Normal Mode Presets
 .
-https://cdn.discordapp.com/attachments/625342479360851968/772131295224135711/presets_nm.PNG
+https://imgur.com/NSvalDz
 . 
 
 • Trio / 4man+ Hard Mode
@@ -24,10 +22,3 @@ https://cdn.discordapp.com/attachments/625342479360851968/772131293118726184/pre
 • Duo Hard Mode
 .
 https://cdn.discordapp.com/attachments/625342479360851968/772131289737723904/presets_duohm.PNG
-.
-
-> __**Dynamic Preset Generator**__
-
-If you want to make your own presets, check the following sheet for the preset generation tool:
-
-<https://docs.google.com/spreadsheets/d/18yKJj771Vnk7fPyVtbJp_-8wLKFrFE3jJad4rJiH16k/edit#gid=907504611>
