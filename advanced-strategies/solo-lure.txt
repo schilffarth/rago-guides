@@ -3,66 +3,91 @@ Guide written by <@316175818458136588>.
 
 > __**Phase 1 Solo Lure**__
 
-Solo luring describes an advanced strategy to position Vorago at jump spot in Phase 1. This guide covers two strategies of solo luring Normal Mode and one for Hard Mode.
+Solo luring describes an advanced strategy to position Vorago at jump spot in Phase 1. This guide covers two strategies of solo luring Normal Mode and one for Hard Mode. Solo luring Phase 1 itself is fairly straight forward: Simply follow the exact tiles of the respective luring method and you will have solo lured Phase 1. The difficult part is combining the Solo Lure with a perfect DPS rotation $zerk, pray flicking $deflectmelee $deflectmagic (deflect magic if you happen to get Blue Bombs $blue) and vuln bombing $vbomb.
 
 .nm
 > __**Normal Mode**__
 
+• YouTube video guide
 https://www.youtube.com/watch?v=1mgdsTZGMuY
 .
-
-__Luring:__
-
-Solo luring Phase 1 itself is fairly straight forward: Simply follow the exact tiles marked on the image in the correct order and you will have solo lured Phase 1. The difficult part is combining the Solo Lure with a perfect DPS rotation $zerk, pray flicking $deflectmelee $deflectmagic (deflect magic if you happen to get a Blue Bomb $blue) and vuln bombing $vbomb.
 
 • Phase 1 arena reference
 .
 https://media.discordapp.net/attachments/734513833489596496/735115790373879878/visual.png
 .
 
-• Take Vorago to the western wall (recommended: orange highlighted `init`)
-• Position yourself at the green highlighted `X`
-• **Vorago walks west or south**: Take 5 steps east to the red highlighted `E`
-• **Vorago walks east**: Take one step west to the red highlighted `W`
-• Bladed Dive $bd south of Vorago
-
-__Illustrations:__
-
-• West walk
+• West walk pathing breakdown
 .
 https://cdn.discordapp.com/attachments/676485011268042761/816382000390209566/history_west.png
 .
 
-• South walk
+• South walk pathing breakdown
 .
 https://cdn.discordapp.com/attachments/676485011268042761/816381994367451156/history_south.png
 .
 
-• East walk
+• East walk pathing breakdown
 .
 https://cdn.discordapp.com/attachments/676485011268042761/816381992017985566/history_east.png
-.nmadv
+.
 
+• Take Vorago to the western wall (recommended: orange highlighted `init`)
+• Position yourself at the green highlighted `X` (use a channeled ability to avoid being walked by Vorago)
+• **Vorago walks west or south**: Take 5 steps east to the red highlighted `E`
+• **Vorago walks east**: Take one step west to the red highlighted `W`
+• Bladed Dive $bd south of Vorago
+
+.nmadv
 > __**Normal Mode - Advanced Method**__
 
-Sorry buddy, this content is subject of soon:tm:. This solo luring method will be added in Q1 2027.
+Improving your Solo Lure to the advanced method is fairly easy if you memorized all tiles with appropriate muscle memory. Unlike the standard method, the advanced Solo Lure does not rely on Vorago's walking direction. The difficulty lies in timing your movement on appropriate tiles tick-perfectly.
+
+• The exact same tiles are used in both the standard and advanced Normal Mode Solo Lure methods
+.
+https://media.discordapp.net/attachments/734513833489596496/735115790373879878/visual.png
+.
+
+• Pathing breakdown
+.
+https://cdn.discordapp.com/attachments/676485011268042761/816699179505156156/sololure_normalmode_adv_history_v1.png
+.
+
+• Take Vorago to the tile `#2` (respectively the orange highlighted `init`)
+• You may rest at this tile for a moment
+• Start moving to tile `#3` (recommended: move simultaneously to activating a GCD)
+• Once you reach tile `#3`, proceed to tile `#4` immediately (movement clicks are exactly one GCD apart)
+• Bladed Dive $bd south of Vorago
+
+Continuously moving from tile `#2` to `#4` prevents Vorago from over walking, luring him into jump spot 100% consistently independent on his walking direction.
+
+• Example execution of an Advanced Solo Lure (NM)
+.
+https://media.giphy.com/media/14GI1zphujFE59w0hD/giphy.gif
 .hm
 
 > __**Hard Mode**__
 
 In Hard Mode Phase 1 all Blue Bombs $blue have a drastic chance of dragging the climber. Therefore, Vorago must be lured to the east rather than west in order to not cause a climb's failure. Solo luring from the east is a tad easier than performing the Normal Mode lure from the west. The Hard Mode Solo Lure consists of a simple execution of surges $surge in order to place Vorago in spot consistently, completely independent of his walking direction.
 
+• Phase 1 arena reference
 .
-https://cdn.discordapp.com/attachments/676485011268042761/816378954063544410/unknown.png
+https://cdn.discordapp.com/attachments/676485011268042761/816677152573358151/sololure_hardmode_arenaref_v1.png
+.
+
+• Pathing breakdown
+.
+https://cdn.discordapp.com/attachments/676485011268042761/816680092113174558/unknown.png
 .
 
 • Position in melee distance east of Vorago's spawn at `#1`
 • Move to either tile of `#2`
 • Surge $surge in Target Cycle $tc and Provoke $voke one tick after
+• Optionally, the first few steps can be skipped and you position at tile `#3` initially
 • Remain at tile `#3` until the timer hits 26 - 27 seconds (or later if your climber is slow)
-• Move to `#4`, one step to the west and Surge $surge
-• Remain at `#5` for 4 ticks until Vorago reached jump spot
-• Bladed Dive $bd to `#6`, in melee distance south of Vorago
+• Move one tile west to `#4` and Surge $surge
+• Remain at tile `#5` until Vorago reaches jump spot (4 ticks)
+• Bladed Dive to melee distance south of Vorago to any tile of `#6`
 
 .index
 > __**Index**__
