@@ -53,6 +53,11 @@ https://media.discordapp.net/attachments/734513833489596496/735115790373879878/v
 https://cdn.discordapp.com/attachments/676485011268042761/816699179505156156/sololure_normalmode_adv_history_v1.png
 .
 
+• Example execution of an Advanced Solo Lure (NM)
+.
+https://media.giphy.com/media/14GI1zphujFE59w0hD/giphy.gif
+.
+
 • Take Vorago to the tile `#2` (respectively the orange highlighted `init`)
 • You may rest at this tile for a moment
 • Start moving to tile `#3` (recommended: move simultaneously to activating a GCD)
@@ -61,11 +66,7 @@ https://cdn.discordapp.com/attachments/676485011268042761/816699179505156156/sol
 
 Continuously moving from tile `#2` to `#4` prevents Vorago from over walking, luring him into jump spot 100% consistently independent on his walking direction.
 
-• Example execution of an Advanced Solo Lure (NM)
-.
-https://media.giphy.com/media/14GI1zphujFE59w0hD/giphy.gif
 .hm
-
 > __**Hard Mode**__
 
 In Hard Mode Phase 1 all Blue Bombs $blue have a drastic chance of dragging the climber. Therefore, Vorago must be lured to the east rather than west in order to not cause a climb's failure. Solo luring from the east is a tad easier than performing the Normal Mode lure from the west. The Hard Mode Solo Lure consists of a simple execution of surges $surge in order to place Vorago in spot consistently, completely independent of his walking direction.
@@ -78,6 +79,11 @@ https://cdn.discordapp.com/attachments/676485011268042761/816677152573358151/sol
 • Pathing breakdown
 .
 https://cdn.discordapp.com/attachments/676485011268042761/816680092113174558/unknown.png
+.
+
+• Example execution of a Hard Mode Solo Lure
+.
+https://media.giphy.com/media/issyJ0CEqRTtzQ10df/giphy.gif
 .
 
 • Position in melee distance east of Vorago's spawn at `#1`
