@@ -97,6 +97,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $hydrixbolts `hydrixbolts`
 .i
 **I**
+• $imbue `imbue`
 • $immortality `immortality`
 • $ingen `ingen`
 .l
@@ -212,6 +213,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 .v
 **V**
 • $vbomb `vbomb`
+• $vengeance `vengeance`
 • $vitalis `vitalis`
 • $vitality `vitality`
 • $voke `voke`

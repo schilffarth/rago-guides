@@ -1,0 +1,54 @@
+.intro
+Guide written by <@184918342392479744> and <@316175818458136588>.
+
+> __**Crack Healing**__
+
+Crack healing is the incident of not taking damage when casting Heal Other $heal. This immunity is caused by Vorago's phase transition. In other words, healing a team member during phase transition is not going to harm your HP. The tick of crack healing is the same tick used for properly timing Target Cycle $tc (reference: #target-cycle).
+
+The invulnerability of receiving damage from healing occurs on the last tick of a phase. This can be used after any phase except Phase 10 in Hard Mode, because the arena does not change between phases 10 and 11. As the ground starts breaking ("cracks" are appearing), count 2 ticks (respectively 1,2 seconds) and then cast Heal Other $heal.
+
+• YouTube video compilation of crack healing
+https://youtu.be/3bMTu1YJIbQ
+.
+
+__Important:__
+
+• Heal Other has a 10 second cooldown
+• You must have at least 11% of your maximum life points in order to cast Heal Other $heal successfully
+• Heal Other has to be the very last action of a tick in order to be registered
+
+.mess
+> __**Taking damage from Heal Other**__
+
+If timing Heal Other $heal incorrectly, you will take damage. There are two scenarios for this happening.
+
+__Healing Too Early:__
+
+• You used Heal Other **too soon**
+• If a team member is on the verge of dying before phase transition, you might want to heal earlier intentionally - Keep in mind that Heal Other has a 10 second cooldown and might not be ready for Crack Healing
+• If a team member crack heals you, casting Heal Other too early is not as harmful, since you are going to be healed back your transferred life points
+
+.
+__Healing Too Late:__
+
+• You used Heal Other **too late**
+• If a team member crack heals you, but you were too late with your crack heal, you simply lose the healed life points
+• If timing Target Cycle with Surge $surge, Escape $escape or Bladed Dive $bd and you are too late by one tick for both your ability and Crack Healing, you might end up with a frozen screen for a few seconds
+• If stuck on the lunar spellbook, cast Vengeance $vengeance, Disruption Shield $disrupt or Magic Imbue $imbue to get back to ancients
+
+.other
+> __**Other Use Cases**__
+
+Throughout a Vorago kill you stay under the effect of Barricade Intercept $cade $cept plenty of times (reference: #cade-cept).
+
+• If using the Turtling $turtling perk, you will be able to cast Heal Other $heal **twice** without taking damage, if used right as you activated Barricade and again shortly before its effect expires
+• If a team member is at critical life points, you should heal earlier than at Crack Heal in order to prevent them from dying
+• Keep in mind that jumps during phase transition can knock you out
+• Using Heal Other $heal intentionally mid-phase of Green Bomb $green (reference: #green-bomb)
+
+.index
+> __**Index**__
+
+• $pin **Introduction** {link:intro}
+• $crackling **Taking damage from Heal Other** {link:mess}
+• $heal **Other Use Cases** {link:other}
