@@ -208,6 +208,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $transfigure `transfigure`
 • $trimcape `trimcape`
 • $ts `ts`
+• $turtling `turtling`
 .v
 **V**
 • $vbomb `vbomb`

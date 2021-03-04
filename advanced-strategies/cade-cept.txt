@@ -1,0 +1,55 @@
+.intro
+Guide written by <@316175818458136588>.
+
+> __**Barricade Intercept**__
+
+Barricade-intercepting $cade $cept is extremely simple. Activate Barricade and cast Intercept on any player that you want to protect from damage. While you are cade cepting or staying under the effect of cade cept from another player, it is **highly** recommended to use Heal Other $heal on the team member with the lowest life points. Base and Bomb Tank should be prioritized.
+
+The quest "The Light Within" must be completed in order to unlock Intercept alongside other useful Seren Spells. For ironmen, the intercepted person also requires the quest completed.
+
+.duration
+> __**Extended Barricade Duration**__
+
+There are two possibilities to extend the duration of Barricade.
+
+• $turtling Turtling <https://runescape.wiki/w/Turtling>
+• $malletops Malletops <https://runescape.wiki/w/Malletops>
+
+If you extended your Barricade $cade long enough to have well above 10 seconds of effect duration, it is recommended to refresh Intercept $cept once the Barricade timer reaches 11 seconds. Additionally, it is possible to cast Heal Other $heal twice within your Barricade if casted early on. Note that you should also heal $heal if you are the one being intercepted, not only if you are the one barricading.
+
+.forcing
+> __**Forcing Red Bombs**__
+
+• Red Bombs $red always go to the person standing farthest away from Vorago
+• If multiple players are in melee distance and no other person any farther out, the Base Tank will be targeted with the Red Bomb
+• **Random** Red Bombs can always occur (reference: #mechanics)
+
+__Execution:__
+
+• Step in melee distance or beneath Vorago
+• Wait for the Red Bomb $red to be launched
+• Barricade Intercept $cade $cept all players
+• Step back out again
+• Cast Heal Other $heal on the team member with the lowest life points
+
+Alternating Barricade cooldowns for every Red Bomb in Phase 2 is significantly important. The cooldown of Barricade is too long to be back up for every Red Bomb you receive.
+
+.twostepping
+> __**Two-Stepping**__
+
+Two-Stepping is a fairly old strategy and had been used back before Intercept $cept was released. Yet, this strategy still finds use at several scenarios.
+
+• After a Red Bomb $red is launched, take at least 2 steps closer to Vorago
+• Wait for the next auto attack to happen
+• Take at least 2 steps back farther out
+• If the auto attack was a Blue Bomb $blue, it will hit before the Red Bomb cancels defensive abilities
+
+If the auto attack was a Blue Bomb, it will hit before the Red Bomb cancels defensive abilities. If you did not two-step the first Blue Bomb after a Red Bomb, you would take damage from the former too late, the Red Bomb therefore cancelling your Barricade.
+
+.index
+> __**Index**__
+
+• $pin **Introduction** {link:intro}
+• $malletops **Extended Barricade Duration** {link:duration}
+• $red **Forcing Red Bombs** {link:forcing}
+• $blue **Two-Stepping** {link:twostepping}
