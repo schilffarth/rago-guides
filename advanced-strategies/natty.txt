@@ -1,0 +1,80 @@
+.intro
+Guide written by <@316175818458136588>.
+
+> __**Natural Instinct**__
+
+There are several reasons for why you should learn to use Natty $natty properly.
+
+• Better and faster ability damage rotations
+• Advanced strategy for timing Target Cycle $tc (refer to this guide's section "Timing Target Cycle")
+• Fun
+
+.dummies
+> __**Combat dummies**__
+
+It is recommended to leave out placing dummies $dummy in phases 3 and 5 when starting out with proper natty ability rotations. After your ultimate $zerk $swiftness $sunshine simply use defensive abilities $resonance $preparation $anticipation $freedom to build adrenaline. Yet, there are a plenty of scenarios where it is beneficial to place dummies in phases 3 and 5:
+
+• Stalling an ability pre-TC $tc
+• Use of offensive abilities during Team Split $ts or The End $purple special attacks
+• Pre-barge $gbarge
+• Pre-ecb $ecb
+• Adrenaline gain from auto attacks
+
+__Important:__
+
+• Do not target a dummy $dummy if you plan on pre-charging a Detonate $detonate
+• **Never** place a dummy in melee distance or beneath Vorago's spawn location (references: #target-cycle, section "Dummies and TC")
+
+.p1
+> __**Phase 1**__
+
+In Normal Mode, attacking a Combat Dummy $dummy at face is going to prevent you from activating Sunshine $sunshine or Death's Swiftness $swiftness in Phase 1. You must dismantle the dummy before receiving the entry hit. Berserk $zerk and Metamorphosis $metamorphosis do not share this phenomenon; they can always be activated.
+
+Phase 1 Target Cycle $tc is exactly 1 tick and **16 GCDs / abilities** after challenging. The extra tick is only relevant if activating an ability by mouse clicking it in the same tick of challenging.
+
+__Example Rotation:__
+
+**Challenge** > wait 1 tick > $slice > $gfury > $slice > $bleed > $slice > $backhand > $slice > $gfury > $voke > $natty > $gfury > **Entry Hit** $preparation > $resonance > $anticipation > $freedom > $zerk > **Target Cycle** $tc $gbarge
+
+.tc
+> __**Timing Target Cycle**__
+
+There exist several commonly used terms for Natty timings. They are either referred to ticks assuming the next phase's Target Cycle is tick `0`, or relative to Vorago's jump animations.
+
+• Natty First Land: `8` ticks after Vorago died, tick `-33` relative to TC
+• Natty Second Land: `14` ticks after Vorago died, tick `-27` relative to TC
+• Crack Heal $heal: `24` ticks after Vorago died, tick `-17` relative to TC
+• Target Cycle $tc timing in the next phase: `41` ticks after Vorago died
+
+The Target Cycle $tc timing is divided into exactly *13 GCDs and 2 ticks* after Vorago's death. Using Shatter $shatter as a slow hitting ability in the end of Phase 2 or 4 results in **13 abilities** after Shatter until TC (references: #shatter and #ability-travel-speed).
+
+*Example rotation*
+
+$shatter as slow hitting ability > **Vorago's Death** > $wrack > $chain > $wrack > $natty Second Jump, tick `-30` > $wrack > $voke > $wrack > $chain > **Crack Heal** > $resonance > $sunshine > $preparation > $anticipation > $freedom > **Target Cycle** $tc $dbreath
+
+• Example for timing Natural Instinct and Target Cycle properly
+https://www.youtube.com/watch?v=nAS-AW2nFIw
+.p5
+
+> __**Phase 5 / 10**__
+
+__Goals:__
+
+• Ultimate $sunshine $swiftness in melee distance start of Phase 5 as soon as possible
+• Using defensive abilities for adrenaline gain after the ultimate before Target Cycle $tc
+
+__Instructions:__
+
+• The direction you face in the end of Phase 4 is always going to be the same direction that you face in the start of Phase 5
+• MD in Phase 5 is always **east** of your drop down location
+• Face **east** in the end of Phase 4
+• As you drop into Phase 5, Surge $surge east
+
+.index
+> __**Index**__
+
+• $pin **Introduction** {link:intro}
+• $dummy **Combat Dummies** {link:dummies}
+• $maulpiecea **Phase 1** {link:p1}
+• $tc **Timing Target Cycle** {link:tc}
+• $maul **Phase 5 / 10** {link:p5}

@@ -16,6 +16,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $auto `auto`
 .b
 **B**
+• $backhand `backhand`
 • $barrage `barrage`
 • $bd `bd`
 • $berserker `berserker`
@@ -33,6 +34,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $cblast `cblast`
 • $ceil `ceil`
 • $cept `cept`
+• $chain `chain`
 • $chare `chare`
 • $charn `charn`
 • $chars `chars`
@@ -135,6 +137,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 .p
 **P**
 • $pin `pin`
+• $preparation `preparation`
 • $purple `purple`
 • $pvme `pvme`
 .q
@@ -186,6 +189,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $shatter `shatter`
 • $sheety `sheety`
 • $slaughter `slaughter`
+• $slice `slice`
 • $snap `snap`
 • $snipe `snipe`
 • $sonic `sonic`
@@ -217,6 +221,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $warning `warning`
 • $waterfall `waterfall`
 • $wm `wm`
+• $wrack `wrack`
 .y
 **Y**
 • $yak `yak`
