@@ -48,13 +48,7 @@ In this scenario, the correct tick for voking is the **8th** tick after Target C
 .recenter
 > __**Recentering**__
 
-A lot of times, accidentally or intentionally, Vorago will be walked throughout Phase 2, thus leaving the Base Spot. Unless the last Gravity Field has been tagged, you will want to save your team the trouble of continuously adjusting Vorago's location in order to be in reach of spawning Gravity Fields. In order to recenter quickly and consistently, there is an easy method consisting of 4 simple steps.
-
-• Figure out Vorago's walking direction; east, west or south (refer to this guide's first section)
-• Position at the opposite side of Vorago's walking direction (i.e. position on the west if Vorago walks east)
-• Move to Vorago's Base Spot to the side
-
-Keep the first section in mind for walking bosses in RuneScape. When recentering during P2, you have to position yourself at the opposite side of Vorago's walking direction.
+A lot of times, accidentally or intentionally, Vorago will be walked throughout Phase 2, thus leaving the Base Spot. Unless the last Gravity Field $gravity has been tagged, you will want to save your team the trouble of continuously adjusting Vorago's location in order to be in reach of spawning Gravity Fields. To recenter quickly and consistently, there is an easy method consisting of 4 simple steps.
 
 • Reference
 .
@@ -64,14 +58,15 @@ https://imgur.com/a/cVow8R4
 • Figure out the current walking direction (by moving under Vorago)
 • Position at the opposite side of Vorago's walking direction
 • Move Vorago towards the Phase 2 Base Spot
-• Adjust your position parallel to melee distance
+• Adjust your position within melee distance
 
 __Example:__
 
 • Vorago's walking direction is south
 • Vorago is currently located in the south-east of the Phase 2 arena
-• Move to the north of the Phase 2 Base Spot (blue highlighted area)
-• Move to tile `N1` within the blue highlighted area in order to recenter Vorago properly
+• Move north of Vorago
+• Position north of the Phase 2 Base Spot (blue highlighted area)
+• Move to the tile `N1` within the blue highlighted area
 
 .index
 > __**Index**__
