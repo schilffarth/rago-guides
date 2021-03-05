@@ -80,6 +80,7 @@ __Examples:__
 
 .index
 > __**Index**__
+
 • $vorago **Walking Bosses** {link:walking}
 • $gravity **Base Spot Phase 2** {link:basespot}
 • $voke **Recenter Phase 2** {link:recenter}
