@@ -22,7 +22,7 @@ The spawn center of Vorago is different to the position of where Vorago should b
 
 • Phase 2 arena reference
 .
-https://imgur.com/a/LaE4RiB
+https://imgur.com/a/EsMG3gH
 .
 
 The recommended Base Spot is located 2 tiles south and 1 tile west of Vorago's initial spawn. An alternative Base Spot is located 1 tile farther north. There exist three different methods of consistently luring Vorago into Base Spot easily. In the start of Phase 2, position at either of the marked tiles and Vorago will automatically move into the respective Base Spot. The southern Base Spot is recommended due to the Base Tank's capability of tagging mid-orbs $gravity in melee distance north of Vorago.
@@ -34,12 +34,12 @@ https://imgur.com/a/P9w3dpE
 
 • Spot `#2` will make Vorago move 2 south and 1 west, pushing the player 1 tile west simultaneously
 .
-https://imgur.com/a/rIWJLBa
+https://imgur.com/a/B4weQQZ
 .
 
 • Spot `#3` will make Vorago move 2 south and 1 west, directly moving into melee distance to the player
 .
-https://imgur.com/a/QsvPsdf
+https://imgur.com/a/j0K1IID
 .
 
 __Target cycling start of Phase 2:__
