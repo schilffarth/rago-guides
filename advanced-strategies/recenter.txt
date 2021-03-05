@@ -5,12 +5,7 @@ Guide written by <@316175818458136588>.
 
 All RuneScape bosses share the same walking mechanic. The walking direction is randomly chosen upon creation of an NPC. Walking directions are always **west**, **south** or **east** but **never north**. The walking direction changes if the NPC walks against a wall of its walking direction, thence **updating counter clockwise**.
 
-• Walking directions
-.
-https://imgur.com/a/tINU7Ff
-.
-
-• Assuming an NPC has a chosen walking direction of **west**, it changes to **south** upon walking against a west wall
+• Example assumes an NPC has a chosen walking direction of **west**, turning to **south** upon walking against the west wall
 .
 https://imgur.com/a/KhfXqBo
 .
@@ -71,7 +66,7 @@ https://imgur.com/a/cVow8R4
 • Move Vorago towards the Phase 2 Base Spot
 • Adjust your position parallel to melee distance
 
-__Examples:__
+__Example:__
 
 • Vorago's walking direction is south
 • Vorago is currently located in the south-east of the Phase 2 arena
