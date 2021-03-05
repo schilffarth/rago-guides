@@ -3,7 +3,7 @@ Guide written by <@316175818458136588>.
 
 > __**Walking Bosses**__
 
-All RuneScape bosses share the same walking mechanic. The walking direction is randomly chosen upon creation of an NPC. Walking directions are always **west**, **south** or **east** but **never north**. The walking direction changes if the NPC walks against a wall of its walking direction, thus **updating counter clockwise**.
+All RuneScape bosses share the same walking mechanic. The walking direction is randomly chosen upon creation of an NPC. Walking directions are always **west**, **south** or **east** but **never north**. The walking direction changes if the NPC walks against a wall of its walking direction, thence **updating counter clockwise**.
 
 • Walking directions
 .
