@@ -62,14 +62,14 @@ https://cdn.discordapp.com/attachments/500971699349749760/814654038854991952/unk
 • Sub-headlines: `__Sub-Headline:__`, one preceding and one trailing blank line
 • Listing: `• Item of a big list`, one blank line before the first and one after the last item
 • Images should be labeled as list items without colons or other formatting
+• GIFs should be uploaded on <https://giphy.com/>, because files directly uploaded to Discord tend to break after a short period of time
+• Same applies to images, so preferably upload all images on an external platform such as <https://imgur.com/>
 
-.emojilist
-> __**Emoji List**__
+__Emojis:__
 
 The emoji syntax is parsed by adding the character dollar `$` preceding to emoji keywords. For example, writing `$flush` will be converted to :flushed:. A full list of Emojis can be found in #emojis.
 
-.testing
-> __**Testing**__
+__Testing:__
 
 Head to our <#812595920935321632> channel and use the command `/txtpost` either with an attached text file or with the content added within the Discord message.
 
@@ -77,7 +77,5 @@ Head to our <#812595920935321632> channel and use the command `/txtpost` either 
 > __**Index**__
 
 • $pin **Guide Writing** {link:guidewriting}
-• $dome **Guide Styling** {link:guidestyling}
 • $gear **Edit Messages** {link:editmessages}
-• $bonfire **Emoji List** {link:emojilist}
-• $achievement **Testing** {link:testing}
+• $dome **Guide Styling** {link:guidestyling}
