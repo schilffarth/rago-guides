@@ -1,0 +1,85 @@
+.walking
+Guide written by <@316175818458136588>.
+
+> __**Walking Bosses**__
+
+All RuneScape bosses share the same walking mechanic. The walking direction is randomly chosen upon creation of an NPC. Walking directions are always **west**, **south** or **east** but **never north**. The walking direction changes if the NPC walks against a wall of its walking direction, thus **updating counter clockwise**.
+
+• Walking directions
+.
+https://imgur.com/a/tINU7Ff
+.
+
+• Assuming an NPC has a chosen walking direction of **west**, it changes to **south** upon walking against a west wall
+.
+https://imgur.com/a/KhfXqBo
+.
+
+.basespot
+> __**Phase 2 Base Spot**__
+
+The spawn center of Vorago is different to the position of where Vorago should be kept throughout Phase 2. The reason is the range in which Gravity Fields $gravity can be tagged.
+
+• Phase 2 arena reference
+.
+https://imgur.com/a/LaE4RiB
+.
+
+The recommended Base Spot is located 2 tiles south and 1 tile west of Vorago's initial spawn. An alternative Base Spot is located 1 tile farther north. There exist three different methods of consistently luring Vorago into Base Spot easily. In the start of Phase 2, position at either of the marked tiles and Vorago will automatically move into the respective Base Spot. The southern Base Spot is recommended due to the Base Tank's capability of tagging mid-orbs $gravity in melee distance north of Vorago.
+
+• Spot `#1` will make Vorago move 1 south and 1 west, pushing the player 1 tile west simultaneously
+.
+https://imgur.com/a/P9w3dpE
+.
+
+• Spot `#2` will make Vorago move 2 south and 1 west, pushing the player 1 tile west simultaneously
+.
+https://imgur.com/a/rIWJLBa
+.
+
+• Spot `#3` will make Vorago move 2 south and 1 west, directly moving into melee distance to the player
+.
+https://imgur.com/a/QsvPsdf
+.
+
+__Target cycling start of Phase 2:__
+
+Guide for Target Cycle: #target-cycle
+
+If attacking Vorago in TC $tc of Phase 2, it may occur that instead of centering himself Vorago rather starts walking as the second bleed is applied. Vorago can be kept in center by either the Base Tank tanking 1-2 Bleed $bleed hits before escaping $escape, or alternatively, if the Base Tank escapes the second Bleed immediately, by the Bomb Tank staying in melee distance to the Phase 2 Base Spot and voking $voke in the correct tick.
+
+In this scenario, the correct tick for voking is the **8th** tick after Target Cycle, respectively one tick after Vorago walks.
+
+.recenter
+> __**Recentering**__
+
+A lot of times, accidentally or intentionally, Vorago will be walked throughout Phase 2, thus leaving the Base Spot. Unless the last Gravity Field has been tagged, you will want to save your team the trouble of continuously adjusting Vorago's location in order to be in reach of spawning Gravity Fields. In order to recenter quickly and consistently, there is an easy method consisting of 4 simple steps.
+
+• Figure out Vorago's walking direction; east, west or south (refer to this guide's first section)
+• Position at the opposite side of Vorago's walking direction (i.e. position on the west if Vorago walks east)
+• Move to Vorago's Base Spot to the side
+
+Keep the first section in mind for walking bosses in RuneScape. When recentering during P2, you have to position yourself at the opposite side of Vorago's walking direction.
+
+• Reference
+.
+https://imgur.com/a/cVow8R4
+.
+
+• Figure out the current walking direction (by moving under Vorago)
+• Position at the opposite side of Vorago's walking direction
+• Move Vorago towards the Phase 2 Base Spot
+• Adjust your position parallel to melee distance
+
+__Examples:__
+
+• Vorago's walking direction is south
+• Vorago is currently located in the south-east of the Phase 2 arena
+• Move to the north of the Phase 2 Base Spot (blue highlighted area)
+• Move to tile `N1` within the blue highlighted area in order to recenter Vorago properly
+
+.index
+> __**Index**__
+• $vorago **Walking Bosses** {link:walking}
+• $gravity **Base Spot Phase 2** {link:basespot}
+• $voke **Recenter Phase 2** {link:recenter}
