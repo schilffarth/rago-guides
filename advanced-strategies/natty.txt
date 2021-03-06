@@ -46,7 +46,7 @@ There exist several commonly used terms for Natty timings. They are either refer
 • Crack Heal $heal: `24` ticks after Vorago died, tick `-17` relative to TC
 • Target Cycle $tc timing in the next phase: `41` ticks after Vorago died
 
-The Target Cycle $tc timing is divided into exactly *13 GCDs and 2 ticks* after Vorago's death. Using Shatter $shatter as a slow hitting ability in the end of Phase 2 or 4 results in **13 abilities** after Shatter until TC (references: #shatter and #ability-travel-speed).
+The Target Cycle $tc timing is divided into exactly *13 GCDs and 2 ticks* after Vorago's death. Using Shatter $shatter as a slow hitting ability in the end of Phase 2 or 4 results in **13 abilities** after Shatter until TC (references: #ability-travel-speed).
 
 *Example rotation*
 

@@ -247,7 +247,7 @@ Usually the Bomb Tank #2 (the Climber) takes over cade cepting $cade $cept the f
 
 You should have one person dedicated to shattering $shatter the end of Bring Him Down (preferably the Ranger).
 
-References: #duo, #shatter, #mechanics
+References: #duo, #mechanics
 
 One Bomb Tank is assigned to placing a Combat Dummy $dummy during Bring Him Down.
 .rangedp3
@@ -445,7 +445,7 @@ Usually the Bomb Tank #2 (the Climber) takes over cade cepting $cade $cept the f
 
 You should have one person dedicated to shattering $shatter the end of Bring Him Down (preferably the Ranger).
 
-References: #duo, #shatter, #mechanics
+References: #duo, #mechanics
 
 One Bomb Tank is assigned to placing a Combat Dummy $dummy during Bring Him Down.
 
@@ -624,7 +624,7 @@ Usually the Bomb Tank #2 (the Climber) takes over cade cepting $cade $cept the f
 
 You should have one person dedicated to shattering $shatter the end of Bring Him Down (preferably the Ranger).
 
-References: #duo, #shatter, #mechanics
+References: #duo, #mechanics
 
 Due to lacking inventory space as a Hybridder, it is recommended to have either the Base Tank or the Bomb Tank #1 take an additional Combat Dummy $dummy. One Bomb Tank is assigned to placing a Combat Dummy $dummy during Bring Him Down (preferably the BT#1).
 

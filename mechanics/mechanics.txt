@@ -100,12 +100,37 @@ __Bring Him Down:__
 • You will have to fill the bar that appears on top by clicking on Vorago (only one click per tick is registered)
 • All players take a `150` typeless bleed (`250` in Hard Mode) until the bar is filled
 • $warning Standing beneath Vorago during the clicking part will get you stuck underneath until Vorago dies
-• A damage check of `50,000` must be passed - Achieve this with thresholds and basics (reference: #shatter)
+• A damage check of `50,000` must be passed - Achieve this with thresholds and basics
 • The damage check takes 12.0 seconds (7.8 seconds in Hard Mode)
 • Failing the damage check results in a repetition of 2 more Gravity Fields $gravity to be tagged alongside with another Bring Him Down
 • Finishing the Bring Him Down mechanic will loosen and drop the second maul piece (b) $maulpieceb
 
 After BHD has been passed Vorago can be killed and progressed to phase 3.
+
+.shatter
+__Shatter:__
+
+After unlocking the abilities Storm Shards $shard and Shatter $shatter from the Mazcab ability codex, it is a commonly used strategy to apply as many Storm Shards as possible throughout phases 2 and 4 to then Shatter as you passed Bring Him Down (reference: #mechanics) or after the third Waterfall $waterfall in order to trigger all stacked shards and kill Vorago in the earliest tick possible.
+
+Counting from the first GCD of the damage check, Bring Him Down has a duration of 20 ticks / 12 seconds in **Normal Mode** and 13 ticks / 7.8 seconds in **Hard Mode**. Using Shatter as a slow hitting ability (Range $ranged or Mage $magic from 5+ tiles) will allow you to Shatter 1 tick earlier. Using 6 normal abilities and then 4tick shattering will hit on the correct tick.
+
+.
+• $blue Normal Mode
+
+**Melee:** $gbarge ➔ $assault ➔ $cleave ➔ $deci ➔ $sever ➔ $gfury ➔ wait 1 tick ➔ $shatter (fast hitting)
+
+**Ranged:** $sgb ➔ $cshot ➔ $grico ➔ $dazing ➔ $snipe ➔ $needle ➔ $shatter (fast hitting)
+
+**Mage:** $barrage $wm ➔ $cblast ➔ $barrage $asphyx 4hit ➔ $dbreath ➔ $barrage $shatter (slow hitting)
+
+.
+• $red Hard Mode
+
+**Melee:** $gbarge ➔ $destroy ➔ $cleave ➔ $deci ➔ $shatter (fast hitting)
+
+**Ranged:** $snap ➔ $snipe ➔ $grico ➔ 4tick $shatter (slow hitting)
+
+**Mage:** $barrage $wm ➔ $dbreath ➔ $barrage $conc ➔ $shatter (slow hitting)
 
 .rotations
 > __**Weekly Specials**__
@@ -197,6 +222,7 @@ Debilitating prevents the first Blue Bomb $blue from stalling Vorago which means
 • $bleed **Bleeds** {link:bleeds}
 • $link **Reflect** {link:reflect}
 • $gravity **Bring Him Down** {link:bhd}
+• $shatter **Shatter** {link:shatter}
 • $ts **Rotations** {link:rotations}
 • $waterfall **Waterfall** {link:waterfall}
 • $vitalis **Stone Clone** {link:clone}

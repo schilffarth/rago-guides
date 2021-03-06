@@ -1,28 +1,28 @@
-Guide written by <@316175818458136588>.
-
+.shatter
 > __**Shatter**__
 
-After unlocking the Storm Shards & Shatter abilities $shard $shatter from the Mazcab ability codex, it is a commonly used strategy to apply as many storm shards $shard as possible during Phase 2 and 4 to then use Shatter $shatter as you passed Bring Him Down or after the third waterfall $waterfall to trigger all stacked shards and kill Vorago in the first possible tick.
+After unlocking the abilities Storm Shards $shard and Shatter $shatter from the Mazcab ability codex, it is a commonly used strategy to apply as many Storm Shards as possible throughout phases 2 and 4 to then Shatter as you passed Bring Him Down (reference: #mechanics) or after the third Waterfall $waterfall in order to trigger all stacked shards and kill Vorago in the earliest tick possible.
 
 .
 > __**Bring Him Down example rotations**__
 
 BHD has a duration, counting from the first GCD of the damage check, of 20 ticks / 12 seconds in **Normal Mode** and 13 ticks / 7.8 seconds in **Hard Mode**.
-Using Shatter as a slow hitting ability (Range $ranged or Mage $magic from 5+ tiles) will allow you to Shatter 1 tick earlier. Example rotations:
+Using Shatter as a slow hitting ability (Range $ranged or Mage $magic from 5+ tiles) will allow you to Shatter 1 tick earlier. Using 6 normal abilities and then 4tick shattering will hit on the correct tick.
 
-$blue __Normal Mode:__
+.examples
+__Normal Mode:__
 
-**Mage:** $wm $cblast ➔ $barrage $asphyx 4hit ➔ $dbreath ➔ $barrage $shatter
+**Melee:** $gbarge ➔ $assault ➔ $cleave ➔ $deci ➔ $sever ➔ $gfury ➔ wait 1 tick ➔ $shatter (fast hitting)
 
-**Melee:** $gbarge ➔ 4tick $assault ➔ $deci ➔ $sever ➔ $cleave ➔ $gfury ➔ $shatter
+**Ranged:** $sgb ➔ $cshot ➔ $grico ➔ $dazing ➔ $snipe ➔ $needle ➔ $shatter (fast hitting)
 
-**Range:** $sgb ➔ $rapid 4hit ➔ $snipe (4t) ➔ $snap ➔ $needle ➔ $shatter
+**Mage:** $barrage $wm ➔ $cblast ➔ $barrage $asphyx 4hit ➔ $dbreath ➔ $barrage $shatter (slow hitting)
 
 .
-$red __Hard Mode:__
+__Hard Mode:__
 
-**Mage:** $wm ➔ $dbreath ➔ $barrage $sonic ➔ $shatter
+**Melee:** $gbarge ➔ $destroy ➔ $cleave ➔ $deci ➔ $shatter (fast hitting)
 
-**Melee:** $gbarge ➔ $destroy ➔ $cleave ➔ $deci ➔ $shatter
+**Ranged:** $snap ➔ $snipe ➔ $grico ➔ 4tick $shatter (slow hitting)
 
-**Range:** $snap ➔ $snipe (4t) ➔ $grico ➔ 4tick $shatter
+**Mage:** $barrage $wm ➔ $dbreath ➔ $barrage $conc ➔ $shatter (slow hitting)

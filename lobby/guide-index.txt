@@ -70,7 +70,6 @@ __Advanced strategies:__
 • #natty - Natural Instinct on Dummies, Phase 1 Natty, Natty to time Target Cycle, NM Phase 5 and HM Phase 10/11
 • #recenter - Recentering Vorago on Phase 2, Walk directions
 • #sgb-without-ioth - How to do special attacks without Ingen
-• #shatter - Tick perfect Shatter rotations for Phase 2
 • #solo-lure - How to solo lure on Phase 1, Walk directions
 • #stalling-abilities - Stalling and releasing abilities To be released
 • #stepping-under - How to step under (Duo HM strat)
