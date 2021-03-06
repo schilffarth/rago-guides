@@ -119,7 +119,7 @@ Counting from the first GCD of the damage check, Bring Him Down has a duration o
 
 **Melee:** $gbarge ➔ $assault ➔ $cleave ➔ $deci ➔ $sever ➔ $gfury ➔ wait 1 tick ➔ $shatter (fast hitting)
 
-**Ranged:** $sgb ➔ $cshot ➔ $grico ➔ $dazing ➔ $snipe ➔ $needle ➔ $shatter (fast hitting)
+**Ranged:** $sgb ➔ $cshot ➔ $grico ➔ $gdazing ➔ $snipe ➔ $needle ➔ $shatter (fast hitting)
 
 **Mage:** $barrage $wm ➔ $cblast ➔ $barrage $asphyx 4hit ➔ $dbreath ➔ $barrage $shatter (slow hitting)
 

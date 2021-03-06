@@ -42,6 +42,8 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $cheese `cheese`
 • $chins `chins`
 • $cleave `cleave`
+• $conc `conc`
+• $copy `copy`
 • $crackling `crackling`
 • $cshot `cshot`
 .d
