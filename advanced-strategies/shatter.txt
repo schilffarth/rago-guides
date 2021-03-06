@@ -7,8 +7,8 @@ After unlocking the Storm Shards & Shatter abilities $shard $shatter from the Ma
 .
 > __**Bring Him Down example rotations**__
 
-Using Shatter as a slow hitting ability (Range $ranged without fast hitting overrides or Mage $magic from 5+ tiles) will allow you to Shatter 1 tick earlier.
-BHD has a duration, counting from the first GCD of the damage check, of 20 ticks / 12 seconds in **Normal Mode** and 13 ticks / 7.8 seconds in **Hard Mode**. Example rotations:
+BHD has a duration, counting from the first GCD of the damage check, of 20 ticks / 12 seconds in **Normal Mode** and 13 ticks / 7.8 seconds in **Hard Mode**.
+Using Shatter as a slow hitting ability (Range $ranged or Mage $magic from 5+ tiles) will allow you to Shatter 1 tick earlier. Example rotations:
 
 $blue __Normal Mode:__
 
@@ -16,7 +16,7 @@ $blue __Normal Mode:__
 
 **Melee:** $gbarge ➔ 4tick $assault ➔ $deci ➔ $sever ➔ $cleave ➔ $gfury ➔ $shatter
 
-**Range:** $sgb ➔ $rapid 5hit ➔ $snipe (4t) ➔ $snap ➔ $needle ➔ $shatter
+**Range:** $sgb ➔ $rapid 4hit ➔ $snipe (4t) ➔ $snap ➔ $needle ➔ $shatter
 
 .
 $red __Hard Mode:__
