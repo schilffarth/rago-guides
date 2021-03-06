@@ -1,0 +1,445 @@
+{
+  "reqs": {
+    "MD Vokes": "Perform all provokes of a kill in melee distance",
+    "Cade Cept": "Barricade Intercept at all required times throughout a kill",
+    "Top Lure": "Climb in Phase 1 and provoke at **36 second timer**",
+    "Heal Other": "Crack Healing and heals during cade cepts (ironmen excluded)",
+    "BD Bleeds": "Escape-bladed diving to clear a Bleed without moving Vorago",
+    "Recenter": "Recenter Phase 2 from any location with any walking direction",
+    "Target Cycle": "Target Cycle in combination with SWH or GStaff (no cheesing)",
+    "Climber": "Climb in Phase 1 with a Bladed Dive corner cut at earliest tick and provoke at **33 second timer**",
+    "Natty": "Execute an advanced ability rotation with Natural Instinct tick losslessly",
+    "Solo Lure": "`.info Solo Lure`",
+    "Hammer Climber": "`.info Hammer Climber`",
+    "Advanced Solo Lure": "`.info Advanced Solo Lure`",
+    "Advanced Hammer Climber": "`.info Advanced Hammer Climber`"
+  },
+  "guides": {
+    "large-teams": "744505609696837726",
+    "trio": "753663290718158898",
+    "duo": "744505794682290217",
+    "solo": "757226530194849832",
+    "trio-hm": "802162163686572082",
+    "duo-hm": "714808600123408384",
+    "climbing": "744505344088080434",
+    "clearing-bleeds": "742095011696476201",
+    "maul": "747079548348268584",
+    "cade-cept": "744505436685991986",
+    "crack-healing": "727940098158493761",
+    "hammer-climb": "671092193066221569",
+    "lining-up": "744506071661543424",
+    "natty": "701072208486727761",
+    "recenter": "734513334837182486",
+    "sgb": "718431678086774925",
+    "shatter": "701368853766209576",
+    "solo-lure": "734513833489596496",
+    "stepping-under": "718435693432406157",
+    "target-cycle": "731487797336211507",
+    "zero-linking": "734513733883396146",
+    "mechanics": "736325239138418719",
+    "phase-overview": "748577998503936111",
+    "ceilings": "741401762010759209",
+    "scopulus": "741401806864777340",
+    "vitalis": "741401849894273074",
+    "green-bomb": "741401890398535770",
+    "team-split": "741401929959211008",
+    "the-end": "741401962121265305"
+  },
+  "tiers": [
+    {
+      "name": "Trio NM",
+      "reqs": [
+        "Successful kills as all roles in in Trio",
+        "Upkeep 100% adrenaline at all necessary times",
+        "Pre-ultimate in phases 1, 3 and 5",
+        "Top Lure",
+        "MD Vokes",
+        "BD Bleeds",
+        "Heal Other",
+        "Cade Cept"
+      ],
+      "apps": [
+        "Vouched by at least 2 persons for all roles (Base, Bomb Tank and TL5)",
+        "Trial hour (inspectors must be Advanced NM or higher)",
+        "VODs of 1 kill for each role"
+      ],
+      "guides": [
+        "trio",
+        "climbing",
+        "clearing-bleeds",
+        "crack-healing",
+        "cade-cept"
+      ]
+    },
+    {
+      "name": "Duo NM",
+      "reqs": [
+        "`.info Trio NM`",
+        "Successful kills as Base and Bomb Tank in Duo",
+        "4 KPH pace on 2/6 rotations",
+        "Target Cycle",
+        "Climber"
+      ],
+      "apps": [
+        "Vouched by at least 2 persons for all roles (Base, Bomb Tank and TL5)",
+        "Trial hour (inspectors must be `Advanced NM` or higher)",
+        "VODs of 1 kill for each role"
+      ],
+      "guides": [
+        "duo",
+        "target-cycle",
+        "climbing"
+      ]
+    },
+    {
+      "name": "Advanced NM",
+      "reqs": [
+        "`.info Duo NM`",
+        "4/6 rotations with the respective kill time",
+        "Kills with Clone Skip are required to be 34 seconds faster",
+        "`T3 Ceilings` 10:27 / 9:54",
+        "`T3 Scopulus` 10:14 / 9:40",
+        "`T3 Vitalis` 10:38 / 10:04",
+        "`T3 Green Bomb` 10:28 / 9:54",
+        "`T3 Team Split` 10:52 / 10:18",
+        "`T3 The End` 11:26 / 10:52",
+        "Recenter",
+        "Natty",
+        "Hammer Climber"
+      ],
+      "apps": [
+        "VODs on 4/6 rotations (one must be Vitalis)"
+      ],
+      "guides": [
+        "clone-skip",
+        "recenter",
+        "natty",
+        "hammer-climb"
+      ]
+    },
+    {
+      "name": "NM Master",
+      "reqs": [
+        "`.info Advanced NM`",
+        "4/6 rotations with the respective kill time",
+        "Kills with Clone Skip are required to be 34 seconds faster",
+        "`T4 Ceilings` 9:56 / 9:22",
+        "`T4 Scopulus` 9:43 / 9:09",
+        "`T4 Vitalis` 9:50 / 9:16",
+        "`T4 Green Bomb` 9:56 / 9:22",
+        "`T4 Team Split` 10:14 / 9:40",
+        "`T4 The End` 10:52 / 10:18",
+        "Solo Lure"
+      ],
+      "apps": [
+        "VODs on 4/6 rotations (one must be Vitalis)"
+      ],
+      "guides": [
+        "stalling-abilities",
+        "solo-lure",
+        "zero-linking"
+      ]
+    },
+    {
+      "name": "Insane NM Master",
+      "reqs": [
+        "`.info NM Master`",
+        "4/6 rotations with the respective kill time",
+        "Kills with Clone Skip are required to be 34 seconds faster",
+        "`T5 Ceilings` 9:19 / 8:45",
+        "`T5 Scopulus` 9:27 / 8:53",
+        "`T5 Vitalis` 9:19 / 8:45",
+        "`T5 Green Bomb` 9:27 / 8:53",
+        "`T5 Team Split` 9:25 / 8:51",
+        "`T5 The End` 10:13 / 9:39",
+        "Advanced Solo Lure",
+        "Advanced Hammer Climber"
+      ],
+      "apps": [
+        "VODs on 4/6 rotations"
+      ],
+      "guides": [
+        "solo-lure",
+        "hammer-climb"
+      ]
+    },
+    {
+      "name": "Certified HM DPS",
+      "reqs": [
+        "3 KPH as DPS in 5man+ Hard Mode",
+        "Upkeep adrenaline at all necessary times",
+        "Utilize adrenaline potions and ultimates",
+        "large-teams-hm",
+        "MD Vokes",
+        "BD Bleeds",
+        "Heal Other"
+      ],
+      "apps": [
+        "Vouched by at least 2 persons",
+        "Trial hour with inspectors holding an experienced HM tier",
+        "VOD of 1 kill as DPS in 5man+ Hard Mode"
+      ],
+      "guides": [
+        "clearing-bleeds",
+        "crack-healing"
+      ]
+    },
+    {
+      "name": "Certified HM Bomb",
+      "reqs": [
+        "3 KPH as Bomb Tank in 5man+ Hard Mode",
+        "Upkeep adrenaline at all necessary times",
+        "Utilize adrenaline potions and ultimates",
+        "large-teams-hm",
+        "Top Lure",
+        "MD Vokes",
+        "BD Bleeds",
+        "Heal Other",
+        "Cade Cept"
+      ],
+      "apps": [
+        "Vouched by at least 2 persons",
+        "Trial hour with inspectors holding an experienced HM tier",
+        "VOD of 1 kill as Bomb Tank in 5man+ Hard Mode"
+      ],
+      "guides": [
+        "large-teams-hm",
+        "climbing",
+        "clearing-bleeds",
+        "crack-healing",
+        "cade-cept"
+      ]
+    },
+    {
+      "name": "Certified HM Base",
+      "reqs": [
+        "3 KPH as Base Tank in 5man+ Hard Mode",
+        "Upkeep adrenaline at all necessary times",
+        "Utilize adrenaline potions and ultimates",
+        "MD Vokes",
+        "BD Bleeds",
+        "Heal Other",
+        "Cade Cept"
+      ],
+      "apps": [
+        "Vouched by at least 2 persons",
+        "Trial hour with inspectors holding an experienced HM tier",
+        "VOD of 1 kill as Base Tank in 5man+ Hard Mode"
+      ],
+      "guides": [
+        "large-teams-hm",
+        "clearing-bleeds",
+        "crack-healing",
+        "cade-cept"
+      ]
+    },
+    {
+      "name": "Experienced HM Bomb",
+      "reqs": [
+        "`.info Certified HM Bomb`",
+        "3 KPH as Bomb Tank in 4man Hard Mode",
+        "Significantly contribute to progressing DPS phases",
+        "Target Cycle",
+        "Climber"
+      ],
+      "apps": [
+        "VOD of one kill"
+      ],
+      "guides": [
+        "large-teams-hm",
+        "target-cycle",
+        "climbing"
+      ]
+    },
+    {
+      "name": "Experienced HM Base",
+      "reqs": [
+        "`.info Certified HM Base`",
+        "3 KPH as Base Tank in 4man Hard Mode",
+        "Significantly contribute to progressing DPS phases",
+        "Target Cycle",
+        "Recenter"
+      ],
+      "apps": [
+        "VOD of one kill"
+      ],
+      "guides": [
+        "large-teams-hm",
+        "target-cycle",
+        "recenter"
+      ]
+    },
+    {
+      "name": "Trio HM",
+      "reqs": [
+        "One successful Trio Hard Mode kill"
+      ],
+      "apps": [
+        "Screenshot with kill timer and player names visible (team members must vouch)",
+        "VOD of one kill"
+      ],
+      "guides": [
+        "trio-hm"
+      ]
+    },
+    {
+      "name": "Trio HM Master",
+      "reqs": [
+        "`.info Experienced HM Bomb`",
+        "`.info Experienced HM Base`",
+        "Kills with Clone Skip are required to be 34 seconds faster",
+        "`T4 Trio HM` 14:27 / 13:54",
+        "Solo Lure",
+        "Natty"
+      ],
+      "apps": [
+        "VOD for one kill complying with the kill time requirement of `T4 Trio HM`"
+      ],
+      "guides": [
+        "trio-hm",
+        "stalling-abilities",
+        "solo-lure",
+        "natty"
+      ]
+    },
+    {
+      "name": "Insane Trio HM Master",
+      "reqs": [
+        "`.info Trio HM Master",
+        "Kills with Clone Skip are required to be 34 seconds faster",
+        "`T5 Trio HM` 13:01 / 12:27",
+        "Advanced Solo Lure"
+      ],
+      "apps": [
+        "VOD for one kill complying with the kill time requirement of `T5 Trio HM`"
+      ],
+      "guides": [
+        "solo-lure"
+      ]
+    },
+    {
+      "name": "Duo HM",
+      "reqs": [
+        "One successful Duo Hard Mode kill"
+      ],
+      "apps": [
+        "Screenshot with kill timer and player names visible (team member must vouch)",
+        "If both players had their first kill together, a VOD is required"
+      ],
+      "guides": [
+        "duo-hm"
+      ]
+    },
+    {
+      "name": "Advanced Duo HM",
+      "reqs": [
+        "Successful kills on 2/6 rotations",
+        "Kills with Clone Skip are required to be 34 seconds faster",
+        "`T3 Duo HM` 20:00 / 19:26",
+        "Climber",
+        "Target Cycle",
+        "Recenter"
+      ],
+      "apps": [
+        "VODs of successful kills on each rotation and compliance with the kill time requirement of `T3 Duo HM`"
+      ],
+      "guides": [
+        "climbing",
+        "target-cycle",
+        "recenter"
+      ]
+    },
+    {
+      "name": "Duo HM Master",
+      "reqs": [
+        "Successful kills on 4/6 rotations",
+        "Kills with Clone Skip are required to be 34 seconds faster",
+        "`T4 Duo HM` 17:15 / 16:41",
+        "Natty",
+        "Hammer Climber",
+        "Solo Lure"
+      ],
+      "apps": [
+        "VODs of successful kills on each rotation and compliance with the kill time requirement of `T4 Duo HM`"
+      ],
+      "guides": [
+        "stalling-abilities",
+        "natty",
+        "hammer-climb",
+        "solo-lure"
+      ]
+    },
+    {
+      "name": "Insane Duo HM Master",
+      "reqs": [
+        "Successful kills on 6/6 rotations",
+        "Kills with Clone Skip are required to be 34 seconds faster",
+        "`T5 Duo HM` 15:55 / 15:21",
+        "Advanced Hammer Climber",
+        "Advanced Solo Lure"
+      ],
+      "apps": [
+        "VODs of successful kills on all rotations and compliance with the kill time requirement of `T5 Duo HM`"
+      ],
+      "guides": [
+        "hammer-climb",
+        "solo-lure"
+      ]
+    },
+    {
+      "name": "Hammer Climber",
+      "reqs": [
+        "Apply SWH on Target Cycle in Phase 1 and provoke",
+        "Climber"
+      ],
+      "apps": [
+        "VOD of one perfect Hammer Climb"
+      ],
+      "guides": [
+        "hammer-climb",
+        "climbing"
+      ]
+    },
+    {
+      "name": "Solo Lure",
+      "reqs": [
+        "Solo lure at all walking directions",
+        "Bladed Dive south of Vorago at 32 second timer"
+      ],
+      "apps": [
+        "VOD of 5 consecutive solo lures (covering all walking directions)"
+      ],
+      "guides": [
+        "solo-lure"
+      ]
+    },
+    {
+      "name": "Advanced Hammer Climb",
+      "reqs": [
+        "Start with either: Auto Deto SWH **or** stalled SWH > Snap Shot **or** pre-Zerk > stalled SWH > Hurricane",
+        "Powerburst of Acceleration must be utilized",
+        "Final platform must be reached at 29,4 seconds"
+      ],
+      "apps": [
+        "VOD of 5 consecutive hammer climbs"
+      ],
+      "guides": [
+        "hammer-climb"
+      ]
+    },
+    {
+      "name": "Advanced Solo Lure",
+      "reqs": [
+        "Flawless execution of either the Advanced Normal Mode or Hard Mode solo lure",
+        "Initial lure must be successful",
+        "Bladed Dive south of Vorago at 28,8 second timer"
+      ],
+      "apps": [
+        "VOD of 5 consecutive solo lures"
+      ],
+      "guides": [
+        "solo-lure"
+      ]
+    }
+  ]
+}
