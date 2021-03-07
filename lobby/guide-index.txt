@@ -23,58 +23,54 @@ __Hard Mode:__
 
 __Introduction:__
 
-• #introduction - Starting Vorago, How to get HP, Modes, Team sizes
-• #presets - Presets
-• #climbing - Top Lure climb - Standard, Acceleration climb - Advanced
-• #clearing-bleeds - Clearing bleeds, Taking 3 bleeds, Escape + Dive to clear 3 bleeds
-• #maul - Maul Pieces, Maul timings for HM, Achievements, Outfit of Omens
-• #basic-guide - Simple overview for achieving your first Vorago kill
-• #ability-travel-speed - Ability travel speed
+• $pin #basic-guide Simple overview for achieving your first Vorago kill
+• $gear #presets Example presets
+• $accel #climbing Top Luring Phase 1, Standard and Acceleration climb
+• $bleed #clearing-bleeds Taking 3 bleeds and escape-bladed diving to clear bleeds without moving Vorago
+• $maul #maul Maul construction, optimal maul timings for HM, related achievements and the Omens outfit
 
 __Mechanics:__
 
-• #mechanics - Vorago's Attacks, Smashes/Bleeds, Reflect Mechanic, Bring Him Down, Waterfalls, Phase 5 - Pushback Mechanics, Weekly specials
-• #phase-overview - Phase overview, Phase 1, Phase 2, Phase 3, 4 and 5, Hard Mode Vorago
-
-The following have: Weekly special, Normal Mode: Phase 3, 4 and 5, Hard Mode: Phase 9, 10 and 11
-• #ceilings - Weekly special: Ceiling Collapse
-• #scopulus - Weekly special: Scopulus
-• #vitalis - Weekly special: Vitalis
-• #green-bomb - Weekly special: Green Bomb
-• #team-split - Weekly special: Team Split
-• #the-end - Weekly special: The End
+• $gravity #mechanics Detailed overview of all Vorago mechanics and their differences between NM and HM
+Phase breakdown of weekly special mechanics in Normal and Hard Mode
+• $ceil #ceilings Ceilings
+• $scop #scopulus Scopulus, Broken flanking, stacking Scopuli in NM, spawn locations
+• $vitalis #vitalis Vitalis
+• $green #green-bomb Green Bomb
+• $ts #team-split Team Split, breaking Team Splits
+• $purple #the-end The End, glitching out of Vorago's arms
 
 .
 __Normal Mode:__
 
-• #large-teams - 4man+ approach, Roles, Weekly specials: Phase 3, 4 and 5 breakdown
-• #trio - Similarities with 4man+, Weekly specials: Phase 3, 4 and 5 breakdown
-• #duo - Phase 1 and 2, Weekly specials: Phase 3, 4 and 5, Base and Bomb Tank jobs
-• #solo - Attack speed, Setup, Clearing bleeds, Push. Ability rotations
+• $blue #large-teams Roles and weekly specials in 4man+ NM
+• $red #trio Strategy responsibilities of a TL5 in Trio NM
+• $green #duo Strategy responsibilities of Bomb & Base Tank
+• $purple #solo How to achieve your first Solo Phase 5
 
 __Hard Mode:__
 
-• #large-teams-hm - Large teams HM To be released
-• #trio-hm - Introduction, Base Tank, Ranged Bomb Tank, Magic Bomb Tank, Hybrid Bomb Tank, Phase 9, 10 and 11
-• #duo-hm - Split into <#715356060482797568>, <#715355791544287255> and <#715355755745902752> Phase 1 to 11 breakdown
+• $blue #large-teams-hm Large teams HM soon:tm:
+• $red #trio-hm Detailed breakdown of all combat styles, roles and rotations for Trio HM
+• $green #duo-hm Detailed strategy guide for Duo HM
 
 .
 __Advanced strategies:__
 
-• #breaking-team-split - How to break the TS
-• #cade-cept - Barricade + Intercepting, Forcing Red bombs, 2-step Red bomb
-• #clone-skip - How to skip the Stone Clone on Phase 4/9, Recommendations & Cooldown management
-• #crack-healing - How to crack-heal, Timing crack-heal
-• #hammer-climb - Check <#744505344088080434> first, Excuting the hammer climb
-• #lining-up - HM Phase 10 and 11: Lining up & Positioning
-• #natty - Natural Instinct on Dummies, Phase 1 Natty, Natty to time Target Cycle, NM Phase 5 and HM Phase 10/11
-• #recenter - Recentering Vorago on Phase 2, Walk directions
-• #sgb-without-ioth - How to do special attacks without Ingen
-• #solo-lure - How to solo lure on Phase 1, Walk directions
-• #stalling-abilities - Stalling and releasing abilities To be released
-• #stepping-under - How to step under (Duo HM strat)
-• #target-cycle - Set-up, Alt1 alternative, Cheesing TC, Dummies and TC
-• #zero-linking - Overflow, Stalling, Approaching zero links
+• $blowpipe #ability-travel-speed Ability travel speed and its application at Vorago
+• $cept #cade-cept Barricade Intercept, forcing Red Bombs, Two-Stepping
+• $vitalis #clone-skip How to skip the Stone Clone on Phase 4 / 9, recommended execution and cooldown management
+• $heal #crack-healing Timing Crack Heal, other useful scenarios
+• $swh #hammer-climb Hammer climbing (check #climbing first)
+• $blue #lining-up Phase 10 and 11: Lining up & positioning to half taken push backwards
+• $natty #natty Natural Instinct in Phase 1, timing TC with Natty, ultimating in MD Phase 5 / 10
+• $gravity #recenter Walking bosses in RuneScape, Base Spot and initial center in Phase 2 and consistently recentering
+• $sgb #sgb-without-ioth Using special attacks without Ingenuity of the Humans
+• $voke #solo-lure Standard and advanced solo luring in NM, solo luring in HM
+• $vuln #stalling-abilities Stalling and releasing abilities
+• $blue #stepping-under Stepping under in Hard Mode to avoid Blue Bombs
+• $tc #target-cycle Set-up TC, Alt1 alternative, cheesing TC, dummies and TC
+• $maul #zero-linking Overflow, stalling Vorago, approaching zero links
 
 .abilityrotations
 > __**Ability Rotations**__
@@ -82,7 +78,7 @@ __Advanced strategies:__
 All ability damage rotations can be found on the official Rago Hub spreadsheet:
 <https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg>
 
-The Rago Hub spreadsheet features 150+ unique ability damage rotations that we constantly maintain and update depending on the powercreep and other game updates. All rotations have been exported with Sheety (refer to <#809153802132783154>) to provide you all the best experience possible for learning new rotation sets for your Vorago journey.
+The Rago Hub spreadsheet features 150+ unique ability damage rotations that we constantly maintain and update depending on powercreep and other game updates. All rotations have been exported with Sheety (refer to <#809153802132783154>) to provide you all the best experience possible for learning new rotation sets for your Vorago journey.
 
 .index
 > __**Index**__
