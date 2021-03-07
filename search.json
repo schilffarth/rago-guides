@@ -1,23 +1,23 @@
 {
   "shortcuts": {
-    "example": "This does something very nice"
+    "climbing": "#climbing Standard TL5 $maulpiecea and Acceleration $accel climbing",
+    "hammerclimb": "#hammer-climb Everything about the Hammer Climb $swh",
+    "natty": "#natty\n• Timing Target Cycle $tc with Natural Instinct\n• Natural Instinct for Phase 1\n• Placing an ultimate in melee distance start of Phase 5\n• Properly using combat dummies $dummy at Vorago"
   },
-  "duo": [
-    "#duo",
-    ":example"
+  "circle": [
+    "https://cdn.discordapp.com/attachments/676485011268042761/736324357843845209/circle.png"
   ],
-  "keyword": [
-    "response1",
-    "response2",
-    "response3"
+  "climb": [
+    ":climbing",
+    ":hammerclimb"
   ],
-  "blob": [
-    "yep",
-    "blobbies"
+  "instinct": [
+    ":natty"
   ],
-  "chaha": [
-    "kys",
-    "eat all food",
-    "rip delivery delay"
+  "natty": [
+    ":natty"
+  ],
+  "natural": [
+    ":natty"
   ]
 }
