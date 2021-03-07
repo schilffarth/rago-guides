@@ -1,6 +1,10 @@
 {
+  "shortcuts": {
+    "example": "This does something very nice"
+  },
   "duo": [
-    "#duo"
+    "#duo",
+    ":example"
   ],
   "keyword": [
     "response1",
