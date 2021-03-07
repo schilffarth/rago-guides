@@ -11,6 +11,8 @@ Jump onto Vorago's back to loosen and pick up the Ancient Weapon Piece (a) $maul
 
 Refer to #hammer-climb for advanced climbing methods.
 
+$warning In Hard Mode, every Blue Bomb $blue has a chance of dragging the climber back into the arena and the climb has to be restarted.
+
 .standardclimb
 > __**Standard Climb**__
 

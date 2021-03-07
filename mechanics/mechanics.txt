@@ -101,7 +101,7 @@ __Bring Him Down:__
 • All players take a `150` typeless bleed (`250` in Hard Mode) until the bar is filled
 • $warning Standing beneath Vorago during the clicking part will get you stuck underneath until Vorago dies
 • A damage check of `50,000` must be passed - Achieve this with thresholds and basics
-• The damage check takes 12.0 seconds (7.8 seconds in Hard Mode)
+• The damage check takes **12.0** seconds (**7.8** seconds in Hard Mode)
 • Failing the damage check results in a repetition of 2 more Gravity Fields $gravity to be tagged alongside with another Bring Him Down
 • Finishing the Bring Him Down mechanic will loosen and drop the second maul piece (b) $maulpieceb
 
@@ -135,16 +135,24 @@ Counting from the first GCD of the damage check, Bring Him Down has a duration o
 .rotations
 > __**Weekly Specials**__
 
-Every reset after Tuesday the weekly special rotation changes for Vorago. There is a total of 6 rotations: Ceilings $ceil, Scopulus $scop, Vitalis $vitalis, Green Bomb $green, Team Split $ts and The End $purple.
+Every reset after Tuesday the weekly special rotation changes for Vorago. There is a total of 6 rotations: Ceilings $ceil, Scopulus $scop, Vitalis $vitalis, Green Bomb $green, Team Split $ts and The End $purple. Each of these rotations will affect the mechanics in phases 3, 4 and 5.
 
-Each of these rotations will affect the mechanics in phases 3, 4 and 5 (phases 9, 10 and 11 in Hard Mode). To read up on the mechanics refer to the following channels:
+• $ceil **Ceilings** #ceilings
+• $scop **Scopulus** #scopulus
+• $vitalis **Vitalis** #vitalis
+• $green **Green Bomb** #green-bomb
+• $ts **Team Split** #team-split
+• $purple **The End** #the-end
 
-• $ceil #ceilings
-• $scop #scopulus
-• $vitalis #vitalis
-• $green #green-bomb
-• $ts #team-split
-• $purple #the-end
+__Hard Mode:__
+
+In Hard Mode, only phases 9, 10 and 11 are affected by the weekly special rotation.
+
+• Phases 1 and 2 are similar to Normal Mode
+• Phase 3 - 8 have a static order of the respective Normal Mode Phase 3 mechanics, starting with Ceilings in Phase 3 and ending with The End in Phase 8
+• Phase 9 is similar to Normal Mode Phase 4
+• Phase 10 is similar to Normal Mode Phase 10
+• Phase 11 is the opposite of Phase 10, with Vorago turning around and maul being in the western edge of the arena
 
 .waterfall
 > __**Waterfall**__
@@ -155,7 +163,7 @@ The Waterfall $waterfall mechanic is unique to phase 4 (phase 9 in Hard Mode) an
 • Vorago charges a blast dealing `9,000` - `10,000` typeless damage (increased by `1,000` in Hard Mode)
 • A Waterfall $waterfall appears in a random corner
 • Standing behind it will block the blast completely
-• Duration: 10.2 seconds (7.8 in Hard Mode)
+• Duration: **10.2** seconds (**7.8** in Hard Mode)
 • After the third Waterfall the last maul piece $maulpiecehandle (reference: #maul) drops on the floor and Vorago can be phased
 
 During the weekly rotation Team Split $ts, the third TS in phase 4 will be bugged. Refer to **Breaking Team Splits** in #team-split.
