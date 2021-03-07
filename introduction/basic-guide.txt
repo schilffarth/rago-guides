@@ -72,7 +72,8 @@ The Base, Bomb Tank and TL5 deal with bleeds $bleed and Reds $red until the 4th 
 If you happen to receive a Bleed $bleed, simply use Freedom $freedom to clear it. To read an in-depth explanation, refer to #clearing-bleeds.
 
 .weeklyspecials
-Phase 3, 4 and 5 depend on the current rotation (Weekly Special Mechanic). The amount of autos ($auto 3 or 5) between mechanics also depends on the rotation.
+> __**Weekly Specials**__
+Phase 3, 4 and 5 depend on the current rotation (Weekly Special mechanic). The amount of autos ($auto 3 or 5) between mechanics also depends on the rotation.
 There are 6 rotations in total, changing weekly. The rotation changes every Wednesday at 00:00 game-time:
 
 • #ceilings
@@ -85,14 +86,14 @@ There are 6 rotations in total, changing weekly. The rotation changes every Wedn
 .p3
 > __**Phase 3**__
 
-Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks → Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $repeat repeat
+Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks → Weekly Special mechanic ➔ $auto 3 or 5 auto attacks ➔ $repeat repeat
 
 There's no condition to phase Vorago other than killing him. Once he reaches 0 HP, the next phase will start.
 
 .p4
 > __**Phase 4**__
 
-$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ Weekly Special mechanic ➔ $auto 3 or 5 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 • $waterfall Waterfall: Vorago charges a high-hitting explosion, cancelling most defensive abilities
 • The explosion can be avoided by moving behind the spawned Waterfall (a randomly selected corner of the arena)
@@ -102,7 +103,7 @@ $waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto
 .p5
 > __**Phase 5**__
 
-Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
+Weekly Special mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 In Phase 5 the goal is to push Vorago to the very eastern end of the arena and finish him off with the Maul Of Omens $maul (reference: #maul).
 
