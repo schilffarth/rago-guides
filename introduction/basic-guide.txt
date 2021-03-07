@@ -40,7 +40,7 @@ __Positioning:__
 https://imgur.com/a/GJ4Rctt
 .phases
 
-> __**Phases**__
+> __**Phase breakdown**__
 
 Every phase has unique mechanics and conditions to defeat Vorago. In phases 2 and 4 the life points will keep resetting to `75,000` until specific mechanics have been passed.
 
@@ -71,12 +71,9 @@ The Base, Bomb Tank and TL5 deal with bleeds $bleed and Reds $red until the 4th 
 
 If you happen to receive a Bleed $bleed, simply use Freedom $freedom to clear it. To read an in-depth explanation, refer to #clearing-bleeds.
 
-.p3
-> __**Phase 3**__
-
-Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks → Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $repeat repeat
-
-Phase 3 depends on the current rotation (Weekly Special Mechanic) and Vorago phases once killed. There are 6 rotations in total, changing weekly.
+.weeklyspecials
+Phase 3, 4 and 5 depend on the current rotation (Weekly Special Mechanic). The amount of autos ($auto 3 or 5) between mechanics also depends on the rotation.
+There are 6 rotations in total, changing weekly. The rotation changes every Wednesday at 00:00 game-time:
 
 • #ceilings
 • #scopulus
@@ -84,6 +81,13 @@ Phase 3 depends on the current rotation (Weekly Special Mechanic) and Vorago pha
 • #green-bomb
 • #team-split
 • #the-end
+
+.p3
+> __**Phase 3**__
+
+Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks → Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $repeat repeat
+
+There's no condition to phase Vorago other than killing him. Once he reaches 0 HP, the next phase will start.
 
 .p4
 > __**Phase 4**__
@@ -122,7 +126,7 @@ Just like in preceding phases, Vorago applies Bleeds in Phase 5. There exist sev
 
 • $vorago **Starting Vorago** {link:intro}
 • $auto **Vorago's Basic Attacks** {link:mechanics}
-• $repeat **Phases** {link:phases}
+• $repeat **Phase breakdown** {link:phases}
 • $blue **Phase 1** {link:p1}
 • $gravity **Phase 2** {link:p2}
 • $link **Phase 3** {link:p3}
