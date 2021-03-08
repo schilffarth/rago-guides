@@ -40,7 +40,7 @@ __Positioning:__
 https://imgur.com/a/GJ4Rctt
 .phases
 
-> __**Phases**__
+> __**Phase Breakdown**__
 
 Every phase has unique mechanics and conditions to defeat Vorago. In phases 2 and 4 the life points will keep resetting to `75,000` until specific mechanics have been passed.
 
@@ -49,7 +49,17 @@ Every phase has unique mechanics and conditions to defeat Vorago. In phases 2 an
 • $blue Phase 3: Vorago dies once reaching `0` life points
 • $red Phase 4: Three waterfalls $waterfall have to be passed
 • $maul Phase 5: Vorago has to be pushed to the east and can then be defeated by using the Maul of Omens (reference: #maul)
-• While phases 1 and 2 remain the same at all times, phases 3, 4 and 5 change based on weekly rotating special mechanics (reference: #phase-overview)
+
+.weeklyspecials
+> __**Weekly Specials**__
+While phases 1 and 2 remain the same at all times, the Phases 3 to 5 depend on the current Rotation (also known as the Weekly Special mechanic). The amount of autos between mechanics varies from $auto 3 to 5 depending on the Rotation. There are 6 rotations in total, changing weekly. The rotation changes every Wednesday at 00:00 game-time:
+
+• $ceil #ceilings
+• $scop #scopulus
+• $vitalis #vitalis
+• $green #green-bomb
+• $ts #team-split
+• $purple #the-end
 
 .p1
 > __**Phase 1**__
@@ -63,9 +73,9 @@ The Phase ends once the climber jumps and Vorago is killed.
 
 $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
 
-• $bleed Bleeds: Vorago smashes the ground, applying a melee bleed to the player which also cancel most defensive abilities
+• $bleed Bleeds: Vorago smashes the ground, inflicting a melee Bleed $bleed to the player which cancels most defensive abilities
 • If a bleed is not cleared before another is applied, the player will take `6,000` typeless damage
-• $link Reflect: Vorago links to a random player **for 9.6 seconds**, channeling all incoming damage towards them (stop attacking during reflects)
+• $link Reflect: Vorago links to a random player for **9.6** seconds, channeling all incoming damage towards them. Stop attacking during reflects
 
 The Base, Bomb Tank and TL5 deal with bleeds $bleed and Reds $red until the 4th Gravity Field $gravity is activated. At this point, Vorago progresses with the Bring Him Down mechanic (reference: #mechanics). Spam-click Vorago and deal damage with 1 - 2 thresholds until the fight phases.
 
@@ -74,21 +84,14 @@ If you happen to receive a Bleed $bleed, simply use Freedom $freedom to clear it
 .p3
 > __**Phase 3**__
 
-Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks → Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $repeat repeat
+Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ Weekly Special mechanic ➔ $auto 3 or 5 auto attacks ➔ $repeat repeat
 
-Phase 3 depends on the current rotation (Weekly Special Mechanic) and Vorago phases once killed. There are 6 rotations in total, changing weekly.
-
-• #ceilings
-• #scopulus
-• #vitalis
-• #green-bomb
-• #team-split
-• #the-end
+There's no condition to phase Vorago other than killing him. Once he reaches 0 HP, the next phase will start.
 
 .p4
 > __**Phase 4**__
 
-$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
+$waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ Weekly Special mechanic ➔ $auto 3 or 5 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
 
 • $waterfall Waterfall: Vorago charges a high-hitting explosion, cancelling most defensive abilities
 • The explosion can be avoided by moving behind the spawned Waterfall (a randomly selected corner of the arena)
@@ -98,9 +101,9 @@ $waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto
 .p5
 > __**Phase 5**__
 
-Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
+Weekly Special mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
 
-In Phase 5 the goal is to push Vorago to the very eastern end of the arena and finish him off with the Maul Of Omens $maul (reference: #maul).
+In Phase 5 the goal is to push Vorago to the edge on the East side of the arena and finish him off with the Maul of Omens $maul (reference: #maul).
 
 • Deal damage to Vorago in order to push him forward (push forwards)
 • Upon Vorago dealing damage to players, he pushes the other direction backwards (push backwards)
@@ -115,14 +118,15 @@ __Bleeds:__
 Just like in preceding phases, Vorago applies Bleeds in Phase 5. There exist several methods of clearing them in this phase. To read an in-depth explanation, refer to #clearing-bleeds.
 
 • Freedom $freedom immediately clears any applied bleeds
-• A Bleed is also cleared by moving 7 tiles away from where it was applied (utilise Escape $escape, Bladed Dive $bd, Surge $surge and Barge $gbarge)
+• A Bleed is also cleared by moving 7 tiles away from where it was applied. You can use Escape $escape, Bladed Dive $bd, Surge $surge and Barge $gbarge to clear them.
 
 .index
 > __**Index**__
 
 • $vorago **Starting Vorago** {link:intro}
 • $auto **Vorago's Basic Attacks** {link:mechanics}
-• $repeat **Phases** {link:phases}
+• $repeat **Phase Breakdown** {link:phases}
+• :recycle: **Weekly Specials** {link:weeklyspecials}
 • $blue **Phase 1** {link:p1}
 • $gravity **Phase 2** {link:p2}
 • $link **Phase 3** {link:p3}
