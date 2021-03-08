@@ -49,7 +49,17 @@ Every phase has unique mechanics and conditions to defeat Vorago. In phases 2 an
 • $blue Phase 3: Vorago dies once reaching `0` life points
 • $red Phase 4: Three waterfalls $waterfall have to be passed
 • $maul Phase 5: Vorago has to be pushed to the east and can then be defeated by using the Maul of Omens (reference: #maul)
-• While phases 1 and 2 remain the same at all times, phases 3, 4 and 5 change based on weekly rotating special mechanics (reference: #phase-overview)
+
+.weeklyspecials
+> __**Weekly Specials**__
+While phases 1 and 2 remain the same at all times, the Phases 3 to 5 depend on the current Rotation (also known as the Weekly Special mechanic). The amount of autos between mechanics varies from $auto 3 to 5 depending on the Rotation. There are 6 rotations in total, changing weekly. The rotation changes every Wednesday at 00:00 game-time:
+
+• $ceil #ceilings
+• $scop #scopulus
+• $vitalis #vitalis
+• $green #green-bomb
+• $ts #team-split
+• $purple #the-end
 
 .p1
 > __**Phase 1**__
@@ -70,17 +80,6 @@ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto atta
 The Base, Bomb Tank and TL5 deal with bleeds $bleed and Reds $red until the 4th Gravity Field $gravity is activated. At this point, Vorago progresses with the Bring Him Down mechanic (reference: #mechanics). Spam-click Vorago and deal damage with 1 - 2 thresholds until the fight phases.
 
 If you happen to receive a Bleed $bleed, simply use Freedom $freedom to clear it. To read an in-depth explanation, refer to #clearing-bleeds.
-
-.weeklyspecials
-> __**Weekly Specials**__
-Phase 3, 4 and 5 depend on the current rotation (Weekly Special mechanic). The amount of autos ($auto 3 or 5) between mechanics also depends on the rotation. There are 6 rotations in total, changing weekly. The rotation changes every Wednesday at 00:00 game-time:
-
-• $ceil #ceilings
-• $scop #scopulus
-• $vitalis #vitalis
-• $green #green-bomb
-• $ts #team-split
-• $purple #the-end
 
 .p3
 > __**Phase 3**__
@@ -127,9 +126,9 @@ Just like in preceding phases, Vorago applies Bleeds in Phase 5. There exist sev
 • $vorago **Starting Vorago** {link:intro}
 • $auto **Vorago's Basic Attacks** {link:mechanics}
 • $repeat **Phase Breakdown** {link:phases}
+• :recycle: **Weekly Specials** {link:weeklyspecials}
 • $blue **Phase 1** {link:p1}
 • $gravity **Phase 2** {link:p2}
-• :recycle: **Weekly Specials** {link:weeklyspecials}
 • $link **Phase 3** {link:p3}
 • $waterfall **Phase 4** {link:p4}
 • $maul **Phase 5** {link:p5}
