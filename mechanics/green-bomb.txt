@@ -17,7 +17,7 @@ __Bridging:__
 • A Green Bomb can be bridged by staying next to another player
 • The Green Bomb $green will then deal minor damage to both players and bounce onto the other player in a 2 tile radius
 • Upon bridging all defensive abilities are cancelled and 10% adrenaline is drained
-• The Green Bomb disappears after having bounced 5 times in phase 3 (in phases 4 and 5 it requires to be bridged 4 times)
+• The Green Bomb disappears after having bounced 5 times in phase 3 (in P5 NM, P10 and P11 HM it requires to be bridged 4 times)
 • If the Green Bomb hits the same target multiple times, they take additional damage
 
 .nm
