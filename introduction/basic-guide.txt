@@ -52,6 +52,7 @@ Every phase has unique mechanics and conditions to defeat Vorago. In phases 2 an
 
 .weeklyspecials
 > __**Weekly Specials**__
+
 While phases 1 and 2 remain the same at all times, the Phases 3 to 5 depend on the current Rotation (also known as the Weekly Special mechanic). The amount of autos between mechanics varies from $auto 3 to 5 depending on the Rotation. There are 6 rotations in total, changing weekly. The rotation changes every Wednesday at 00:00 game-time:
 
 • $ceil #ceilings
