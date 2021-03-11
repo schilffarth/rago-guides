@@ -3,7 +3,9 @@
     "basic-guide": "introduction/basic-guide",
     "presets": "introduction/presets",
     "climbing": "introduction/climbing",
+    "crack-healing": "advanced-strategies/crack-healing",
     "clearing-bleeds": "introduction/clearing-bleeds",
+    "cade-cept": "advanced-strategies/cade-cept",
     "maul": "introduction/maul"
   },
   "mechanics": {
@@ -27,9 +29,7 @@
   },
   "adv": {
     "ability-travel-speed": "advanced-strategies/ability-travel-speed",
-    "cade-cept": "advanced-strategies/cade-cept",
     "clone-skip": "advanced-strategies/clone-skip",
-    "crack-healing": "advanced-strategies/crack-healing",
     "hammer-climb": "advanced-strategies/hammer-climb",
     "lining-up": "advanced-strategies/lining-up",
     "natty": "advanced-strategies/natty",
