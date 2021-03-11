@@ -71,7 +71,7 @@ The emoji syntax is parsed by adding the character dollar `$` preceding to emoji
 
 __Testing:__
 
-Head to our <#812595920935321632> channel and use the command `/txtpost` either with an attached text file or with the content added within the Discord message.
+Head to our <#812595920935321632> channel and use the command `.txtpost` either with an attached text file or with the content added within the Discord message.
 
 .index
 > __**Index**__
