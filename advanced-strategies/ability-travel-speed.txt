@@ -10,8 +10,8 @@ Vorago is a boss with very limited DPS time windows, thus maximizing all damage 
 In Phase 5 it is relatively important when following or creating rotations to exploit these hit timings to ensure you do not cause lost overflow, as Vorago can only move 1 tile per tick. Refer to <#734513733883396146> for more information.
 
 At certain distances from the true center of a target (for large mobs such as Vorago it is the South-West corner), abilities hit a tick later than usual (in rare instances it will get slower again), and so it is important to remain within that range if the rotation requires you to do fast hitting abilities just before Reflect $link - Most Rago Hub ability damage rotations require exactly that. Reference: https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg
-
 .melee
+
 > **__Melee__**
 
 Game update on 8th February, these changes are not in the Sheet / screenshots:
