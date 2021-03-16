@@ -1,7 +1,7 @@
-.intro
+.Introduction
 Guide written by <@316175818458136588>.
 
-> __**Hammer climb**__
+> __**Hammer Climb**__
 
 • Phase 1 standard and acceleration $accel climb: #climbing
 
@@ -11,24 +11,24 @@ Hammer Climbing describes the use of Target Cycle $tc to attack Vorago before st
 • Apply SWH $swh on Vorago to save your Base Tank the adrenaline they would have needed for hammering themselves
 • Do not lose any ticks
 
-.tips
+.Tips
 > __**Tips**__
 
 • The Target Cycle $tc tick (reference: #target-cycle) in Phase 1 is at `9.0` - `9.6` seconds
 • The starting red bomb $red is launched in the second tick at `9.6` - `10.2` seconds
 • Climbing an obstacle nullifies any damage dealt
 
-.execution
+.Execution
 > __**Executing the hammer climb**__
 
 • Phase 1 arena reference
 .
-https://media.discordapp.net/attachments/671092193066221569/735934661787910245/hammer.png
+https://imgur.com/a/bzrSpA2
 .
 
 • GIF
 .
-https://cdn.discordapp.com/attachments/671092193066221569/735934706910101525/hammer_v3.gif
+https://imgur.com/a/CH3WonJ
 .
 
 __Preparation:__
@@ -54,15 +54,15 @@ __Execution:__
 • **#6** Hit Vorago with an ability and eat once $soup $superbrew
 • Surge $surge and jump
 
-.examples
-> __**Example climbs**__
+.Examples
+> __**Example Climbs**__
 
 https://www.youtube.com/watch?v=i3gP7Tx2HlY
 .index
 
 > __**Index**__
 
-• $pin **Intro** {link:intro}
-• $warning **Tips** {link:tips}
-• $swh **Execution** {link:execution}
-• $youtube **Examples**  {link:examples}
+• $pin **Intro** {link:Introduction}
+• $warning **Tips** {link:Tips}
+• $swh **Execution** {link:Execution}
+• $youtube **Examples**  {link:Examples}

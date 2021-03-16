@@ -1,4 +1,4 @@
-.intro
+.Introduction
 Guide written by <@316175818458136588>.
 
 > __**Zero-Linking Vorago in Phase 5**__
@@ -16,7 +16,7 @@ __Required Knowledge:__
 • No push for 3 ticks allows Vorago to trigger an auto attack
 • Pushing at TC (reference: #target-cycle) will stall Vorago's special attack, such as Team Split $ts or Purple Bomb $purple
 
-.overflow
+.Overflow
 > __**Overflow**__
 
 • One tile push requires 20,000 damage dealt
@@ -25,7 +25,7 @@ Imagine critting an Omnipower $omni on a target with `100` life points left. The
 
 **Vorago can only move 1 tile per tick.** Yet, other hit splats / damage dealt in the same tick as Vorago being pushed is not lost. It is going to count towards the so-called **Overflow** damage. It is simply added up to the next `20,000` damage needed to push the next tile.
 
-.stalling
+.Stalling Vorago
 > __**Stalling Vorago**__
 
 • Vorago's auto attack $auto speed in Phase 5 / 10 / 11 is 3 ticks
@@ -41,7 +41,7 @@ When Vorago gets pushed (both forwards and backwards), the next auto attack $aut
 • Weekly special mechanics act as auto attacks $auto
 • Weekly specials are integrated in the 3 tick auto attack speed
 
-.approach
+.Approaching Zero-Links
 > __**Approaching Zero-Links**__
 
 • Push at Target Cycle $tc (deal `20,000` damage or more in the very first tick of TC)
@@ -50,7 +50,7 @@ When Vorago gets pushed (both forwards and backwards), the next auto attack $aut
 
 Bare in mind that Zero-Linking is a team effort. Both players have to coordinate their rotations properly in order to achieve consistent and proper Zero-Links.
 
-.examples
+.Examples
 > __**Examples**__
 
 Check out the official RagoHub spreadsheet for advanced Phase 5 ability rotations with the purpose of consistent 0-Linking:
@@ -59,8 +59,8 @@ Check out the official RagoHub spreadsheet for advanced Phase 5 ability rotation
 .index
 > __**Index**__
 
-• $pin **Intro** {link:intro}
-• $dome **Overflow** {link:overflow}
-• $auto **Stalling** {link:stalling}
-• $vuln **Approaching zero-links** {link:approach}
-• $maul **Examples** {link:examples}
+• $pin **Intro** {link:Introduction}
+• $dome **Overflow** {link:Overflow}
+• $auto **Stalling** {link:Stalling Vorago}
+• $vuln **Approaching zero-links** {link:Approaching Zero-Links}
+• $maul **Examples** {link:Examples}

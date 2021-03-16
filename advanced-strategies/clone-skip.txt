@@ -1,4 +1,4 @@
-.intro
+.Introduction
 Guide written by <@175995416955977728> and <@316175818458136588>.
 
 > __**Stone Clone Skip**__
@@ -15,7 +15,7 @@ In place of creating the Stone Clone, Vorago bugs for 12 ticks and skips all 7 a
 • Reference of walking Vorago & proper positioning
 .
 https://cdn.discordapp.com/attachments/671035860111589396/811747161834389504/unknown.png
-.execution
+.Execution
 
 > __**Execution**__
 
@@ -31,17 +31,7 @@ __Cooldown Management:__
 
 Due to the incredible amount of time gained by a Clone Skip, Barricade $cade will mostly no longer be available for each weekly special mechanic. Due to this it is required to alternate Barricades between the Base and Bomb Tank. Preferably the Bomb Tank barricades the first cycle so that it is going to be ready in case of a Phase 5 / 10 Barricade.
 
-.tiersystem
-> __**Rago Hub Tier System Changes**__
-
-Reference: #info
-Type `.info` in #bots to retrieve more information about our synchronised Tier System.
-
-Since skipping a Stone Clone :Vitalis: does not require any sort of skill, we will not be changing our Tier system for now. Instead, as soon as one Stone Clone is skipped, the respective Tier requires a **34 seconds faster** kill time. Example: Vitalis T5 **9:19 turns into 8:45**.
-
-If Jagex ever confirms to classify Clone Skips as a feature and not patch it, we will update our Tier times to be 34 seconds faster each.
-
-.video
+.Video
 > __**YouTube Video Guide**__
 
 Check out <@175995416955977728>'s video guide: https://www.youtube.com/watch?v=fFxTfKk0yIU
@@ -49,7 +39,6 @@ Check out <@175995416955977728>'s video guide: https://www.youtube.com/watch?v=f
 
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $voke **Execution** {link:execution}
-• $vorago **Rago Hub Tier System Changes** {link:tiersystem}
-• $youtube **YouTube Video Guide** {link:video}
+• $pin **Introduction** {link:Introduction}
+• $voke **Execution** {link:Execution}
+• $youtube **YouTube Video Guide** {link:Video}

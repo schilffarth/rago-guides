@@ -1,4 +1,4 @@
-.intro
+.Introduction
 Guide written by <@316175818458136588>.
 
 > __**Natural Instinct**__
@@ -9,8 +9,8 @@ There are several reasons for why you should learn to use Natty $natty properly.
 • Advanced strategy for timing Target Cycle $tc (refer to this guide's section "Timing Target Cycle")
 • Fun
 
-.dummies
-> __**Combat dummies**__
+.Combat Dummies
+> __**Combat Dummies**__
 
 It is recommended to leave out placing dummies $dummy in phases 3 and 5 when starting out with proper natty ability rotations. After your ultimate $zerk $swiftness $sunshine simply use defensive abilities $resonance $preparation $anticipation $freedom to build adrenaline. Yet, there are a plenty of scenarios where it is beneficial to place dummies in phases 3 and 5:
 
@@ -25,7 +25,7 @@ __Important:__
 • Do not target a dummy $dummy if you plan on pre-charging a Detonate $detonate
 • **Never** place a dummy in melee distance or beneath Vorago's spawn location (references: #target-cycle, section "Dummies and TC")
 
-.p1
+.Phase 1
 > __**Phase 1**__
 
 In Normal Mode, attacking a Combat Dummy $dummy at face is going to prevent you from activating Sunshine $sunshine or Death's Swiftness $swiftness in Phase 1. You must dismantle the dummy before receiving the entry hit. Berserk $zerk and Metamorphosis $metamorphosis do not share this phenomenon; they can always be activated.
@@ -36,7 +36,7 @@ __Example Rotation:__
 
 **Challenge** > wait 1 tick > $slice > $gfury > $slice > $bleed > $slice > $backhand > $slice > $gfury > $voke > $natty > $gfury > **Entry Hit** $preparation > $resonance > $anticipation > $freedom > $zerk > **Target Cycle** $tc $gbarge
 
-.tc
+.Timing Target Cycle
 > __**Timing Target Cycle**__
 
 There exist several commonly used terms for Natty timings. They are either referred to ticks assuming the next phase's Target Cycle is tick `0`, or relative to Vorago's jump animations.
@@ -54,7 +54,7 @@ $shatter as slow hitting ability > **Vorago's Death** > $wrack > $chain > $wrack
 
 • Example for timing Natural Instinct and Target Cycle properly
 https://www.youtube.com/watch?v=nAS-AW2nFIw
-.p5
+.Phase 5
 
 > __**Phase 5 / 10**__
 
@@ -73,8 +73,8 @@ __Instructions:__
 .index
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $dummy **Combat Dummies** {link:dummies}
-• $maulpiecea **Phase 1** {link:p1}
-• $tc **Timing Target Cycle** {link:tc}
-• $maul **Phase 5 / 10** {link:p5}
+• $pin **Introduction** {link:Introduction}
+• $dummy **Combat Dummies** {link:Combat Dummies}
+• $maulpiecea **Phase 1** {link:Phase 1}
+• $tc **Timing Target Cycle** {link:Timing Target Cycle}
+• $maul **Phase 5 / 10** {link:Phase 5}

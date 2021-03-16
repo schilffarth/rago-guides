@@ -1,4 +1,4 @@
-.intro
+.Introduction
 Guide written by <@781280949790572554>.
 
 > __**Stalling Abilities**__
@@ -14,7 +14,7 @@ __Stalling Within Attack Range:__
 
 An alternative method of stalling ranged and magic abilities can be used by equipping an off-hand melee weapon (such as Excalibur $excal). Dual-wield attack range is always determined by the weapon with the lower attack range. Equipping an off-hand melee weapon automatically reduces every ability's maximum cast range to 1 (melee distance).
 
-.releasingstalls
+.Releasing Stalls
 > __**Releasing Stalled Abilities**__
 
 There are two different methods of releasing a stall.
@@ -47,7 +47,7 @@ Example of stalling and releasing an ability with Vulnerability $vuln on the sam
 Same scenario but following the released stall up with another ability in the same tick: https://i.imgur.com/UNySy0n.mp4
 .
 Same scenario but releasing the stall onto a different target: https://i.imgur.com/eKZdW6j.mp4
-.takingadvantage
+.Taking Advantage
 
 > __**Taking Advantage**__
 
@@ -75,6 +75,6 @@ An example execution of an advanced melee ability damage rotation ($gbarge > $fr
 
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $vuln **Releasing Stalled Abilities** {link:releasingstalls}
-• $maul **Taking Advantage** {link:takingadvantage}
+• $pin **Introduction** {link:Introduction}
+• $vuln **Releasing Stalled Abilities** {link:Releasing Stalls}
+• $maul **Taking Advantage** {link:Taking Advantage}

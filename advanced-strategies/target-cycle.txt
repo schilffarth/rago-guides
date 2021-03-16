@@ -1,4 +1,4 @@
-.intro
+.Introduction
 Guide written by <@316175818458136588> and <@175995416955977728>.
 
 > __**Target cycling at Vorago**__
@@ -11,11 +11,11 @@ At Vorago, this becomes specifically useful for phases starting with Team Split 
 
 Also for any other phase TC $tc will allow you to attack Vorago multiple ticks earlier than you could by clicking.
 
-.setup
-> __**Set Up**__
+.Setup
+> __**Setup**__
 
 .
-https://media.discordapp.net/attachments/731487797336211507/756915251592560731/settings_controls.png
+https://imgur.com/a/Nreek97
 .
 
 Set keybinds for **"Cycle Target Forwards"** and **"Cycle Target Backwards"**:
@@ -23,13 +23,13 @@ Set keybinds for **"Cycle Target Forwards"** and **"Cycle Target Backwards"**:
 • Backwards: Selects the target furthest away from you
 
 .
-https://media.discordapp.net/attachments/731487797336211507/756915285881126912/settings_gameplay.png
+https://imgur.com/a/hleUnR7
 .
 
 • Set **"Targeting mode"** to **"radial"** - If using *"conal"* target cycling, you will not always be able to target cycle, even if you are right next to your target, as it will try to acquire a target in front of you only
 • Recommended: Set maximum target distance to 9
 
-.timing
+.Timing
 > __**Timing TC**__
 
 • For timing Target Cycle $tc the same tick is used as for #crack-healing
@@ -49,7 +49,7 @@ Other abilities can also be used to time TC. Simply substract 10 seconds off the
 Escape cooldown for when to TC:
 
 .
-https://cdn.discordapp.com/attachments/676485011268042761/767606846763827240/escapecd.png
+https://imgur.com/a/DeN43Vd
 .
 
 __Messing Up TC:__
@@ -68,7 +68,7 @@ __Incorrect TC:__
 • Spamming your keyboard with TC does not work reliably, you should rather learn to know the exact tick
 • If you messed up your TC timing, refer to the "Cheesing Target Cycle" section in this guide
 
-.alt1
+.Alt1
 > __**Alt1 Toolkit**__
 
 An alternative to timing Target Cycle $tc is the Alt1 $alt1 TC timer. Alt1 is an application that allows you to have helpful tools and windows open. To install Alt1, follow this link: <https://runeapps.org/alt1>
@@ -81,7 +81,7 @@ The timer operates by taking a screenshot of your screen every 100ms because Alt
 
 Due to the timer taking screenshots every 100ms this application is very CPU intensive - Weak computers will notice an impact on performance.
 
-.cheesing
+.Cheesing
 > __**Cheesing TC**__
 
 As described previously, if Target Cycle $tc can not find a valid target, it will stop using updated server information for a short period of time and will instead use the cached client data from the tick your TC most recently failed to acquire a valid target.
@@ -90,8 +90,8 @@ A workaround for this is to **continuously move**. It will force your client to 
 
 If there is a Combat Dummy $dummy nearby, make sure you stay at the opposite side of Vorago - Refer to the next section *"Dummies and TC"*.
 
-.dummytc
-> __**Dummies and TC**__
+.Combat Dummies
+> __**Combat Dummies**__
 
 It is a common strategy to use Combat Dummies $dummy during a kill in multiple phases to offer opportunities for preparing better ability damage rotations during the down-time of phase transitions (reference: #natty). At Vorago, Target Cycle $tc acts differently when Dummies are placed.
 
@@ -104,9 +104,9 @@ Avoid this by using backwards TC onto Vorago and your target will be switched pr
 .index
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $gear **Set Up** {link:setup}
-• $tc **Timing TC** {link:timing}
-• $alt1 **Alt1 Toolkit** {link:alt1}
-• $cheese **Cheesing TC** {link:cheesing}
-• $dummy **Dummies and TC** {link:dummytc}
+• $pin **Introduction** {link:Introduction}
+• $gear **Set Up** {link:Setup}
+• $tc **Timing TC** {link:Timing}
+• $alt1 **Alt1 Toolkit** {link:Alt1}
+• $cheese **Cheesing TC** {link:Cheesing}
+• $dummy **Dummies and TC** {link:Combat Dummies}
