@@ -1,5 +1,5 @@
 {
-  "intro": {
+  "introduction": {
     "basic-guide": "introduction/basic-guide",
     "presets": "introduction/presets",
     "climbing": "introduction/climbing",
@@ -10,24 +10,21 @@
   },
   "mechanics": {
     "mechanics": "mechanics/mechanics",
-    "ceil": "mechanics/ceilings",
-    "scop": "mechanics/scopulus",
-    "vit": "mechanics/vitalis",
-    "gb": "mechanics/green-bomb",
-    "ts": "mechanics/team-split",
-    "pb": "mechanics/the-end"
+    "ceilings": "mechanics/ceilings",
+    "scopulus": "mechanics/scopulus",
+    "vitalis": "mechanics/vitalis",
+    "green-bomb": "mechanics/green-bomb",
+    "team-split": "mechanics/team-split",
+    "the-end": "mechanics/the-end"
   },
-  "nm": {
-    "large-teams": "normal-mode/large-teams",
-    "trio": "normal-mode/trio",
-    "duo": "normal-mode/duo",
-    "solo": "normal-mode/solo"
+  "normal-mode": {
+    "trio": "normal-mode/trio"
   },
-  "hm": {
-    "trio": "hard-mode/trio-hm",
-    "duo": "hard-mode/duo-hm"
+  "hard-mode": {
+    "trio-hm": "hard-mode/trio-hm",
+    "duo-hm": "hard-mode/duo-hm"
   },
-  "adv": {
+  "advanced-strategies": {
     "ability-travel-speed": "advanced-strategies/ability-travel-speed",
     "clone-skip": "advanced-strategies/clone-skip",
     "hammer-climb": "advanced-strategies/hammer-climb",
