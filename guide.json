@@ -1,41 +1,41 @@
 {
-  "introduction": {
-    "basic-guide": "introduction/basic-guide",
-    "presets": "introduction/presets",
-    "climbing": "introduction/climbing",
-    "crack-healing": "advanced-strategies/crack-healing",
-    "clearing-bleeds": "introduction/clearing-bleeds",
-    "cade-cept": "advanced-strategies/cade-cept",
-    "maul": "introduction/maul"
+  "Introduction": {
+    "Basic Guide": "introduction/basic-guide",
+    "Presets": "introduction/presets",
+    "Climbing": "introduction/climbing",
+    "Crack Healing": "advanced-strategies/crack-healing",
+    "Clearing Bleeds": "introduction/clearing-bleeds",
+    "Cade Cept": "advanced-strategies/cade-cept",
+    "Maul": "introduction/maul"
   },
-  "mechanics": {
-    "mechanics": "mechanics/mechanics",
-    "ceilings": "mechanics/ceilings",
-    "scopulus": "mechanics/scopulus",
-    "vitalis": "mechanics/vitalis",
-    "green-bomb": "mechanics/green-bomb",
-    "team-split": "mechanics/team-split",
-    "the-end": "mechanics/the-end"
+  "Mechanics": {
+    "Mechanics": "mechanics/mechanics",
+    "Ceilings": "mechanics/ceilings",
+    "Scopulus": "mechanics/scopulus",
+    "Vitalis": "mechanics/vitalis",
+    "Green Bomb": "mechanics/green-bomb",
+    "Team Split": "mechanics/team-split",
+    "The End": "mechanics/the-end"
   },
-  "normal-mode": {
-    "trio": "normal-mode/trio"
+  "Normal Mode": {
+    "Trio": "normal-mode/trio"
   },
   "hard-mode": {
-    "trio-hm": "hard-mode/trio-hm",
-    "duo-hm": "hard-mode/duo-hm"
+    "Trio HM": "hard-mode/trio-hm",
+    "Duo HM": "hard-mode/duo-hm"
   },
-  "advanced-strategies": {
-    "ability-travel-speed": "advanced-strategies/ability-travel-speed",
-    "clone-skip": "advanced-strategies/clone-skip",
-    "hammer-climb": "advanced-strategies/hammer-climb",
-    "lining-up": "advanced-strategies/lining-up",
-    "natty": "advanced-strategies/natty",
-    "recenter": "advanced-strategies/recenter",
-    "sgb-without-ioth": "advanced-strategies/sgb-without-ioth",
-    "solo-lure": "advanced-strategies/solo-lure",
-    "stalling-abilities": "advanced-strategies/stalling-abilities",
-    "stepping-under": "advanced-strategies/stepping-under",
-    "target-cycle": "advanced-strategies/target-cycle",
-    "zero-linking": "advanced-strategies/zero-linking"
+  "Advanced Strategies": {
+    "Ability Travel Speed": "advanced-strategies/ability-travel-speed",
+    "Clone Skip": "advanced-strategies/clone-skip",
+    "Hammer climb": "advanced-strategies/hammer-climb",
+    "Lining Up": "advanced-strategies/lining-up",
+    "Natty": "advanced-strategies/natty",
+    "Recenter": "advanced-strategies/recenter",
+    "SGB Without IOTH": "advanced-strategies/sgb-without-ioth",
+    "Solo Lure": "advanced-strategies/solo-lure",
+    "Stalling Abilities": "advanced-strategies/stalling-abilities",
+    "Stepping Under": "advanced-strategies/stepping-under",
+    "Target Cycle": "advanced-strategies/target-cycle",
+    "Zero Linking": "advanced-strategies/zero-linking"
   }
 }
