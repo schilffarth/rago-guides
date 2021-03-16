@@ -20,7 +20,7 @@
   "Normal Mode": {
     "Trio": "normal-mode/trio"
   },
-  "hard-mode": {
+  "Hard Mode": {
     "Trio HM": "hard-mode/trio-hm",
     "Duo HM": "hard-mode/duo-hm"
   },
