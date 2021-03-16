@@ -1,4 +1,4 @@
-.intro
+.Introduction
 > **__Green Bomb__**
 
 At the weekly special Green Bomb $green Vorago launches a bomb, dealing `10,000` damage to its last primary target.
@@ -20,7 +20,7 @@ __Bridging:__
 • The Green Bomb disappears after having bounced 5 times in phase 3 (in P5 NM, P10 and P11 HM it requires to be bridged 4 times)
 • If the Green Bomb hits the same target multiple times, they take additional damage
 
-.nm
+.Normal Mode
 > **__Normal Mode__**
 
 • You receive the chat warning and message box indicating that you are targeted by the Green Bomb $green
@@ -37,7 +37,7 @@ __Phase 5:__
 
 $green Green Bomb ➔ $auto 5 auto attacks (skip at `10,000`) ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
 
-.hm
+.Hard Mode
 > __**Hard Mode**__
 
 • No chat warning or message box appears for the player targeted by the Green Bomb $green
@@ -63,6 +63,6 @@ $green Green Bomb ➔ $auto 5 auto attacks (skip at `10,000`) ➔ $link Reflect 
 .index
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $blue **Normal Mode** {link:nm}
-• $red **Hard Mode** {link:hm}
+• $pin **Introduction** {link:Introduction}
+• $blue **Normal Mode** {link:Normal Mode}
+• $red **Hard Mode** {link:Hard Mode}

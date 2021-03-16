@@ -1,11 +1,11 @@
-.intro
+.Introduction
 Guide written by <@226871275216175116>.
 
 > __**Maul**__
 
 The Maul Of Omens $maul is the only weapon that can defeat Vorago $vorago. It is used to apply the final blow in phase 5 (phases 10 and 11 in Hard Mode), related to as mauling. The Maul is broken into three pieces that are gathered during the fight: Ancient Weapon Piece (a) $maulpiecea, Ancient Weapon Piece (b) $maulpieceb and the Ancient Weapon Handle $maulpiecehandle.
 
-.piecesandconstruction
+.Pieces & Construction
 > __**Pieces & Construction**__
 
 __Maul Pieces:__
@@ -23,7 +23,7 @@ __Maul Construction:__
 
 Once you carry all three pieces in your inventory the Maul $maul becomes constructible by clicking any of the three pieces in your inventory. If carrying all three pieces and not having finished the construction, the player suffers 100 typeless damage every other tick once entered phase 5 (phase 10 in Hard Mode). The suffocation stops as soon as the Maul is built.
 
-.mauling
+.Mauling
 > __**Mauling**__
 
 The constructed Maul $maul has a left-click option: "Finish him!". You can drag the item onto an action bar key-bind. Vorago can be mauled once he is pushed all the way forward to the edge of the arena (8 tiles to be pushed from the spawn location). You can maul within 2 tiles distance to Vorago, so make sure you are close enough. In Normal Mode, mauling ends the kill.
@@ -43,7 +43,7 @@ __Shield Dome:__
 
 A common strategy used in Hard Mode is to use Shield Dome $dome in combination with mauling $maul. It breaks the Maul animation and enables players to move around and use abilities during the phase transition. This is very useful for building adrenaline on a dummy during the animation, since all your adrenaline will be lost in the end of phase 10.
 
-.achievements
+.Achievements
 > __**Achievements**__
 
 • Mauling in either Normal or Hard Mode is required for the Trimmed Completionist Cape $trimcape
@@ -64,7 +64,7 @@ Mauling in Hard Mode will unlock a piece of the Omens override, with each rotati
 .index
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $maulpieceb **Pieces & Construction** {link:piecesandconstruction}
-• $maul **Mauling** {link:mauling}
-• $achievement **Achievements** {link:achievements}
+• $pin **Introduction** {link:Introduction}
+• $maulpieceb **Pieces & Construction** {link:Pieces & Construction}
+• $maul **Mauling** {link:Mauling}
+• $achievement **Achievements** {link:Achievements}

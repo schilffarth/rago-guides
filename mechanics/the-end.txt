@@ -1,4 +1,4 @@
-.intro
+.Introduction
 > **__The End__**
 
 The weekly special The End $purple is split in two separate main mechanics: **The End** and **Purple Bomb**.
@@ -27,7 +27,7 @@ __Purple Bomb:__
 • The countdown is visualized with a red timer and a blue-orange progress bar on top of the player
 • At detonation, the Purple Bomb $purple deals AOE damage in a 2 tile radius (area of 5x5 tiles)
 
-.nm
+.Normal Mode
 > **__Normal Mode__**
 
 • Purple Bomb damage: **2,000**
@@ -49,7 +49,7 @@ __Phase 5:__
 
 $purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
 
-.hm
+.Hard Mode
 > **__Hard Mode__**
 
 • Purple Bomb damage: **4,000**
@@ -81,6 +81,6 @@ $purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto 
 .index
 > **__Index__**
 
-• $pin **Introduction** {link:intro}
-• $blue **Normal Mode** {link:nm}
-• $red **Hard Mode** {link:hm}
+• $pin **Introduction** {link:Introduction}
+• $blue **Normal Mode** {link:Normal Mode}
+• $red **Hard Mode** {link:Hard Mode}

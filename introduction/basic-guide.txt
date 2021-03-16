@@ -1,4 +1,4 @@
-.intro
+.Introduction
 Guide written by <@300296497277173761>.
 
 > __**Starting Vorago**__
@@ -22,7 +22,7 @@ __Setup:__
 Some items are useless at Vorago, refer to #presets for an overview of what to take and adjust the examples to your needs. Preset example:
 .
 https://cdn.discordapp.com/attachments/728295935762759781/812498840217190420/unknown.png
-.mechanics
+.Basic Attacks
 
 > __**Vorago's Basic Attacks**__
 
@@ -38,7 +38,7 @@ __Positioning:__
 • Pay attention to AOE damage surrounding the Base and Bomb Tank (keep in mind to stay closer to Vorago than the Bomb Tank)
 .
 https://imgur.com/a/GJ4Rctt
-.phases
+.Phase Breakdown
 
 > __**Phase Breakdown**__
 
@@ -50,8 +50,8 @@ Every phase has unique mechanics and conditions to defeat Vorago. In phases 2 an
 • $red Phase 4: Three waterfalls $waterfall have to be passed
 • $maul Phase 5: Vorago has to be pushed to the east and can then be defeated by using the Maul of Omens (reference: #maul)
 
-.weeklyspecials
-> __**Weekly Specials**__
+.Weekly Special Mechanics
+> __**Weekly Special Mechanics**__
 
 While phases 1 and 2 remain the same at all times, the Phases 3 to 5 depend on the current Rotation (also known as the Weekly Special mechanic). The amount of autos between mechanics varies from $auto 3 to 5 depending on the Rotation. There are 6 rotations in total, changing weekly. The rotation changes every Wednesday at 00:00 game-time:
 
@@ -62,14 +62,14 @@ While phases 1 and 2 remain the same at all times, the Phases 3 to 5 depend on t
 • $ts #team-split
 • $purple #the-end
 
-.p1
+.Phase 1
 > __**Phase 1**__
 
 $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
 
 The Phase ends once the climber jumps and Vorago is killed.
 
-.p2
+.Phase 2
 > __**Phase 2**__
 
 $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $red Red Bomb ➔ $auto 4 auto attacks ➔ $repeat repeat
@@ -82,14 +82,14 @@ The Base, Bomb Tank and TL5 deal with bleeds $bleed and Reds $red until the 4th 
 
 If you happen to receive a Bleed $bleed, simply use Freedom $freedom to clear it. To read an in-depth explanation, refer to #clearing-bleeds.
 
-.p3
+.Phase 3
 > __**Phase 3**__
 
 Weekly Special Mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ Weekly Special mechanic ➔ $auto 3 or 5 auto attacks ➔ $repeat repeat
 
 There's no condition to phase Vorago other than killing him. Once he reaches 0 HP, the next phase will start.
 
-.p4
+.Phase 4
 > __**Phase 4**__
 
 $waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ Weekly Special mechanic ➔ $auto 3 or 5 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
@@ -99,7 +99,7 @@ $waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto
 • $vitalis Stone Clone: Vorago performs an attack visually similar to a melee Swipe $swipe, cloning a random player
 • If you receive a Stone Clone, kill it (nobody besides the cloned player can deal damage to it)
 
-.p5
+.Phase 5
 > __**Phase 5**__
 
 Weekly Special mechanic ➔ $auto 3 or 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
@@ -124,12 +124,12 @@ Just like in preceding phases, Vorago applies Bleeds in Phase 5. There exist sev
 .index
 > __**Index**__
 
-• $vorago **Starting Vorago** {link:intro}
-• $auto **Vorago's Basic Attacks** {link:mechanics}
-• $repeat **Phase Breakdown** {link:phases}
-• :recycle: **Weekly Specials** {link:weeklyspecials}
-• $blue **Phase 1** {link:p1}
-• $gravity **Phase 2** {link:p2}
-• $link **Phase 3** {link:p3}
-• $waterfall **Phase 4** {link:p4}
-• $maul **Phase 5** {link:p5}
+• $vorago **Starting Vorago** {link:Introduction}
+• $auto **Vorago's Basic Attacks** {link:Basic Attacks}
+• $repeat **Phase Breakdown** {link:Phase Breakdown}
+• :recycle: **Weekly Specials** {link:Weekly Special Mechanics}
+• $blue **Phase 1** {link:Phase 1}
+• $gravity **Phase 2** {link:Phase 2}
+• $link **Phase 3** {link:Phase 3}
+• $waterfall **Phase 4** {link:Phase 4}
+• $maul **Phase 5** {link:Phase 5}

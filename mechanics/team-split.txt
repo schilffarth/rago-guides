@@ -1,4 +1,4 @@
-.intro
+.Introduction
 > __**Team Split**__
 
 At the weekly special Team Split $ts Vorago charges up a high hitting explosion.
@@ -10,7 +10,7 @@ At the weekly special Team Split $ts Vorago charges up a high hitting explosion.
 • All defensive abilities are cancelled and set on a short cooldown
 • Staying outside of the appropriate box will deal typeless damage at the explosion
 
-.nm
+.Normal Mode
 > __**Normal Mode**__
 
 • Square size: **3 x 2 tiles**
@@ -32,7 +32,7 @@ $ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attac
 • Illustration reference for phase 5 Normal Mode:
 .
 https://cdn.discordapp.com/attachments/676485011268042761/767020116763738112/phase5_grid_ts_001.png
-.hm
+.Hard Mode
 
 > __**Hard Mode**__
 
@@ -62,7 +62,7 @@ __Phase 11:__
 
 $ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $purple Purple Bomb ➔ $auto 5 auto attacks ➔ $repeat repeat
 
-.breakingts
+.Breaking Team Splits
 > __**Breaking Team Splits**__
 
 Guide section written by <@129324652114739200>.
@@ -85,7 +85,7 @@ As explained earlier, the first hit of a bled channel does not act as a bleed, t
 .index
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $blue **Normal Mode** {link:nm}
-• $red **Hard Mode** {link:hm}
-• $gbarge **Breaking Team Splits** {link:breakingts}
+• $pin **Introduction** {link:Introduction}
+• $blue **Normal Mode** {link:Normal Mode}
+• $red **Hard Mode** {link:Hard Mode}
+• $gbarge **Breaking Team Splits** {link:Breaking Team Splits}

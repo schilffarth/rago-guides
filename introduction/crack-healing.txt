@@ -1,4 +1,4 @@
-.intro
+.Introduction
 Guide written by <@184918342392479744> and <@316175818458136588>.
 
 > __**Crack Healing**__
@@ -17,7 +17,7 @@ __Important:__
 • You must have at least 11% of your maximum life points in order to cast Heal Other $heal successfully
 • Heal Other has to be the very last action of a tick in order to be registered
 
-.mess
+.Messing Up
 > __**Taking damage from Heal Other**__
 
 If timing Heal Other $heal incorrectly, you will take damage. There are two scenarios for this happening.
@@ -36,8 +36,8 @@ __Healing Too Late:__
 • If timing Target Cycle with Surge $surge, Escape $escape or Bladed Dive $bd and you are too late by one tick for both your ability and Crack Healing, you might end up with a frozen screen for a few seconds
 • If stuck on the lunar spellbook, cast Vengeance $vengeance, Disruption Shield $disrupt or Magic Imbue $imbue to get back to ancients
 
-.other
-> __**Other Use Cases**__
+.Other Applications
+> __**Other Applications**__
 
 Throughout a Vorago kill you stay under the effect of Barricade Intercept $cade $cept plenty of times (reference: #cade-cept).
 
@@ -49,6 +49,6 @@ Throughout a Vorago kill you stay under the effect of Barricade Intercept $cade 
 .index
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $crackling **Taking damage from Heal Other** {link:mess}
-• $heal **Other Use Cases** {link:other}
+• $pin **Introduction** {link:Introduction}
+• $crackling **Taking damage from Heal Other** {link:Messing Up}
+• $heal **Other Use Cases** {link:Other Applications}

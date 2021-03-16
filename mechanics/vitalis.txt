@@ -1,4 +1,4 @@
-.intro
+.Introduction
 > **__Vitalis__**
 
 At the weekly special Vitalis $vitalis Vorago launches an orb to a random direction, spawning multiple Vitali.
@@ -16,7 +16,7 @@ __Vitali:__
 • Vitali are acting as blockades, interrupting the line of sight and blocking movement
 • Their targeted player changes frequently, unrelated to player aggression
 
-.nm
+.Normal Mode
 > **__Normal Mode__**
 
 • Phases 3 and 4 Vitali spawns: 5
@@ -35,7 +35,7 @@ __Phase 5:__
 
 $vitalis Vitalis ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds > $auto 3 auto attacks ➔ $repeat repeat
 
-.hm
+.Hard Mode
 > **__Hard Mode__**
 
 • Phases 3 and 9 Vitali spawns: 8 
@@ -63,6 +63,6 @@ $vitalis Vitalis ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto att
 .index
 > **__Index__**
 
-• $pin **Introduction** {link:intro}
-• $blue **Normal Mode** {link:nm}
-• $red **Hard Mode** {link:hm}
+• $pin **Introduction** {link:Introduction}
+• $blue **Normal Mode** {link:Normal Mode}
+• $red **Hard Mode** {link:Hard Mode}

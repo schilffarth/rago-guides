@@ -1,4 +1,4 @@
-.intro
+.Introduction
 > __**Ceilings**__
 
 At the weekly special Ceilings $ceil Vorago collapses one of the 9 square grids in the arena, dropping a blocking rock onto the selected area.
@@ -16,7 +16,7 @@ __Shadows:__
 • Your graphics settings must be set to **medium** for shadows
 • Additionally, specific sky boxes cause shadows to disappear
 
-.nm
+.Normal Mode
 > __**Normal Mode**__
 
 • Rock damage: `8,000` damage split between all affected players
@@ -35,7 +35,7 @@ __Phase 5:__
 
 $ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
 
-.hm
+.Hard Mode
 > __**Hard Mode**__
 
 • Rock damage: `6,000` damage to every affected player
@@ -61,6 +61,6 @@ $ts Team Split ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attac
 .index
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $blue **Normal Mode** {link:nm}
-• $red **Hard Mode** {link:hm}
+• $pin **Introduction** {link:Introduction}
+• $blue **Normal Mode** {link:Normal Mode}
+• $red **Hard Mode** {link:Hard Mode}

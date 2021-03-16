@@ -1,4 +1,4 @@
-.intro
+.Introduction
 Guide written by <@316175818458136588>.
 
 > __**Climbing**__
@@ -13,7 +13,7 @@ Refer to #hammer-climb for advanced climbing methods.
 
 $warning In Hard Mode, every Blue Bomb $blue has a chance of dragging the climber back into the arena and the climb has to be restarted.
 
-.standardclimb
+.Standard Climb
 > __**Standard Climb**__
 
 Leave out the Surge $surge at spot **5)** if Double Surge $doublesurge is not unlocked.
@@ -41,7 +41,7 @@ __Final platform:__
 • Can leave out BD and attack Vorago earlier instead - Simply walk to the marked spot
 • Voke $voke Vorago from this position
 
-.accelclimb
+.Acceleration Climb
 > __**Acceleration Climb**__
 
 This climbing method makes use of the Powerburst Of Acceleration $accel. You reach the final platform at 28,2 seconds.
@@ -67,6 +67,6 @@ Position at the tile marked with a green cross, east to the entry.
 .index
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $maulpiecea **Standard Climb** {link:standardclimb}
-• $accel **Acceleration Climb** {link:accelclimb}
+• $pin **Introduction** {link:Introduction}
+• $maulpiecea **Standard Climb** {link:Standard Climb}
+• $accel **Acceleration Climb** {link:Acceleration Climb}

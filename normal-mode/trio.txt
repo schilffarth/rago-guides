@@ -1,4 +1,4 @@
-.intro
+.Introduction
 Guide written by <@184918342392479744>, <@164133228989513728>, <@316175818458136588> and <@300296497277173761>.
 
 > __**Trio Normal Mode**__
@@ -7,7 +7,7 @@ The Top Lure Voke 5 (TL5) is the primary focus of this guide. The responsibiliti
 
 This guide focuses on Trio Normal Mode Vorago only and will not explain the basics of Vorago, for those go to #mechanics and #phase-overview. The guide is split into three roles: Base Tank, Bomb Tank and TL5. For the full strategies on Base Tank and Bomb Tank check #duo.
 
-.guide
+.Phase 1
 > __**Phase 1**__
 
 $maulpiecea Climbing reference: #climbing.
@@ -20,13 +20,14 @@ The only difference between Phase 1 in Trios compared to 4 man teams is that the
 • In Trios you should jump under `50,000` HP or right away if there is a Melee Base Tank
 • If you need to drop the piece because you need the inventory space, do not do it until Phase 2 starts
 
+.Phase 2
 > __**Phase 2**__
 
 • Provoke $voke after every 4th Bleed $bleed to take 5th one (reference: #clearing-bleeds)
 • Activate all Gravity Fields so Base Tank and Bomb can focus on the other mechanics 
 • If you are in charge of dummying $dummy Phase 2, drop it before BHD finishes
 
-.
+.Phase 4
 > __**Phase 4**__
 
 • Make sure to pick up at pieces as Phase 4 starts or as Phase 2 ends (reference: #maul)
@@ -34,6 +35,7 @@ The only difference between Phase 1 in Trios compared to 4 man teams is that the
 • At the end of Phase 4, it is the TL5’s job to pick up all the maul pieces and make the maul $maul before Phase 5 starts
 • If you could not pick up the last piece in time, do it right away on Phase 5 so you can ultimate before Vorago appears
 
+.Phase 5
 > __**Phase 5**__
 
 The Tl5 is expected to do the following for all Phase 5 regardless of the rotation.
@@ -43,11 +45,12 @@ The Tl5 is expected to do the following for all Phase 5 regardless of the rotati
 • If there is a Melee Base Tank you must do the Bomb Tank switch instead
 • Let the Melee Base Tank maul $maul due to them being in melee distance for most of the Phase
 
+.
 > __**Weekly Specials (Rotations)**__
 
 Every Wednesday at 00:00 GT (in-game reset), the weekly special rotation changes for Vorago. There are a total of 6 rotations: Ceilings $ceil, Scopulus $scop, Vitalis $vitalis, Green Bomb $green, Team Split $ts and The End $purple. These rotations will affect the mechanics in Phases 3, 4 and 5.
 
-.ceil
+.Ceilings
 > __**Ceiling Collapse**__
 
 $ceil Ceilings reference: #ceilings
@@ -64,7 +67,7 @@ __Phase 5:__
 
 Ceilings $ceil Phase 5 shares the same mechanics and strategies with #team-split $ts. For this reason, the strategy for TL5 during this Phase 5 can be found below in the Team Split section.
 
-.scop
+.Scopulus
 > __**Scopulus**__
 
 $scop Scopulus reference: #scopulus
@@ -87,7 +90,7 @@ __Phase 5:__
 
 Scopulus $scop Phase 5 shares the same mechanics and strategies with #the-end $purple. For this reason, the strategy for TL5 during this Phase 5 can be found below in the The End section.
 
-.vit
+.Vitalis
 > __**Vitalis**__
 
 $vitalis Vitalis reference: #vitalis
@@ -123,7 +126,7 @@ As described in the mechanics channel for #vitalis, Vitalii $vitalis occasionall
 • Prioritize killing all spawned Vitalii
 • After blocking the orb go back to your spot 1-2 steps away from MD and by the south wall
 
-.gb
+.Green Bomb
 > __**Green Bomb**__
 
 $green Green Bomb reference: #green-bomb
@@ -145,7 +148,7 @@ __Phase 5:__
 • Tank the Green Bomb $green if it’s on you
 • The Bomb Tank should be Intercepting $cept whoever gets it, but you should have enough hp (`10,000`) in case this does not happen
 
-.ts
+.Team Split
 > __**Team Split**__
 
 $ts Team Split reference: #team-split
@@ -169,7 +172,7 @@ __Phase 5:__
 • Gif for reference
 .
 https://cdn.discordapp.com/attachments/738844964447846473/814500478594842667/11_1.gif
-.pb
+.The End
 
 > __**The End**__
 
@@ -196,11 +199,14 @@ __Phase 5:__
 .index
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $repeat **Overview** {link:guide}
-• $ceil **Ceiling Collapse** {link:ceil}
-• $scop **Scopulus** {link:scop}
-• $vitalis **Vitalis** {link:vit}
-• $green **Green Bomb** {link:gb}
-• $ts **Team Split** {link:ts}
-• $purple **The End** {link:pb}
+• $pin **Introduction** {link:Introduction}
+• $repeat **Overview** {link:Phase 1}
+• $repeat **Overview** {link:Phase 2}
+• $repeat **Overview** {link:Phase 4}
+• $repeat **Overview** {link:Phase 5}
+• $ceil **Ceiling Collapse** {link:Ceilings}
+• $scop **Scopulus** {link:Scopulus}
+• $vitalis **Vitalis** {link:Vitalis}
+• $green **Green Bomb** {link:Green Bomb}
+• $ts **Team Split** {link:Team Split}
+• $purple **The End** {link:Purple Bomb}

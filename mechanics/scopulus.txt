@@ -1,4 +1,4 @@
-.intro
+.Introduction
 > __**Scopulus**__
 
 At the weekly special Scopulus $scop Vorago summons multiple Scopulii, dealing rapid melee damage $deflectmelee to players surrounding them.
@@ -11,7 +11,7 @@ At the weekly special Scopulus $scop Vorago summons multiple Scopulii, dealing r
 
 Phases 4 and 5 do **not** feature the Scopulus mechanic and make use of other standard mechanics instead.
 
-.brokenflanking
+.Broken Flanking
 __Broken Flanking:__
 
 Scopulii can be flanked $flank by the person holding their aggression. The flanking angle of a Scopulus breaks upon a diagonal square moved within a flanking angle / diagonal compass direction, due to their size being 2 x 2 tiles. The flanking angle updates and gets fixed once the angle is turned for more than 90°.
@@ -19,7 +19,7 @@ Scopulii can be flanked $flank by the person holding their aggression. The flank
 • Broken flanking reference
 .
 https://cdn.discordapp.com/attachments/670985868021989415/761917910745612308/history_001.png
-.nm
+.Normal Mode
 
 > __**Normal Mode**__
 
@@ -51,7 +51,7 @@ __Phase 5:__
 
 $purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $bleed 3 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
 
-.hm
+.Hard Mode
 > __**Hard Mode**__
 
 • Vorago spawns 3 Scopulii
@@ -84,7 +84,7 @@ $purple Purple Bomb ➔ $auto 5 auto attacks ➔ $link Reflect ➔ $auto 3 auto 
 .index
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $flank **Broken Flanking** {link:brokenflanking}
-• $blue **Normal Mode** {link:nm}
-• $red **Hard Mode** {link:hm}
+• $pin **Introduction** {link:Introduction}
+• $flank **Broken Flanking** {link:Broken Flanking}
+• $blue **Normal Mode** {link:Normal Mode}
+• $red **Hard Mode** {link:Hard Mode}

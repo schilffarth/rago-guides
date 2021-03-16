@@ -1,4 +1,4 @@
-.bleeds
+.Introduction
 Guide written by <@226871275216175116>
 
 > __**How to Clear Bleeds**__
@@ -12,7 +12,7 @@ To achieve the latter without taking a single bleed hit, you can use Escape $esc
 
 Bare in mind that staying too close to Vorago and at an edge either north or south of the arena will result in escaping diagonally. You can avoid this by taking 1 step to the center.
 
-.3bleeds
+.Clearing 3 Bleeds
 > __**Clearing 3 Bleeds**__
 
 Escape-bladed diving $escape $bd is a strategy for clearing Bleeds by using the method of distancing but not moving Vorago a single tile.
@@ -39,5 +39,5 @@ __Phase 5 NM and 10 / 11 HM:__
 .index
 > __**Index**__
 
-• $freedom **How to Clear Bleeds** {link:bleeds}
-• $bd **Escape-bladed diving Bleeds** {link:3bleeds}
+• $freedom **How to Clear Bleeds** {link:Introduction}
+• $bd **Escape-bladed diving Bleeds** {link:Clearing 3 Bleeds}

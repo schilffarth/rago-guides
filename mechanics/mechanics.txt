@@ -1,4 +1,4 @@
-.entryhit
+.Entry Hit
 > __**Entry Hit**__
 
 If you have never been to Vorago before, check out our #basic-guide.
@@ -8,7 +8,7 @@ If you have never been to Vorago before, check out our #basic-guide.
 • The entry hit is split between all players that joined the challenge, capped at `12,500` each player (`14,000` in Hard Mode)
 • Challenging in Normal Mode with 5 players results in everyone taking `10,000` damage
 
-.attacks
+.Auto Attacks
 > __**Auto Attacks**__
 
 Vorago has 2 different basic attacks: Blue Bombs $blue and melee Swipes $swipe. When the person holding Vorago's aggression (the Base Tank) stays in melee distance, there is a 50% chance for Vorago to trigger each of his Auto Attacks. Vorago can fire both a Blue Bomb and use a Swipe in the same action. If the Base Tank does not stay in melee distance, Vorago throws a Blue Bomb guaranteed.
@@ -28,7 +28,7 @@ __Melee Swipe:__
 • Swipes can splash
 • Vorago performs a Swipe $swipe to his primary target (Base Tank)
 
-.reds
+.Red Bomb
 > __**Red Bomb**__
 
 At the Red Bomb $red attack Vorago fires both a **Non-Homing Blue Bomb** $blue and a Red Bomb to the player farthest away within attack range, cancelling most defensive abilities and setting them on a short cooldown. There is an approximately **10% chance** that the Red Bomb targets a **randomly selected player** instead. In Normal Mode you receive a chat warning: "Vorago has sent a bomb after you. Run!".
@@ -51,7 +51,7 @@ __Red Bomb:__
 • Scaled damage in Hard Mode: `3,000` increasing by `1,500` for every player within a 5 tile radius (11 x 11 area), capping at `10,500`
 • Cancelled abilities: $resonance $devo $reflect $debil $cade $immortality
 
-.bleeds
+.Bleeds
 > __**Bleeds**__
 
 Vorago smashes his main target with both hands inflicting a Bleed $bleed on them dealing `1,200` melee damage every other tick (`3,000` in Hard Mode) and resetting all defensive abilities. Shield Dome $dome can be used to reduce the damage over time of a Bleed.
@@ -65,7 +65,7 @@ For strategies on how to clear bleeds properly refer to #clearing-bleeds.
 • Damage modifiers such as melee protect will apply and reduce bleed damage over time, but not the typeless unblockable hit
 • Bleed damage decreases with higher distance to Vorago clearing at 6 squares away
 
-.reflect
+.Reflect
 > __**Reflect**__
 
 During the Reflect $link mechanic (also commonly called "Link") Vorago redirects all damage dealt to him to a random player. At the beginning of the mechanic Vorago raises his arm and the linked player will receive a chat warning saying: "Vorago channels incoming damage to you. Beware!". Unaffected players receive the warning: "Vorago reflects incoming damage to nearby foes!". In Hard Mode no chat messages appear.
@@ -80,7 +80,7 @@ During the Reflect $link mechanic (also commonly called "Link") Vorago redirects
 
 At the end of the mechanic, a swirling green animation occurs around the linked player and the same player will receive a chat warning saying: "Vorago releases his mental link on you.". In Hard Mode, no chat messages appear.
 
-.bhd
+.Bring Him Down
 > __**Bring Him Down**__
 
 Throughout phase 2 Vorago spawns Gravity Fields $gravity (abbreviation: "Orb") that have to be clicked so that Vorago absorbs them.
@@ -107,7 +107,7 @@ __Bring Him Down:__
 
 After BHD has been passed Vorago can be killed and progressed to phase 3.
 
-.shatter
+.Shatter
 > __**Shatter**__
 
 After unlocking the abilities Storm Shards $shard and Shatter $shatter from the Mazcab ability codex, it is a commonly used strategy to apply as many Storm Shards as possible throughout phases 2 and 4 to then Shatter as you passed Bring Him Down or after the third Waterfall $waterfall in order to trigger all stacked shards and kill Vorago in the earliest tick possible.
@@ -132,7 +132,7 @@ Counting from the first GCD of the damage check, Bring Him Down has a duration o
 
 **Mage:** $barrage $wm ➔ $dbreath ➔ $barrage $conc ➔ $shatter (slow hitting)
 
-.rotations
+.Weekly Specials
 > __**Weekly Specials**__
 
 Every reset after Tuesday the weekly special rotation changes for Vorago. There is a total of 6 rotations: Ceilings $ceil, Scopulus $scop, Vitalis $vitalis, Green Bomb $green, Team Split $ts and The End $purple. Each of these rotations will affect the mechanics in phases 3, 4 and 5.
@@ -154,7 +154,7 @@ In Hard Mode, only phases 9, 10 and 11 are affected by the weekly special rotati
 • Phase 10 is similar to Normal Mode Phase 10
 • Phase 11 is the opposite of Phase 10, with Vorago turning around and maul being in the western edge of the arena
 
-.waterfall
+.Waterfall
 > __**Waterfall**__
 
 The Waterfall $waterfall mechanic is unique to phase 4 (phase 9 in Hard Mode) and occurs at all weekly rotations.
@@ -168,7 +168,7 @@ The Waterfall $waterfall mechanic is unique to phase 4 (phase 9 in Hard Mode) an
 
 During the weekly rotation Team Split $ts, the third TS in phase 4 will be bugged. Refer to **Breaking Team Splits** in #team-split.
 
-.clone
+.Stone Clone
 > __**Stone Clone**__
 
 This mechanic can be skipped entirely with barely any downsides whatsoever. Reference: #clone-skip
@@ -183,7 +183,7 @@ Vorago performs an attack visually similar to a melee Swipe $swipe, cloning rand
 • They can only be damaged by their target or someone who has already killed their clone
 • In Hard Mode Stone Clones begin their ability order with stunning the player
 
-.push
+.Phase 5 Push
 > __**Phase 5 Push**__
 
 In phase 5 (in Hard Mode phases 10 and 11) the goal is to push Vorago to the very end of the arena and then finish him off with the Maul Of Omens $maul (reference: #maul). Detailed information about the push mechanic can be found in our advanced strategy guide #zero-linking.
@@ -224,14 +224,14 @@ Debilitating prevents the first Blue Bomb $blue from stalling Vorago which means
 .index
 > __**Index**__
 
-• $pin **Entry Hit** {link:entryhit}
-• $auto **Auto Attacks** {link:attacks}
-• $red **Red Bomb** {link:reds}
-• $bleed **Bleeds** {link:bleeds}
-• $link **Reflect** {link:reflect}
-• $gravity **Bring Him Down** {link:bhd}
-• $shatter **Shatter** {link:shatter}
-• $ts **Rotations** {link:rotations}
-• $waterfall **Waterfall** {link:waterfall}
-• $vitalis **Stone Clone** {link:clone}
-• $maul **Phase 5 / 10 / 11 Push** {link:push}
+• $pin **Entry Hit** {link:Entry Hit}
+• $auto **Auto Attacks** {link:Auto Attacks}
+• $red **Red Bomb** {link:Red Bomb}
+• $bleed **Bleeds** {link:Bleeds}
+• $link **Reflect** {link:Reflect}
+• $gravity **Bring Him Down** {link:Bring Him Down}
+• $shatter **Shatter** {link:Shatter}
+• $ts **Rotations** {link:Rotations}
+• $waterfall **Waterfall** {link:Waterfall}
+• $vitalis **Stone Clone** {link:Stone Clone}
+• $maul **Phase 5 / 10 / 11 Push** {link:Phase 5 Push}
