@@ -1,4 +1,4 @@
-.intro
+.Introduction
 Guide written by <@250986556217622538>, <@129324652114739200>, <@191388421548146689>, <@316175818458136588>, <@164133228989513728>, <@300296497277173761>, <@184918342392479744> and <@163815114355507200>.
 
 > __**Trio Hard Mode**__
@@ -24,25 +24,25 @@ __Recommendations:__
 
 This Trio Hard Mode Strategy Guide will be separated into roles, combat styles and skill levels. Use pinned Indices to quickly navigate through content sections. Generally speaking, the strategies described can be applied to most, if not all combat style compositions.
 
-.base
+.Base
 > __**Base Tank**__
 
 The Base Tank section of this Trio Hard Mode guide was written by <@129324652114739200>.
 
 .
 https://cdn.discordapp.com/attachments/671035860111589396/796195572712210462/hammer_slave.png
-.baseindex:edit
+.Base Index:edit
 
-• $swh **Base Tank - Introduction** {link:base}
-• $maulpiecea **Base Tank - Phase 1** {link:basep1}
-• $gravity **Base Tank - Phase 2** {link:basep2}
-• $ceil **Base Tank - Phase 3 Ceilings** {link:basep3}
-• $scop **Base Tank - Phase 4 Scopulus** {link:basep4}
-• $vitalis **Base Tank - Phase 5 Vitalis** {link:basep5}
-• $green **Base Tank - Phase 6 Green Bomb** {link:basep6}
-• $ts **Base Tank - Phase 7 Team Split** {link:basep7}
-• $purple **Base Tank - Phase 8 The End** {link:basep8}
-• $vuln **Base Tank - Tips & Tricks** {link:basetips}
+• $swh **Base Tank - Introduction** {link:Base}
+• $maulpiecea **Base Tank - Phase 1** {link:Base Phase 1}
+• $gravity **Base Tank - Phase 2** {link:Base Phase 2}
+• $ceil **Base Tank - Phase 3 Ceilings** {link:Base Phase 3}
+• $scop **Base Tank - Phase 4 Scopulus** {link:Base Phase 4}
+• $vitalis **Base Tank - Phase 5 Vitalis** {link:Base Phase 5}
+• $green **Base Tank - Phase 6 Green Bomb** {link:Base Phase 6}
+• $ts **Base Tank - Phase 7 Team Split** {link:Base Phase 7}
+• $purple **Base Tank - Phase 8 The End** {link:Base Phase 8}
+• $vuln **Base Tank - Tips & Tricks** {link:Base Tips}
 .
 
 Basing Trio Hard Mode is typically performed by a **Melee**. The Base Tank has several responsibilities, the most important being to apply the Statius's Warhammer $swh special attack in **every** phase. Additionally you are expected to properly lure Vorago in phase 1 on the eastern wall so that the Climber (referred to as *Bomb Tank #2*) does not receive any Blue Bombs $blue.
@@ -60,7 +60,7 @@ __Recommended:__
 • Strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/802308747745427466/triohm_base.PNG
-.basep1
+.Base Phase 1
 
 > __**Base Tank - Phase 1**__
 
@@ -75,7 +75,7 @@ One of the most important aspects of Phase 1 is to pay attention to Vorago's lif
 • Phase 1 initial positioning
 .
 https://cdn.discordapp.com/attachments/500971699349749760/799212061342564367/unknown.png
-.basep2
+.Base Phase 2
 
 > __**Base Tank - Phase 2**__
 
@@ -83,7 +83,7 @@ The Base Tank's responsibilities throughout Phase 2 are not any different to bas
 
 References: #duo, #recenter, #mechanics
 
-.basep3
+.Base Phase 3
 > __**Base Tank - Phase 3 Ceilings**__
 
 • (optional, advanced) Use Natural Instinct $natty in the end of Phase 2 (reference: #natty)
@@ -98,7 +98,7 @@ If a Reflect $link occurs in this phase, it is best to utilize your Seren Godbow
 
 For slower teams you may also make use of your Limitless $limitless ability during Berserk.
 
-.basep4
+.Base Phase 4
 > __**Base Tank - Phase 4 Scopulus**__
 
 The Base Tank has to lure all Scopuli $scop, in addition to hammering the eastern and northern Scopulus. A frequent usage of Vulnerability bombs $vbomb is very useful for keeping up all Scopuli's stacked and aggressioned towards you, due to vuln bombs dragging Scopulus' aggro.
@@ -112,7 +112,7 @@ The Base Tank has to lure all Scopuli $scop, in addition to hammering the easter
 
 For slower phases you should utilize Devotion $devo and eventually Reflect $reflect.
 
-.basep5
+.Base Phase 5
 > __**Base Tank - Phase 5 Vitalis**__
 
 Trio Hard Mode approaches Phase 5 similar to a fast Duo Normal Mode Vitalis Phase 3 (reference: #duo). All players stay in melee distance and must pray flick between melee $deflectmelee and magic $deflectmagic. The Base Tank commonly takes the south-western corner in melee distance to Vorago.
@@ -126,7 +126,7 @@ Fast teams should simply aim for 0-linking the phase, just like Phase 3.
 
 If a Reflect $link occurs in this phase, it is best to utilize your Seren Godbow special attack $ingen $sgb shortly after.
 
-.basep6
+.Base Phase 6
 > __**Base Tank - Phase 6 Green Bomb**__
 
 At the beginning of the phase, it is recommended to voke $voke Vorago and walk the boss far enough so that you will not be harmed by a mid mist, and can attack vorago from at least two different of the 9 grid arena sections of the arena.
@@ -139,7 +139,7 @@ SGB $sgb can be perfectly implemented in your pre-Reflect $link ability damage r
 
 If you receive a Green Bomb $green, simply drink a sip of your Powerburst of Vitality $vitality in order to easily survive it. If the Green Bomb is not on you, it is an optimal strategy to heal the respective Bomb Tank, shortly after they tanked the `10,000` detonation damage.
 
-.basep7
+.Base Phase 7
 > __**Base Tank - Phase 7 Team Split**__
 
 Similar to Phase 6, you will again only be hammering and thresholding.
@@ -149,7 +149,7 @@ Similar to Phase 6, you will again only be hammering and thresholding.
 
 There exist several **advanced** strategies. Based on your preference, you can either utilize your Adrenaline potion $apot during Phase 7 to have adrenaline to Natural Instinct $natty at the end of the phase, or perform a slightly less adrenaline-intensive rotation and save your the Apot for Phase 8.
 
-.basep8
+.Base Phase 8
 > __**Base Tank - Phase 8 The End**__
 
 • (optional, advanced) Use Natural Instinct $natty in the end of Phase 7 (reference: #natty)
@@ -165,8 +165,8 @@ If a Stand Up is expectably happening, your team should tag either Red Bombs $re
 
 Drink a sip of the Powerburst of Vitality $vitality a few seconds after Stand Up. Alternatively, your bomb tanks may just choose to Barricade $cade and Intercept $cept on Stand Up, due to the relative ease of 0-linking this phase.
 
-.basetips
-> __**Base Tank - Tips & Tricks**__
+.Base Tips
+> __**Base Tank - Tips**__
 
 • The Statius's Warhammer $swh special attack enables all following abilities in that tick cast by yourself with 100% hitchance
 • Following advanced ability rotations as provided on the Rago Hub spreadsheet
@@ -184,7 +184,7 @@ For advanced ability damage rotations, refer to the official Rago Hub spreadshee
 • Strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/802308747745427466/triohm_base.PNG
-.ranged
+.Ranged
 
 > __**Ranged Bomb Tank**__
 
@@ -192,18 +192,18 @@ The Ranged Bomb Tank section of this Trio Hard Mode guide was written by <@19138
 
 .
 https://cdn.discordapp.com/attachments/509185424464412672/775575411467878460/image0.jpg
-.rangedindex:edit
+.Ranged Index:edit
 
-• $ranged **Ranged Bomb Tank - Introduction** {link:ranged}
-• $maulpiecea **Ranged Bomb Tank - Phase 1** {link:rangedp1}
-• $gravity **Ranged Bomb Tank - Phase 2** {link:rangedp2}
-• $ceil **Ranged Bomb Tank - Phase 3 Ceilings** {link:rangedp3}
-• $scop **Ranged Bomb Tank - Phase 4 Scopulus** {link:rangedp4}
-• $vitalis **Ranged Bomb Tank - Phase 5 Vitalis** {link:rangedp5}
-• $green **Ranged Bomb Tank - Phase 6 Green Bomb** {link:rangedp6}
-• $ts **Ranged Bomb Tank - Phase 7 Team Split** {link:rangedp7}
-• $purple **Ranged Bomb Tank - Phase 8 The End** {link:rangedp8}
-• $vuln **Ranged Bomb Tank - Tips & Tricks** {link:rangedtips}
+• $ranged **Ranged Bomb Tank - Introduction** {link:Ranged}
+• $maulpiecea **Ranged Bomb Tank - Phase 1** {link:Ranged Phase 1}
+• $gravity **Ranged Bomb Tank - Phase 2** {link:Ranged Phase 2}
+• $ceil **Ranged Bomb Tank - Phase 3 Ceilings** {link:Ranged Phase 3}
+• $scop **Ranged Bomb Tank - Phase 4 Scopulus** {link:Ranged Phase 4}
+• $vitalis **Ranged Bomb Tank - Phase 5 Vitalis** {link:Ranged Phase 5}
+• $green **Ranged Bomb Tank - Phase 6 Green Bomb** {link:Ranged Phase 6}
+• $ts **Ranged Bomb Tank - Phase 7 Team Split** {link:Ranged Phase 7}
+• $purple **Ranged Bomb Tank - Phase 8 The End** {link:Ranged Phase 8}
+• $vuln **Ranged Bomb Tank - Tips & Tricks** {link:Ranged Tips}
 .
 
 Bomb Tanking at Trio Hard Mode can be performed in several setups. This section focuses Ranged, covering both Bomb Tank's responsibilities: Bomb Tank #1 and Bomb Tank #2 (the Climber). If you are Ranged bomb tanking with a Hybrid on your team, read up on both this and the Hybrid section. This guide section also covers strategies for approaching Double Ranged bomb tanking in Trio Hard Mode.
@@ -224,7 +224,7 @@ __Recommended:__
 • Strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/802308753491361822/triohm_ranged.PNG
-.rangedp1
+.Ranged Phase 1
 
 > __**Ranged Bomb Tank - Phase 1**__
 
@@ -237,7 +237,7 @@ If the Base Tank receives the second Red Bomb $red (random), you should cast Hea
 • Phase 1 initial positioning
 .
 https://cdn.discordapp.com/attachments/500971699349749760/799212061342564367/unknown.png
-.rangedp2
+.Ranged Phase 2
 
 > __**Ranged Bomb Tank - Phase 2**__
 
@@ -250,7 +250,7 @@ You should have one person dedicated to shattering $shatter the end of Bring Him
 References: #duo, #mechanics
 
 One Bomb Tank is assigned to placing a Combat Dummy $dummy during Bring Him Down.
-.rangedp3
+.Ranged Phase 3
 
 > __**Ranged Bomb Tank - Phase 3 Ceilings**__
 
@@ -263,7 +263,7 @@ If a Reflect $link occurs in this phase, it is highly recommended to utilize Dev
 
 If your team consists of a Hybrid Bomb Tank, it is very important to voke $voke Vorago as he jumps for the first time.
 
-.rangedp4
+.Ranged Phase 4
 > __**Ranged Bomb Tank - Phase 4 Scopulus**__
 
 Your Base Tank is responsible for stacking all 3 Scopuli $scop. At times though, a Scopulus might reaggro to one of the Bomb Tanks. In this case: **run!** Make sure to stay at the outside of the arena in order to avoid passing any Blue Bombs $blue to your Base Tank.
@@ -281,7 +281,7 @@ The BT#1 utilizes Devotion Intercept $devo $cept on the other BT for the second 
 • Positioning for Bomb Tanks in Phase 4 Scopulus
 .
 https://cdn.discordapp.com/attachments/500971699349749760/799211622266306560/unknown.png
-.rangedp5
+.Ranged Phase 5
 
 > __**Ranged Bomb Tank - Phase 5 Vitalis**__
 
@@ -298,7 +298,7 @@ If a Reflect $link occurs in this phase, it is best to Devotion $devo or Reflect
 
 If your team consists of a Hybrid Bomb Tank, it is recommended to voke $voke the start of Phase 5.
 
-.rangedp6
+.Ranged Phase 6
 > __**Ranged Bomb Tank - Phase 6 Green Bomb**__
 
 One Bomb Tank is assigned to placing a Combat Dummy $dummy as you drop into the phase.
@@ -314,7 +314,7 @@ If a Reflect $link occurs in this phase, the Bomb Tank **who did not** receive t
 
 If your team consists of a Hybrid Bomb Tank, it is very important to voke $voke Vorago at the start of Phase 6.
 
-.rangedp7
+.Ranged Phase 7
 > __**Ranged Bomb Tank - Phase 7 Team Split**__
 
 One Bomb Tank is assigned to placing a Combat Dummy $dummy as you drop into the phase.
@@ -329,7 +329,7 @@ Following a base guideline of abilities in this phase will significantly improve
 
 If your team consists of a Hybrid Bomb Tank, it is very important to voke $voke Vorago immediately after the first Team Split.
 
-.rangedp8
+.Ranged Phase 8
 > __**Ranged Bomb Tank - Phase 8 The End**__
 
 In Phase 8 there exist different strategies (beginner & advanced).
@@ -361,8 +361,8 @@ If your Death's Swiftness happens to *not* be placed in the first or second quad
 • Tag on Target Cycle $tc with a Snap Shot $snap (quick hitting override required, reference: #ability-travel-speed)
 • Utilize ECB $ecb and SGB $sgb for first quadrant
 
-.rangedtips
-> __**Ranged Bomb Tank - Tips & Tricks**__
+.Ranged Tips
+> __**Ranged Bomb Tank - Tips**__
 
 • If performing the BT#2 role, transfigure $transfigure for the `14,000` entry hit
 • Stalling abilities is sometimes easier by mouse clicking a dummy placed far away from your drop location and far-casting an ability, instead of equipping Excalibur $excal
@@ -379,7 +379,7 @@ For advanced ability damage rotations, refer to the official Rago Hub spreadshee
 • Strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/802308753491361822/triohm_ranged.PNG
-.mage
+.Mage
 
 > __**Magic Bomb Tank**__
 
@@ -387,18 +387,18 @@ The Mage Bomb Tank section of this Trio Hard Mode guide was written by <@2509865
 
 .
 https://i.imgur.com/Yk0OqK4.png
-.mageindex:edit
+.Mage Index:edit
 
-• $magic **Magic Bomb Tank - Introduction** {link:mage}
-• $maulpiecea **Magic Bomb Tank - Phase 1** {link:magep1}
-• $gravity **Magic Bomb Tank - Phase 2** {link:magep2}
-• $ceil **Magic Bomb Tank - Phase 3 Ceilings** {link:magep3}
-• $scop **Magic Bomb Tank - Phase 4 Scopulus** {link:magep4}
-• $vitalis **Magic Bomb Tank - Phase 5 Vitalis** {link:magep5}
-• $green **Magic Bomb Tank - Phase 6 Green Bomb** {link:magep6}
-• $ts **Magic Bomb Tank - Phase 7 Team Split** {link:magep7}
-• $purple **Magic Bomb Tank - Phase 8 The End** {link:magep8}
-• $vuln **Magic Bomb Tank - Tips & Tricks** {link:magetips}
+• $magic **Magic Bomb Tank - Introduction** {link:Mage}
+• $maulpiecea **Magic Bomb Tank - Phase 1** {link:Mage Phase 1}
+• $gravity **Magic Bomb Tank - Phase 2** {link:Mage Phase 2}
+• $ceil **Magic Bomb Tank - Phase 3 Ceilings** {link:Mage Phase 3}
+• $scop **Magic Bomb Tank - Phase 4 Scopulus** {link:Mage Phase 4}
+• $vitalis **Magic Bomb Tank - Phase 5 Vitalis** {link:Mage Phase 5}
+• $green **Magic Bomb Tank - Phase 6 Green Bomb** {link:Mage Phase 6}
+• $ts **Magic Bomb Tank - Phase 7 Team Split** {link:Mage Phase 7}
+• $purple **Magic Bomb Tank - Phase 8 The End** {link:Mage Phase 8}
+• $vuln **Magic Bomb Tank - Tips & Tricks** {link:Mage Tips}
 .
 
 Bomb Tanking at Trio Hard Mode can be performed in several setups. This section focuses on Magic, covering both Bomb Tank's responsibilities: Bomb Tank #1 and Bomb Tank #2 (the Climber). If you are Magic bomb tanking with a Hybrid on your team, read up on both this and the Hybrid section (refer to pinned Index).
@@ -420,7 +420,7 @@ __Recommended:__
 • Strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/802308752186671104/triohm_magic.PNG
-.magep1
+.Mage Phase 1
 
 > __**Magic Bomb Tank - Phase 1**__
 
@@ -435,7 +435,7 @@ If the Base Tank receives the second Red Bomb $red (random), you should cast Hea
 • Phase 1 initial positioning
 .
 https://cdn.discordapp.com/attachments/500971699349749760/799212061342564367/unknown.png
-.magep2
+.Mage Phase 2
 
 > __**Magic Bomb Tank - Phase 2**__
 
@@ -449,7 +449,7 @@ References: #duo, #mechanics
 
 One Bomb Tank is assigned to placing a Combat Dummy $dummy during Bring Him Down.
 
-.magep3
+.Mage Phase 3
 > __**Magic Bomb Tank - Phase 3 Ceilings**__
 
 • (optional, advanced) Use Natural Instinct $natty in the end of Phase 2 (reference: #natty)
@@ -462,7 +462,7 @@ Fast teams should simply aim for 0-linking the phase. Executing a stable Metamor
 
 If your team consists of a Hybrid Bomb Tank, it is very important to voke $voke Vorago as he jumps for the first time.
 
-.magep4
+.Mage Phase 4
 > __**Magic Bomb Tank - Phase 4 Scopulus**__
 
 Your Base Tank is responsible for stacking all 3 Scopuli $scop. At times though, a Scopulus might reaggro to one of the Bomb Tanks. In this case: **run!** Make sure to stay at the outside of the arena in order to avoid passing any Blue Bombs $blue to your Base Tank.
@@ -479,7 +479,7 @@ The Bomb Tank #1 utilizes Devotion Intercept $devo $cept on the other BT for the
 • Positioning for Bomb Tanks in Phase 4 Scopulus
 .
 https://cdn.discordapp.com/attachments/500971699349749760/799211622266306560/unknown.png
-.magep5
+.Mage Phase 5
 
 > __**Magic Bomb Tank - Phase 5 Vitalis**__
 
@@ -494,7 +494,7 @@ Fast teams should simply aim for 0-linking the phase, just like Phase 3.
 
 If a Reflect $link occurs in this phase, it is best to Devotion $devo or Reflect $reflect yourself, although it will mostly be on cooldown if you had a fast Phase 4.
 
-.magep6
+.Mage Phase 6
 > __**Magic Bomb Tank - Phase 6 Green Bomb**__
 
 One Bomb Tank is assigned to placing a Combat Dummy $dummy as you drop into the phase.
@@ -513,7 +513,7 @@ If a Reflect $link occurs in this phase, the Bomb Tank **who did not** receive t
 
 If your team consists of a Hybrid Bomb Tank, it is very important to voke $voke Vorago at the start of Phase 6.
 
-.magep7
+.Mage Phase 7
 > __**Magic Bomb Tank - Phase 7 Team Split**__
 
 One Bomb Tank is assigned to placing a Combat Dummy $dummy as you drop into the phase.
@@ -527,7 +527,7 @@ Following a base guideline of abilities in this phase will significantly improve
 
 If your team consists of a Hybrid Bomb Tank, it is very important to voke $voke Vorago immediately after the first Team Split.
 
-.magep8
+.Mage Phase 8
 > __**Magic Bomb Tank - Phase 8 The End**__
 
 In Phase 8 there exist different strategies (beginner & advanced).
@@ -555,8 +555,8 @@ You can dump everything and aim for killing it before the 3rd quadrant. $warning
 • Pre-Detonate $detonate and tag on Target Cycle $tc
 • Release a stalled Wild Magic with a 2hit Asphyxiate, followed up by an SGB spec (your Ingenuity of Humans $ingen will eventually be on cooldown from Phase 6, refer to #sgb-without-ioth)
 
-.magetips
-> __**Magic Bomb Tank - Tips & Tricks**__
+.Mage Tips
+> __**Magic Bomb Tank - Tips**__
 
 • Detonate $detonate should be pre-charged in most phases, as charging it during Reflects $link would cause Detonate to be on cooldown for the following phase
 • Use Barrage as primary spell, Blitz might be nulled by Reflect (also Phase 4 Scopulus benefits heavily from Barrage)
@@ -567,7 +567,7 @@ For advanced ability damage rotations, refer to the official Rago Hub spreadshee
 • Strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/802308752186671104/triohm_magic.PNG
-.hybrid
+.Hybrid
 
 > __**Hybrid / Melee Bomb Tank**__
 
@@ -575,18 +575,18 @@ The Hybrid Bomb Tank section of this Trio Hard Mode guide was written by <@31617
 
 .
 https://cdn.discordapp.com/attachments/744506002006868050/799318383333081148/What_The_Hell_Is_This.png
-.hybridindex:edit
+.Hybrid Index:edit
 
-• $attack **Hybrid Bomb Tank - Introduction** {link:hybrid}
-• $maulpiecea **Hybrid Bomb Tank - Phase 1** {link:hybridp1}
-• $gravity **Hybrid Bomb Tank - Phase 2** {link:hybridp2}
-• $ceil **Hybrid Bomb Tank - Phase 3 Ceilings** {link:hybridp3}
-• $scop **Hybrid Bomb Tank - Phase 4 Scopulus** {link:hybridp4}
-• $vitalis **Hybrid Bomb Tank - Phase 5 Vitalis** {link:hybridp5}
-• $green **Hybrid Bomb Tank - Phase 6 Green Bomb** {link:hybridp6}
-• $ts **Hybrid Bomb Tank - Phase 7 Team Split** {link:hybridp7}
-• $purple **Hybrid Bomb Tank - Phase 8 The End** {link:hybridp8}
-• $vuln **Hybrid Bomb Tank - Tips & Tricks** {link:hybridtips}
+• $attack **Hybrid Bomb Tank - Introduction** {link:Hybrid}
+• $maulpiecea **Hybrid Bomb Tank - Phase 1** {link:Hybrid Phase 1}
+• $gravity **Hybrid Bomb Tank - Phase 2** {link:Hybrid Phase 2}
+• $ceil **Hybrid Bomb Tank - Phase 3 Ceilings** {link:Hybrid Phase 3}
+• $scop **Hybrid Bomb Tank - Phase 4 Scopulus** {link:Hybrid Phase 4}
+• $vitalis **Hybrid Bomb Tank - Phase 5 Vitalis** {link:Hybrid Phase 5}
+• $green **Hybrid Bomb Tank - Phase 6 Green Bomb** {link:Hybrid Phase 6}
+• $ts **Hybrid Bomb Tank - Phase 7 Team Split** {link:Hybrid Phase 7}
+• $purple **Hybrid Bomb Tank - Phase 8 The End** {link:Hybrid Phase 8}
+• $vuln **Hybrid Bomb Tank - Tips & Tricks** {link:Hybrid Tips}
 .
 
 A general Hybrid setup for Trio HM consists of Melee $attack as primary and either Ranged $ranged or Magic $magic as secondary combat style. Magic is recommended due to the naturally increased hitchance on Scopuli $scop. At the current unbalanced state of combat styles, there exists only one method of making Hybrid effective over a double Ranged Bomb Tank setup. Hybridding is only recommended if your goal is improved kill speed, as your team is a lot more likely to lose a kill.
@@ -607,7 +607,7 @@ Refer to the official Rago Hub spreadsheet for advanced ability damage rotations
 • Strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/802308751041888296/triohm_hybrid.PNG
-.hybridp1
+.Hybrid Phase 1
 
 > __**Hybrid Bomb Tank - Phase 1**__
 
@@ -615,7 +615,7 @@ Generally speaking, a Hybrid Bomb Tank takes over the BT#2 responsibilities. The
 
 Equip your secondary combat style for the Phase 1 to allow for tagging from the final platform of the Top Lure.
 
-.hybridp2
+.Hybrid Phase 2
 > __**Hybrid Bomb Tank - Phase 2**__
 
 The Bomb Tank's responsibilities throughout Phase 2 are not any different to bomb tanking Normal Mode.
@@ -628,7 +628,7 @@ References: #duo, #mechanics
 
 Due to lacking inventory space as a Hybridder, it is recommended to have either the Base Tank or the Bomb Tank #1 take an additional Combat Dummy $dummy. One Bomb Tank is assigned to placing a Combat Dummy $dummy during Bring Him Down (preferably the BT#1).
 
-.hybridp3
+.Hybrid Phase 3
 > __**Hybrid Bomb Tank - Phase 3 Ceilings**__
 
 • Use Natural Instinct $natty in the end of Phase 2 (reference: #natty)
@@ -637,7 +637,7 @@ Due to lacking inventory space as a Hybridder, it is recommended to have either 
 
 Your team should simply aim for 0-linking the phase. It is very important for the Bomb Tank #1 to voke $voke Vorago as he jumps away.
 
-.hybridp4
+.Hybrid Phase 4
 > __**Hybrid Bomb Tank - Phase 4 Scopulus**__
 
 Your Base Tank is responsible for stacking all 3 Scopuli $scop. At times though, a Scopulus might reaggro to one of the Bomb Tanks. In this case: **run!** Make sure to stay at the outside of the arena in order to avoid passing any Blue Bombs $blue to your Base Tank.
@@ -654,7 +654,7 @@ The Bomb Tank #1 utilizes Devotion Intercept $devo $cept for the second or third
 • Positioning for Bomb Tanks in Phase 4 Scopulus
 .
 https://cdn.discordapp.com/attachments/500971699349749760/799211622266306560/unknown.png
-.hybridp5
+.Hybrid Phase 5
 
 > __**Hybrid Bomb Tank - Phase 5 Vitalis**__
 
@@ -669,7 +669,7 @@ If a Reflect $link occurs in this phase, it is best to utilize your Seren Godbow
 
 It is recommended to have your team's Bomb Tank #1 voke $voke Vorago throughout Phase 5 in order to allow for both the Base Tank and the Hybridder to step under from the opposite side.
 
-.hybridp6
+.Hybrid Phase 6
 > __**Hybrid Bomb Tank - Phase 6 Green Bomb**__
 
 • ZGS spec $zgs as you drop into Phase 6
@@ -679,7 +679,7 @@ If the Hybridder or the Base Tank receive a Green Bomb $green, it will be bridge
 
 It is recommended to have your team's Bomb Tank #1 voke $voke Vorago throughout Phase 6 in order to allow for both the Base Tank and the Hybridder to step under.
 
-.hybridp7
+.Hybrid Phase 7
 > __**Hybrid Bomb Tank - Phase 7 Team Split**__
 
 • Pre-ultimate $zerk shortly before Target Cycle (optimally 2 GCDs prior, to allow for a stalled basic released with another basic on TC)
@@ -687,7 +687,7 @@ It is recommended to have your team's Bomb Tank #1 voke $voke Vorago throughout 
 
 It is recommended to have your team's Bomb Tank #1 voke $voke Vorago immediately after the first Team Split $ts in order to allow for both the Base Tank and the Hybridder to step under.
 
-.hybridp8
+.Hybrid Phase 8
 > __**Hybrid Bomb Tank - Phase 8 The End**__
 
 • Dump thresholds (pre-Barge $gbarge with Mobile $mobile to allow for a double Greater Barge rotation)
@@ -695,7 +695,7 @@ It is recommended to have your team's Bomb Tank #1 voke $voke Vorago immediately
 
 If a Stand Up is expected to happen, have the other Bomb Tank #1 tag all Red Bombs and then Barricade Intercept $cade $cept on stand. The Hybridder should pre-Ultimate $zerk for Stand Up.
 
-.hybridtips
+.Hybrid Tips
 > __**Hybrid Bomb Tank - Tips & Tricks**__
 
 • Transfigure $transfigure for the 14k entry hit
@@ -713,7 +713,7 @@ Refer to the official Rago Hub spreadsheet for advanced ability damage rotations
 • Strategy summary
 .
 https://cdn.discordapp.com/attachments/676485011268042761/802308751041888296/triohm_hybrid.PNG
-.rotations
+.Weekly Special Mechanics
 
 > __**Weekly Special Mechanics**__
 
@@ -730,7 +730,7 @@ These strategies are categorized as:
 • Safe: A stable order of Ultimates and Barricades for consistently finishing a Trio Hard Mode kill fast with safe strategies
 • Advanced: Follow the Rago Hub spreadsheet ability damage rotations (<https://discordapp.com/channels/670983760178839572/802162163686572082/802165372047458305>)
 
-.stratsafe
+.Safety
 > __**Safety**__
 
 __Phase 10:__
@@ -794,7 +794,7 @@ $purple **The End**
 • BT#1 cade cept either start of Reflect $link or the Vitalis orb $vitalis explosion
 • BT#2 ultimate and thresh, build to cade cept for the second Reflect
 
-.stratadv
+.Advanced
 > __**Advanced**__
 
 Approaching phases 10 and 11 in advanced teams is independent of weekly mechanics.
@@ -810,9 +810,9 @@ If Phase 10 was executed correctly, Phase 11 should always start with 3 auto att
 
 > __**Index**__
 
-• $pin **Introduction** {link:intro}
-• $swh **Base Tank** {link:base}
-• $ranged **Ranged Bomb Tank** {link:ranged}
-• $magic **Magic Bomb Tank** {link:mage}
-• $attack **Hybrid / Melee Bomb Tank** {link:hybrid}
-• $maul **P9, 10 and 11** {link:rotations}
+• $pin **Introduction** {link:Introduction}
+• $swh **Base Tank** {link:Base}
+• $ranged **Ranged Bomb Tank** {link:Ranged}
+• $magic **Magic Bomb Tank** {link:Mage}
+• $attack **Hybrid / Melee Bomb Tank** {link:Hybrid}
+• $maul **Phase 9, 10 and 11** {link:Weekly Special Mechanics}
