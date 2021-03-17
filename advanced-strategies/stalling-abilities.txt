@@ -7,7 +7,9 @@ An ability is *stalled* when cast outside of its maximum attack range. For melee
 
 Stalling an ability by casting it outside of its maximum attack range is described as **Far Casting**.
 
-Example of stalling an ability by Far Casting: https://i.imgur.com/5ZE92F7.mp4
+• Example of stalling an ability by Far Casting
+.
+https://i.imgur.com/5ZE92F7.mp4
 .
 
 __Stalling Within Attack Range:__
@@ -28,13 +30,15 @@ You must **wait 1 tick before you cast another ability** or the stall is lost. T
 
 This method is useless at Vorago specifically due to it only working if stalling off and releasing onto the same target. For taking advantage of stalled abilities at Vorago, refer to the following section.
 
-Example of stalling and releasing an ability by clicking on the same target: https://i.imgur.com/hxwevfm.mp4
+• Example of stalling and releasing an ability by clicking on the same target
+.
+https://i.imgur.com/hxwevfm.mp4
 .
 
 __Auto Attacks:__
 
 • Stall an ability
-• Cast a spell that is considered an auto attack (Blood Barrage $barrage, Vulnerability $vuln, Entangle $entangle)
+• Cast a spell that is considered an auto attack (Blood Barrage $barrage, Vulnerability $vuln, Entangle $ent)
 
 Casting the respective spell will release the stalled ability. Similar to how magic 4taa works, this method of releasing a stalled ability can be followed with another ability in the same tick, effectively using two abilities in the same tick. Using this method allows you to stall and release on different targets, hence it is used in advanced Vorago ability damage rotations. Refer to <#701072208486727761>, <#731487797336211507> and <#712039730543460432> for more information.
 
@@ -42,25 +46,33 @@ Releasing a stalled ability with a spell stores the used spell as your next auto
 
 Using magic $magic at Vorago is commonly done with the Ancient spellbook, from which both Vulnerability and Entangle are unavailable. Due to this, your primary auto attack should be used to release stalled abilities. Casting a magic auto attack requires a magic weapon to be equipped, forcing ranged $ranged and melee $attack to make use of either Vulnerability or Entangle in order to release stalled abilities.
 
-Example of stalling and releasing an ability with Vulnerability $vuln on the same target: https://i.imgur.com/pCmZa1V.mp4
+• Example of stalling and releasing an ability with Vulnerability $vuln on the same target
 .
-Same scenario but following the released stall up with another ability in the same tick: https://i.imgur.com/UNySy0n.mp4
+https://i.imgur.com/pCmZa1V.mp4
 .
-Same scenario but releasing the stall onto a different target: https://i.imgur.com/eKZdW6j.mp4
+
+• Same scenario but following the released stall up with another ability in the same tick
+.
+https://i.imgur.com/UNySy0n.mp4
+.
+
+• Same scenario but releasing the stall onto a different target
+.
+https://i.imgur.com/eKZdW6j.mp4
 .Taking Advantage
 
 > __**Taking Advantage**__
 
-Vorago is a lengthy fight with repeating DPS downtimes, ranging from phase transitions, Reflects $ragoreflect to Team Splits $ts. This offers an ideal opportunity to make use of stalled abilities and enhancing your ability rotations with Natural Instinct $natty (reference: <#701072208486727761>).
+Vorago is a lengthy fight with repeating DPS downtimes, ranging from phase transitions, Reflects $link to Team Splits $ts. This offers an ideal opportunity to make use of stalled abilities and enhancing your ability rotations with Natural Instinct $natty (reference: #natty).
 
 • The ability's cooldown is triggered as it is stalled (an exception is the Seren Godbow $sgb special attack, which goes on CD when it is released and deals damage - A splashed SGB does not trigger its CD)
 • Delays damage to offer higher burst potential
 • Releasing a stalled ability can be followed with another ability in the same tick (essentially 2 abilities deal damage simultaneously)
 • A stalled ability deals damage according to your currently equipped weapon: Stalling with weapon A and releasing with weapon B results in damage calculations as well as weapon effects considering weapon B (an exception are Shadow Tendrils, which deal damage based off what they were stalled with)
-• Specific scenarios also modify the ability travel speed - Refer to <#802179892326039573>
+• Specific scenarios also modify the ability travel speed - Refer to #ability-travel-speed
 .
 • Vorago phases are aimed to be short and burst heavy
-• The Statius's Warhammer $swh special attack should be applied as soon as possible in all phases (preferably on TC, refer to <#731487797336211507>)
+• The Statius's Warhammer $swh special attack should be applied as soon as possible in all phases (preferably on TC, refer to #target-cycle)
 • Stalling offers more abilities to be used within given time windows, resulting in more damage
 • Bladed Dive $bd does **not** cancel stalled abilities
 • Stalling channelled abilities results in only the first hit being stalled (Greater Barge $gbarge bleed hits 2, 3 and 4 are applied from any cast distance)
@@ -68,9 +80,14 @@ Vorago is a lengthy fight with repeating DPS downtimes, ranging from phase trans
 
 $warning If you acquire a new target, initiate combat and execute a consecutive order of stalled abilities, only the first basic will generate adrenaline.
 
-Example of stalling an ability, utilising Bladed Dive $bd for adrenaline gain and following the released stall with another ability in the same tick: https://i.imgur.com/tvwXAqR.mp4
+• Example of stalling an ability, utilising Bladed Dive $bd for adrenaline gain and following the released stall with another ability in the same tick
 .
-An example execution of an advanced melee ability damage rotation ($gbarge > $freedom Darkbow Auto > $swh Stall): https://i.imgur.com/Rk6BAIX.mp4
+https://i.imgur.com/tvwXAqR.mp4
+.
+
+• Example execution of an advanced melee ability damage rotation ($gbarge > $freedom Darkbow Auto > $swh Stall)
+.
+https://i.imgur.com/Rk6BAIX.mp4
 .index
 
 > __**Index**__
