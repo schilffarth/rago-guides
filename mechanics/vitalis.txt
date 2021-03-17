@@ -27,6 +27,10 @@ __Phase 3:__
 
 $vitalis Vitalis ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $vitalis Vitalis ➔ $auto 3 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $repeat repeat
 
+• Ideally, position west of Vorago at the L-Rock, where one player can utilise flanking :Flanking: (blue circled tile of the following arena reference)
+https://i.imgur.com/F6oslzi.png
+.
+
 __Phase 4:__
 
 $waterfall Waterfall ➔ $auto 3 auto attacks ➔ $vitalis Stone Clone ➔ $auto 7 auto attacks ➔ $vitalis Vitalis ➔ $auto 3 auto attacks ➔ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto attacks ➔ $repeat repeat
