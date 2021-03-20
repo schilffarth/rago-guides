@@ -111,7 +111,6 @@ Ice Nihils $nihilice and Ripper Demons $ripper will cause Scopulii $scop to rand
 • To keep their aggression, throw vuln Bombs $vbomb at them
 • Devotion $devo once the first Scopulus is about to die
 • Prioritize AoE damage 
-
 • Arena reference
 .
 https://cdn.discordapp.com/attachments/676485011268042761/747035088776200313/scop_nm.png
