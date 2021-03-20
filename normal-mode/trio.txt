@@ -75,6 +75,7 @@ This phase is FFA-Bomb Tank after Vorago jumps. Since you will be separated from
 __Phase 4:__
 
 Destroy rocks according to HP management or if under the effect of cade cept $cept. Maul pieces $maulpiecea $maulpieceb may be stuck beneath rocks $ceil. Check your minimap to know where the piece is found if you can not find it. If after breaking the rock you still can not see it you have to move your camera up and they will appear. Otherwise wait until the next phase as they will be automatically dropped into Phase 5.
+
 .
 __Phase 5:__
 
@@ -164,8 +165,8 @@ As described in the mechanics channel for #vitalis, Vitalii $vitalis occasionall
 Illustrated arena reference (position at the green highlighted area):
 .
 https://cdn.discordapp.com/attachments/676485011268042761/767020113638850560/phase5_grid_vitalis_001.png
-.
 .Green Bomb
+
 > __**Green Bomb**__
 
 $green Green Bomb reference: #green-bomb
@@ -263,4 +264,4 @@ __Phase 5:__
 • $vitalis **Vitalis** {link:Vitalis}
 • $green **Green Bomb** {link:Green Bomb}
 • $ts **Team Split** {link:Team Split}
-• $purple **The End** {link:Purple Bomb}
+• $purple **The End** {link:The End}
