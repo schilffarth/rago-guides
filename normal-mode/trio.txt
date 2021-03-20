@@ -5,7 +5,7 @@ Guide written by <@184918342392479744>, <@164133228989513728>, <@316175818458136
 
 The Top Lure Voke 5 (TL5) is the primary focus of this guide. The responsibilities of the TL5 are to climb in Phase 1 (reference: #climbing) and lure Vorago him into jump spot, and to take the 5th Bleed $bleed with provoke $voke on every Bleed set throughout Phase 2 to 4 (reference: #clearing-bleeds). The TL5 always positions farther away from Vorago than the Base Tank and closer than the Bomb Tank (3-4 steps away).  If a Phase, Rotation or role is not mentioned on any Phase, it is because their jobs do not differ from higher team sizes and the TL5 does not have a specific job other than dpsing.
 
-This guide focuses on Trio Normal Mode Vorago only and will not explain the basics of Vorago, for those go to #mechanics and #phase-overview. The guide is split into three roles: Base Tank, Bomb Tank and TL5. For the full strategies on Base Tank and Bomb Tank check #duo.
+This guide focuses on Trio Normal Mode Vorago only and will not explain the basics of Vorago, for those go to the **Mechanics** category (reference: #mechanics). The guide is split into three roles: Base Tank, Bomb Tank and TL5. For the full strategies on Base Tank and Bomb Tank check #duo.
 
 .Phase 1
 > __**Phase 1**__
@@ -17,14 +17,17 @@ The only difference between Phase 1 in Trios compared to 4 man teams is that the
 • Use Excalibur $excal on dropdown and Vitality $vitality if you are not doing the Acceleration climb $accel
 • Eat to `8,000` HP since you’re getting Blues $blue
 • The faster you are, the less damage you will take
+• Provoke when you're on spot. If it's mislured, provoke again the Base Tank takes Vorago East
 • In Trios you should jump under `50,000` HP or right away if there is a Melee Base Tank
 • If you need to drop the piece because you need the inventory space, do not do it until Phase 2 starts
+
 
 .Phase 2
 > __**Phase 2**__
 
 • Provoke $voke after every 4th Bleed $bleed to take 5th one (reference: #clearing-bleeds)
-• Activate all Gravity Fields so Base Tank and Bomb can focus on the other mechanics 
+• Activate all Gravity Fields so Base Tank and Bomb can focus on the other mechanics
+• Deal with Red Bombs $red as usual (reference: #cade-cept)
 • If you are in charge of dummying $dummy Phase 2, drop it before BHD finishes
 • The second maul piece (b) $maulpieceb will appear on the ground after passing BHD (reference: #maul)
 • Kill Vorago and welcome to phase 3
@@ -135,6 +138,7 @@ Bringing Dominion Mines $mines is highly recommended for Phases 4 and 5!
 __Phase 3:__
 
 • Everyone will pick a corner and be in melee distance
+• When you pick a spot, stay away from other players to avoid sharing additional hits
 • You will receive both Melee swipes $swipe and Blue Bombs $blue during this Phase because everyone is MD
 • You must prayer flick them in time $deflectmelee $deflectmagic
 • During Reflect $link, equip an item via clicking in your inventory (this will make you stop attacking)
