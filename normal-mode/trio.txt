@@ -83,7 +83,8 @@ Ceilings $ceil Phase 5 shares the same mechanics and strategies with #team-split
 • Position in the South-East
 • Once the Team Split :teamsplit: spawned, activate your Ultimate :Berserk: :DeathsSwiftness: :Sunshine: (if TCing: Pre-Ultimate before TS spawn - Reference: #target-cycle)
 • After entering a TS, spam-click Vorago to automatically move back in the earliest that Vorago becomes attackable again and re-position yourself correctly in the South-East
-• Position closer than the Bomb Tank to not receive any Blue Bombs :bluebomb~1: (the easiest approach for not dragging Blue Bombs is to tank the first Team Split explosion and stay in your Ultimate in the South-East)
+• Position closer than the Bomb Tank to not receive any Blue Bombs :bluebomb~1:
+• The easiest approach for not dragging Blue Bombs is to tank the first Team Split explosion and stay in your Ultimate in the South-East
 • Reprisal :Reprisal: can be utilized perfectly for the 8,000 typeless hit from a Team Split explosion (need to pick Vorago as active target for Reprisal to deal damage)
 • Off for Reflect :reflect:
 • Clear Bleeds :Dismember: (reference: #clearing-bleeds)
@@ -164,7 +165,6 @@ Illustrated arena reference (position at the green highlighted area):
 .
 https://cdn.discordapp.com/attachments/676485011268042761/767020113638850560/phase5_grid_vitalis_001.png
 .
-
 .Green Bomb
 > __**Green Bomb**__
 
@@ -203,13 +203,18 @@ __Phase 3:__
 • If you are using an ultimate on dropdown, make sure you place it close to Vorago and Surge $surge or Bladed Dive $bd to it after Team Split ends
 • Reprisal $reprisal can be used to tank the typeless hit of the Team Split
 • You can not Reprisal the first Team Split of Phases 3 and 5 if you do not TC (reference: #target-cycle)
+• Step into your respective color for each Team Split :teamsplit:
+• Position closer than the Bomb Tank to not receive any Blue Bombs :bluebomb~1: 
+• Melee can activeateBerserk :Berserk: during the second Team Split
+• If you receive a random Red Bomb :redbomb~1:, move away from the team
  
 __Phase 5:__
 
 • Position in the South-East
 • Once the Team Split :teamsplit: spawned, activate your Ultimate :Berserk: :DeathsSwiftness: :Sunshine: (if TCing: Pre-Ultimate before TS spawn - Reference: #target-cycle)
 • After entering a TS, spam-click Vorago to automatically move back in the earliest that Vorago becomes attackable again and re-position yourself correctly in the South-East
-• Position closer than the Bomb Tank to not receive any Blue Bombs :bluebomb~1: (the easiest approach for not dragging Blue Bombs is to tank the first Team Split explosion and stay in your Ultimate in the South-East)
+• Position closer than the Bomb Tank to not receive any Blue Bombs :bluebomb~1:
+• The easiest approach for not dragging Blue Bombs is to tank the first Team Split explosion and stay in your Ultimate in the South-East
 • Reprisal :Reprisal: can be utilized perfectly for the 8,000 typeless hit from a Team Split explosion (need to pick Vorago as active target for Reprisal to deal damage)
 • Off for Reflect :reflect:
 • Clear Bleeds :Dismember: (reference: #clearing-bleeds)
@@ -225,9 +230,10 @@ $purple The End reference: #the-end
 
 __Phase 3:__
 
-• Follow Vorago's arms rotating counterclockwise
+• Follow Vorago's arms rotating counter-clockwise
 • Glitch out of Vorago's arms (reference: #the-end) whenever it is possible and Ultimate during the 3rd quadrant
-• If you do not glitch out, make sure you pray Mage $deflectmagic and stay in melee distance so you do not get extra damage from the Bombs that are being tagged (usually Blues $blue in trio)
+• If you do not glitch out, pray Mage $deflectmagic and stay in melee distance so you do not get extra damage from the Blue Bombs $blue that are being tagged
+• Recommended strategy: Don't tag Bombs and be ready to use your Powerburst of Vitality $vitality once Vorago stands up
 
 __Phase 4:__
 
