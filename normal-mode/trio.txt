@@ -75,7 +75,7 @@ This phase is FFA-Bomb Tank after Vorago jumps. Since you will be separated from
 __Phase 4:__
 
 Destroy rocks according to HP management or if under the effect of cade cept $cept. Maul pieces $maulpiecea $maulpieceb may be stuck beneath rocks $ceil. Check your minimap to know where the piece is found if you can not find it. If after breaking the rock you still can not see it you have to move your camera up and they will appear. Otherwise wait until the next phase as they will be automatically dropped into Phase 5.
-
+.
 __Phase 5:__
 
 Ceilings $ceil Phase 5 shares the same mechanics and strategies with #team-split $ts. For this reason, this same strategy will appear on the Team Split section below.
@@ -92,8 +92,8 @@ Ceilings $ceil Phase 5 shares the same mechanics and strategies with #team-split
 • Gif for reference
 .
 https://cdn.discordapp.com/attachments/738844964447846473/814500478594842667/11_1.gif
-.
 .Scopulus
+
 > __**Scopulus**__
 
 $scop Scopulus reference: #scopulus
@@ -207,7 +207,8 @@ __Phase 3:__
 • Position closer than the Bomb Tank to not receive any Blue Bombs :bluebomb~1: 
 • Melee can activeateBerserk :Berserk: during the second Team Split
 • If you receive a random Red Bomb :redbomb~1:, move away from the team
- 
+
+.
 __Phase 5:__
 
 • Position in the South-East
@@ -222,8 +223,8 @@ __Phase 5:__
 • Gif for reference
 .
 https://cdn.discordapp.com/attachments/738844964447846473/814500478594842667/11_1.gif
-.
 .The End
+
 > __**The End**__
 
 $purple The End reference: #the-end
@@ -253,10 +254,10 @@ __Phase 5:__
 > __**Index**__
 
 • $pin **Introduction** {link:Introduction}
-• $repeat **Overview** {link:Phase 1}
-• $repeat **Overview** {link:Phase 2}
-• $repeat **Overview** {link:Phase 4}
-• $repeat **Overview** {link:Phase 5}
+• $repeat **Phasew 1** {link:Phase 1}
+• $repeat **Phasew 2** {link:Phase 2}
+• $repeat **Phasew 4** {link:Phase 4}
+• $repeat **Phasew 5** {link:Phase 5}
 • $ceil **Ceiling Collapse** {link:Ceilings}
 • $scop **Scopulus** {link:Scopulus}
 • $vitalis **Vitalis** {link:Vitalis}
