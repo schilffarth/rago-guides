@@ -238,7 +238,7 @@ __Phase 3:__
 __Phase 4:__
 
 • Follow Vorago's arms rotating counterclockwise
-• Stay distanced to the person tagging the Red Bombs $red
+• Stay in melee distance while the Red Bomb $red are being tagged
  
 __Phase 5:__
 
