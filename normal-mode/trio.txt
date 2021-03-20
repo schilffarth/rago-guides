@@ -26,12 +26,18 @@ The only difference between Phase 1 in Trios compared to 4 man teams is that the
 • Provoke $voke after every 4th Bleed $bleed to take 5th one (reference: #clearing-bleeds)
 • Activate all Gravity Fields so Base Tank and Bomb can focus on the other mechanics 
 • If you are in charge of dummying $dummy Phase 2, drop it before BHD finishes
+• The second maul piece (b) $maulpieceb will appear on the ground after passing BHD (reference: #maul)
+• Kill Vorago and welcome to phase 3
 
 .Phase 4
 > __**Phase 4**__
 
+• Step into Waterfalls :waterfall: and leave them as soon as possible by spam-clicking an ability 
+• Position close enough to Vorago to not drag any Blue Bombs $blue
+• If receiving a Stone Clone $vitalis, kill it
 • Make sure to pick up at pieces as Phase 4 starts or as Phase 2 ends (reference: #maul)
 • Provoke $voke after every 4th Bleed $bleed to take 5th one (reference: #clearing-bleeds)
+• Off for Reflects $link
 • At the end of Phase 4, it is the TL5’s job to pick up all the maul pieces and make the maul $maul before Phase 5 starts
 • If you could not pick up the last piece in time, do it right away on Phase 5 so you can ultimate before Vorago appears
 
@@ -58,14 +64,30 @@ $ceil Ceilings reference: #ceilings
 __Phase 3:__
 
 This phase is FFA-Bomb Tank after Vorago jumps. Since you will be separated from the team, whoever is farther will become the Bomb Tank. This is done to avoid anyone from ditching their ultimates. Be prepared to take Bombs $blue if that happens.
- 
+
+• Pray Magic $deflectmage if receiving bombs
+• Avoid rocks $ceil
+• Use Thresholds at the start
+• Off for Reflect $link
+• Mid rocks should be destroyed (eat above `7,000` HP)
+• Position close to Vorago after his second jump and Onslaught :Onslaught: (make use of your Adrenaline Potion to reach adrenaline for Onslaught), melee uses Berserk :Berserk:
+
 __Phase 4:__
 
-Maul pieces $maulpiecea $maulpieceb can be stuck beneath rocks $ceil. Check your minimap to know where the piece is found if you ca not find it. If after breaking the rock you still ca not see it you have to move your camera up and they will appear. Otherwise wait until the next phase as they will be automatically dropped into Phase 5.
+Destroy rocks according to HP management or if under the effect of cade cept $cept. Maul pieces $maulpiecea $maulpieceb may be stuck beneath rocks $ceil. Check your minimap to know where the piece is found if you can not find it. If after breaking the rock you still can not see it you have to move your camera up and they will appear. Otherwise wait until the next phase as they will be automatically dropped into Phase 5.
 
 __Phase 5:__
 
-Ceilings $ceil Phase 5 shares the same mechanics and strategies with #team-split $ts. For this reason, the strategy for TL5 during this Phase 5 can be found below in the Team Split section.
+Ceilings $ceil Phase 5 shares the same mechanics and strategies with #team-split $ts.
+
+• Position in the South-East
+• Once the Team Split :teamsplit: spawned, activate your Ultimate :Berserk: :DeathsSwiftness: :Sunshine: (if TCing: Pre-Ultimate before TS spawn - Reference: #target-cycle)
+• After entering a TS, spam-click Vorago to automatically move back in the earliest that Vorago becomes attackable again and re-position yourself correctly in the South-East
+• Position closer than the Bomb Tank to not receive any Blue Bombs :bluebomb~1: (the easiest approach for not dragging Blue Bombs is to tank the first Team Split explosion and stay in your Ultimate in the South-East)
+• Reprisal :Reprisal: can be utilized perfectly for the 8,000 typeless hit from a Team Split explosion (need to pick Vorago as active target for Reprisal to deal damage)
+• Off for Reflect :reflect:
+• Clear Bleeds :Dismember: (reference: #clearing-bleeds)
+• Repeat until Maul :maul~3:
 
 .Scopulus
 > __**Scopulus**__
