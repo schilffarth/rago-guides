@@ -78,7 +78,7 @@ Destroy rocks according to HP management or if under the effect of cade cept $ce
 
 __Phase 5:__
 
-Ceilings $ceil Phase 5 shares the same mechanics and strategies with #team-split $ts.
+Ceilings $ceil Phase 5 shares the same mechanics and strategies with #team-split $ts. For this reason, this same strategy will appear on the Team Split section below.
 
 • Position in the South-East
 • Once the Team Split :teamsplit: spawned, activate your Ultimate :Berserk: :DeathsSwiftness: :Sunshine: (if TCing: Pre-Ultimate before TS spawn - Reference: #target-cycle)
@@ -103,21 +103,29 @@ __Phase 3:__
 
 Ice Nihils $nihilice and Ripper Demons $ripper will cause Scopulii $scop to randomly change their target. Avoid using these familiars.
 
+• Scopuli target those closest to them or those dealing the most damage to them
 • Position at the marked green cross :negative_squared_cross_mark: and DD with the Base Tank
+• Pray Melee :DeflectMelee:
 • Provoke $voke immediately if a Scopulus walk is towards the Bomb
 • To keep their aggression, throw vuln Bombs $vbomb at them
 • Devotion $devo once the first Scopulus is about to die
+• Prioritize AOE damage: :BloodBarrage: 4taa, :DragonBreath:, :Detonate:, :Cleave:, :Quake:, :Hurricane:, :GreaterFlurry:, :BladedDive:, :Bombardment:, :MechanisedChinchompa: 
 
 __Phase 5:__
 
-Scopulus $scop Phase 5 shares the same mechanics and strategies with #the-end $purple. For this reason, the strategy for TL5 during this Phase 5 can be found below in the The End section.
+Scopulus $scop Phase 5 shares the same mechanics and strategies with #the-end $purple. For that reason, this same strategy will appear on the The End section below.
+
+• Position in the South-East and pre-Ultimate :Berserk: :DeathsSwiftness: :Sunshine:
+• Once your Purple Bomb timer hits 5 seconds (reference: #the-end), move to the North-East
+• After your Purple Bomb exploded, move back South
+• Off for Reflect :reflect:
+• Clear Bleeds :Dismember: (reference: #clearing-bleeds)
+• Repeat until Maul :maul~3:
 
 .Vitalis
 > __**Vitalis**__
 
 $vitalis Vitalis reference: #vitalis
-
-Vitalis is considered one of the hardest rotations. If you have done the other rotations properly, this will not represent an issue, but having some experience is recommended.
 
 Bringing Dominion Mines $mines is highly recommended for Phases 4 and 5!
 
@@ -143,10 +151,16 @@ __Phase 5:__
 
 As described in the mechanics channel for #vitalis, Vitalii $vitalis occasionally force your active target to switch back to Vorago. This can cause deadly PKs. Be careful your target stays on the Vitalis, and avoid using any AoE abilities if it’s close to Reflect $link.
 
-• Place Dominion Mines close to MD as the Phase starts (place them again whenever they are ready)
-• Step back, while following the South wall, to step into the Vitalis orb explosion
+• Place Dominion Mines close to MD as the Phase starts. Remember to place them again whenever they are off cooldown
+• Position in the South-East and pre-Ultimate :Berserk: :DeathsSwiftness: :Sunshine:
+• When the orb is released, step back, while following the South wall, to step on the Vitalis orb
 • Prioritize killing all spawned Vitalii
 • After blocking the orb go back to your spot 1-2 steps away from MD and by the south wall
+
+Illustrated arena reference (position at the green highlighted area):
+.
+https://cdn.discordapp.com/attachments/676485011268042761/767020113638850560/phase5_grid_vitalis_001.png
+.
 
 .Green Bomb
 > __**Green Bomb**__
