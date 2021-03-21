@@ -210,7 +210,7 @@ __Phase 3:__
 • You can not Reprisal the first Team Split of Phases 3 and 5 if you do not TC (reference: #target-cycle)
 • Step into your respective color for each Team Split $ts
 • Position closer than the Bomb Tank to not receive any Blue Bombs $blue
-• Melee can activeateBerserk $zerk during the second Team Split
+• If meleeing, Berserk $zerk should be activated during the second Team Split
 • If you receive a random Red Bomb $red, move away from the team
 
 .
@@ -242,7 +242,7 @@ __Phase 3:__
 __Phase 4:__
 
 • Follow Vorago's arms rotating counterclockwise
-• Stay in melee distance while the Red Bomb $red are being tagged
+• Stay in melee distance while Red Bombs $red are being tagged
  
 __Phase 5:__
 
@@ -257,10 +257,10 @@ __Phase 5:__
 > __**Index**__
 
 • $pin **Introduction** {link:Introduction}
-• $repeat **Phase 1** {link:Phase 1}
-• $repeat **Phase 2** {link:Phase 2}
-• $repeat **Phase 4** {link:Phase 4}
-• $repeat **Phase 5** {link:Phase 5}
+• $maulpiecea **Phase 1** {link:Phase 1}
+• $gravity **Phase 2** {link:Phase 2}
+• $waterfall **Phase 4** {link:Phase 4}
+• $$maul **Phase 5** {link:Phase 5}
 • $ceil **Ceiling Collapse** {link:Ceilings}
 • $scop **Scopulus** {link:Scopulus}
 • $vitalis **Vitalis** {link:Vitalis}
