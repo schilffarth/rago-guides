@@ -26,7 +26,7 @@ The only difference between Phase 1 in Trios compared to 4 man teams is that the
 • In Trios you should jump under `50,000` HP or right away if there is a Melee Base Tank
 • If the TL5 requires more inventory space, the maul piece (a) $maulpiecea should be dropped in the start of Phase 2
 • Avoid dropping maul pieces during the phase transition or they will disappear
-     
+
 .Phase 2
 > __**Phase 2**__
 
@@ -67,7 +67,7 @@ Every Wednesday at 00:00 GT (in-game reset), the weekly special rotation changes
 > __**Ceiling Collapse**__
 
 $ceil Ceilings reference: #ceilings
- 
+
 __Phase 3:__
 
 This phase is FFA-Bomb Tank after Vorago jumps. Since you will be separated from the team, whoever is farther will become the Bomb Tank. This is done to avoid anyone from ditching their ultimates. Be prepared to take Bombs $blue if that happens.
@@ -180,12 +180,12 @@ __Phase 3:__
 • Ultimate on dropdown away from everyone else, but in range to not get Bombs $blue
 • Tank all Green Bombs $green targeting you by eating above `10,000` HP or use the Powerburst of Vitality
 • Do not accidentally bounce the Green Bomb $green on anyone
- 
+
 __Phase 4:__
 
 • If a Green Bomb is on you, step away from any team members and tank the `10,000`
 • You can call if the Bomb $green is on you, so the Bomb Tank can Intercept $cept you to negate the damage from it
- 
+
 __Phase 5:__
 
 • Position yourself South as usual, with the difference that whoever gets the Green $green must run North, tank it and then go back South
@@ -196,7 +196,7 @@ __Phase 5:__
 > __**Team Split**__
 
 $ts Team Split reference: #team-split
- 
+
 __General Overview:__
 
 • Step into your respective color for each Team Split and go back to your position as soon as possible to avoid dragging Bombs
@@ -243,7 +243,7 @@ __Phase 4:__
 
 • Follow Vorago's arms rotating counterclockwise
 • Stay in melee distance while Red Bombs $red are being tagged
- 
+
 __Phase 5:__
 
 • Position in the north-east 1 tile away from melee distance
