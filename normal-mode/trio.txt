@@ -45,18 +45,18 @@ The only difference between Phase 1 in Trios compared to 4 man teams is that the
 • Make sure to pick up at pieces as Phase 4 starts or as Phase 2 ends (reference: #maul)
 • Provoke $voke after every 4th Bleed $bleed to take 5th one (reference: #clearing-bleeds)
 • Off for Reflects $link
-• At the end of Phase 4, it is the TL5’s job to pick up all the maul pieces and make the maul $maul before Phase 5 starts
-• If you could not pick up the last piece in time, do it right away on Phase 5 so you can ultimate before Vorago appears
+• Pick up all maul pieces after the third Waterfall
+• If you could not pick up all pieces in time, do it right away as you drop into Phase 5
+• If there's a meleer on the team, drop all the pieces by the start of Phase 4 and let them maul instead
 
 .Phase 5
 > __**Phase 5**__
 
-The Tl5 is expected to do the following for all Phase 5 regardless of the rotation.
+The TL5 is expected to do the following for all Phase 5 regardless of the rotation.
 
-• Same as the Base Tank except you are not switching with the BT, you stay as DPS for the whole Phase
-• Having the maul $maul ready on dropdown and mauling in time (reference: #maul)
-• If there is a Melee Base Tank you must do the Bomb Tank switch instead
-• Let the Melee Base Tank maul $maul due to them being in melee distance for most of the Phase
+• In the start, position in the South-East and deal damage (pre-ultimate)
+• Have the maul $maul ready in order to maul as soon as possible (reference: #maul)
+• If the Base Tank is meleeing, you must take over switching with the Bomb Tank (reference: #duo - Phase 5 strategies)
 
 .
 > __**Weekly Specials (Rotations)**__
@@ -72,7 +72,7 @@ __Phase 3:__
 
 This phase is FFA-Bomb Tank after Vorago jumps. Since you will be separated from the team, whoever is farther will become the Bomb Tank. This is done to avoid anyone from ditching their ultimates. Be prepared to take Bombs $blue if that happens.
 
-• Pray Magic $deflectmage if receiving bombs
+• Pray Magic $deflectmagic if receiving bombs
 • Avoid rocks $ceil
 • Use Thresholds at the start
 • Off for Reflect $link
@@ -81,7 +81,7 @@ This phase is FFA-Bomb Tank after Vorago jumps. Since you will be separated from
 
 __Phase 4:__
 
-Destroy rocks according to HP management or if under the effect of cade cept $cept. Maul pieces $maulpiecea $maulpieceb may be stuck beneath rocks $ceil. Check your minimap to know where the piece is found if you can not find it. If after breaking the rock you still can not see it you have to move your camera up and they will appear. Otherwise wait until the next phase as they will be automatically dropped into Phase 5.
+Destroy rocks according to HP management or if under the effect of cade cept $cade $cept. Maul pieces $maulpiecea $maulpieceb may be stuck beneath rocks. Check your minimap to know where the pieces are located. If you still can not see the maul pieces, move your camera upwards then downwards and they should appear. All maul pieces will appear in Phase 5 at latest.
 
 .
 __Phase 5:__
@@ -111,8 +111,8 @@ Ice Nihils $nihilice and Ripper Demons $ripper will cause Scopulii $scop to rand
 • Scopuli target those closest to them or those dealing the most damage to them
 • Position at the marked green cross :negative_squared_cross_mark: and DD with the Base Tank
 • Pray Melee $deflectmelee
-• Provoke $voke immediately if a Scopulus walk is towards the Bomb
-• To keep their aggression, throw vuln Bombs $vbomb at them
+• Provoke $voke immediately if a Scopulus walks towards the Bomb Tank
+• To keep their aggression, throw vuln Bombs $vbomb at them and don't provoke $voke unless it's needed
 • Devotion $devo once the first Scopulus is about to die
 • Prioritize AoE damage 
 • Arena reference
@@ -142,10 +142,9 @@ __Phase 3:__
 
 • Everyone will pick a corner and be in melee distance
 • When you pick a spot, stay away from other players to avoid sharing additional hits
-• You will receive both Melee swipes $swipe and Blue Bombs $blue during this Phase because everyone is MD
+• Since everyone positions in MD, you will receive both melee Swipes $swipe and Blue Bombs $blue
 • You must prayer flick them in time $deflectmelee $deflectmagic
-• During Reflect $link, equip an item via clicking in your inventory (this will make you stop attacking)
-• You can also click under yourself to OFF if you are more experienced
+• During Reflect $link, equip an item via clicking in your inventory or right-click "walk here" right under yourself to stop attacking
 • This Phase has Bleeds $bleed after the second cycle (if they happen, voke $voke the 5th one as usual)
 • Do not move out of MD at any point during the Phase and __**never**__ go to the Vitalis orb on Phase 3
 
