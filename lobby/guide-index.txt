@@ -43,10 +43,9 @@ Phase breakdown of weekly special mechanics in Normal and Hard Mode
 .
 __Normal Mode:__
 
-• $blue #large-teams Roles and weekly specials in 4man+ NM
-• $red #trio Strategy responsibilities of a TL5 in Trio NM
-• $green #duo Strategy responsibilities of Bomb & Base Tank
-• $purple #solo How to achieve your first Solo Phase 5
+• $blue #trio Strategy responsibilities of a TL5 in Trio NM
+• $red #duo Strategy responsibilities of Bomb & Base Tank
+• $green #solo How to achieve your first Solo Phase 5
 
 __Hard Mode:__
 
