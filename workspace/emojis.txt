@@ -71,6 +71,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 **E**
 • $ecb `ecb`
 • $elysian `elysian`
+• $energizing `energizing`
 • $ent `ent`
 • $eof `eof`
 • $escape `escape`
@@ -141,6 +142,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $onyxbolts `onyxbolts`
 .p
 **P**
+• $piercing `peircing`
 • $pin `pin`
 • $preparation `preparation`
 • $purple `purple`
