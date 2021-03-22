@@ -58,6 +58,7 @@
   "$accel": "<:PowerburstOfAcceleration:732511385648627733>",
   "$achievement": "<:achievement:747084207150333962>",
   "$affliction": "<:Affliction:640697670595248139>",
+  "$afterschock": "<:aftershock:823636028005941289>",
   "$alt1": "<:alt1:755303009021329478>",
   "$anticipation": "<:Anticipation:612415877643501635>",
   "$apot": "<:apot:813153660577251359>",
@@ -112,7 +113,7 @@
   "$doublesurge": "<:DoubleSurgeCodex:640652880407166999>",
   "$dummy": "<:CombatDummy:612425011113754634>",
   "$ecb": "<:EldritchCrossbow:644271590133071883>",
-  "$elysian": "<:elysian:823634367346638910>"
+  "$elysian": "<:elysian:823634367346638910>",
   "$ent": "<:entangle:812766061173932102>",
   "$eof": "<:EssenceOfFinalityAmuletOrnamente:745544781962149939>",
   "$escape": "<:Escape:612343146570842115>",
