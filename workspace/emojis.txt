@@ -8,6 +8,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $accel `accel`
 • $achievement `achievement`
 • $affliction `affliction`
+• $aftershock `afterschock`
 • $anticipation `anticipation`
 • $apot `apot`
 • $asphyx `asphyx`
@@ -69,6 +70,8 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 .e
 **E**
 • $ecb `ecb`
+• $elysian `elysian`
+• $energizing `energizing`
 • $ent `ent`
 • $eof `eof`
 • $escape `escape`
@@ -78,6 +81,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $flank `flank`
 • $fortitude `fortitude`
 • $fots `fots`
+• $fragmentation `fragmentation`
 • $freedom `freedom`
 .g
 **G**
@@ -139,6 +143,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $onyxbolts `onyxbolts`
 .p
 **P**
+• $piercing `peircing`
 • $pin `pin`
 • $preparation `preparation`
 • $purple `purple`
@@ -216,6 +221,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 **V**
 • $vbomb `vbomb`
 • $vengeance `vengeance`
+• $vigour `vigour`
 • $vitalis `vitalis`
 • $vitality `vitality`
 • $voke `voke`
