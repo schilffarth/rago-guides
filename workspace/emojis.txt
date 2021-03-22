@@ -69,6 +69,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 .e
 **E**
 • $ecb `ecb`
+• $elysian `elysian`
 • $ent `ent`
 • $eof `eof`
 • $escape `escape`
