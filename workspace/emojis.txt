@@ -81,6 +81,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $flank `flank`
 • $fortitude `fortitude`
 • $fots `fots`
+• $fragmentation `fragmentation`
 • $freedom `freedom`
 .g
 **G**
