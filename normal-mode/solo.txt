@@ -1,17 +1,17 @@
 .Intro
 Guide written by <@175995416955977728>
 
-> __**Solo Vorago**__
+> __**Introduction**__
 
 This guide is about soloing P5 as a full kill is not yet doable, because of P1 mechanically requiring 2 people. Soloing P5 Vorago is an impressive achievement once thought of to be impossible. A large portion of the reason how it was eventually completed is due to the discovery of stacking 3 attacks in a tick. The reason this is so impactful is because Vorago is only allowed to move once per tick, and any more than 1 square of pushback is nulled. Stacking attacks has a chance of blocking 2 squares of pushback with a melee hit or only 1 square of pushback if you get a bomb as the third hit. This is a lot better than tanking the 3 attacks in each of the individual ticks.
 
-.Stacking autos
+.Stacking Auto Attacks
 > __**Stacking Auto Attacks**__
 
 The discovery of stacking 3 auto attacks in 1 tick plays a primary part in achieving a solo Vorago phase 5. Vorago $vorago is allowed to move only once per tick - Any more than 1 square is nulled. Stacking autos always blocks 1 square of push-back with the chance of blocking another.
 
 • Stacking two blue bombs $blue to deal damage in the same tick blocks one square of push backwards
-• Receiving a melee wwipe $swipe as the third auto results in another blocked square
+• Receiving a melee swipe $swipe as the third auto results in another blocked square
 
 Stacking 3 of Vorago’s auto attacks in 1 tick requires you to first take a *Far Bomb* followed by a *Close Bomb* and lastly a *Melee Swipe*. Do not deal damage during this process: Vorago **must not be stalled** during his 3 consecutive auto attacks!
 
@@ -60,7 +60,7 @@ https://cdn.discordapp.com/attachments/676485011268042761/757237876630093955/rs2
 https://cdn.discordapp.com/attachments/676485011268042761/757237893000462407/rs2client_2020-09-04_22-18-10.png
 .
 
-.Clearing bleeds
+.Clearing Bleeds
 > __**Clearing Bleeds**__
 
 Clearing Bleeds $bleed in a solo phase 5 optimally requires the Double Escape Codex $doubleescape to be unlocked.
@@ -74,7 +74,7 @@ Clearing Bleeds $bleed in a solo phase 5 optimally requires the Double Escape Co
 .Push
 > __**Push**__
 
-Soloing requires you to outlast Vorago's pushback. His melee swipe $swipe / blue bomb $blue each deal a maximum of 1 square push backwards. To push 1 square forwards 20,000 damage is required to be dealt. This means that one of Vorago's attacks equates to about ~ 20k of the player's damage that they will have to make up for. Damage dealt beyond the required damage for a push in the same tick adds to the overflow. A detailed explanation of the overflow mechanic can be read in #zero-linking.
+Soloing requires you to outlast Vorago's pushback. His melee swipe $swipe / blue bomb $blue each deal a maximum of 1 square push backwards. To push 1 square forwards `20,000` damage is required to be dealt. This means that one of Vorago's attacks equates to about ~ 20k of the player's damage that they will have to make up for. Damage dealt beyond the required damage for a push in the same tick adds to the overflow. A detailed explanation of the overflow mechanic can be read in #zero-linking.
 
 Due to walking limitations, Vorago can push a maximum of 1 square per tick. Taking multiple auto attacks in one tick or dealing enough damage to push 2 squares forwards within one tick will result in lost push, causing only 1 square of push.
 
@@ -124,32 +124,31 @@ Stack 3 Auto Attacks > Clear Bleeds $bleed with $escape > $freedom > $shadowtend
 
 Stack 3 Auto Attacks
 
-$ts $preparation > $reprisal > $anticipation > $sgb > :Snipe: > $cshot > $gdazing > $cade
+$ts $preparation > $reprisal > $anticipation > $sgb > $snipe > $cshot > $gdazing > $cade
 
 Ideally you are 2 squares off Maul $maul at this point. If not, repeat the same procedure until you are 2 squares off Maul. Once you are 2 off Maul after a Barricade $cade finish the kill:
 
-$cshot > $frag > $shadowtendrils > $snap > $sgb > $gbarge $maul
+$cshot > $fragmentation > $shadowtendrils > $snap > $sgb > $gbarge $maul
 
-.Other information
-> __**Other Information**__
+.Miscellaneous Information
+> __**Miscellaneous Information**__
 
-• Equip Onyx Bakriminel Bolts $onyxbolts after Vorago reaches 70,000 HP
+• Equip Onyx Bakriminel Bolts $onyxbolts after Vorago reaches `70,000` HP
 • If your SGB $sgb pushes on the first arrow (3rd tick), you have the potential of losing some arrows (4th tick) because Vorago is not in the same spot as when the SGB was cast
 • Occasionally a bug applies to the same scenario where you lose all overflow you would have from arrows 2 - 5 (reference: #zero-linking)
 • Pushing twice with SGB also results in potentially stalling your Snap Shot $snap after Snipe $snipe in a Death's Swiftness $swiftness
 • After stalling Snap Shot, do not use abilities other than Bladed Dive $bd (to stack 3 auto attacks) and Shield Dome $dome (to mitigate damage from stacked autos), then **CLICK** on Vorago or vuln $vuln to release your Snap Shot before doing any other damaging ability
 
-__Example solo phase 5:__
-.
+__Example Solo Phase 5:__
 https://www.youtube.com/watch?v=pPJfgf5ol2A
 .
 
 > __**Index**__
 
-• $pin **Intro** {link:Intro}
-• $auto **Stacking autos** {link:Stacking autos}
+• $pin **Introduction** {link:Introduction}
+• $auto **Stacking Auto Attacks** {link:Stacking Auto Attacks}
 • $trimcape **Setup** {link:Setup}
-• $bleed **Clearing bleeds** {link:Clearing bleeds}
+• $bleed **Clearing bleeds** {link:Clearing Bleeds}
 • $vorago **Push** {link:Push}
 • $dummy **Ability Damage Rotations** {link:Ability Damage Rotations}
-• $copy **Other information** {link:Other information}
+• $copy **Other information** {link:Miscellaneous Information}

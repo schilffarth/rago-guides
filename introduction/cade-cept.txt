@@ -22,7 +22,7 @@ If you extended your Barricade $cade long enough to have well above 10 seconds o
 
 • Red Bombs $red always go to the person standing farthest away from Vorago
 • If multiple players are in melee distance and no other person any farther out, the Base Tank will be targeted with the Red Bomb
-• **Random** Red Bombs can always occur (reference: #mechanics)
+• **Random** Red Bombs can always occur (reference: #overview)
 
 __Execution:__
 

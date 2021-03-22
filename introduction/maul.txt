@@ -14,7 +14,7 @@ __Maul Pieces:__
 This piece is acquired in phase 1 during the jump on Vorago's back. It will automatically appear in the inventory of the person who is jumping, this is why you need to have at least one free inventory space to be able to jump.
 
 • $maulpieceb Ancient Weapon Piece (b)
-This piece can be acquired in phase 2 after the Bring Him Down mechanic is passed (reference: #mechanics). You are required to deal enough damage to Vorago to knock this piece loose. The piece will drop on the floor and can be picked up. If the piece is left on the ground it carries through all phases. It is recommended to pick it up after phase 3 (phase 8 in Hard Mode).
+This piece can be acquired in phase 2 after the Bring Him Down mechanic is passed (reference: #overview). You are required to deal enough damage to Vorago to knock this piece loose. The piece will drop on the floor and can be picked up. If the piece is left on the ground it carries through all phases. It is recommended to pick it up after phase 3 (phase 8 in Hard Mode).
 
 • $maulpiecehandle Ancient Weapon Handle
 The Handle can be acquired in phase 4 (or 9 in Hard Mode). Once Vorago is killed, the piece will drop on the floor and can be picked up.

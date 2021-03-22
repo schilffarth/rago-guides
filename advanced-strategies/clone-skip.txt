@@ -3,7 +3,7 @@ Guide written by <@175995416955977728> and <@316175818458136588>.
 
 > __**Stone Clone Skip**__
 
-A Stone Clone $vitalis in Phase 4 / 9 (reference: #mechanics) always targets a person that Vorago does not hold aggression towards (the Base Tank). In other words, the Base Tank **never** receives a Stone Clone. It has been discovered in scenarios where you end in a Solo Phase 4, that Vorago will bug for a few ticks and then proceed with the weekly special, skipping the Stone Clone and its following 7 auto attacks completely.
+A Stone Clone $vitalis in Phase 4 / 9 (reference: #overview) always targets a person that Vorago does not hold aggression towards (the Base Tank). In other words, the Base Tank **never** receives a Stone Clone. It has been discovered in scenarios where you end in a Solo Phase 4, that Vorago will bug for a few ticks and then proceed with the weekly special, skipping the Stone Clone and its following 7 auto attacks completely.
 
 • One player vokes $voke, underwalks Vorago $vorago and lures him to whatever wall he is walking towards
 • All other players quickly position at the opposite side of the arena, so that they leave the visibility range to Vorago

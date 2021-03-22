@@ -78,7 +78,7 @@ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto atta
 • If a bleed is not cleared before another is applied, the player will take `6,000` typeless damage
 • $link Reflect: Vorago links to a random player for **9.6** seconds, channeling all incoming damage towards them. Stop attacking during reflects
 
-The Base, Bomb Tank and TL5 deal with bleeds $bleed and Reds $red until the 4th Gravity Field $gravity is activated. At this point, Vorago progresses with the Bring Him Down mechanic (reference: #mechanics). Spam-click Vorago and deal damage with 1 - 2 thresholds until the fight phases.
+The Base, Bomb Tank and TL5 deal with bleeds $bleed and Reds $red until the 4th Gravity Field $gravity is activated. At this point, Vorago progresses with the Bring Him Down mechanic (reference: #overview). Spam-click Vorago and deal damage with 1 - 2 thresholds until the fight phases.
 
 If you happen to receive a Bleed $bleed, simply use Freedom $freedom to clear it. To read an in-depth explanation, refer to #clearing-bleeds.
 

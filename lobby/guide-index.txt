@@ -31,7 +31,7 @@ __Introduction:__
 
 __Mechanics:__
 
-• $gravity #mechanics Detailed overview of all Vorago mechanics and their differences between NM and HM
+• $gravity #overview Detailed overview of all Vorago mechanics and their differences between NM and HM
 Phase breakdown of weekly special mechanics in Normal and Hard Mode
 • $ceil #ceilings Ceilings
 • $scop #scopulus Scopulus, Broken flanking, stacking Scopuli in NM, spawn locations

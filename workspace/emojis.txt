@@ -8,7 +8,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $accel `accel`
 • $achievement `achievement`
 • $affliction `affliction`
-• $aftershock `afterschock`
+• $aftershock `aftershock`
 • $anticipation `anticipation`
 • $apot `apot`
 • $asphyx `asphyx`

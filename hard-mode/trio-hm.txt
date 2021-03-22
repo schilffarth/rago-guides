@@ -81,7 +81,7 @@ https://cdn.discordapp.com/attachments/500971699349749760/799212061342564367/unk
 
 The Base Tank's responsibilities throughout Phase 2 are not any different to basing Normal Mode.
 
-References: #duo, #recenter, #mechanics
+References: #duo, #recenter, #overview
 
 .Base Phase 3
 > __**Base Tank - Phase 3 Ceilings**__
@@ -247,7 +247,7 @@ Usually the Bomb Tank #2 (the Climber) takes over cade cepting $cade $cept the f
 
 You should have one person dedicated to shattering $shatter the end of Bring Him Down (preferably the Ranger).
 
-References: #duo, #mechanics
+References: #duo, #overview
 
 One Bomb Tank is assigned to placing a Combat Dummy $dummy during Bring Him Down.
 .Ranged Phase 3
@@ -445,7 +445,7 @@ Usually the Bomb Tank #2 (the Climber) takes over cade cepting $cade $cept the f
 
 You should have one person dedicated to shattering $shatter the end of Bring Him Down (preferably the Ranger).
 
-References: #duo, #mechanics
+References: #duo, #overview
 
 One Bomb Tank is assigned to placing a Combat Dummy $dummy during Bring Him Down.
 
@@ -624,7 +624,7 @@ Usually the Bomb Tank #2 (the Climber) takes over cade cepting $cade $cept the f
 
 You should have one person dedicated to shattering $shatter the end of Bring Him Down (preferably the Ranger).
 
-References: #duo, #mechanics
+References: #duo, #overview
 
 Due to lacking inventory space as a Hybridder, it is recommended to have either the Base Tank or the Bomb Tank #1 take an additional Combat Dummy $dummy. One Bomb Tank is assigned to placing a Combat Dummy $dummy during Bring Him Down (preferably the BT#1).
 
