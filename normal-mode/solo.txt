@@ -1,4 +1,4 @@
-.Intro
+.Introduction
 Guide written by <@175995416955977728>
 
 > __**Introduction**__
