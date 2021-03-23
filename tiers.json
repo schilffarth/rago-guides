@@ -1,21 +1,20 @@
 {
   "reqs": {
     "MD Vokes": "Perform all provokes of a kill in melee distance",
-    "Cade Cept": "Barricade Intercept at all required times throughout a kill",
-    "Top Lure": "Climb in Phase 1 and provoke at **36 second timer**",
-    "Heal Other": "Crack Healing and heals during cade cepts (ironmen excluded)",
-    "BD Bleeds": "Escape-bladed diving to clear a Bleed without moving Vorago",
-    "Recenter": "Recenter Phase 2 from any location with any walking direction",
-    "Target Cycle": "Target Cycle in combination with SWH or GStaff (no cheesing)",
-    "Climber": "Climb in Phase 1 with a Bladed Dive corner cut at earliest tick and provoke at **33 seconds timer**",
-    "Natty": "Execute an advanced ability rotation with Natural Instinct tick losslessly",
-    "Solo Lure": "`.info Solo Lure`",
-    "Hammer Climber": "`.info Hammer Climber`",
-    "Advanced Solo Lure": "`.info Advanced Solo Lure`",
-    "Advanced Hammer Climber": "`.info Advanced Hammer Climber`"
+    "Heal Other": "Crack healing and usage of Heal Other during cade cepts",
+    "Cade Cept": "Cade cept at all required times",
+    "Top Lure": "Climb in P1 and provoke Vorago at 36 seconds",
+    "Target Cycle": "TC in combination with SWH / GStaff (no cheesing)",
+    "Recenter": "Recentering P2 from any location with any walking direction",
+    "Climber": "Perform a BD corner cut at the earliest tick possible and provoke Vorago at 33 seconds",
+    "BD Bleeds": "Escape-bladed dive to clear bleeds",
+    "Natty": "Natty without lost ticks until TC",
+    "Solo Lure": "Solo lure with south BD at 30,6 seconds",
+    "Hammer Climber": "Apply SWH on TC and perform a tick-lossless climb with BD corner cut (reach the final platform at 30,6 seconds)",
+    "Advanced Solo Lure": "Initial lure must be successful and 27,6 seconds until south BD",
+    "Advanced Hammer Climber": "Either Auto Deto SWH, stalled SWH > Snap Shot or pre-Zerk > stalled SWH > Cane and perform a tick-lossless acceleration climb (reach the final platform at 28,8 seconds)"
   },
   "guides": {
-    "large-teams": "744505609696837726",
     "trio": "753663290718158898",
     "duo": "744505794682290217",
     "solo": "757226530194849832",
@@ -48,6 +47,66 @@
     "stalling-abilities": "810941436484517889"
   },
   "tiers": [
+    {
+      "name": "Trio HM",
+      "reqs": [
+        "Achieve a Trio HM kill on any rotation (1/6)"
+      ],
+      "apps": [
+        "VOD of a successful Trio HM kill"
+      ],
+      "guides": [
+        "trio-hm"
+      ]
+    },
+    {
+      "name": "Duo HM",
+      "reqs": [
+        "Achieve a Duo HM kill on any rotation (1/6)"
+      ],
+      "apps": [
+        "VOD of a successful Duo HM kill"
+      ],
+      "guides": [
+        "duo-hm"
+      ]
+    },
+    {
+      "name": "Duo HM 6/6",
+      "reqs": [
+        "Achieve a Duo HM kill on every rotation (6/6)"
+      ],
+      "apps": [
+        "VOD of a successful Duo HM kill on every rotation"
+      ],
+      "guides": [
+        "duo-hm"
+      ]
+    },
+    {
+      "name": "Solo Vorago",
+      "reqs": [
+        "Achieve a Solo Phase 5 on any rotation (1/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5"
+      ],
+      "guides": [
+        "solo"
+      ]
+    },
+    {
+      "name": "Forever Alone",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "solo"
+      ]
+    },
     {
       "name": "Trio NM",
       "reqs": [
