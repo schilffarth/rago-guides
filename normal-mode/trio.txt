@@ -7,7 +7,7 @@ Guide written by <@184918342392479744>, <@164133228989513728>, <@316175818458136
 The primary focus of this Trio Normal Mode guide are the strategy responsibilities of the TL5. Most can be applied to a free DPS in 4man or larger teams. To read up on Base and Bomb Tank strategies, check out our Duo Normal Mode guide (reference: #duo).
 
 The responsibilities of the TL5 are to climb in Phase 1 (reference: #climbing), lure Vorago into jump spot and take the 5th Bleed $bleed with provoke $voke on every Bleed set throughout Phase 2 to 4 (reference: #clearing-bleeds).
-Always positions farther away from Vorago than the Base Tank and closer than the Bomb Tank (3-4 steps away).  If a Phase is not mentioned on this guide it is because the strategies do not differ from higher team sizes and the TL5 does not have a specific job other than dpsing.
+Always positions farther away from Vorago than the Base Tank and closer than the Bomb Tank (3-4 steps away).  If a Phase is not mentioned on this guide it is because the strategies do not differ from higher team sizes and the TL5 does not have a specific job other than dpsing. Base should lure Vorago near to the edge of TL5 jump spot and ultimate at 7 seconds then target cycle Dragon Breath with voke at 9 seconds (reference: #target-cycle).
 
 This guide focuses on **Trio Normal Mode** so it will not explain the basics of Vorago, for those go to the **Mechanics** category (reference: #overview).
 
