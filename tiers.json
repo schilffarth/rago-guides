@@ -355,7 +355,7 @@
         "Upkeep adrenaline at all necessary times",
         "Utilize apots and ultimates",
         "MD Vokes",
-        "Heal Other",
+        "Heal Other"
       ],
       "apps": [
         "VOD of 1 kill as Base Tank on pace for 3 KPH",
@@ -422,6 +422,7 @@
         "`.info Certified HM Base`",
         "3 KPH as Base Tank in 4man HM",
         "Significantly contribute to progressing DPS phases",
+        "Cade Cept",
         "Target Cycle",
         "Recenter"
       ],
@@ -431,6 +432,7 @@
       ],
       "guides": [
         "large-teams-hm",
+        "cade-cept",
         "target-cycle",
         "recenter"
       ]
