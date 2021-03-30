@@ -147,6 +147,7 @@ __Phase 3:__
 • During Reflect $link, equip an item via clicking in your inventory or right-click "walk here" right under yourself to stop attacking
 • This Phase has Bleeds $bleed after the second cycle (if they happen, voke $voke the 5th one as usual)
 • Do not move out of MD at any point during the Phase and __**never**__ go to the Vitalis orb on Phase 3
+https://imgur.com/a/ajBNL97
 
 .
 __Phase 4:__
