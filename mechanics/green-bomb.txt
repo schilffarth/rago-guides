@@ -10,7 +10,7 @@ At the weekly special Green Bomb $green Vorago launches a bomb, dealing `10,000`
 • On explosion, `10,000` damage is dealt to the primary target, cancelling all defensive abilities and draining **10%** adrenaline
 • Taking the `10,000` damage results in Vorago $vorago going into a Reflect $link immediately
 
-A confirmed bug exists that a player signing to the 10,000 typeless damage causes Vorago to immediately send out another Green Bomb $green.
+A confirmed bug exists that a player signing to the `10,000` typeless damage causes Vorago to immediately send out another Green Bomb $green.
 
 __Bridging:__
 
