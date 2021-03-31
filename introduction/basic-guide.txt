@@ -17,6 +17,8 @@ __Challenging Vorago:__
 • Boost your life points above `12,500` in order to pass the entry hit (T90 shield, bonfire $bonfire and eat a Rocktail Soup $soup)
 • The Powerburst of Vitality $vitality can be utilised shortly before the entry hit (drink it ~ 15 seconds after challenging)
 
+https://imgur.com/6UlUcjB
+
 __Setup:__
 
 Some items are useless at Vorago, refer to #presets for an overview of what to take and adjust the examples to your needs. Preset example:
