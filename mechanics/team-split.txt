@@ -69,18 +69,19 @@ Guide section written by <@129324652114739200>.
 
 Broken Team Splits are referred to as the phenomenon Vorago firing auto attacks $auto while channeling a Team Split $ts. Vorago can use both melee Swipes $swipe and Blue Bombs $blue, depending on his primary target's distance. On phases 3 and 5 (in Hard Mode phases 7 and 10 / 11 respectively) this is extremely harmful, as it decreases the time you are able to attack between Team Splits and Reflects $link. In phase 4 (phase 9 in Hard Mode) though, you can intentionally break Team Splits in order to speed up your phase times.
 
-To break a team split $ts, you simply have to apply a bleed melee channel shortly before Vorago starts charging the Team Split. Gaining the effect of Greater Barge $gbarge will allow you to apply your next channeled melee ability (Flurry $gflurry, Destroy $destroy and Assault $assault) as a Damage-Over-Time effect. It is important to know that a bleed channeled ability acts differently to a normal bleed, such as Dismember $bleed or Slaughter $slaughter. The first hit of your bleed channel acts as a normal-hitting ability, and the remaining 3 hits are applied as a bleed.
+To break a Team Split $ts, you simply have to apply a bled melee channel shortly before Vorago starts charging the Team Split. Gaining the effect of Greater Barge $gbarge will allow you to apply your next channeled melee ability (Flurry $gflurry, Destroy $destroy and Assault $assault) as a Damage-Over-Time effect. It is important to know that a bled channeled ability acts differently to a normal bleed, such as Dismember $bleed or Slaughter $slaughter. The first hit of your bled channel acts as a normal-hitting ability, and the remaining 3 hits are applied as a bleed.
 
 __Without or With Clone Skip__
 
-Clone Skip can be part of speed kill. Without Clone Skip, you will through all the attacks before Teamsplit $ts. Eventually, Clone Skip will speed your phase quickly and skips your 7 attacks $auto (reference: #clone-skip).
+todo: Rewrite this section completely!
+Clone Skip is a strategy to significantly speed up Phase 4 with no drawbacks (reference: #clone-skip). Without Clone Skip, you will through all the attacks before Teamsplit $ts. Eventually, Clone Skip will speed your phase quickly and skips your 7 attacks $auto (reference: #clone-skip).
 
 .
-Simply said: A few seconds before a Team Split, use Greater Barge $gbarge and follow a bleed melee channel. The first **bleed** hit of your channel is going to stop Vorago's interruption, triggering auto attacks $auto to be fired.
+Simply said: A few seconds before a Team Split, use Greater Barge $gbarge and follow a bled melee channel. The first **bleed** hit of your channel is going to stop Vorago's interruption, triggering auto attacks $auto to be fired.
 
 __Optimal Execution:__
 
-As explained earlier, the first hit of a bleed channel does not act as a bleed, therefore it can not break a team split. Only the 2nd, 3rd and 4th hit can. According to that there are 3 different timings for when to apply your ability in order to break the Team Split $ts the fastest way possible.
+As explained earlier, the first hit of a bled channel does not act as a bleed, therefore it can not break a team split. Only the 2nd, 3rd and 4th hit can. According to that there are 3 different timings for when to apply your ability in order to break the Team Split $ts the fastest way possible.
 
 • 1 tick **before the last** auto attack - The second bleed hit breaks
 • 1 tick **after the second last** auto attack - The third bleed hit breaks
