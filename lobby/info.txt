@@ -1,0 +1,49 @@
+.Structure:edit
+> __**Structure**__
+
+<https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit?usp=sharing>
+
+<@&676484555443798016> New members on Rago Hub
+<@&670994378566926346> Bots (surprise!)
+<@&761568449377468429> Admin of an affiliated Discord server
+<@&701714049963917423>, <@&701714940486090774>, <@&716964066479833159> MEE6 level 5, 10 or 15
+<@&759677968867393536>, <@&759677966564327425>, <@&759677966145028105>, <@&759677964257853441>, <@&759677963254890536> Completion of the respective challenges in <#730422509404684371>
+<@&670988689190420480> Assigned upon obtaining a Certified tier
+<@&739526987974180945> Assigned upon obtaining an Experienced tier
+<@&801363894320627724> Assigned upon obtaining an Insane tier
+<@&812637342737104976> Completed <#812595588578934785>
+<@&718424000388136981> Active contributor to Rago Hub, awareness of syntax & style guidelines
+<@&812637337774194689> Collaborator of the Rago Hub guide repository
+<@&824000122336706632>, <@&824000121402425455>, <@&824000119673585675>, <@&824000120424235099>, <@&824000118050390076> Achievement-based roles assigned for VOD submission
+<@&785253370889895937> Complies with the Real Ragoer requirements (10+ hours of Vorago per week and no PvM other than Vorago)
+<@&813078683069448222> Type **`!ragohub`** to self-assign the <@&813078683069448222> notification role
+
+.Staff:edit
+> __**Staff**__
+
+<@&747082974696177674>
+• <@167030651973795841>
+• <@104691370324688896>
+
+<@&671000019536707614>
+• <@316175818458136588>
+• <@300296497277173761>
+
+.Tier System
+> __**Tier System**__
+
+**Type `.info` to retrieve an overview of all role info commands! These commands will provide you a detailed description of requirements and how to apply for each tier.**
+
+.
+https://imgur.com/a/rVqnVyN
+.
+https://imgur.com/a/RpepybM
+.
+https://imgur.com/a/e90to6u
+.
+https://imgur.com/a/gCPgBJ3
+.Invite
+
+> __**Rago Hub Invite**__
+
+https://discord.gg/uqGJbKH
