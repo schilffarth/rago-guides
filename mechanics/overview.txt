@@ -234,7 +234,7 @@ Debilitating prevents the first Blue Bomb $blue from stalling Vorago which means
 • $link **Reflect** {link:Reflect}
 • $gravity **Bring Him Down** {link:Bring Him Down}
 • $shatter **Shatter** {link:Shatter}
-• $ts **Rotations** {link:Rotations}
+• $ts **Weekly Specials** {link:Weekly Specials}
 • $waterfall **Waterfall** {link:Waterfall}
 • $vitalis **Stone Clone** {link:Stone Clone}
 • $maul **Phase 5 / 10 / 11 Push** {link:Phase 5 Push}
