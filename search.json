@@ -21,300 +21,1208 @@
     ":climbing",
     ":hammerclimb"
   ],
-  "heal": [],
-  "split": [],
-  "team": [],
-  "solo": [],
-  "hammer": [],
-  "center": [],
-  "sgb": [],
-  "seren": [],
-  "shard": [],
-  "shat": [],
-  "lure": [],
-  "target": [],
-  "cycle": [],
-  "dum": [],
-  "preset": [],
-  "ceil": [],
-  "scop": [],
-  "green": [],
-  "pb": [],
-  "purple": [],
-  "mechanic": [],
-  "overflow": [],
-  "link": [],
-  "bleed": [],
-  "reflect": [],
-  "cept": [],
-  "cade": [],
-  "maul": [],
-  "normal": [],
-  "trio": [],
-  "4man": [],
-  "base": [],
-  "tl5": [],
-  "alt1": [],
-  "gb": [],
-  "orb": [],
-  "affinity": [],
-  "nihil": [],
-  "barrage": [],
-  "blitz": [],
-  "p2": [],
-  "phase": [],
-  "p4": [],
-  "p6": [],
-  "p7": [],
-  "p8": [],
-  "p9": [],
-  "p10": [],
-  "p11": [],
-  "p1": [],
-  "vitality": [],
-  "overview": [],
-  "poll": [],
-  "role": [],
-  "suggest": [],
-  "stall": [],
-  "rot": [],
-  "debil": [],
-  "bhd": [],
-  "bring": [],
-  "down": [],
-  "intro": [],
-  "learn": [],
-  "achiev": [],
-  "index": [],
-  "bombi": [],
-  "drop": [],
-  "lining": [],
-  "large": [],
-  "5man": [],
-  "6man": [],
-  "7man": [],
-  "library": [],
-  "food": [],
-  "dome": [],
-  "mine": [],
-  "domin": [],
-  "hp": [],
-  "entry": [],
-  "line": [],
-  "voke": [],
-  "voking": [],
-  "p5": [],
-  "red": [],
-  "meta": [],
-  "solak": [],
-  "fox": [],
-  "zoro": [],
-  "flank": [],
-  "time": [],
-  "timing": [],
-  "under": [],
-  "rock": [],
-  "mid": [],
-  "debuff": [],
-  "eof": [],
-  "finality": [],
-  "vuln": [],
-  "accel": [],
-  "powerburst": [],
-  "corner": [],
-  "cut": [],
-  "bladed": [],
-  "dive": [],
-  "break": [],
-  "broke": [],
-  "accuracy": [],
-  "aura": [],
-  "splash": [],
-  "ioth": [],
-  "ingen": [],
-  "start": [],
-  "nm": [],
-  "learner": [],
-  "advanced": [],
-  "walk": [],
-  "boulder": [],
-  "size": [],
-  "auto": [],
-  "swipe": [],
-  "tag": [],
-  "flick": [],
-  "distrup": [],
-  "ult": [],
-  "basic": [],
-  "thresh": [],
-  "quad": [],
-  "random": [],
-  "ancient": [],
-  "lunar": [],
-  "rune": [],
-  "pouch": [],
-  "bt": [],
-  "glitch": [],
-  "drag": [],
-  "clear": [],
-  "off": [],
-  "path": [],
-  "forc": [],
-  "dps": [],
-  "clone": [],
-  "stone": [],
-  "bomb": [],
-  "deto": [],
-  "guide": [],
-  "sere": [],
-  "jacob": [],
-  "inv": [],
-  "beginner": [],
-  "form": [],
-  "bridg": [],
-  "familiar": [],
-  "vitalis": [],
-  "price": [],
-  "week": [],
-  "gravity": [],
-  "vit": [],
-  "novice": [],
-  "intermed": [],
-  "apprent": [],
-  "adept": [],
-  "master": [],
-  "t1": [],
-  "t2": [],
-  "t3": [],
-  "t4": [],
-  "tier": [],
-  "famil": [],
-  "bob": [],
+  "heal": [
+    "The #crack-healing guide features:",
+    " Timing Crack Healing",
+    " Other useful Heal Other timings"
+  ],
+  "split": [
+    " Mechanic overview for the Team Split weekly special: #team-split",
+    " Ability damage rotations for Team Split: ",
+    " Breaking Team Splits:"
+  ],
+  "team": [
+    "If you are completely new to Vorago, read through our #basic-guide and #overview channels.",
+    "Team Forming:",
+    " Join our affiliates for Team Forming and teaching sessions: #team-forming",
+    " Rago PvM - https://discord.gg/Q8xpnYp",
+    " Ironman Vorago Hub - https://discord.gg/YrFydAQ",
+    "Team Split:",
+    " Mechanic overview for the Team Split weekly special: #team-split",
+    " Ability damage rotations for Team Split: ",
+    " Breaking Team Splits:"
+  ],
+  "solo": [
+    " Solo Lure in phase 1: #solo-lure",
+    " Soloing phase 5: #solo"
+  ],
+  "hammer": [
+    " Hammer Climbing in phase 1: #hammer-climb",
+    " Hard Mode large team melee Hammer rotations:"
+  ],
+  "center": [
+    " Positioning / recentering Vorago in phase 2: #recenter"
+  ],
+  "sgb": [
+    " Using the Seren Godbow special attack off-style without the Ingenuity of the Humans: #sgb-without-ioth"
+  ],
+  "seren": [
+    " Using the Seren Godbow special attack off-style without the Ingenuity of the Humans: #sgb-without-ioth"
+  ],
+  "shard": [
+    " On-tick shattering in phase 2:"
+  ],
+  "shat": [
+    " On-tick shattering in phase 2:"
+  ],
+  "lure": [
+    " Trio Normal Mode as TL5: #trio",
+    " Top Lure for climbing phase 1: #climbing",
+    " Solo Lure in phase 1: #solo-lure"
+  ],
+  "target": [
+    " Timing Target Cycle with ability CDs, the Alt1 application or cheesing TC: #target-cycle",
+    " Timing Target Cycle with Natural Instinct: #natty"
+  ],
+  "cycle": [
+    " Timing Target Cycle with ability CDs, the Alt1 application or cheesing TC: #target-cycle",
+    " Timing Target Cycle with Natural Instinct: #natty"
+  ],
+  "dum": [
+    "The #natty guide features:",
+    " Timing Target Cycle with Natural Instinct",
+    " Natural Instinct for phase 1",
+    " Placing an Ultimate in MD start of phase 5 ASAP",
+    " Properly using Combat Dummies at Vorago"
+  ],
+  "preset": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "ceil": [
+    " Mechanic overview for the Ceilings weekly special: #ceilings",
+    " Ability damage rotations for Ceilings:"
+  ],
+  "scop": [
+    " Mechanic overview for the Scopulus weekly special: #scopulus",
+    " Ability damage rotations for Scopulus:"
+  ],
+  "green": [
+    " Mechanic overview for the Green Bomb weekly special: #green-bomb",
+    " Ability damage rotations for Green Bomb:"
+  ],
+  "pb": [
+    " Mechanic overview for the Purple Bomb weekly special: #the-end",
+    " Ability damage rotations for The End:"
+  ],
+  "purple": [
+    " Mechanic overview for the Purple Bomb weekly special: #the-end",
+    " Ability damage rotations for The End:"
+  ],
+  "mechanic": [
+    " An overview of all mechanics at Vorago: #overview",
+    " A phase breakdown covering the order of all phases in both Normal and Hard Mode:"
+  ],
+  "overflow": [
+    " All knowledge about the Overflow mechanic in phases 5 / 10 / 11: #overflow",
+    " Approaching zero-links in duo: #zero-linking"
+  ],
+  "link": [
+    " The Reflect mechanic: #mechanics",
+    " Approaching zero-links in duo: #zero-linking",
+    " Rago Hub invite: https://discord.gg/uqGJbKH"
+  ],
+  "bleed": [
+    " The Bleed mechanic: #overview",
+    " Clearing Bleeds; also covers escape-bladed diving: #clearing-bleeds"
+  ],
+  "reflect": [
+    " The Reflect mechanic: #overview"
+  ],
+  "cept": [
+    " Barricade Intercept: #cade-cept"
+  ],
+  "cade": [
+    "• Barricade Intercept: #cade-cept"
+  ],
+  "maul": [
+    " Maul of Omens:",
+    " Everything about the Maul of Omens: #maul",
+    " Obtaining the first Maul piece (a): #climbing",
+    "Phase 10 Maul Timings:",
+    " #ceilings Green Bomb release",
+    " #scopulus Team Split spawn",
+    " #vitalis start of Reflect",
+    " #green-bomb Green Bomb release",
+    " #team-split start of Reflect",
+    " #the-end after last Bleed"
+  ],
+  "normal": [
+    " 4man or larger teams: ",
+    " Trio #trio",
+    " Duo #duo",
+    " Soloing phase 5 #solo",
+    " Normal Mode ability damage rotations:"
+  ],
+  "trio": [
+    " Trio Normal Mode #trio",
+    " Trio Hard Mode #trio-hm"
+  ],
+  "4man": [
+    " 4man or larger Normal Mode: ",
+    " 4man Hard Mode:"
+  ],
+  "base": [
+    " Positioning / recentering Vorago in phase 2: #recenter ",
+    " Responsibilities of the Base Tank in Normal Mode: #duo",
+    " Base Tank in Trio Hard Mode: #trio-hm",
+    " Base Tank in 4man Hard Mode or larger teams:"
+  ],
+  "tl5": [
+    " Role responsibilities for the TL5: #trio",
+    " Top Luring in phase 1: #climbing",
+    " Mauling phase 5: #maul"
+  ],
+  "alt1": [
+    " Setting up the Alt1 application for timing Target Cycle and other info on TC: #target-cycle",
+    " Timing Target Cycle with Natural Instinct: #natty"
+  ],
+  "gb": [
+    " Mechanic overview for the Green Bomb weekly special: #green-bomb",
+    " Ability damage rotations for Green Bomb:"
+  ],
+  "orb": [
+    " Gravity Fields in phase 2: #overview",
+    " Vitalis orbs spawning Vitali: #vitalis"
+  ],
+  "affinity": [
+    " Hammer Climbing to apply affinitiy stacks in TC: #hammer-climb",
+    " Using off-style Special Attacks without IOTH: #sgb-without-ioth",
+    " Normal Mode rotations: ",
+    " Hard Mode melee SWH rotations:"
+  ],
+  "nihil": [
+    " Ice Nihils causing random aggression changes during Scopulus: #scopulus",
+    " Everything about Vorago presets: #presets"
+  ],
+  "barrage": [
+    " Using Barrage over Blitz auto attacks as mage: #ability-travel-speed"
+  ],
+  "blitz": [
+    " Using Barrage over Blitz auto attacks as mage: #ability-travel-speed"
+  ],
+  "p2": [
+    " Phase 2 mechanic breakdown: ",
+    " BHD and other mechanic references: #overview"
+  ],
+  "phase": [
+    " Overview for all phases in Normal and Hard Mode:"
+  ],
+  "p4": [
+    " Overview for all phases in Normal and Hard Mode:"
+  ],
+  "p6": [
+    " Overview for all phases in Normal and Hard Mode:"
+  ],
+  "p7": [
+    " Overview for all phases in Normal and Hard Mode:"
+  ],
+  "p8": [
+    " Overview for all phases in Normal and Hard Mode:"
+  ],
+  "p9": [
+    " Overview for all phases in Normal and Hard Mode:"
+  ],
+  "p10": [
+    " Overview for all phases in Normal and Hard Mode:"
+  ],
+  "p11": [
+    " Overview for all phases in Normal and Hard Mode:"
+  ],
+  "p1": [
+    " Phase 1 mechanic breakdown: ",
+    " Top Lure and standard climbs for phase 1: #climbing",
+    " Solo Lure in phase 1: #solo-lure",
+    " Hammer Climbing: #hammer-climb",
+    " Boosting HP for the entry hit after challenging Vorago: #basic-guide #overview"
+  ],
+  "vitality": [
+    " Boosting HP for the entry hit after challenging Vorago: #basic-guide #overview",
+    " Several use cases for the Powerburst of Vitality: #presets"
+  ],
+  "overview": [
+    " Beginner's introduction to Vorago: #basic guide #overview",
+    " Overview for all phases in Normal and Hard Mode:"
+  ],
+  "poll": [
+    " Community polls: #polls"
+  ],
+  "role": [
+    "Vorago Role Responsibilities:",
+    " Normal Mode Base and Bomb Tank: #duo",
+    " Normal Mode TL5: #trio",
+    " Normal Mode free DPS: ",
+    " For Hard Mode references, search for `Hard Mode`",
+    "Rago Hub:",
+    " Overview of all roles on Rago Hub: #info",
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Request a management or tier role: #role-requests"
+  ],
+  "suggest": [
+    " Give us feedback with your suggestions for the future of Rago Hub:"
+  ],
+  "stall": [
+    " Stall defines delaying auto attacks by forcing Vorago to move",
+    " Advanced ability rotations with stalled abilities: ",
+    " All knowledge about the Overflow mechanic in phases 5 / 10 / 11: #overflow",
+    " Approaching zero-links in duo: #zero-linking",
+    " Optimally delaying Vorago's auto attacks in duo Hard Mode phase 1: #duo-hm"
+  ],
+  "rot": [
+    " Weekly changing special attacks / weekly rotations: ",
+    " Normal Mode ability damage rotations: ",
+    " Hard Mode ability damage rotations: ",
+    " On-tick shattering in phase 2:"
+  ],
+  "debil": [
+    " Explanation about Debilitate in phases 5 / 10 / 11: #overflow"
+  ],
+  "bhd": [
+    " Phase 2 mechanic breakdown: ",
+    " BHD and other mechanic references: #overview"
+  ],
+  "bring": [
+    " Phase 2 mechanic breakdown: ",
+    " BHD and other mechanic references: #overview"
+  ],
+  "down": [
+    " Phase 2 mechanic breakdown: ",
+    " BHD and other mechanic references: #overview"
+  ],
+  "intro": [
+    " Introduction to Rago Hub: #info",
+    " Introduction to the boss Vorago: #overview #basic-guide"
+  ],
+  "learn": [
+    " Improving your skill with progressive challenges: #🎓progress"
+  ],
+  "achiev": [
+    " Post your personal achievements: #achievements",
+    " All achievement roles on Rago Hub: #info",
+    " Vorago-related achievements and unlocks: #maul"
+  ],
+  "index": [
+    " An index for the entirety of Rago Hub #📌guide-index",
+    " Phase breakdown in Normal and Hard Mode:"
+  ],
+  "bombi": [
+    "• Unlocking the Bombi pet: #maul"
+  ],
+  "drop": [
+    " Drops at Vorago: #overview"
+  ],
+  "lining": [
+    " Lining up for Bomb Tanks in Hard Mode phases 10 and 11: #lining-up"
+  ],
+  "large": [
+    " Large teams in Normal Mode: ",
+    " Large teams in Hard Mode: #large-teams-hm"
+  ],
+  "5man": [
+    " Large teams in Normal Mode: ",
+    " Large teams in Hard Mode: #large-teams-hm"
+  ],
+  "6man": [
+    " Large teams in Normal Mode: ",
+    " Large teams in Hard Mode: #large-teams-hm"
+  ],
+  "7man": [
+    " Large teams in Normal Mode: ",
+    " Large teams in Hard Mode: #large-teams-hm"
+  ],
+  "library": [
+    " Normal Mode ability damage rotations: ",
+    " Hard Mode ability damage rotations:"
+  ],
+  "food": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "dome": [
+    " Shield Dome breaking the Maul animation: #maul"
+  ],
+  "mine": [
+    " Dominon Mines use cases: #presets",
+    " Mechanic overview for the Vitalis weekly special: #vitalis",
+    " Ability damage rotations for Vitalis:"
+  ],
+  "hp": [
+    " Boosting HP for the entry hit after challenging Vorago: #overview #basic-guide",
+    " Everything about Vorago presets: #presets"
+  ],
+  "entry": [
+    " Boosting HP & timing the entry hit after challenging Vorago: #overview",
+    " Natural Instinct for phase 1: #natty"
+  ],
+  "line": [
+    " Lining up for Bomb Tanks in Hard Mode phases 10 and 11: #lining-up"
+  ],
+  "voke": [
+    " Voking Vorago into jump spot in phase 1: #climbing",
+    " Voking and clearing Bleeds: #clearing-bleeds",
+    " Causes for Scopuli changing their targeted player: #scopulus"
+  ],
+  "voking": [
+    " Voking Vorago into jump spot in phase 1: #climbing",
+    " Voking and clearing Bleeds: #clearing-bleeds",
+    " Causes for Scopuli changing their targeted player: #scopulus"
+  ],
+  "p5": [
+    " Overview for all phases in Normal and Hard Mode:"
+  ],
+  "red": [
+    " Red Bomb mechanic reference: #overview #basic-guide",
+    " Forcing Red Bombs on another player for Barricade Intercept: #cade-cept",
+    " Red Team Splits invisibly stretched in Hard Mode: #team-split"
+  ],
+  "meta": [
+    " Metamorphosis being cleared by the Purple Bomb: #the-end"
+  ],
+  "solak": [
+    "no"
+  ],
+  "fox": [
+    "what does the fox say?"
+  ],
+  "zoro": [
+    "a horse is a horse of course of course"
+  ],
+  "flank": [
+    " Required kill times for the Rago Hub tier system: #info",
+    " Time after challenging until entry hit: #overview #basic-guide",
+    " Timing Target Cycle with ability CDs, the Alt1 application or cheesing TC: #target-cycle",
+    " Timing Target Cycle with Natural Instinct: #natty",
+    " Maul timings in Hard Mode phase 10: #maul",
+    " Purple Bomb countdown: #the-end"
+  ],
+  "time": [
+    " Required kill times for the Rago Hub tier system: #info",
+    " Time after challenging until entry hit: #overview #basic-guide",
+    " Timing Target Cycle with ability CDs, the Alt1 application or cheesing TC: #target-cycle",
+    " Timing Target Cycle with Natural Instinct: #natty",
+    " Maul timings in Hard Mode phase 10: #maul",
+    " Purple Bomb countdown: #the-end"
+  ],
+  "timing": [
+    " Required kill times for the Rago Hub tier system: #info",
+    " Time after challenging until entry hit: #overview #basic-guide",
+    " Timing Target Cycle with ability CDs, the Alt1 application or cheesing TC: #target-cycle",
+    " Timing Target Cycle with Natural Instinct: #natty",
+    " Maul timings in Hard Mode phase 10: #maul",
+    " Purple Bomb countdown: #the-end"
+  ],
+  "under": [
+    " Stepping under to avoid bombs in duo or trio HM: #stepping-under",
+    " Alternative base spot in phase 2: #recenter",
+    " Mid mist at Green Bomb: #green-bomb",
+    " Mid rock at Ceilings: #ceilings",
+    " Orbs spawning beneath Vorago - Gravity Field mechanic reference: #overview"
+  ],
+  "rock": [
+    " Mechanic overview for the Ceilings weekly special: #ceilings",
+    " Ability damage rotations for Ceilings:"
+  ],
+  "mid": [
+    " Middle rocks during the Ceilings weekly rotation: #ceilings",
+    " Middle mist during the Green Bomb weekly rotation: #green-bomb"
+  ],
+  "debuff": [
+    " Hammer Climbing to apply affinitiy stacks in TC: #hammer-climb",
+    " Using off-style Special Attacks without IOTH: #sgb-without-ioth",
+    " Normal Mode rotations: ",
+    " Hard Mode melee SWH rotations:"
+  ],
+  "eof": [
+    "Everything about the Essence of Finality: #presets"
+  ],
+  "finality": [
+    "Everything about the Essence of Finality: #presets"
+  ],
+  "vuln": [
+    "Everything about Vorago presets: #presets"
+  ],
+  "accel": [
+    " Acceleration climbing in phase 1: #climbing",
+    " Everything about Vorago presets: #presets"
+  ],
+  "powerburst": [
+    "Everything about Vorago presets: #presets"
+  ],
+  "corner": [
+    "Bladed Dive Corner Cut for climbing phase 1: #climbing"
+  ],
+  "cut": [
+    "Bladed Dive Corner Cut for climbing phase 1: #climbing"
+  ],
+  "bladed": [
+    " Bladed Dive Corner Cut for climbing phase 1: #climbing",
+    " Clearing Bleeds with escape-bladed diving: #clearing-bleeds",
+    " Hammer Climbing: #hammer-climb"
+  ],
+  "dive": [
+    " Bladed Dive Corner Cut for climbing phase 1: #climbing",
+    " Clearing Bleeds with escape-bladed diving: #clearing-bleeds",
+    " Hammer Climbing: #hammer-climb"
+  ],
+  "break": [
+    " Breaking Team Splits: ",
+    " Breaking the effect range of Barricade Intercept: #cade-cept"
+  ],
+  "broke": [
+    " Breaking Team Splits: ",
+    " Breaking the effect range of Barricade Intercept: #cade-cept"
+  ],
+  "accuracy": [
+    "Everything about Vorago presets: #presets"
+  ],
+  "aura": [
+    "Accuracy boosting items: #presets"
+  ],
+  "splash": [
+    "Everything about Vorago presets: #presets"
+  ],
+  "ioth": [
+    "Using a Special Attack off-style without the Ingenuity of the Humans: #sgb-without-ioth"
+  ],
+  "ingen": [
+    "Using a Special Attack off-style without the Ingenuity of the Humans: #sgb-without-ioth"
+  ],
+  "start": [
+    " Starting with Vorago: #overview #basic-guide",
+    " Everything about Vorago presets: #presets"
+  ],
+  "nm": [
+    " 4man or larger teams: ",
+    " Trio #trio",
+    " Duo #duo",
+    " Soloing phase 5 #solo",
+    " Normal Mode ability damage rotations:"
+  ],
+  "learner": [
+    "mproving your skill with progressive challenges: #🎓progress"
+  ],
+  "advanced": [
+    "",
+    "Advanced Ability Damage Rotations:",
+    " Advanced NM melee ability damage rotations: ",
+    " Advanced NM range ability damage rotations: ",
+    " Advanced NM mage ability damage rotations: ",
+    "",
+    "Rago Hub:",
+    " Overview of all roles on Rago Hub: #info",
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Request a management or tier role: #role-requests"
+  ],
+  "walk": [
+    " Vorago's walking direction and recenter in phase 2: #recenter",
+    " Solo Lure in phase 1: #solo-lure"
+  ],
+  "boulder": [
+    "boulders are banned from this server, search for `ceilings` or `rocks` instead"
+  ],
+  "size": [
+    "",
+    "Normal Mode:",
+    " 4man or larger teams:",
+    " Trio: #trio",
+    " Duo: #duo",
+    " Soloing phase 5: #solo",
+    "",
+    "Hard Mode:",
+    " 5man or larger teams: #large-teams-hm",
+    " 4man: ",
+    " Trio: #trio-hm",
+    " Duo: #duo-hm"
+  ],
+  "auto": [
+    "An overview of Vorago's attack types: #overview #basic-guide"
+  ],
+  "swipe": [
+    "Melee Swipe and its Area of Effect: #overview #basic-guide"
+  ],
+  "tag": [
+    "Tagging bombs during The End: #the-end",
+    " Strategy overview for handling The End in Normal Mode: #duo"
+  ],
+  "flick": [
+    "Pray flicking throughout Vitalis phase 3: #duo",
+    " Mechanic overview for the Vitalis weekly special: #vitalis"
+  ],
+  "distrup": [
+    ""
+  ],
+  "ult": [
+    " Normal Mode ability damage rotations: ",
+    " Hard Mode ability damage rotations:"
+  ],
+  "basic": [
+    " Normal Mode ability damage rotations: ",
+    " Hard Mode ability damage rotations:"
+  ],
+  "thresh": [
+    " Normal Mode ability damage rotations: ",
+    " Hard Mode ability damage rotations:"
+  ],
+  "quad": [
+    " Mechanic overview for the Purple Bomb weekly special: #the-end"
+  ],
+  "random": [
+    " Random Red Bombs: #cade-cept",
+    " Red Bomb mechanic reference: #overview #basic-guide"
+  ],
+  "ancient": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "lunar": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "rune": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "pouch": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "bt": [
+    " Bomb Tank in Normal Mode: #duo",
+    " For the Hard Mode responsibilities of a Bomb Tank, search for `Hard Mode`",
+    " Lining up in phases 10 and 11 Hard Mode: #lining-up"
+  ],
+  "glitch": [
+    "Glitching out during The End: #the-end"
+  ],
+  "drag": [
+    "Blue Bombs dragging the climber in Hard Mode phase 1:"
+  ],
+  "clear": [
+    " Clearing Bleeds; also covers escape-bladed diving: #clearing-bleeds",
+    " Destroying rocks at Ceilings: #ceilings"
+  ],
+  "off": [
+    " The Reflect mechanic: #overview #basic-guide",
+    " Bring Him Down: #overview #basic-guide"
+  ],
+  "path": [
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Solo Lure in phase 1: #solo-lure",
+    " Positioning / recentering Vorago in phase 2: #recenter"
+  ],
+  "forc": [
+    " Forcing Red Bombs: #cade-cept",
+    " Stepping under in duo or trio HM: #stepping-under"
+  ],
+  "dps": [
+    ""
+  ],
+  "clone": [
+    "Stone Clone mechanic reference: #mechanics"
+  ],
+  "stone": [
+    " Stone Clone mechanic reference: #overview #basic-guide",
+    " Mechanic overview for the Ceilings weekly special: #ceilings"
+  ],
+  "bomb": [
+    " Bomb Tank in Normal Mode: #duo",
+    " For the Hard Mode responsibilities of a Bomb Tank, search for `Hard Mode`",
+    " Explanation of Blue and Red Bombs: #overview #basic-guide",
+    " Mechanic overview for the Green Bomb weekly special: #green-bomb",
+    " Mechanic overview for the Purple Bomb weekly special: #the-end",
+    " Lining up in phases 10 and 11 Hard Mode: #lining-up"
+  ],
+  "deto": [
+    " Pre-charging Detonate for TC: #target-cycle",
+    " Pre-ultimate and pre-detonate for P5: #natty"
+  ],
+  "guide": [
+    "All available guides on Rago Hub: #📌guide-index"
+  ],
+  "sere": [
+    " you will always be less important than my waifu pillow"
+  ],
+  "jacob": [
+    " tell me whether to push or pull this door please"
+  ],
+  "inv": [
+    " https://discord.gg/uqGJbKH"
+  ],
+  "beginner": [
+    " NM melee ability damage rotations: ",
+    " NM range ability damage rotations: ",
+    " NM mage ability damage rotations:"
+  ],
+  "form": [
+    "Join our affiliates for Team Forming and teaching sessions: #team-forming",
+    " Rago PvM - https://discord.gg/Q8xpnYp",
+    " Ironman Vorago Hub - https://discord.gg/YrFydAQ"
+  ],
+  "bridg": [
+    "Bridging a Green Bomb: #green-bomb"
+  ],
+  "familiar": [
+    "Everything about Vorago presets: #presets"
+  ],
+  "vitalis": [
+    " Mechanic overview for the Vitalis weekly special: #vitalis",
+    " Ability damage rotations for Vitalis:"
+  ],
+  "price": [
+    "use .pc <item> in the #bots channel"
+  ],
+  "week": [
+    " Weekly rotations overview for all phases in Normal and Hard Mode:"
+  ],
+  "gravity": [
+    " Gravity Fields in phase 2: #overview #basic-guide"
+  ],
+  "vit": [
+    " Mechanic overview for the Vitalis weekly special: #vitalis",
+    " Ability damage rotations for Vitalis: ",
+    " Powerburst of Vitality and everything about Vorago presets: #presets"
+  ],
+  "novice": [
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Overview of all roles on Rago Hub: #info",
+    " Request a management or tier role: #role-requests"
+  ],
+  "intermed": [
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Overview of all roles on Rago Hub: #info",
+    " Request a management or tier role: #role-requests"
+  ],
+  "apprent": [
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Overview of all roles on Rago Hub: #info",
+    " Request a management or tier role: #role-requests"
+  ],
+  "adept": [
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Overview of all roles on Rago Hub: #info",
+    " Request a management or tier role: #role-requests"
+  ],
+  "master": [
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Overview of all roles on Rago Hub: #info",
+    " Request a management or tier role: #role-requests"
+  ],
+  "t1": [
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Overview of all roles on Rago Hub: #info",
+    " Request a management or tier role: #role-requests"
+  ],
+  "t2": [
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Overview of all roles on Rago Hub: #info",
+    " Request a management or tier role: #role-requests"
+  ],
+  "t3": [
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Overview of all roles on Rago Hub: #info",
+    " Request a management or tier role: #role-requests"
+  ],
+  "t4": [
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Overview of all roles on Rago Hub: #info",
+    " Request a management or tier role: #role-requests"
+  ],
+  "tier": [
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Overview of all roles on Rago Hub: #info",
+    " Request a management or tier role: #role-requests"
+  ],
+  "famil": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "bob": [
+    " Everything about Vorago presets: #presets"
+  ],
   "adre": [],
-  "pattern": [],
-  "wiki": [],
-  "strat": [],
-  "typeless": [],
-  "pray": [],
-  "req": [],
-  "aggr": [],
-  "md": [],
-  "hom": [],
-  "def": [],
-  "cd": [],
-  "cooldown": [],
-  "scale": [],
-  "style": [],
-  "spec": [],
-  "water": [],
-  "push": [],
-  "reset": [],
-  "gif": [],
-  "switch": [],
-  "outfit": [],
-  "jump": [],
-  "spot": [],
-  "stuck": [],
-  "destroy": [],
-  "stack": [],
-  "pk": [],
-  "finish": [],
-  "step": [],
-  "gear": [],
-  "invent": [],
-  "perk": [],
-  "stand": [],
-  "onsl": [],
-  "null": [],
-  "travel": [],
-  "melee": [],
-  "range": [],
-  "mage": [],
-  "abil": [],
-  "dmg": [],
-  "damage": [],
-  "rago": [],
-  "attack": [],
-  "blue": [],
-  "shadow": [],
-  "alt": [],
-  "life": [],
-  "p3": [],
-  "rav": [],
-  "dak": [],
-  "cello": [],
-  "duo h": [],
-  "duo": [],
-  "hard": [],
-  "hm": [],
-  "teach": [],
-  "mode": [],
-  "find": [],
-  "end": [],
-  "blessed": [],
-  "land": [],
-  "stomp": [],
-  "transit": [],
-  "bug": [],
-  "speed": [],
-  "avoid": [],
-  "prevent": [],
-  "crack": [],
-  "dtb": [],
-  "bracelet": [],
-  "touch": [],
-  "chance": [],
-  "swh": [],
-  "statius": [],
-  "fc": [],
-  "tick": [],
-  "field": [],
-  "3t": [],
-  "4t": [],
-  "5t": [],
-  "needle": [],
-  "rank": [],
-  "certif": [],
-  "insane": [],
-  "t5": [],
-  "t6": [],
-  "clerk": [],
-  "philosopher": [],
-  "professor": [],
-  "archivist": [],
-  "mod": [],
-  "admin": [],
-  "ragotag": [],
-  "partner": [],
-  "wr": [],
-  "essence": [],
-  "brew": [],
-  "tank": [],
-  "10k": [],
-  "12.5k": [],
-  "12,5k": [],
-  "14k": [],
-  "hit": [],
-  "contr": [],
-  "chall": [],
-  "vod": [],
-  "review": [],
-  "devo": [],
-  "dd": [],
-  "pile": [],
-  "tect": [],
-  "seis": [],
-  "double": [],
-  "tc": [],
-  "ts": [],
-  "com": [],
-  "chat": [],
-  "song": [],
-  "sheety": [],
-  "sheet": [],
-  "saif0": [],
-  "saif and durmoth": [],
-  "aod": [],
-  "wizard": [],
-  "{*}": []
+  "pattern": [
+    " Weekly rotations overview for all phases in Normal and Hard Mode: ",
+    " Detailed breakdown of all mechanics at Vorago: #overview #basic-guide"
+  ],
+  "wiki": [
+    " the official RuneScape Wiki about Vorago: https://runescape.wiki/w/Vorago"
+  ],
+  "strat": [
+    "",
+    "Normal Mode:",
+    " 4man or larger teams: ",
+    " Trio: #trio",
+    " Duo: #duo",
+    " Soloing phase 5: #solo",
+    "",
+    "Hard Mode:",
+    " 5man or larger teams: #large-teams-hm",
+    " 4man: ",
+    " Trio: #trio-hm",
+    " Duo: #duo-hm"
+  ],
+  "typeless": [
+    " Typeless entry hit after challenging Vorago: #overview #basic-guide",
+    " Red Bomb mechanic reference: #overview #basic-guide",
+    " Green Bomb mechanic reference: #green-bomb",
+    " Team Split mechanic reference: #team-split",
+    ", Waterfall mechanic reference: #overview #basic-guide"
+  ],
+  "pray": [
+    " Fortitude for the entry hit after challenging Vorago: #overview #basic-guide",
+    " Protection prayers for auto attacks: #overview #basic-guide",
+    " Pray flicking throughout Vitalis phase 3: #duo"
+  ],
+  "req": [
+    " Everything about Vorago presets: #presets",
+    " Overview of all roles on Rago Hub: #info",
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Request a management or tier role: #role-requests"
+  ],
+  "aggr": [
+    " Vitali randomly causing target switching: #vitalis",
+    " Ice Nihils dragging random aggression from Scopuli: #scopulus",
+    " Base Tank responsibities in Normal Mode: #duo",
+    " For Hard Mode references, search for `Hard Mode`"
+  ],
+  "md": [
+    " Standing melee distance for the third auto attack after Reflect in phase 5: #solo",
+    " Melee Swipe mechanic reference: #overview #basic-guide",
+    " Base Tank responsibities in Normal Mode: #duo",
+    " For Hard Mode references, search for `Hard Mode`"
+  ],
+  "hom": [
+    " Forcing Red Bombs on another player: #cade-cept",
+    " Forcing the Red Bomb when Hammer Climbing: #hammer-climb",
+    " Red Bomb mechanic reference: #overview #basic-guide"
+  ],
+  "def": [
+    " Red Bombs resetting defensive CDs: #overview #basic-guide",
+    " Green Bomb resetting defensive CDs: #green-bomb",
+    " Team Split resetting defensive CDs: #team-split",
+    " Tagging Blue Bombs early during The End resetting defensive CDs: #the-end"
+  ],
+  "cd": [
+    " Red Bombs resetting defensive CDs: #overview #basic-guide",
+    " Green Bomb resetting defensive CDs: #green-bomb",
+    " Team Split resetting defensive CDs: #team-split",
+    " Tagging Blue Bombs early during The End resetting defensive CDs: #the-end"
+  ],
+  "cooldown": [
+    " Phase 2 mechanic breakdown: ",
+    " BHD and other mechanic references: #overview #basic-guide"
+  ],
+  "scale": [
+    " Entry hit scaling to the team size after challenging Vorago: #overview #basic-guide"
+  ],
+  "style": [
+    "Using a Special Attack off-style without the Ingenuity of the Humans: #sgb-without-ioth"
+  ],
+  "spec": [
+    " An overview of Vorago's attack types: #overview #basic-guide",
+    " Overview for all phases in Normal and Hard Mode: ",
+    " Using a Special Attack off-style without the Ingenuity of the Humans: #sgb-without-ioth"
+  ],
+  "water": [
+    " Waterfall mechanic reference: #overview #basic-guide",
+    " Occurrences of the Waterfall mechanic:"
+  ],
+  "push": [
+    " Avoiding double push-back in Hard Mode phases 10 and 11: #lining-up",
+    " All knowledge about the Overflow mechanic in phases 5 / 10 / 11: #overflow",
+    " Approaching zero-links in duo: #zero-linking"
+  ],
+  "reset": [
+    "",
+    "Weekly Specials:",
+    " Weekly rotations overview for all phases in Normal and Hard Mode: ",
+    "",
+    "Mechanics Resetting Defensives:",
+    " Red Bomb mechanic reference: #overview #basic-guide",
+    " Green Bomb mechanic reference: #green-bomb",
+    " Team Split mechanic reference: #team-split",
+    " Waterfall mechanic reference: #mechanics"
+  ],
+  "gif": [
+    " GIF illustration for the Climbing in phase 1: #climbing",
+    " GIF illustration for the Hammer Climb: #hammer-climb",
+    " GIF illustration for Solo Luring phase 1: #solo-lure",
+    " GIF illustration for centering phase 2: #recenter"
+  ],
+  "switch": [
+    " Switching roles for Base and Bomb Tank in phase 5 Normal Mode: #duo"
+  ],
+  "outfit": [
+    " Everything about unlocking the Omens override: #maul"
+  ],
+  "jump": [
+    " Standard Climbs: #climbing",
+    " Hammer Climbing: #hammer-climb",
+    " Solo Lure in phase 1: #solo-lure",
+    " Vorago's phase transition for timing Natural Instinct: #natty"
+  ],
+  "spot": [
+    " Positioning / recentering Vorago in phase 2: #recenter",
+    " Trio Normal Mode as TL5: #trio",
+    " Top Lure for climbing phase 1: #climbing",
+    " Hammer Climbing: #hammer-climb",
+    " Solo Lure in phase 1: #solo-lure"
+  ],
+  "stuck": [
+    "Being stuck under a rock of the Ceilings weekly special: #ceilings"
+  ],
+  "destroy": [
+    " Destroying a rock of the Ceilings weekly special: #ceilings",
+    " FIX XTL DESTROY"
+  ],
+  "stack": [
+    " Consistently stacking Scopuli: #scopulus",
+    " Stacking auto attacks in one tick: #solo"
+  ],
+  "pk": [
+    " The Reflect mechanic: #overview #basic-guide",
+    " Vitali switching your active target: #vitalis"
+  ],
+  "finish": [
+    " Finishing a kill at Vorago: #maul"
+  ],
+  "step": [
+    "Two-stepping Red Bombs: #cade-cept"
+  ],
+  "gear": [
+    "Everything about Vorago presets: #presets"
+  ],
+  "invent": [
+    "https://discord.gg/uqGJbKH"
+  ],
+  "perk": [
+    "Everything about Vorago presets: #presets"
+  ],
+  "stand": [
+    " Stand-up at The End: #the-end",
+    " Standing melee distance for auto attacks: #overview #basic-guide"
+  ],
+  "onsl": [
+    "Double Disruption Shield strategy with Onslaught for phase 5 Purple Bomb: #duo"
+  ],
+  "null": [
+    "Lost overflow for pushing Vorago in phases 5 / 10 / 11: #overflow"
+  ],
+  "travel": [
+    " Speed of abilities connecting damage: #ability-travel-speed",
+    " Stacking auto attacks in one tick: #solo"
+  ],
+  "melee": [
+    "All available melee ability damage rotations:",
+    " Beginner NM melee rotations: ",
+    " Advanced NM melee rotations: ",
+    " Large teams HM melee DPS rotations: ",
+    " Large teams HM melee SWH rotations:"
+  ],
+  "range": [
+    "All available range ability damage rotations:",
+    " Beginner NM range rotations: ",
+    " Advanced NM range rotations: ",
+    " Large teams HM range DPS rotations: ",
+    " Large teams HM range SWH rotations:"
+  ],
+  "mage": [
+    "All available mage ability damage rotations:",
+    " Beginner NM mage rotations: ",
+    " Advanced NM mage rotations: ",
+    " Large teams HM mage DPS rotations: ",
+    " Large teams HM mage SWH rotations:"
+  ],
+  "abil": [
+    " Normal Mode ability damage rotations: ",
+    " Hard Mode ability damage rotations:"
+  ],
+  "dmg": [
+    " Normal Mode ability damage rotations: ",
+    " Hard Mode ability damage rotations:"
+  ],
+  "damage": [
+    "All available mage ability damage rotations:",
+    " Beginner NM mage rotations: ",
+    " Advanced NM mage rotations: ",
+    " Duo HM mage Base Tank: ",
+    " Duo HM mage Bomb Tank: ",
+    " Large teams HM mage rotations:"
+  ],
+  "rago": [
+    "the server's only purpose is about Vorago, please be more specific"
+  ],
+  "attack": [
+    "An overview of Vorago's attack types: #overview #basic-guide"
+  ],
+  "blue": [
+    " Blue Bomb mechanic reference: #overview #basic-guide",
+    " Lining up in phases 10 and 11 Hard Mode: #lining-up"
+  ],
+  "shadow": [
+    "Settings to enable the visibility of shadows throughout the Ceilings weekly special: #ceilings"
+  ],
+  "alt": [
+    " Setting up the Alt1 application for timing Target Cycle and other info on TC: #target-cycle",
+    " Timing Target Cycle with Natural Instinct: #natty"
+  ],
+  "life": [
+    " Boosting HP for the entry hit after challenging Vorago: #overview #basic-guide",
+    " Everything about Vorago presets: #presets"
+  ],
+  "p3": [
+    "Overview for all phases in Normal and Hard Mode:"
+  ],
+  "duo h": [
+    "Duo Hard Mode:",
+    " Strategy guide: #duo-hm",
+    " Mage Base Tank rotations:",
+    " Mage Bomb Tank rotations: ",
+    " Range Base Tank rotations: ",
+    " Range Bomb Tank rotations:"
+  ],
+  "duo": [
+    " Duo Normal Mode #duo",
+    " Duo Hard Mode #duo-hm"
+  ],
+  "hard": [
+    " 5man or larger teams: #large-teams-hm",
+    " 4man ",
+    " Trio #trio-hm",
+    " Duo #duo-hm",
+    " Hard Mode ability damage rotations:"
+  ],
+  "hm": [
+    " 5man or larger teams: #large-teams-hm",
+    " 4man ",
+    " Trio #trio-hm",
+    " Duo #duo-hm",
+    " Hard Mode ability damage rotations:"
+  ],
+  "teach": [
+    "Join our affiliates for Team Forming and teaching sessions: #team-forming",
+    " Rago PvM - https://discord.gg/Q8xpnYp",
+    " Ironman Vorago Hub - https://discord.gg/YrFydAQ"
+  ],
+  "mode": [
+    "",
+    "Normal Mode:",
+    " 4man or larger teams: ",
+    " Trio: #trio",
+    " Duo: #duo",
+    " Soloing phase 5: #solo",
+    "",
+    "Hard Mode:",
+    " 5man or larger teams: #large-teams-hm",
+    " 4man: ",
+    " Trio: #trio-hm",
+    " Duo: #duo-hm"
+  ],
+  "find": [
+    "Join our affiliates for Team Forming and teaching sessions: #team-forming",
+    " Rago PvM - https://discord.gg/Q8xpnYp",
+    " Ironman Vorago Hub - https://discord.gg/YrFydAQ"
+  ],
+  "end": [
+    " Mechanic overview for the Purple Bomb weekly special: #the-end",
+    " Ability damage rotations for The End:"
+  ],
+  "land": [
+    "Vorago's phase transition for timing Natural Instinct: #natty"
+  ],
+  "stomp": [
+    "Vorago's phase transition for timing Natural Instinct: #natty"
+  ],
+  "transit": [
+    "Vorago's phase transition for timing Natural Instinct: #natty"
+  ],
+  "bug": [
+    "A list of all discovered bugs at Vorago:"
+  ],
+  "speed": [
+    " Powerburst of Acceleration for speeding up your phase 1 climb: #climbing",
+    " Hammer Climbing: #hammer-climb",
+    " Solo Lure in phase 1: #solo-lure",
+    " Zero-linking in phase 5: #zero-linking"
+  ],
+  "avoid": [
+    "Lining up in phases 10 and 11 Hard Mode: #lining-up",
+    " Avoiding double push-back in Hard Mode phases 10 and 11: #lining-up",
+    " Barricade Intercept: #cade-cept"
+  ],
+  "prevent": [
+    "Lining up in phases 10 and 11 Hard Mode: #lining-up",
+    " Avoiding double push-back in Hard Mode phases 10 and 11: #lining-up",
+    " Barricade Intercept: #cade-cept"
+  ],
+  "crack": [
+    " Timing Target Cycle with ability CDs: #target-cycle",
+    " Crack Healing: #crack-healing"
+  ],
+  "dtb": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "bracelet": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "touch": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "chance": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "swh": [
+    " Hammer Climbing in phase 1: #hammer-climb",
+    " Hard Mode large team melee Hammer rotations:"
+  ],
+  "statius": [
+    " Hammer Climbing in phase 1: #hammer-climb",
+    " Hard Mode large team melee Hammer rotations:"
+  ],
+  "fc": [
+    " In-game Friends Chat for Team Forming: Rago PvM",
+    " Join our affiliates for Team Forming and teaching sessions: #team-forming",
+    "Rago PvM - https://discord.gg/Q8xpnYp",
+    "Ironman Vorago Hub - https://discord.gg/YrFydAQ"
+  ],
+  "tick": [
+    " On-tick shattering in phase 2: ",
+    " Timing Target Cycle with ability CDs, the Alt1 application or cheesing TC: #target-cycle",
+    " Timing Target Cycle with Natural Instinct: #natty"
+  ],
+  "field": [
+    " Gravity Fields in phase 2: #overview #basic-guide"
+  ],
+  "3t": [
+    "Speed of abilities connecting damage: #ability-travel-speed"
+  ],
+  "4t": [
+    "Speed of abilities connecting damage: #ability-travel-speed"
+  ],
+  "5t": [
+    "Speed of abilities connecting damage: #ability-travel-speed"
+  ],
+  "needle": [
+    " A list of all discovered bugs at Vorago:"
+  ],
+  "rank": [
+    " Overview of all roles on Rago Hub: #info",
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Request a management or tier role: #role-requests"
+  ],
+  "certif": [
+    "Overview of all roles on Rago Hub: #info",
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Request a management or tier role: #role-requests"
+  ],
+  "insane": [
+    " Overview of all roles on Rago Hub: #info",
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Request a management or tier role: #role-requests"
+  ],
+  "t5": [
+    " Overview of all roles on Rago Hub: #info",
+    " Improving your skill with progressive challenges: #🎓progress",
+    " Request a management or tier role: #role-requests"
+  ],
+  "mod": [
+    " Overview of all roles on Rago Hub: #info"
+  ],
+  "admin": [
+    " Overview of all roles on Rago Hub: #info"
+  ],
+  "ragotag": [
+    " Tagging bombs during The End: #the-end",
+    " Strategy overview for handling The End in Normal Mode: #duo"
+  ],
+  "partner": [
+    " In-game Friends Chat for Team Forming: Rago PvM",
+    " Join our affiliates for Team Forming and teaching sessions: #team-forming",
+    "Rago PvM - https://discord.gg/Q8xpnYp",
+    "Ironman Vorago Hub - https://discord.gg/YrFydAQ"
+  ],
+  "wr": [
+    " Rago Hub spreadsheet: https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit?usp=sharing",
+    " Duo HM achievement spreadsheet: https://docs.google.com/spreadsheets/d/1d4IRxV_EDb08Rb0WDu4_tyns6QZnOfaoeQRPfDOCAPU/edit#gid=0",
+    " World Record spreadsheet: https://docs.google.com/spreadsheets/d/1RnVGPcgEElxxjju39YRdfw6ZhnTwh3vkZQektsj6S1g/pubhtml#"
+  ],
+  "essence": [
+    "Everything about the Essence of Finality: #presets"
+  ],
+  "brew": [
+    " Everything about Vorago presets: #presets"
+  ],
+  "tank": [
+    " Normal Mode Base and Bomb Tank: #duo",
+    " Tanking the 10k of a Green Bomb: #green-bomb",
+    " Tanking a Team Split: #team-split"
+  ],
+  "10k": [
+    " Receiving the 10k typeless of a Green Bomb: #green-bomb",
+    " Boosting HP for the entry hit after challenging Vorago: #overview #basic-guide",
+    " Everything about Vorago presets: #presets"
+  ],
+  "12.5k": [
+    " Boosting HP for the entry hit after challenging Vorago: #overview #basic-guide",
+    " Everything about Vorago presets: #presets"
+  ],
+  "12,5k": [
+    " Boosting HP for the entry hit after challenging Vorago: #overview #basic-guide",
+    " Everything about Vorago presets: #presets"
+  ],
+  "14k": [
+    " Boosting HP for the entry hit after challenging Vorago: #overview #basic-guide",
+    " Everything about Vorago presets: #presets"
+  ],
+  "hit": [
+    " Boosting HP for the entry hit after challenging Vorago: #overview #basic-guide",
+    " Everything about Vorago presets: #presets"
+  ],
+  "contr": [
+    "Overview of all roles on Rago Hub: #info"
+  ],
+  "chall": [
+    "Improving your skill with progressive challenges: #🎓progress"
+  ],
+  "vod": [
+    " Request a tier role via VOD submission: #role-requests",
+    " Feel free to share any VOD you would like to be reviewed in our general community chat: ",
+    " Share your personal achievements: #achievements"
+  ],
+  "review": [
+    " Request a tier role via VOD submission: #role-requests",
+    " Feel free to share any VOD you would like to be reviewed in our general community chat: ",
+    " Share your personal achievements: #achievements"
+  ],
+  "devo": [
+    " Barricade or Devotion Intercept: #cade-cept",
+    " Base and Bomb Tank responsibilities in Normal Mode: #duo",
+    " Green Bomb mechanic reference: #green-bomb"
+  ],
+  "dd": [
+    "Stacking Scopuli in NM and the Scopulus mechanic reference: #scopulus"
+  ],
+  "pile": [
+    ""
+  ],
+  "tect": [
+    ""
+  ],
+  "seis": [
+    ""
+  ],
+  "double": [
+    " Double Blue Bombs in Hard Mode: #overview #basic-guide",
+    " Lining up in phases 10 and 11 Hard Mode: #lining-up"
+  ],
+  "tc": [
+    " Timing Target Cycle with ability CDs, the Alt1 application or cheesing TC: #target-cycle",
+    " Timing Target Cycle with Natural Instinct: #natty"
+  ],
+  "ts": [
+    " Mechanic overview for the Team Split weekly special: #team-split",
+    " Ability damage rotations for Team Split: ",
+    " Breaking Team Splits:"
+  ],
+  "sheety": [
+    "Sheety is a Dynamic Rotation Builder as a Google Spreadsheet (as of Version 1) that lets you build any sort of ability damage rotation with ease. More information can be found in"
+  ],
+  "sheet": [
+    " Rago Hub spreadsheet: https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit?usp=sharing",
+    " Duo HM achievement spreadsheet: https://docs.google.com/spreadsheets/d/1d4IRxV_EDb08Rb0WDu4_tyns6QZnOfaoeQRPfDOCAPU/edit#gid=0",
+    " World Record spreadsheet: https://docs.google.com/spreadsheets/d/1RnVGPcgEElxxjju39YRdfw6ZhnTwh3vkZQektsj6S1g/pubhtml#"
+  ]
 }
