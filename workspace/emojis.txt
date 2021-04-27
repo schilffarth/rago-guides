@@ -164,7 +164,7 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • $ranged `ranged`
 • $rapid `rapid`
 • $red `red`
-• $renwalflask `renewalflask`
+• $renewalflask `renewalflask`
 • $repeat `repeat`
 • $reprisal `reprisal`
 • $resonance `resonance`
