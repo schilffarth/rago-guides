@@ -39,11 +39,11 @@ __Preparation:__
 • Equip SWH $swh and Excalibur $excal
 • Position at the highlighted tile marked with $greencross, east to the entry
 • Select Bladed Dive $bd at the climb entrance
-• Activate IOTH $ingen (not too early)
+• Activate IOTH $ingen (not too early, prefer at 5 seconds)
 
 __Execution:__
 
-• TC $tc > SWH spec $swh > activate BD $bd
+• TC $tc > SWH spec $swh > activate BD $bd (all should be on same tick)
 • Start climbing
 • **#2** Surge $surge
 • Walk for one tick to spot #3
