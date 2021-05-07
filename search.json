@@ -130,15 +130,13 @@
     "#trio Trio or larger teams",
     "#trio-hm Trio Hard Mode"
   ],
-  "4man": [
-    " 4man or larger Normal Mode: ",
-    " 4man Hard Mode:"
+  "man": [
+    "#trio Trio or larger teams"
   ],
   "base": [
-    " Positioning / recentering Vorago in phase 2: #recenter ",
-    " Responsibilities of the Base Tank in Normal Mode: #duo",
-    " Base Tank in Trio Hard Mode: #trio-hm",
-    " Base Tank in 4man Hard Mode or larger teams:"
+    "#recenter Positioning / recentering Vorago in Phase 2",
+    "#duo Responsibilities of the Base Tank in Normal Mode",
+    "#trio-hm Base Tank in Trio and 4man Hard Mode"
   ],
   "tl5": [
     " Role responsibilities for the TL5: #trio",
