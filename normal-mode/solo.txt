@@ -1,154 +1,354 @@
 .Introduction
-Guide written by <@175995416955977728>
+Guide written by <@191388421548146689> and <@175995416955977728>.
 
 > __**Introduction**__
 
-This guide is about soloing P5 as a full kill is not yet doable, because of P1 mechanically requiring 2 people. Soloing P5 Vorago is an impressive achievement once thought of to be impossible. A large portion of the reason how it was eventually completed is due to the discovery of stacking 3 attacks in a tick. The reason this is so impactful is because Vorago is only allowed to move once per tick, and any more than 1 square of pushback is nulled. Stacking attacks has a chance of blocking 2 squares of pushback with a melee hit or only 1 square of pushback if you get a bomb as the third hit. This is a lot better than tanking the 3 attacks in each of the individual ticks.
+This Solo Vorago guide covers optimal strategies for approaching solo phases 1 - 5. In Phase 1 it is still required to have another person climb, but the rest of the kill can be completed in solo easily. Although all combat styles can be used, this guide focuses on the safest and most efficient approaches with Ranged $ranged.
 
-.Stacking Auto Attacks
-> __**Stacking Auto Attacks**__
+Refer to the Rago Hub Spreadsheet for more detailed rotations:
 
-The discovery of stacking 3 auto attacks in 1 tick plays a primary part in achieving a solo Vorago phase 5. Vorago $vorago is allowed to move only once per tick - Any more than 1 square is nulled. Stacking autos always blocks 1 square of push-back with the chance of blocking another.
-
-• Stacking two blue bombs $blue to deal damage in the same tick blocks one square of push backwards
-• Receiving a melee swipe $swipe as the third auto results in another blocked square
-
-Stacking 3 of Vorago’s auto attacks in 1 tick requires you to first take a *Far Bomb* followed by a *Close Bomb* and lastly a *Melee Swipe*. Do not deal damage during this process: Vorago **must not be stalled** during his 3 consecutive auto attacks!
-
-__Far Bomb:__
-
-• Distance: 9 - 10 squares
-• Travel time: 6 ticks
-
-__Close Bomb:__
-
-• Distance: 0 - 2 squares (it is highly discouraged to be in MD due to the chance of receiving a melee swipe)
-• Travel time: 3 ticks
-
-Bringing a Spirit Shield $elysian will help to reduce the damage you take from multiple auto attacks in 1 tick. You should pray magic $deflectmagic and use either Resonance $resonance or Shield Dome $dome to help mitigate the damage. Only equip the shield for stacking autos and recover prayer drain immediately.
-
-__Video example of stacking 3 auto attacks in one tick:__
-.
-https://cdn.discordapp.com/attachments/676485011268042761/757234176264110190/2020-09-04_22-30-19.mp4
-.
-
+<https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit#gid=895337434>
 .Setup
+
 > __**Setup**__
 
+__Setup:__
+
+• Greater Ricochet unlocked $grico
+• 500+ Monolith power $archaeology
+• T90+ Gear
+• Seren Godbow $sgb
+• Darkbow Amulet $dbow $eof
+• Statius Warhammer $swh
+• Superior Scrimshaw of Cruelty $cruelty
+• Adrenaline Renewal $apot
+• Mainhand Planted feet
+• BD Switch $bd
+• Ring of Vigour $vigour
+• Malletops $malletops
+
+.
 __Invention Perks:__
 
-• Crackling $crackling and Aftershock $aftershock are highly discouraged due to unintentional push-back and stall during Reflect $link or while stacking 3 auto attacks
-• Energising $energizing is significantly useful for adrenaline management
+• Recommended perks
+.
+https://i.gyazo.com/a8b29b4de0ce36a5f72cd51b308987c3.png
+.
+https://i.gyazo.com/29261faa30a12883eae8eb2bcaaf075f.png
+.
 
+• Lucky negates pushback, in other words, ``20,000`` damage every time it procs during P5. Enhanced devoted $enhanceddevoted could be replaced for this. (Useful only for PB P5)
+• Aftershock $aftershock is highly discouraged due to unintentional push-back and stall during Reflect $link or while stacking 3 auto attacks
+• Reflexes halves Anticipation $anticipation duration which allows to build more adren on TS P3 and P5.
+.
+• Energising $energizing is significantly useful for adrenaline management, a crossbow main hand switch can be used to build during P5 reflect when barricaded.
+• Turtling $turtling is really important to take less damage during P2, P4 and P5 as well as reducing pushback.
+• Planted Feet is really good for P5, a slight increase on damage from the longer ultimate can be the difference from pushing Vorago and stalling it more.
+
+.
 __Archaeology Relics:__
 
-• Fury Of The Small $fots - Reference: <https://runescape.wiki/w/Fury_of_the_Small>
 • Heightened Senses $heightenedsenses - Reference: <https://runescape.wiki/w/Heightened_Senses>
+• Fury Of The Small $fots - Reference: <https://runescape.wiki/w/Fury_of_the_Small>
+• Death Ward $deathward - Reference: <https://runescape.wiki/w/Death_Ward>
 
-The latter relic is significantly important to allow the general ability rotation:  $reprisal > $anticipation > $sgb > $snipe > $cshot > $gdazing > $cade
-
-__Preset:__
-
-• The Ring Of Vigour $vigour must be used for all Ultimates and Special Attacks
-• A Spirit Shield $elysian of any kind (excluding spectral)
+This relics are mostly for P5, Hightened Senses allows to have higher adren when you Swiftness $swiftness or Barricade $cade and makes it faster to throw thresholds or specs when you need to, Fury of the Small $fots makes building to Swiftness and Barricade way faster which is really important, Death Ward in general can prevent you from dying in a lot of situations, when you mess up clearing Bleeds $bleed, during P3, when missing a pray flick and specially when stacking bombs $auto in P5.
 
 .
-https://cdn.discordapp.com/attachments/676485011268042761/757237876630093955/rs2client_2020-09-04_22-18-54.png
-.
+__Example Preset:__
 
 .
-https://cdn.discordapp.com/attachments/676485011268042761/757237893000462407/rs2client_2020-09-04_22-18-10.png
+https://i.gyazo.com/5e623019df033ba2995e90e2aed8775c.png
 .
+
+• Eat the Soup $soup at the bank and grab a Gunkan $gunkan instead
+• As a familiar you want to use a Shadow Nihil $nihilshadow, food is not really a problem, accuracy is.
+• The Ring of Vigour $vigour must be used for all Ultimates and Special Attacks
+• EoFs $eof have SWH $swh, SGB $sgb and DBow $dbow specs, the latter two are essential for the fight in general, SWH is important to have a smooth P1, P3 and P5.
+• A Scrimshaw of Cruelty $cruelty contributes to your Phase 5 significantly, as push damage is calculated uncapped (a visual `15,000` hit actually contributes more than 15k to push), part of that damage is also from bleeds, $fragmentation and $cshot, and it is cheaper.
+• Dummy $dummy is used to Natty $natty end of P2, for Scopulus week it can be replaced for Chins $chins.
+.
+• Glaive has Planted Feet and Aftershock 1, it is required Planted feet on a main hand because you usually Swiftness during reflect on P5 during Barricade.
+• Armadyl crossbow has Energising 4 $energizing and Invigorating 2 $invigorating, which makes building faster during P5 Reflects $link when barricaded $cade.
+• Ruby Bolts $rubybolts are good in general when Vorago is above `100,000` hp, Onyx Bolts $onyxbolts reduce the use of food during P2 and P4 and Hydrix $hydrixbolts are a must to have a consistent P5.
+• Bladed Dive $bd switch doesnt have Aftershock as it is a really good way to lose Aftershock stacks during P5 and prevent it from triggering during Reflect $link.
+• A Renewal Flask $renewalflask can be useful if something goes wrong during P5, making the phase last longer than it should.
+• Rune pouches have runes for SBS $sbs, Disruption Shield $disrupt and Shield Dome $dome.
+    $runepouch $runeblood $runebody $runefire
+    $runepouchgreen $runecosmic $runelaw $runeastral
+    $runepouchblue $runeearth $runewater $runesoul
 
 .Clearing Bleeds
 > __**Clearing Bleeds**__
 
-Clearing Bleeds $bleed in a solo phase 5 optimally requires the Double Escape Codex $doubleescape to be unlocked.
+__Clearing Bleeds:__
+
+Clearing Bleeds $bleed in solo optimally requires the Double Escape Codex $doubleescape and Double Surge Codex $doublesurge to be unlocked.
+
+__P2 and P4:__
+
+Failing to clear bleeds in solo can result in a death easily, hence the safest approach is the following:
+
+• Bladed Dive $bd for the first Bleed
+• Walk back under Vorago and Surge $surge with Mobile $mobile to the other side
+• Walk back again under Vorago and use an ability 0-2 ticks before receiving the next Bleed, Surge after reciving the Bleed (in between GCD) and Resonance $resonance the Blue $blue when the Bleed is cleared
+• Walk MD to avoid losing more ticks, Freedom $freedom 4th Bleed
+• Escape $escape 5th Bleed and walk back MD
+
+.
+https://imgur.com/a/wof94Be
+.
+
+In case of not clearing one of the first 2 Bleeds it is better to stall Vorago by walking away from him, wait for Surge or Bladed Dive to come back from cooldown and use Freedom for any emergency.
+
+__P5:__
+
+There are two ways to clear Bleeds $bleed in P5:
 
 • Escape $escape for the first Bleed
 • Run back closer to Vorago and Freedom $freedom the second Bleed
-• Ideally you should apply SWH $ingen $swh after Freedom
+• Ideally you should apply SWH $ingen $swh after Freedom when Ingenuity of the Humans is off cooldown
 • Escape again for the third Bleed
-• Stay in 9 - 10 squares distance to prepare for stacking the following 3 auto attacks
+• Stay in 9 - 10 squares distance to prepare for stacking the following 3 auto attacks $auto
 
-.Push
-> __**Push**__
+.
+https://imgur.com/a/wiS0BAd
+.
+
+An alternative approach for clearing bleeds:
+
+• Escape $escape for the first Bleed $bleed
+• Run back closer to Vorago and Escape again for the second Bleed
+• Run back closer to Vorago again while doing a dual-welding ability and Freedom $freedom OH Auto + 2H Auto
+
+This approach is recommended if you did not lose stall after the first Bleed. It can also be done to Death's Swiftness $swiftness if it was missed during Reflect $link and just SWH $swh late, although this could not always be optimal (specially for Team Split).
+
+.
+https://imgur.com/a/9YL5Azb
+.Phase 1
+
+> __**Phase 1**__
+
+__Phase 1:__
+
+Phase 1 can have 2 approaches, having another person climbing for you or climbing yourself with an alt. For the first one:
+
+Start MD and Hammer + BD $ingen $swh $bd to the South-East corner, Rapid $rapid can be used while Vorago goes towards you to avoid getting walked and use SGB $sgb as the next ability without getting it walked. Deal damage while luring Vorago north and bringing it closer for TL to Voke, then Death's Swiftness $swiftness and finish it with thresholds and basics, SGB $sgb again if hp is above 50k. MD and voke at around 30k hp, $bd + $surge south to lose agro and go back to DBow + Provoke $dbow $voke and finish it.
+.
+
+For the alt approach, spam click to climb on the alt (this will force Vorago aggro into it and allow you to afk on the main account), afk on the main in the south-east corner, do the fastest climb you are able to do on the alt and make sure to keep your HP above ~3k as you are gonna be receiving typless damage every few seconds, once being jumping through the last rock surge close to Vorago on the main account, $ingen + $swh + $voke and drag him east, once it starts moving Provoke on the alt to lure $vorago (it is very likely to receive a Red $red on the alt so be prepared for that), $swiftness on the main and bring him down to around 20k HP. Make sure your alt either dies before the crack tick or lobbies before it as dying and dropping the maul piece on that exact tick will cause it to disappear.
+
+• Persistent rage could be used to afk on the main account while the alt climbs altough it would make it easier to die on the other phases and it doesnt make a big difference on phase 1.
+
+Pay attention to which diraction Vorago faces throughout the jump, Vorago turning north results in Vorago switching his aggression to the Top Lure, stopping to deal any damage. If Vorago stays aggroed onto you, utilize Resonance $resonance as you can get a melee swipe or blue.
+
+• Vorago not losing aggro
+.
+https://imgur.com/apgWb7n
+.Phase 2
+
+> __**Phase 2**__
+
+• Camp Onyx Bolts $onyxbolts for safety
+• Clear Bleeds $bleed as mentioned in the Clearing Bleeds section: {link:Clearing Bleeds}
+• Focus on using SGB as often as possible to have an easier time dealing all required damage throughout Phase 2
+• Pay attention on your adrenaline for Barricade timings
+• Barricade $cade start of the first and third Reflect $link (with Malletops it is going to last for blocking each following Red Bomb $red)
+• Devotion $devo mid last auto of the second Reflect $link (so that Devotion lasts for 3 auto attacks after the following Red Bomb)
+• Shield Dome $shielddome the auto attacks once Barricade and Devotion runs out
+• Devotion again after the last set of bleeds $bleed to avoid eating during Bring Him Down
+• If you do not plan on using Excalibur in Phase 3 and have low HP, you can use it at the start of BHD instead
+
+Bring Him Down rotation: $sgb > $grico > $rapid > $gdazing > $cshot > (BHD end) $grico > $snap
+
+This should finish Vorago, build with defensives or a Dummy to 110% adren and Natty for P3.
+
+.Phase 3
+> __**Phase 3**__
+
+__Phase 3 Ceilings:__
+
+This phase 3 is the one that involves more rng to have either a good or bad phase. $tc + $ingen + $swh build to 110% adren and $swiftness start of reflect in between 2 quadrants where a rock could fall. Use Resonance $resonance during Reflect $link, Snipe $snipe and dump everything you can before the jump as it might land far away from your ult and dragging you out of it. Save Devotion $devo for 2nd Reflect and try to force a melee swipe for the 3rd auto.
+
+.
+__Phase 3 Scopulus:__
+
+Camp Hydrix Bolts $hydrixbolts and DBow $dbow amulet here.
+
+You should get the default South-West drop if did not Surge or BD end of P2. Pre-vuln bomb $vulnbomb the western Scopulus's spawn location about 3 seconds before Target Cycle and follow it up with throwing another one at the eastern Scopulus shortly before its spawn. Attack the western Scopulus until both Scopuli are stacked with $snap/$rapid > $grico > $fragmentation > $cshot while running north and keep luring clock-wise in the arena. Do not run out the corners and do not stay too close to the middle, which potentially results in losing the Line of Sight to the Scopuli. Throughout the phase utilize Resonance $resonance, Devotion $devo and your Darkbow $dbow EoF spec with Mechanised Chinchompas $chins. It is highly recommended to equip your ECB / Caroming switch with Hydrix Bakriminel Bolts $hydrixbolts equipped whenever you use Greater Ricochet or Corruption Shot, since these abilities do not benefit from Mechanised Chinchompas and once the first Scopulus dies.
+
+Try to exit Phase 3 with high adrenaline in order to Barricade $cade out of the first Waterfall $waterfall in the start of Phase 4.
+
+.
+__Phase 3 Team Split:__
+
+(-27) $natty > $tc + $swh > $ts > $anticipation > $freedom > $swiftness + $apot > $hydrixbolts $grico > $rubybolts $sgb > $snap > $link > $snipe > $grico > $ts > $reprisal > $hydrixbolts $dbow > $grico > $rubybolts $snap > $sgb > $hydrixbolts $limitless + $rapid
+
+After this just improvise with Hydrix bolts $hydrixbolts and try to skip third TS $ts or second link $link
+
+*Note: Sometimes in solo TS link will start 1 tick late which allows you to do an extra fast hitting ability.*
+
+.
+__Phase 3 Purple Bomb:__
+
+For Purple Bomb it can be fairly easy to deal damage as you dont have to worry about prayer flicking, you do need to tag Reds $red and can aim to finish this phase skipping 2nd stand.
+
+Example rotation:
+
+(-27) $natty > $tc + $swh > $freedom > $surge > $sgb > $ecb > $grico > $dbow > $cshot > $fragmentation > $gdazing/$snap > $grico
+
+.
+In Purple Bomb Phase 3, apply SWH on TC and use your SGB and ECB specs within the first quadrant. Tag all Red Bombs and Barricade $cade Stand-Up. For the second cycle you have two options after following the same rotation:
+
+• Apot $apot, ignore Reds $red, use more thresholds and ECB $ecb again, aiming to skip 2nd stand.
+
+• Tag Red Bombs $red, build to Deaths Swiftness $swiftness, Apot $apot and use Powerburst of Vitality $vitality on stand.
+
+.Phase 4
+> __**Phase 4**__
+
+__Phase 4 Ceilings:__
+
+It is very likely to start with at least 3 or 4 rocks and to have first Waterfall $waterfall blocked by a rock, make sure to have 4k HP or more (3.8k with Death Ward $deathward).
+
+$tc + $snap or $gdazing, proceed to clear the rocks that block the Waterfall $waterfall, using Powerburst of Vitality $vitality to recieve less damage, SGB $sgb out and Resonance $resonance the 2nd or 3rd Blue $blue while building to 100% adren, Barricade $cade and clear all rocks but the last one to fall, as your Barricade might get cleared by the incoming Bleed $bleed. Clear bleeds, use thresholds and SGB right after bleeds and Devotion $devo Reflect $link, make sure to have enough HP to clear the rock if it blocks the waterfall. For the 2nd cycle skip Barricade and focus on dealing more damage.
+
+.
+__Phase 4 Scopulus:__
+
+$tc + $gdazing or $snap if above 100% adren, Resonance $resonance first Blue $blue and Barricade $cade next GCD trying to not lose ticks as you want it back as soon as possible for next Waterfall $waterfall. Try to force a melee swipe $swipe on the 2nd auto $auto after Red $red (same as P2), SGB $sgb after Barricade, clear Bleeds $bleed as mentioned before, Devotion $devo first Blue or second auto after Bleeds, whatever comes first. After second waterfall SGB, Resonance 2nd or 3rd Blue and Barricade as soon as possible, also trying to force a melee swipe on the second auto after Red. Finish the phase with 110 adren and Disrupt $disrupt as soon as possible, as it can be really useful to have it back in time for a fast P5.
+
+.
+__Phase 4 Team Split:__
+
+$tc + $snap or $gdazing if not enough adren, $sgb > $grico > $rapid out of Waterfall $waterfall, and Resonance $resonance last Blue $blue before Clone Skip, Debilitate $debil or Shield Dome $dome out of TS $ts. Clear Bleeds $bleed, Reflect $reflect in between Bleeds and link and Devotion $devo during link $link. Repeat the same for the second cycle.
+
+For a faster P4 you can break TS $ts, to get the fastest TS break you can simply spam abilities without losing ticks out of the Waterfall $waterfall, an example of this is $sgb > $grico > $cshot > $gdazing > $resonance > $anticipation > $gbarge > $destroy (Here you would Resonance 2nd Blue $blue). After breaking TS **Do Not** BD $bd into the Team Split, otherwise it is going to be on cooldown for the first Bleed $bleed and make sure to use Preparation $preparation during TS to have Resonance back from cooldown for Bleeds.
+
+.
+*Notes:*
+• When you break TS $ts the constant damage from Destroy $destroy can stop your movement when going to the TS so make sure to spam click into it.
+• When bleeding Destroy $destroy you can stand away from MD and equip a range weapon same tick you bleed Destroy, this will make you stall first hit of Destroy and release it with ranged as a 100% damage ability, also giving you a Ruby proc $rubybolts chance.
+
+.
+__Phase 4 Purple Bomb:__
+
+$tc + $snap, you can DBow $dbow out of Waterfall $waterfall, Resonance $resonance 3rd Blue $blue, SGB $sgb first quadrant, tag Red Bombs $red, Barricade $cade on stand, Resonance last Blue before Reflect $link and Devotion $devo Reflect. For the 2nd cycle repeat the same until stand, instead of Barricading here use Resonance and Preparation, Reflect, Powerburst of Vitality $vitality and Shield Dome $dome, this is because Barricade would still be on cooldown for P5 if it was used here.
+
+.
+*Notes:*
+• You can camp Ruby bolts $rubybolts in this phase (until Vorago's Hp goes under 80k) since you dont take much damage and can easily heal back with Soul Split
+
+.Phase 5
+> __**Phase 5**__
+
+__Push:__
 
 Soloing requires you to outlast Vorago's pushback. His melee swipe $swipe / blue bomb $blue each deal a maximum of 1 square push backwards. To push 1 square forwards `20,000` damage is required to be dealt. This means that one of Vorago's attacks equates to about ~ 20k of the player's damage that they will have to make up for. Damage dealt beyond the required damage for a push in the same tick adds to the overflow. A detailed explanation of the overflow mechanic can be read in #zero-linking.
 
-Due to walking limitations, Vorago can push a maximum of 1 square per tick. Taking multiple auto attacks in one tick or dealing enough damage to push 2 squares forwards within one tick will result in lost push, causing only 1 square of push.
+Due to walking limitations, Vorago can push a maximum of 1 square per tick. Taking multiple auto attacks in one tick will cause to only get 1 square of pushback.
 
-• Debilitate $debil should never be used
-• Shield Dome $dome should only be used for reducing the damage taken from 3 auto attacks in one tick
+:warning: Debilitate $debil should never be used for P5. Refer to #overview for an explanation of this.
 
+.
 __Disruption Shield:__
 
-Disruption Shield $disrupt does not work reliably for all blue bombs that you receive. The only blue bomb $blue that is guaranteed to be blocked by *disrupt* is the **first** auto attack. Due to this, disruption shield should only be used if the third auto attack happens to be a blue bomb instead of a melee swipe (and hope for it to work).
+Disruption Shield $disrupt does not work reliably for all blue bombs that you receive on Team Split P5 to block push back. The only blue bomb $blue that is guaranteed to be blocked by *disrupt* is the **first** auto attack. Due to this, disruption shield should only be used if the third auto attack happens to be a blue bomb instead of a melee swipe (and hope for it to work), or it can also be used to risk a fast maul.
 
-Example of Disruption Shield not blocking a blue bomb:
+• Example of Disruption Shield not blocking a blue bomb
 .
-https://cdn.discordapp.com/attachments/676485011268042761/757279293834395758/2020-09-05_10-10-36.mp4
+https://imgur.com/a/HUE9zb0
 .
 
 __Increased Chance For Melee swipes:__
 
-There is an increased chance for a melee swipe $swipe if you stand in melee distance after a forced blue bomb $bluebomb (not standing MD for an auto). For Reflects $link with Barricade $cade this should be used to your advantage by not standing MD for the first two autos after Reflect. This strategy can be applied to all team sizes.
+There is an increased chance for a melee swipe $swipe if you stand in melee distance after a forced blue bomb $bluebomb (not standing MD for an auto). For Reflects $link on P5 with Barricade $cade this should be used to your advantage by not standing MD for the first two autos after Reflect. This strategy can be applied to other phases and all team sizes.
 
-Stepping MD after a forced blue bomb:
+• Stepping MD after a forced Blue Bomb
 .
-https://cdn.discordapp.com/attachments/676485011268042761/757279291091189780/2020-09-04_22-23-35.mp4
+https://imgur.com/a/HOGafZK
 .
 
-.Ability Damage Rotations
-> __**Ability Damage Rotations**__
+__Mechanics:__
 
-$tc $snap > $ts $preparation > $reprisal > $anticipation $vbomb
+Dealing with P5 push can be a little tricky, there are a few things ignored on casual duos:
 
-$sgb > $snipe > $cshot: > $gdazing > $cade > **Reflect** $link
+• Unlike P1-P4, P5 autos $auto have 3 ticks (one GCD) of delay instead of 4, Reflect $link lasts the same but because autos $auto are faster, the Bleed $bleed that comes after last auto of Reflect will come faster too.
+• Each Bleed $bleed has a 6 ticks delay.
+• Every time you push or get pushed back it resets the delay back to 3 for the next auto $auto, spec or Bleed $bleed. For example, if you get a Bleed on tick 0, push on tick 1, next Bleed will be on tick 4 instead of 6.
+• If you push same tick as the next auto $auto, spec or bleed $bleed was gonna happen it will push instead and delay it another 3 ticks.
 
-Use Piercing Shot $piercing twice during Reflect with the Energising $energizing Perk
+Having this in mind, there are a lot of things you can do to deal with each situation.
 
-Clear Bleeds $bleed with $escape > $freedom > $ingen $swh $escape > $apot
-
-Distance 9 - 10 squares from MD and Death's Swiftness $swiftness
-
-Stack 3 Auto Attacks
 .
-$ts $preparation > $anticipation > $vbomb > $sgb > $snipe: > $snap
+__Purple Bomb P5:__
 
-Position 9 - 10 squares from MD
+Start rotation:
 
-Stack 3 Auto Attacks > **Reflect** $link
+$tc + $sgb > $fragmentation > $grico > $cshot > $gdazing > $cade > Build to $swiftness on Reflect $link (With Hydrix bolts $hydrixbolts and Apot $apot to ult before Reflect ends if needed)
 
-Stack 3 Auto Attacks > Clear Bleeds $bleed with $escape > $freedom > $shadowtendrils $escape > $snap
+Start with Ruby bolts $rubybolts, switch to Hydrix $hydrixbolts to build after cading, then go back to Ruby for Bleeds $bleed until they proc or Vorago's Hp goes under 80k, after that camp Hydrix.
 
-Stack 3 Auto Attacks
+General Rotation:
 
-$ts $preparation > $reprisal > $anticipation > $sgb > $snipe > $cshot > $gdazing > $cade
+$purple > $cade > Build > $link > $swiftness > $bleed + $sgb + $escape > $rapid > $bleed + $freedom > $swh > $bleed + $escape > Stack $auto
 
-Ideally you are 2 squares off Maul $maul at this point. If not, repeat the same procedure until you are 2 squares off Maul. Once you are 2 off Maul after a Barricade $cade finish the kill:
+.
+__Tips & Notes:__
 
-$cshot > $fragmentation > $shadowtendrils > $snap > $sgb > $gbarge $maul
+• Using SGB $sgb and DBow $dbow in between Bleeds $bleed can be really good or really bad, you want to create the longest stall possible so using high damage abilities with a high probability to push should be done on the 2nd GCD of the bleed.
+• If there is enough push during Bleeds $bleed Freedom $freedom can be used as a damage ability abusing the Off Hand + 2H Autos you can get with it, saving it for the 3rd bleed, skipping SWH $swh and using Escape $escape for the 2nd Bleed.
+• Try to save pushing abilities to deal damage when a Blue $blue would come out or 1 tick before it, pushing Vorago same tick a Blue hits is bad as it reduces the stall you could have gotten from the pushback to deal some damage with bleeds like Corruption Shot $cshot and Fragmentation Shot $fragmentation or weaker abilities like Snipe $snipe, Dazing Shot $gdazing, and Needle Strike $needle.
+.
+• Because SGB $sgb is always going to push and it pushes on the start of next GCD, the combos $sgb > $fragmentation or $sgb > $snipe can be really good. On the first one your Fragmentation Shot $fragmentation is always gonna be walked from the first hit, on the second you can get a double push with Snipe $snipe, this is more consistent inside ult and can be followed with Rapid $rapid (or DBow $dbow if enough adre and close to maul) to hopefully push another tile around its end or next gcd.
+• Always stack after Bleeds $bleed unless there is enough adren to negate the pushback and maybe end up pushing it more or if it can be pushed to maul $maul, as stacking will always be 1-2 tiles of pushback done correctly.
+• Use Fragmentation Shot $fragmentation when you are about to get pushed to guarantee a walked bleed.
 
-.Miscellaneous Information
-> __**Miscellaneous Information**__
+__Solo Purple Bomb example kill:__
 
-• Equip Onyx Bakriminel Bolts $onyxbolts after Vorago reaches `70,000` HP
-• If your SGB $sgb pushes on the first arrow (3rd tick), you have the potential of losing some arrows (4th tick) because Vorago is not in the same spot as when the SGB was cast
-• Occasionally a bug applies to the same scenario where you lose all overflow you would have from arrows 2 - 5 (reference: #zero-linking)
-• Pushing twice with SGB also results in potentially stalling your Snap Shot $snap after Snipe $snipe in a Death's Swiftness $swiftness
-• After stalling Snap Shot, do not use abilities other than Bladed Dive $bd (to stack 3 auto attacks) and Shield Dome $dome (to mitigate damage from stacked autos), then **CLICK** on Vorago or vuln $vuln to release your Snap Shot before doing any other damaging ability
+https://www.youtube.com/watch?v=MxTr7XymZ1k
+.
 
-__Example Solo Phase 5:__
-https://www.youtube.com/watch?v=3oMaZEIn-18
+__Team Split P5:__
+
+Start rotation:
+
+$tc + $snap > $gdazing (Only if Ruby proc on Snap) > $ts > $anticipation > (Wait 2 ticks) $reprisal > $preparation > $sgb > $snipe> $grico > $cshot > $gdazing > $cade + $apot > $swiftness
+
+Non-cade rotation:
+
+$ts > $sgb > $grico > $dbow > Stack $auto
+
+Cade rotation:
+
+$ts > $sgb > $grico > $cshot > $cade + $apot > $swiftness
+
+In general just rotate between the last 2 rotations and skip $swiftness if there is not enough adre before clearing first Bleed $bleed.
+
+.
+__Tips & Notes:__
+
+• Only $sgb > $snipe at the start, this is because if the first hit from SGB is enough to push, Snipe $snipe will hit late and not stall next Blue $blue and if Barricade $cade is on cooldown you wont be able to stack blues.
+• Although it is very unlikely, sometimes for the non-cade rotation either first arrow from SGB $sgb or first hit from GRico $grico will push and an auto will come out before next ability pushes, this will ruin the stack so dont bother with it and just keep dpsing, use Disrupt $disrupt for the 2nd Blue $blue and try to negate as much pushback as you can.
+• Always save SGB $sgb for TS $ts unless you can stall it enough and push it to maul. DBow $dbow can be used instead to generate more stall during Bleeds $bleed.
+• If the initial push is looking good, Resonance $resonance can be replaced by Divert and add a DBow $dbow right before last Escape $escape from Bleeds $bleed in hope to get a fast P5, mauling in between next TS $ts and Reflect $link.
+.
+• Try to stall as much as you can after the Stack $auto after Bleeds $bleed but saving enough adre to do the suggested rotation for TS $ts.
+• The easiest way to lose push is by getting on Vorago too early from reflect $link, as mentioned before, P5 link ends the same tick that you get first Bleed $bleed if it did not get stalled with an auto (usually when you Barricade $cade) and just a simple auto is enough to get pushed back which should be avoided.
+• Unlike Purple Bomb P5 where you need to use the stall generated by the pushback to create more stall and end up negating it or pushing it, Team Split requires to not mess up the general rotation suggested and do the Stack properly.
+
+__Solo TS example kill:__
+
+https://www.youtube.com/watch?v=6ykc6al26oQ
 .index
 
 > __**Index**__
 
 • $pin **Introduction** {link:Introduction}
-• $auto **Stacking Auto Attacks** {link:Stacking Auto Attacks}
-• $trimcape **Setup** {link:Setup}
+• $gear **Setup** {link:Setup}
 • $bleed **Clearing bleeds** {link:Clearing Bleeds}
-• $vorago **Push** {link:Push}
-• $dummy **Ability Damage Rotations** {link:Ability Damage Rotations}
-• $copy **Other information** {link:Miscellaneous Information}
+• $maulpiecea **Phase 1** {link:Phase 1}
+• $gravity **Phase 2** {link:Phase 2}
+• $scop **Phase 3** {link:Phase 3}
+• $waterfall **Phase 4** {link:Phase 4}
+• $maul **Phase 5** {link:Phase 5}
