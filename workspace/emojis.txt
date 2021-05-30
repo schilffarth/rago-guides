@@ -280,4 +280,3 @@ Emojis are simply converted with the following format: `$emoji`. A full list of 
 • **W** {link:w}
 • **Y** {link:y}
 • **Z** {link:z}
-despatch is a noob haha
