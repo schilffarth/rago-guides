@@ -114,7 +114,6 @@
       "name": "Trio NM Base",
       "reqs": [
         "5 KPH in Trio NM as Base Tank",
-        "Upkeep 100% adrenaline at all necessary times",
         "Pre-ultimate phases 1, 3 and 5",
         "MD Vokes",
         "Heal Other",
@@ -136,7 +135,6 @@
       "name": "Trio NM Bomb",
       "reqs": [
         "5 KPH in Trio NM as Bomb Tank",
-        "Upkeep 100% adrenaline at all necessary times",
         "Pre-ultimate phases 1, 3 and 5",
         "MD Vokes",
         "Heal Other",
@@ -158,7 +156,6 @@
       "name": "Trio NM TL5",
       "reqs": [
         "5 KPH in Trio NM as TL5",
-        "Upkeep 100% adrenaline at all necessary times",
         "Pre-ultimate phases 1, 3 and 5",
         "MD Vokes",
         "Heal Other",
@@ -413,7 +410,7 @@
         "basic-guide",
         "large-teams-hm",
         "crack-healing",
-        "#climbing",
+        "climbing",
         "clearing-bleeds"
       ]
     },
