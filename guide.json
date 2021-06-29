@@ -22,6 +22,7 @@
     "Solo": "normal-mode/solo"
   },
   "Hard Mode": {
+    "Large teams HM": "hard-mode/large-teams-hm",
     "Trio HM": "hard-mode/trio-hm",
     "Duo HM": "hard-mode/duo-hm"
   },
