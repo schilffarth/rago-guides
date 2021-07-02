@@ -200,7 +200,7 @@ Every person in the team that is not a Bomb Tank must stand north-east of Vorago
 
 • Use your SGB $sgb after Reflect $link if needed (or before if you are ranging)
 • Ignore all Vitalis Orbs as well as all spawned vitalii, since they will automatically disappear upon phase transition and not transfer to following phases
-• If there Vorago happens to inflict Bleeds $bleed, the Base, Bomb Tanks and TL5 will deal with them as usual
+• If Vorago happens to inflict bleeds $bleed, the Base, Bomb Tanks and TL5 will deal with them as usual
 
 Once the phase is finished, build to 100% on a Combat Dummy $dummy or an alive Vitalis $vitalis.
 
@@ -215,9 +215,9 @@ Mechanic reference: #green-bomb
 • Drop a Combat Dummy $dummy immediately as you drop into the phase
 • Mages $magic it is recommended to Sunshine $sunshine (or Metamorphosis $metamorphosis) and apply Guthix Staff $gstaff, followed by thresholds
 • Rangers $ranged should pre-ECB $ecb or only dump thresholds
-• If both are available, utilize your Ingenuity of the Humans $ioth in combination with the Seren Godbow $sgb special attack in order to optimize your damage output pre-Reflect $link
+• If both are available, utilize your Ingenuity of the Humans $ingen in combination with the Seren Godbow $sgb special attack in order to optimize your damage output pre-Reflect $link
 
-If you receive a Green Bomb $green and expect it to explode, simply stay with close to another player and let it bounce off you. For 4 man you can let it bounce and then use your Powerburst of Vitality $vitality when it targets you a second time. Since the Bomb Tank provokes $voke Vorago in this phase, you should not receive any additional damage, assuming proper positioning.
+If you receive a Green Bomb $green and expect it to explode, simply stay close to another player and let it bounce off you. For 4 man you can let it bounce and then use your Powerburst of Vitality $vitality when it targets you a second time. Since the Bomb Tank provokes $voke Vorago in this phase, you should not receive any additional damage, assuming proper positioning.
 
 .DPS/TL5 - Phase 7 Team Split
 > __**DPS/TL5 - Phase 7 Team Split**__
@@ -250,21 +250,20 @@ https://imgur.com/a/CpdMtwr
 > __**Base Tank**__
 
 .Base Tank Index:edit
-• $maulpiecea **Base Tank - Phase 1** {link:Base Tank - Phase 1}
-• $gravity **Base Tank - Phase 2** {link:Base Tank - Phase 2}
-• $ceil **Base Tank - Phase 3 Ceilings** {link:Base Tank - Phase 3 Ceilings}
-• $scop **Base Tank - Phase 4 Scopulus** {link:Base Tank - Phase 4 Scopulus}
-• $vitalis **Base Tank - Phase 5 Vitalis** {link:Base Tank - Phase 5 Vitalis}
-• $green **Base Tank - Phase 6 Green bomb** {link:Base Tank - Phase 6 Green bomb}
-• $ts **Base Tank - Phase 7 Team Split** {link:Base Tank - Phase 7 Team Split}
-• $purple **Base Tank - Phase 8 The End** {link:Base Tank - Phase 8 The End}
-• $warning **Additional tips for Base Tank** {link:Tips for Base}
+• $maulpiecea **Phase 1** {link:Base Tank - Phase 1}
+• $gravity **Phase 2** {link:Base Tank - Phase 2}
+• $ceil **Phase 3 Ceilings** {link:Base Tank - Phase 3 Ceilings}
+• $scop **Phase 4 Scopulus** {link:Base Tank - Phase 4 Scopulus}
+• $vitalis **Phase 5 Vitalis** {link:Base Tank - Phase 5 Vitalis}
+• $green **Phase 6 Green bomb** {link:Base Tank - Phase 6 Green bomb}
+• $ts **Phase 7 Team Split** {link:Base Tank - Phase 7 Team Split}
+• $purple **Phase 8 The End** {link:Base Tank - Phase 8 The End}
+• $warning **Additional Tips** {link:Tips for Base}
 .
 
-Basing Hard Mode does not change much from Normal Mode. It’s all about not moving the boss when it is not needed, and tanking hits without wasting food. Prayer flicking is also very important to heal back without eating or stopping to use Resonance $resonance, but it is not required.
-Basing is usually performed by a meleer $attack, who is also in charge of applying Hammer $swh throughout the fight. Base can also be done by a Range $ranged or Mage $magic, but some strategies for this guide will focus on Melee $attack. If the Base is not meleeing, a dps must be in charge of applying $swh.
+Basing Hard Mode does not change much from Normal Mode. It is all about not moving the boss when it is not needed, and tanking hits without wasting food. Prayer flicking is also very useful to maintain HP without eating or using Resonance $resonance. Basing is usually performed by a meleer $attack, who is also in charge of applying the Statius's Warhammer $swh special attack throughout the fight. Range $ranged or Mage $magic can be used just as well, but most strategies of this guide will focus on melee $attack. If the Base Tank is not meleeing, a DPS should be in charge of applying SWH $swh.
 
-__Strategy summary:__
+__Strategy Summary:__
 
 .
 https://i.imgur.com/DwkesCR.png
@@ -272,96 +271,113 @@ https://i.imgur.com/DwkesCR.png
 
 > __**Base Tank - Phase 1**__
 
-• Stay in the Base spot as soon as you dropdown (check image). Everyone else has to move from the middle because roles will go there first.
-• Wait until Vorago spawns, do an ability on him and Provoke $voke right after (during the gcd). Avoid Provoking too fast or you will lose aggression.
-• After $voke you take Vorago close to the North-East corner of the arena. Make sure you are close to the corner while touching the North wall.
-• The Base’s job is to keep Vorago far enough to not give the TL5 any bombs.
-• When the timer reaches 30 seconds head West by walking a step and Surge $surge towards that direction. Alternatively, $surge earlier if the TL5 is about to get in the spot. You can also wait for a Red bomb $red to $surge, as Vorago will not launch any attacks during the $red animation.
-• You should surge as the TL is jumping the last ledge and make sure you bring Vorago close before they make it to the spot. 
-• After $surge, the TL will $voke and now the Base must go to the South Provoke spot: if possible, bladed dive $bd to the spot then click Vorago and $voke from there.
+Mechanic breakdown: #basic-guide
 
-Clip of Phase 1:
+Refer to the Hard Mode section of #solo-lure for an easy strategy on pathing Vorago into spot consistently and quickly. If not executing the described Solo Lure, perform the following steps.
+
+• Move east of Vorago's spawn location as shown in the following clip
 .
 https://imgur.com/a/tEIZHIg
-.Base Tank - Phase 2
+.
 
+• Once Vorago spawns, use an ability and Provoke $voke shortly after (within the ability's GCD)
+• Take Vorago close to the North-East corner
+• Keep Vorago there until the climber reaches the final platform
+• At roughly 30 seconds, head west quickly (take 1 or 2 steps followed by Surge $surge)
+• Once the Top Lure voked $voke Vorago into spot, position south in MD and Provoke (utilize Bladed Dive $bd)
+
+.Base Tank - Phase 2
 > __**Base Tank - Phase 2**__
 
-The Base Tank's responsibilities throughout Phase 2 are not any different to basing Normal Mode. During Phase 2 Bomb Tanks will deal with Reds $red, so Intercept $cept is not needed for the Base here. A dummy $dummy will be placed South after clicking on Bring Him Down.
+Mechanic breakdown: #basic-guide
+
+The Base Tank's responsibilities throughout Phase 2 are not any different to basing Normal Mode. During Phase 2 Bomb Tanks will deal with Red Bombs $red. Usually, for the Base Tank Intercept $cept is not needed in P2. A Combat Dummy $dummy will be placed South once Bring Him Down is finished.
 
 .Base Tank - Phase 3 Ceilings
 > __**Base Tank - Phase 3 Ceilings**__
 
+Mechanic breakdown: #ceilings
+
 • Use Natural Instinct $natty in the end of Phase 2
-• Pre-Ultimate and drink your adrenaline potion as you drop into Phase 3
-• Place a Combat Dummy $dummy at the start of the phase
-• Apply Hammer $swh/Guthix Staff $gstaff as soon as possible. If the Base is not applying $swh, make sure someone else is doing it
-• Do not use Provoke $voke during this whole Phase and make sure Bomb Tanks $voked Vorago so everyone can stay close to MD 
+• Pre-ultimate and drink your adrenaline potion $renewal as you drop into Phase 3
+• Place a Combat Dummy $dummy at any edge (not in the center)
+• Apply SWH $swh soon as possible
+• Since a Bomb Tank is supposed to voke $voke this phase, the Base Tank should not do so in order to avoid melee auto attacks $swipe
 
 .Base Tank - Phase 4 Scopulus
 > __**Base Tank - Phase 4 Scopulus**__
 
-The Base’s job on this Phase is to lure all Scopuli $scop. Make sure the rest of the team is focusing them as well in case they go to the Bomb Tanks.
+Mechanic breakdown: #socpulus
 
-A frequent usage of Vulnerability bombs $vbomb is helpful for keeping all the $scop stacked. 
-• Stand directly west of the western $scop on dropdown and throw a $vbomb just before they spawn
-• Target the West $scop as soon as it spawns, then target the East $scop and Hammer $swh it
-• Walk a few steps North and make sure to drag the North $scop’s attention. Attack it and then throw $vbomb when they are stacked
-• Try to move **once** to fix the position if needed. Moving too much will cause them to re-aggro. If you fail to stack them then just focus on the dps
-• For a slower phase you may use Devotion $devo after they have been stacked and when you have used your stronger abilities
-• Build on the dummy $dummy that will be placed South at the end of the Phase
+The Base Tank's job in this Phase is to lure and stack all scopuli $scop. Make sure the rest of the team is focusing them as well in case they go to the Bomb Tanks. A frequent usage of Vulnerability Bombs $vbomb increases the probability of keeping all scopuli stacked.
 
-The reason not to Hammer $swh the West $scop is because it is the first one that is going to be targeted on drop and will die faster than the other two.
+• Stand directly west of the western Scopulus $scop and throw a Vulnerability Bomb 3 seconds before Target Cycle
+• Once the scopuli are spawned, use one ability on the closest Scopulus, then target the eastern Scopulus and apply SWH $swh
+• Walk a few steps north and attack the northern Scopulus quickly
+• Walk south-east to lure all scopuli and throw vuln bombs to keep them stacked
+• Utilize Devotion $devo once you start consuming too much food rapidly
+• Once all scopuli are defeated, build adrenaline on the placed Combat Dummy $dummy
+
+Hammering $swh the western Scopulus is not recommended because it usually takes the heaviest damage, thence dying the fastest with or without SWH.
 
 .Base Tank - Phase 5 Vitalis
 > __**Base Tank - Phase 5 Vitalis**__
 
-Every person in the team that is not a Bomb Tank must stand North East of Vorago and in melee distance. This includes the Base. For smaller teams like 4 man you will also follow this strategy, as Bomb Tanks **shouldn’t be MD** at any point during this phase except for bleeds $bleed.
-Having the Bomb Tanks stand MD will make the Phase harder as you need to pray flick.
-• If you are meleeing $attack, pre-Ultimate $zerk as you drop into the Phase. For non-melees, use thresholds and special attacks. Only meleers should Ultimate
-• Place a Dummy $dummy at the start of the phase
-• Make sure to apply Hammer $swh/Guthix Staff $gstaff as soon as possible
-• Use your SGB spec $sgb after Reflect $link if needed
-• Ignore all Vitalis orbs and **avoid going to them** or killing/targeting Vitalii $vitalis during the Phase
-• Provoke $voke Vorago just before the Vitalis orb explodes and do not move to avoid moving Vorago, as $vitalis will block you. do not leave MD for any reason
-• If there are $bleed, Base and Bomb Tanks will deal with them as usual. For 4 man it is advised to have Base take 1-2 and the TL5 (that is also MD) 3-4
+Mechanic breakdown: #vitalis
+
+Every person in the team that is not a Bomb Tank must stand north-east of Vorago and in melee distance. You should follow this strategy for up to 4man HM, as Bomb Tanks should **not** be MD at any point except for bleeds $bleed. Having the Bomb Tanks stand MD will make the phase harder, since you would have to pray flick.
+
+• If meleeing 4attack, pre-ultimate $zerk, otherwise use thresholds and special attacks
+• Place a Combat Dummy $dummy at the start
+• Apply SWH $swh as soon as possible
+• Utilize SGB $sgb right after Reflect $link if Vorago's life points are high (80k+)
+• Ignore and avoid all Vitalis Orbs as well as any spawned vitalii
+• Provoke $voke Vorago shortly before the first Vitalis Orb explodes and avoid moving Vorago (do not leave MD)
+• If Vorago happens to inflict bleeds $bleed, the Base, Bomb Tanks and TL5 will deal with them as usual
 
 .Base Tank - Phase 6 Green bomb
 > __**Base Tank - Phase 6 Green bomb**__
 
-Make sure the Bomb Tanks are Provoking $voke off you as soon as you stop walking. After that, the Base will not $voke again during this phase.
-• No Ultimates are required for melee $attack Base on this Phase, but you must still apply Hammer $swh and then use your thresholds
-• A dummy $dummy will be placed on dropdown for the team to build up
-• For Magic $magic it is recommended to Sunshine $sunshine (or Meta $metamorphosis) to apply Guthix Staff $gstaff and use threshold; for Rangers to ECB spec $ecb or just thresh; build on the dummy $dummy
-• If needed and if Ingenuity of the Humans $ingen is off cooldown, you may SGB $sgb before Reflect $link to optimise your damage
+Mechanic breakdown: #green-bomb
 
-How to deal with Green bombs $green? If you receive a $green, simply stay with the team and let it bounce off you. For 4 man you can let it bounce and then use your Vitality potion $vitality when it is back to you. Since the Bomb Tank $voke Vorago, you will not receive any additional damage.
-If the $green goes to a Bomb Tank, make sure you heal $heal them before the $green hits them. They will use $vitality as well, but if their HP is too low, that $heal will make it easier on them.
+Make sure a Bomb Tank provokes $voke 2 - 3 GCDs after Target Cycle $tc. Do not revoke Vorago once his aggression switched in order to avoid melee auto attacks $swipe.
+
+• No ultimate is required, simply apply SWH $swh and use thresholds
+• A Combat Dummy $dummy will be placed on dropdown for the team to build adrenaline
+• If Ingenuity of the Humans $ingen is ready, you may use SGB $sgb to optimize your damage pre-Reflect $link
+
+If you receive a Green Bomb $green and expect it to explode, simply stay close to another player and let it bounce off you. For 4 man you can let it bounce and then use your Powerburst of Vitality $vitality when it targets you a second time. Since the Bomb Tank provokes $voke Vorago in this phase, you should not receive any additional damage, assuming proper positioning.
+
+$warning If the Green Bomb $green targets a Bomb Tank, heal $heal them after the second Blue Bomb's damage, right before the `10,000` damage. Although the Bomb Tanks should be using their Powerburst of Vitality $vitality on top, their death could yet be prevented by a simple cast of Heal Other.
 
 .Base Tank - Phase 7 Team Split
 > __**Base Tank - Phase 7 Team Split**__
 
-This Phase is similar to the last one. Start with Hammer $swh and use thresholds for the rest of the phase.
-• You can Reprisal $reprisal the first Team Split $ts if you target cycle $tc. Otherwise save it for the second one. Make sure you have enough adrenaline for The End $purple
-• The Base tank must always Provoke $voke Vorago just before the Reflect $link starts and must also stay MD for the entirety of it, regardless of your combat style. The Bomb Tanks will take heavy damage during this phase and $voke will reduce the amount of $blue they get
-• It’s also part of the Base’s job to help other roles with their food usage with these strategies
+Mechanic breakdown: #team-split
+
+• Apply SWH $swh on Target Cycle $tc
+• Use thresholds for the rest of the phase (Reprisal $reprisal the first Team Split if you managed to TC)
+• Provoke $voke Vorago shortly before Reflect $link and stay MD (this saves the entire team quite some food)
+• Exit the phase with enough adrenaline to activate Natural Instinct in the end of Phase 7
 
 .Base Tank - Phase 8 The End
 > __**Base Tank - Phase 8 The End**__
 
+Mechanic breakdown: #the-end
+
 • Use Natural Instinct $natty in the end of Phase 7
-• Pre-Ultimate and drink your adrenaline potion as you drop into Phase 8
-• Place a Combat Dummy $dummy at the start of the phase
-• Hammer $swh on Dropdown and then build adrenaline with defensives or on the $dummy
-• Use all your strong thresholds in the first quadrant and try to kill Vorago before he stands up
-• If he stands, use your SGB spec $sgb and avoid being close to other players. Using Vitality potion $vitality for the stand is helpful to reduce damage taken bombs
+• Pre-ultimate $zerk and drink your adrenaline potion as you drop into Phase 8
+• Place a Combat Dummy $dummy in the start
+• Apply SWH $swh on TC and then build adrenaline with defensive abilities
+• Use all your strong thresholds in the first quadrant and try to kill Vorago before Stand Up
+• Utilize SGB $sgb and avoid being close to other players in case a Stand Up happens (also use your Powerburst of Vitality $vitality to boost survivability)
 
 .Tips for Base
-> __**Additional tips for Base**__
+> __**Additional Tips for the Base Tank**__
 
-• Hammer EoF $swh$eof and Dragon Claws EoF are useful for a more optimal rotation
-• Use Disruption Shield $disrupt every time you can (Phase 2 during BHD, During Vitalis $vitalis, During Team Split $ts, and so on)
-• Pre-Ultimating and using Natural Instinct $natty are not needed but they are very helpful
+• SWH EoF $swh $eof and Dragon Claws EoF are useful for optimal ability rotations
+• Use Disruption Shield $disrupt every time you can (Phase 2 during BHD, end of Phase 4 Scopulus, during Phase 7 Team Split, end of Phase 9 / start of Phase 10)
+• Pre-ultimating and using Natural Instinct $natty is not needed but significantly increases your contribution to progressing DPS phases quickly
 • Performing a Solo Lure on Phase 1 is also helpful
 
 .Bomb Tank
