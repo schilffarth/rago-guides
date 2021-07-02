@@ -1,7 +1,7 @@
 .Introduction
 > __**Hard Mode Vorago guide**__
 
-Guide written and edited by <@300296497277173761>, <@346931069968187395>, `<@370326067531087884>`, <@192962768788258826>, <@106390832944263168>, <@781280949790572554> and <@205081780309590016>.
+Guide written and edited by <@300296497277173761>, <@346931069968187395>, <@370326067531087884>, <@192962768788258826>, <@106390832944263168>, <@781280949790572554> and <@205081780309590016>.
 
 Hard Mode Vorago (HM) is a variant of Vorago where the fight is extended from 5 to 11 phases, of which only phases 9 to 11 depend on the weekly rotation (reference: #overview). Knowledge of all the Normal Mode (NM) rotations as well as Reflect $link timings are essential when learning this mode. Strategies do not vary from 4 - 7 man, thence the recommended team size is **5**.
 
@@ -133,13 +133,17 @@ https://i.imgur.com/REZ0zYh.png
 
 > __**DPS/TL5 - Phase 1**__
 
-At the beginning of the phase, every person (except the person standing in the TL spot at Face) will receive a Red bomb $red that deals `2000` damage. However, if someone is nearby, that hit can increase and it scales like in Normal Mode. All the $red after this will scale with the Hard Mode values.
+Mechanic reference: #basic-guide
 
-• It’s important to spread out from other people so the damage of the $red do not increase. If, by any means you are next to someone, the best option is to run in one direction far from them. Surge $surge is not recommended, because you can $surge directly towards another person.
-• By the time the $red hits, Tl5 should be at the climbing position. The TL5 **must jump right away**. This is because every attack the climber receives has a chance of dragging him to the bottom before completing the climb. The Base will put Vorago in a position where he does not bomb the TL5.
-• It’s important that the TL5 has a good climbing speed (sub 36 at the Provoke :voke: spot) to avoid receiving any bombs.
+In the start, every player will receive a Red Bomb $red that deals `2,000` damage, except the person who stood on the TL spot at face. However, if someone is nearby, that hit can increase, scaling like in Normal Mode. After the first wave of reds, all following bombs will scale with the HM base damage of `3,000`.
 
-There is a chance of a random $red happening. If you get one as a DPS, Pray Deflect Magic $deflectmagic and move away from the team until it explodes. do not go further than the Bomb Tanks.
+• Spread out and stay in distance to other players in order to avoid increased damage
+• Surge $surge is not recommended, due to easily surging directly close to yet another player
+• By the time the Red Bomb $red explodes, the Tl5 should be at the entry obstacle in the west
+• Due to all Blue Bomb's potential of dragging the climber, the TL5 must jump **as soon as possible**
+• Read up on #climbing to optimize your climbing speed
+
+There is always a chance of a random Red Bomb $red happening. If you get one, pray Magic $deflectmagic and move away from all players until it explodes. Do not go farther out than the Bomb Tanks.
 
 .
 https://i.imgur.com/lQr0FfS.mp4
@@ -147,11 +151,14 @@ https://i.imgur.com/lQr0FfS.mp4
 
 > __**DPS/TL5 - Phase 2**__
 
-P2 is dealt similar to the one in Normal Mode. However, there are some changes in the mechanics' damage.
+Mechanic reference: #basic-guide
 
-• Similar to Normal Mode, the TL5 will take the 5th Bleed $bleed. All DPS should stand 2-3 steps away from Vorago (East or North East quadrants)
-• Bring Him Down: the time available to retrieve the piece is reduced to 7.8 seconds. Use up to 2 thresholds and then build with basics
-• Build on the dummy $dummy after the phase ends. Can use Disruption Shield $disrupt while building adren
+• The TL5 takes the 5th Bleed $bleed, approaching the phase similar to NM
+• Bring Him Down: The time available to retrieve the Maul Piece (b) $maulpieceb is reduced to 7.8 seconds
+• Use 1 - 2 thresholds, then continue building with basics
+• Build on the placed Combat Dummy $dummy once Vorago dies
+
+Disruption Shield $disrupt can be utilized at the start of BHD. It will be off CD early in Phase 3, easily allowing for more damage mitigation.
 
 .
 https://imgur.com/a/T9F5Sft
@@ -159,21 +166,27 @@ https://imgur.com/a/T9F5Sft
 
 > __**DPS/TL5 - Phase 3 Ceilings**__
 
-• You must have **Shadows enabled to at least Medium** to be able to see rocks falling.
-• The DPS should spread out around the middle middle of the arena.
-• After Vorago jumps, watch out for where the rock is landing, and Pray Deflect Magic $deflectmagic in case you get hit by $blue during the jump. If you are far, Surge $surge or Bladed Dive $bd close to Vorago as soon as he lands to avoid getting extra damage.
+Mechanic reference: #ceilings
+
+• You must have **shadows enabled to at least medium** to be able to see rocks falling
+• All DPS should spread out around the middle of the arena
+• After Vorago jumps, pay attention on the rock's location and pray Deflect Magic $deflectmagic in case you get hit by a Blue Bomb $blue during the jump
+• If you are far away post-jump, utilize Surge $surge or Bladed Dive $bd as soon as Vorago lands to avoid dragging additional bombs
 
 .DPS/TL5 - Phase 4 Scopulus
 > __**DPS/TL5 - Phase 4 Scopulus**__
 
-Pray Deflect Melee $deflectmelee as soon as the phase starts and **do not try to prayer flick** during this phase or you will receive heavy damage from Scops $scop.
+Mechanic reference: #scopulus
 
-• As a DPS you are not required to Provoke $voke all the $scop. However, keep an eye on them so they do not chase the Bomb Tanks. You can $voke them to grab their aggression. Moving them too much during this phase will also make them switch aggression.
-• Go to the South West quadrant and stand near the crack on the floor (refer to the image below)
-• Ultimate before they spawn and start attacking the East Scopuli $scop. Try to keep them stacked and deal AoE damage to kill them at the same time
-• If the phase is long, you may use Devotion $devo after you are out of strong thresholds and special attacks (Hammer $swh, Dark Bow $dbow, Guthix Staff $gstaff)
-• After the phase ends, you can rush to the nearest Bomb Tank to Resonance $resonance the last $blue
-• Drop a dummy $dummy as soon as there is one $scop left or when they all die
+Pray Deflect Melee $deflectmelee as soon as the phase starts and **do not try to pray flick**. You will receive heavy damage from nearby scopuli $scop.
+
+• Even though you are not required to Provoke $voke any Scopulus, you should do so in case they start chasing one a Bomb Tank
+• Initially, position in the south-western quadrant and stand near the crack on the floor (refer to the image below)
+• Ultimate before the scopuli spawn and start attacking the eastern Scopulus
+• Keep them stacked and prioritize AoE damage
+• If the phase lasts for long, you may use Devotion $devo after you are out of strong thresholds and special attacks (SWH $swh, Dark Bow $dbow, Guthix Staff $gstaff)
+• Once all  have died, you can move to the nearest Bomb Tank to Resonance $resonance the last Blue Bomb $blue
+• Drop a Combat Dummy $dummy as soon as 2 scopuli have died or at latest when the last one dies
 
 .
 https://i.imgur.com/G5hKzZw.png
@@ -181,40 +194,55 @@ https://i.imgur.com/G5hKzZw.png
 
 > __**DPS/TL5 - Phase 5 Vitalis**__
 
-Every person in the team that is not a Bomb Tank must stand North East of Vorago and in melee distance (MD). Vitalii $vitalis can block you from moving, so if you are not in melee distance (MD) there is a chance you will not be able to to attack Vorago due to them blocking you.
-• Use your SGB spec $sgb after Reflect $link if needed
-• Ignore all Vitalis orbs and **avoid going to them** or killing/targeting $vitalis during the Phase
-• If there are Bleeds $bleed, Base and a Bomb Tank will deal with them as usual. For 4 man it is advised to have Base take 1-2 and the TL5 (that is also MD) 3-4
-After the phase is finished, build to 100% on the dummy $dummy or $vitalis.
+Mechanic reference: #vitalis
+
+Every person in the team that is not a Bomb Tank must stand north-east of Vorago and in melee distance (MD). Vitalii $vitalis can block you from moving, so if you are not in melee distance (MD) there is a chance of losing your Line of Sight (LoS), preventing you from using any offensive abilities.
+
+• Use your SGB $sgb after Reflect $link if needed (or before if you are ranging)
+• Ignore all Vitalis Orbs as well as all spawned vitalii, since they will automatically disappear upon phase transition and not transfer to following phases
+• If there Vorago happens to inflict Bleeds $bleed, the Base, Bomb Tanks and TL5 will deal with them as usual
+
+Once the phase is finished, build to 100% on a Combat Dummy $dummy or an alive Vitalis $vitalis.
+
 .
 https://i.imgur.com/SFzYxmS.png
 .DPS/TL5 - Phase 6 Green bomb
 
-> __**DPS/TL5 - Phase 6 Green bomb**__
+> __**DPS/TL5 - Phase 6 Green Bomb**__
 
-• Drop a dummy $dummy immediately as you drop into the phase
-• For Magic $magic it is recommended to Sunshine $sunshine (or Meta $metamorphosis) to apply Guthix Staff $gstaff and use threshold; for Rangers $ranged to ECB spec $ecb or just thresh
-• If needed and if Ingenuity of the Humans $ingen is off cooldown, you may SGB $sgb before reflect $link to optimise your damage
+Mechanic reference: #green-bomb
 
-How to deal with Green bombs $green? If you receive a $green, simply stay with the team and let it bounce off you. For 4 man you can let it bounce and then use your Vitality potion $vitality when it is back to you. Since the Bomb Tank Provoked $voke Vorago, you will not receive any additional damage.
+• Drop a Combat Dummy $dummy immediately as you drop into the phase
+• Mages $magic it is recommended to Sunshine $sunshine (or Metamorphosis $metamorphosis) and apply Guthix Staff $gstaff, followed by thresholds
+• Rangers $ranged should pre-ECB $ecb or only dump thresholds
+• If both are available, utilize your Ingenuity of the Humans $ioth in combination with the Seren Godbow $sgb special attack in order to optimize your damage output pre-Reflect $link
+
+If you receive a Green Bomb $green and expect it to explode, simply stay with close to another player and let it bounce off you. For 4 man you can let it bounce and then use your Powerburst of Vitality $vitality when it targets you a second time. Since the Bomb Tank provokes $voke Vorago in this phase, you should not receive any additional damage, assuming proper positioning.
 
 .DPS/TL5 - Phase 7 Team Split
 > __**DPS/TL5 - Phase 7 Team Split**__
 
-Make sure to eat above `9000` for this phase to avoid dying so close to the end. Team Splits $ts cancel all defensives, including Disruption Shield $disrupt.
-• Drop a dummy $dummy as soon as the phase starts. Make sure you are not close to the middle when doing so. The best way to avoid being in the middle is to stay close to a corner-quadrant during the previous phase
-• $ts cancels defensive abilities. Avoid using Resonance $resonance before a $ts or you will get damaged instead
+Mechanic reference: #team-split
+
+$warning Team Split $ts cancels all defensive abilities, including Disruption Shield $disrupt. Make sure to eat well above `9,000` to avoid dying.
+
+• Drop a Combat Dummy $dummy in the start of the phase, close to the edge of the arena
+• Due to TS cancelling all defensive abilities, the optimal timing for Resonance $resonance is shortly after Reflect $link started (aiming to resonance the third or fourth Blue Bomb $blue)
 
 .DPS/TL5 - Phase 8 The End
 > __**DPS/TL5 - Phase 8 The End**__
 
-• Should aim to skip the stand up and avoid tagging any bombs in the process. The best way to deal with this phase is to ultimate on dropdown and use all your strong abilities. Mage $magic may use Metamorphosis $metamorphosis while Rangers $ranged use Swiftness/ECB spec $swiftness/$ecb and Melee $attack Berserk $zerk.
-• In case a stand happens, eat to full before Vorago stands and use your Vitality potion $vitality if it is available. If the damage is not enough to skip the stand, avoid using your $vitality on Team Split $ts and save it for this phase instead.
+Mechanic reference: #the-end
+
+• Due to the Stand Up being skipped in most scenarios, avoid tagging any bombs
+• Pre-ultimate before TC and use your strongest abilities $slice $piercing $wrack
+• In case a Stand Up happens, eat to full HP and use Disruption Shield $disrupt and your Powerburst of Vitality $vitality (if either is available)
+
 .
 https://i.imgur.com/6j6v67i.png
 .
 
-How to glitch from arms:
+• Glitching out of arms
 .
 https://imgur.com/a/CpdMtwr
 .Base Tank
