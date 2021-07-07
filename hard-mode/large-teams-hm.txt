@@ -378,27 +378,25 @@ Mechanic breakdown: #the-end
 • SWH EoF $swh $eof and Dragon Claws EoF are useful for optimal ability rotations
 • Use Disruption Shield $disrupt every time you can (Phase 2 during BHD, end of Phase 4 Scopulus, during Phase 7 Team Split, end of Phase 9 / start of Phase 10)
 • Pre-ultimating and using Natural Instinct $natty is not needed but significantly increases your contribution to progressing DPS phases quickly
-• Performing a Solo Lure on Phase 1 is also helpful
+• Performing a Solo Lure in Phase 1 is a massive QoL improvement for the entire team (reference: #solo-lure)
 
 .Bomb Tank
 > __**Bomb Tank**__
 
 .Bomb Tank Index:edit
-• $maulpiecea **Bomb Tank - Phase 1** {link:Bomb Tank - Phase 1}
-• $gravity **Bomb Tank - Phase 2** {link:Bomb Tank - Phase 2}
-• $ceil **Bomb Tank - Phase 3 Ceilings** {link:Bomb Tank - Phase 3 Ceilings}
-• $scop **Bomb Tank - Phase 4 Scopulus** {link:Bomb Tank - Phase 4 Scopulus}
-• $vitalis **Bomb Tank - Phase 5 Vitalis** {link:Bomb Tank - Phase 5 Vitalis}
-• $green **Bomb Tank - Phase 6 Green bomb** {link:Bomb Tank - Phase 6 Green bomb}
-• $ts **Bomb Tank - Phase 7 Team Split** {link:Bomb Tank - Phase 7 Team Split}
-• $purple **Bomb Tank - Phase 8 The End** {link:Bomb Tank - Phase 8 The End}
+• $maulpiecea **Phase 1** {link:Bomb Tank - Phase 1}
+• $gravity **Phase 2** {link:Bomb Tank - Phase 2}
+• $ceil **Phase 3 Ceilings** {link:Bomb Tank - Phase 3 Ceilings}
+• $scop **Phase 4 Scopulus** {link:Bomb Tank - Phase 4 Scopulus}
+• $vitalis **Phase 5 Vitalis** {link:Bomb Tank - Phase 5 Vitalis}
+• $green **Phase 6 Green bomb** {link:Bomb Tank - Phase 6 Green bomb}
+• $ts **Phase 7 Team Split** {link:Bomb Tank - Phase 7 Team Split}
+• $purple **Phase 8 The End** {link:Bomb Tank - Phase 8 The End}
 .
 
-In Hard Mode Vorago throws 2 $blue at a time, making it necessary to have two Bomb Tanks throughout the kill regardless of the team size.
-Bomb Tanks will be referred to as BT1 and BT2 for short. Intercept $cept is required to perform this role, because it is used in most phases.
-In case of using Heal Other $heal, Bomb Tanks will always $heal each other (crack heal and during Barricades$cade). BTs will stand South for most phases.
+In Hard Mode Vorago throws 2 Blue Bombs $blue at once, requiring a second Bomb Tank throughout the kill. Bomb Tanks will be referred to as BT1 and BT2. To perform this role, Intercept $cept is required. In case of using Heal Other $heal, the Bomb Tanks always heal each other (Crack Heal and during Barricade $cade, references: #crack-healing, #cade-cept). Both BTs position south for most phases.
 
-__Strategy summary:__
+__Strategy Summary:__
 
 .
 https://i.imgur.com/mHVPVse.png
@@ -406,86 +404,118 @@ https://i.imgur.com/mHVPVse.png
 
 > __**Bomb Tank - Phase 1**__
 
-After the initial Red $red hits, build on Vorago and Ultimate. Whoever is the furthest Bomb Tank will receive $red bombs throughout the kill.
+Mechanic breakdown: #basic-guide
 
-• A good strategy to deal with $red on Phase 1 is to have one Bomb Tank (BT1) further to force $red on themselves and BT2 can either Devotion $devo or Barricade $cade depending on their adrenaline. For the next $red, BT2 can go out and get intercepted $cept by BT1 and so on
-• The first $red of the phase can be ignored since most of the times BTs will have Disruption Shield $disrupt active and full HP, making it pointless to protect each other from the first one
-• For teams where this phase tends to be longer, one of the BTs can avoid Ultimate on dropdown and rotate with $devo and $cade instead. In case of doing this, it is possible to time $cade to cover at least 2 $red, making it easy to $cept 3 $red in a row ($devo 1 then $cade 2) without having to switch positions
-• Remember Bomb Tanks are going to crack-heal/heal each other during all phases
+After the initial Red Bomb $red hits, build on Vorago and ultimate. Even if the team deals enough damage in time, utilizing an ultimate is yet recommended, in order to prevent excessive food usage.
 
-There is a chance of a random $red happening. In case it happens, $cept the other BT as well as the player affected by it. If you are under the effects of $cade you can also use $heal after $cept. This applies to all phases that have a $red in the attack order
+• Activate Disruption Shield $disrupt **after** the initial wave of reds dealt its `2,000` damage
+• The Bomb Tank who does **not** receive the first Red Bomb should Devotion Intercept $devo $cep the other player
+• Afterwards, the person who devo cepted steps farther away to force the next Red Bomb on themselves
+• If the phase takes long, Barricade Intercept can be useful
+• Perform crack heals after every phase (reference: #crack-healing)
+
+In case of a random Red Bomb $red, one of the Bomb Tanks should either devo or cade cept the targeted player. Additionally you should cast Heal Other $heal whilst under the effect of Barricade.
 
 .Bomb Tank - Phase 2
 > __**Bomb Tank - Phase 2**__
 
-P2 is dealt similar to the one in Normal Mode.
+Mechanic breakdown: #basic-guide
 
-• BTs placement: they should be on the South side of the arena at all times and even take Bleeds $bleed from there
-• Only one BT will be responsible for taking $bleed (3-4)
-• BTs are responsible for dealing with Red bombs $red. The recommended strategy is to have BT1 do $bleed and BT2 Barricade $cade 1st and 3rd $red, and BT1 $cade the 2nd one. Make sure that the Bomb Tank that is going to $cade goes closer to Vorago than the other BT, to force the $red on them
-• Heal each other $heal during $cade and **always Intercept $cept the Base Tank too**. $heal the Base if their HP is lower than the other Bomb Tank
-• In summary, BT1 $cade, BT1 goes close to Vorago, $cade, $cept BT2, $cept Base, $heal each other
-• Drop a dummy $dummy during Bring Him Down. The preferred spot is to $dummy in the South West corner, but not close to the wall
-• Use Disruption Shield $disrupt after Vorago dies
+Phase 2 is mostly similar to Normal Mode.
+
+• The Bomb Tanks should be in the south at all times (also escape bleeds from the south)
+• Only one BT will be responsible for taking the third and fourth Bleed $bleed
+• BT1 cade cepts $cade $cept the first and third Red Bomb $red, BT2 cade cepts the second $warning always intercept the Base Tank too
+• Cast Heal Other $heal during Barricade, situationally on the player with the lowest HP
+• Place a Combat Dummy $dummy close to the south-western corner during Bring Him Down (reference: #overview)
+• Activate Disruption Shield $disrupt at the start of BHD
 
 .Bomb Tank - Phase 3 Ceilings
 > __**Bomb Tank - Phase 3 Ceilings**__
 
-The BTs stay North on this phase due to DPS/Base standing on the South side of the arena.
+Mechanic breakdown: #ceilings
 
-• Start the phase with thresholds and Provoke $voke Vorago as soon as possible and before the first $auto is fired
-• Watch out for where the rock is landing. The team will be spread after the jump. BTs must avoid sharing $blue with the rest of the team
-• Use Surge/Bladed Dive $surge/$bd to get closer to Vorago as soon as he lands. If there are players far from Vorago after the jump go out a few steps
-• Devotion $devo is not required on this phase and should be saved for Scopulus $scop (Phase 4). If you still decide to use Devotion $devo, use it as soon as the first $blue is fired during the Reflect $link. Intercept $cept the other Bomb Tank in time
+Both BTs stay north in this phase due to all others standing on the south side of the arena.
+
+• Start the phase with thresholds and Provoke $voke Vorago as soon as possible
+• Watch out for the rock's is landing location
+• The team will spread out post-jump, be careful and avoid sharing bombs $blue
+• Use Surge $surge / Bladed Dive $bd carefully to get closer to Vorago post-jump, you always have to stay out the farthest in order to receive all bombs
+• Devotion $devo is not required but can be used if a Reflect $link occurs
 
 .Bomb Tank - Phase 4 Scopulus
 > __**Bomb Tank - Phase 4 Scopulus**__
 
-When the phase begins, go to the South West corner and Ultimate as shown in the image. Use your Adrenaline potion for this phase.
+Mechanic breakdown: #scopulus
 
-• Make sure to attack Scops $scop late, otherwise you will drag their aggression. Attacking late means waiting for other players to attack it at least once
-• You can use Disruption Shield $disrupt to null a $blue, and then Resonance $resonance when you are below 50% of your HP. Devotion $devo the other BT as soon as they start to lose more than half of their HP, and when the effect ends, the other BT must now Intercept $cept with $devo
-• The person under $cept can use Soul Split until the effect ends
-• It’s recommended for Rangers $ranged to bring Chinchompas $chins and Magers $magic to apply Guthix Staff $gstaff to at least 2 $scop
-• Drop a dummy $dummy as soon as the phase ends if no one else does
-• If a $scop aggros you, run by the wall in the opposite direction of the other Bomb Tank until someone uses $voke
+In the beginning, go to the south-west corner and ultimate as shown in the image. Utilize your apot $renewal in this phase.
+
+• Positioning in Phase 4 Scopulus
+.
+https://i.imgur.com/G5hKzZw.png
+.
+
+• Make sure to attack both scopuli $scop delayed to avoid dragging aggression early
+• You can use Disruption Shield $disrupt to null a Blue Bomb $blue, followed by Resonance $resonance if you need the HP
+• BT1 should Devotion Intercept $devo $cept first, with the BT2 following up another 10 seconds of devo cept
+• The intercepted person should use Soul Split $soulsplit until the effect wears off
+• Rangers should bring Mechanized Chinchompas $chins and mages should apply Guthix Staff $gstaff (pair GStaff with a prior Greater Chain $gchain)
+• One of the Bomb Tanks should drop a Combat Dummy $dummy once the last Scopulus has died
+
+$warning If a Scopulus $scop switches aggression and starts running towards you, immediately run away until it is provoked off you (make use of Surge $surge and Bladed Dive $bd).
 
 .Bomb Tank - Phase 5 Vitalis
 > __**Bomb Tank - Phase 5 Vitalis**__
 
-It used to be required for BTs to be in melee distance during this phase for 4 man, that strategy makes the phase harder due to having to prayer flick and you also need to find a position where you do not share $blue with the other players.
-For the new strategy, Bomb Tanks must stand out of melee distance for the whole phase. This strategy also applies for 4 man.
+Mechanic breakdown: #vitalis
 
-• Use thresholds and special attacks. You can Soul Split for most of the phase
-• do not use Resonance $resonance during Reflect $link if there are Vitalii $vitalis nearby as they may steal your heal
-• Use your SGB spec $sgb after Reflect $link if needed
-• If there are Bleeds $bleed, Base and a Bomb Tank will deal with them as usual. For 4 man it is advised to have Base take 1-2 and the TL5 (that is also MD) 3-4
+Even though the meta used to require both BTs position in melee distance to Vorago throughout the entire phase, the most commonly used strategy is changed nowadays.
+
+• Both Bomb Tanks stand out of melee distance for the whole phase to prevent Blue Bombs $blue targeting other players
+• Use thresholds and special attacks
+• Do not use Resonance $resonance during Reflect $link if there are vitalii $vitalis nearby as they may snipe its effect
+• If needed, use your SGB $sgb after Reflect
+• If Vorago happens to inflict bleeds $bleed, the Base, Bomb Tanks and TL5 will deal with them as usual
 
 .Bomb Tank - Phase 6 Green bomb
-> __**Bomb Tank - Phase 6 Green bomb**__
+> __**Bomb Tank - Phase 6 Green Bomb**__
 
-• The BTs should be at the south quadrant and, when the phase begins, one of the BTs should voke $voke Vorago
-• For Magic $magic it is recommended to Sunshine $sunshine (or Meta $metamorphosis) to apply Guthix Staff $gstaff and use threshold; for Rangers $ranged to ECB spec $ecb or just thresh
-• If needed and if Ingenuity of the Humans $ingen is off cooldown, you may SGB $sgb before Reflect $link to optimise your damage
+Mechanic breakdown: #green-bomb
 
-How to deal with Green bombs $green? If you receive a $green use your Vitality potion $vitality and then eat to full. Eating before $vitality puts it on a global cooldown for a few seconds and can get you killed.
+• The BTs should position in the South
+• One Bomb Tank provokes $voke 2 - 3 GCDs after Target Cycle $tc
+• If Vorago switches his aggression, revoke in order to avoid melee auto attacks $swipe
+• While rangers enjoy their easy life and activate ECB $ecb to go brrrrrr, mages will have to utilize Sunshine $sun or Metamorphosis $metamorphosis
+
+
+• No ultimate is required, simply apply SWH $swh and use thresholds
+• A Combat Dummy $dummy will be placed on dropdown for the team to build adrenaline
+• If Ingenuity of the Humans $ingen is ready, you may use SGB $sgb to optimize your damage pre-Reflect $link
+
+If you receive a Green Bomb $green and expect it to explode, eat up and use your Powerburst of Vitality $vitality.
 
 .Bomb Tank - Phase 7 Team Split
 > __**Bomb Tank - Phase 7 Team Split**__
 
-You may use your Vitality potion $vitality (if it is not on cooldown from Green bomb $green) when tanking the Team Splits $ts to Reprisal $reprisal.
-Bomb Tanks should use Soul Split as much as possible during this phase due to the heavy damage received by the $ts and the Bombs after it.
+Mechanic breakdown: #team-split
 
-• Use an ability and Provoke $voke Vorago as soon as the $ts ends
-• The Base will $voke back during Reflect $link - **do not $voke again after this**
-• do not use Devotion/Intercept $devo/$cept during $link, save it for the next $ts instead and use it as soon as the cooldown resets
-• Drop a dummy $dummy during $link or during the next $ts. If the phase is long, the first $dummy (dropped by a DPS) will disappear
+You may use your Powerburst of Vitality $vitality if it is available in order to improve health management when using Reprisal $reprisal during a Team Split $ts.
+
+• Provoke $voke Vorago as soon as the first Team Split ends
+• One of the Bomb Tanks should use Devotion Intercept for the very first Blue Bomb $blue
+• The Base Tank will provoke during Reflect $link - do **not** revoke after this
+• The other Bomb Tank should use Devotion Intercept right after the second Team Split
+• Drop a Combat Dummy $dummy during Reflect or during the second TS
 
 .Bomb Tank - Phase 8 The End
 > __**Bomb Tank - Phase 8 The End**__
 
-Should aim to skip the stand up and avoid tagging any bombs in the process. The best way to deal with this phase is to ultimate on dropdown and use all your strongest abilities. Magic $magic may use Metamorphosis $magic while Rangers $ranged use Swiftness/ECB spec $swiftness/$ecb.
-Tagging Red bombs $red is an old and outdated strategy, and **shouldn’t be done**. Focus on dealing all the damage possible instead. In case of getting a stand, spread, Vitality $vitality and eat to full.
+Mechanic breakdown: #the-end
+
+The goal is to skip the Stand Up and avoid tagging any bombs.
+
+• Ultimate pre-TC and dump the strongest abilities you have available
+• If a Stand Up happens, eat to full life points and utilize your Powerburst of Vitality (if it is not on CD)
 
 .Phase 9, Phase 10 and Phase 11
 > __**Phase 9, Phase  10 and Phase 11**__
