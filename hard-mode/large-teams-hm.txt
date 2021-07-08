@@ -25,7 +25,7 @@ $warning Mauling all NM rotations is **not** a requirement (reference: #maul). T
 • Vorago should be debuffed for the majority of all phases, including SWH $swh, Guthix Staff $gstaff and potentially Blackstone Arrows $bsa for phases 10 / 11
 • A Powerburst of Vitality $vitality (Entry hit, Green Bomb $green and Team Split $ts) as well as having `14,000` life points to avoid failing the entry hit
 • Nihils $nihil are mandatory for **all** team sizes and roles
- 
+
 .
 __Recommendations:__
 
@@ -76,7 +76,7 @@ There are 11 phases in Hard Mode and phases 1 - 8 stay always the same. Phase 9 
 https://i.imgur.com/pB3bo1z.png
 .
 
-Mauling on Phase 11 will grant you the in-game title ‘the Defeater’ as well as an outfit piece depending on the weekly rotation. Having obtained all outfit pieces (6/6 rotations) is a requirement to be eligible to receive the Ancient Artefact (Bombi pet) drop. More information can be found in our #maul guide.
+Mauling on Phase 11 will grant you the in-game title `the Defeater` as well as an outfit piece depending on the weekly rotation. Having obtained all outfit pieces (6/6 rotations) is a requirement to be eligible to receive the Ancient Artefact (Bombi pet) drop. More information can be found in our #maul guide.
 
 .
 https://i.imgur.com/F61kKIC.png
@@ -307,7 +307,7 @@ Mechanic breakdown: #ceilings
 .Base Tank - Phase 4 Scopulus
 > __**Base Tank - Phase 4 Scopulus**__
 
-Mechanic breakdown: #socpulus
+Mechanic breakdown: #scopulus
 
 The Base Tank's job in this Phase is to lure and stack all scopuli $scop. Make sure the rest of the team is focusing them as well in case they go to the Bomb Tanks. A frequent usage of Vulnerability Bombs $vbomb increases the probability of keeping all scopuli stacked.
 
@@ -517,50 +517,57 @@ The goal is to skip the Stand Up and avoid tagging any bombs.
 • Ultimate pre-TC and dump the strongest abilities you have available
 • If a Stand Up happens, eat to full life points and utilize your Powerburst of Vitality (if it is not on CD)
 
-.Phase 9, Phase 10 and Phase 11
-> __**Phase 9, Phase  10 and Phase 11**__
+.Phase 9, Phase 10 and Phase 11:edit
+> __**Phase 9, 10 and 11**__
+
+• $waterfall **Phase 9** {link:Phase 9}
+• $maulpiecehandle **Overview P10/11** {link:Phase 10 and 11 - Overview}
+• $shielddome **Phase 10** {link:Phase 10 strategies}
+• $maul **Phase 11** {link:Phase 11 strategies}
 
 .
 https://i.imgur.com/S2PZvtj.png
 .
+
+.
 https://i.imgur.com/ASTyHHs.png
 .Phase 9
 
-__Phase 9:__
+> __**Phase 9**__
 
 This section will be split into a regular Phase 9 and a Phase 9 with Clone Skip. The strategies only change for Green bomb $green.
 Bomb Tanks will take turns to Barricade $cade and Intercept $cept the team for each cycle. Make sure to designate who is going to $cade first.
 If Clone Skip fails, everyone must get closer to Vorago as soon as possible: DPS goes 2-3 steps away from Vorago and BTs at their usual distance.
 
-**Ceiling** $ceil
+$ceiling __Ceilings:__
 
 BTs must $cade and $cept everyone when Vorago makes the animation to launch the rock. Also, if you are not responsible for bleeds $bleed, you should help the team to clear the rocks asap after you are $cept.
 
-**Scopulus** $scop
+$scop __Scopulus:__
 
 It is dealt with in the same way as Phase 2. One BT will step further from rago and the other will $cade and $cept.
 
-**Vitalis** $vitalis
+$vitalis __Vitalis:__
 
 Right before Vorago launches the Vitalis orb, one Bomb Tank will $cade and $cept and go to the orb too. For the clone skip one, the BTs will alternate with the $cade and $cept.
 The DPS should help the team to clear the $vitalis that spawned. In order to do that, you can deploy dominion mines $mines before they spawn and use AoE abilities on them.
 For the regular Phase 9, the whole team should be at the NE quadrant and the BTs on the E or N quadrant; but for the Clone Skip, the orb will be thrown in a random direction.
 
 .
-**Green bomb** $green
+$green __Green Bomb:__
 
 • Regular Phase 9: BTs must build to 100% before the $green is launched. After the %green targets one person, one BT should $cade and $cept them.
 
 • Clone Skip Phase 9: Both BTs should build to 100% for the first $green and deal with it as normal. For the second $green, the Base must also build to 100% to $cade and $cept the BT. If the $green is on one of the DPS, the BT with $cade off cooldown will $cade and $cept.
 
-**Team Split** $ts
+$ts __Team Split:__
 
 The BTs will $cade and $cept everyone after the $ts. 
 
 .
-**The End** $purple
+$pb __The End:__
 
-BT 1 will be responsible for tagging reds $red and BT 2 will $cade and $cept them. It’s important that everyone either glitches out of arms or stays MD while this is done, to avoid receiving damage from $red. The BT that tags must also go to the wall as soon as possible to avoid sharing $red.
+BT 1 will be responsible for tagging reds $red and BT 2 will $cade and $cept them. It is important that everyone either glitches out of arms or stays MD while this is done, to avoid receiving damage from $red. The BT that tags must also go to the wall as soon as possible to avoid sharing $red.
 After that, BT 1 will build to 100% asap and will and $cept everyone right before the stand up of Vorago. Following that, the BT, who is under $cept (BT 2), should move away so the $red goes to him.
 If there are Ranger $ranged + Mage $magic BTs, it is preferable that the Range BT uses $cade and $cept the Mage BT that will tag the $red.
 
@@ -568,7 +575,7 @@ Before the last Waterfall $waterfall, whoever is mauling must have Piece (a) $ma
 One of the BT must drop a dummy $dummy at the end of this phase, preferably during the last $waterfall and close to the middle.
 
 .Phase 10 and 11 - Overview
-> __**Phase 10 and 11 - Overview**__
+> __**Phase 10 and 11 Overview**__
 
 The strategies for the 6 rotations can be summarised into two methods: the safe method and the fast or advanced method.
 For the Phase 10 and 11 sections, all the DPS must place their ultimates in melee distance. Whenever an ultimate is mentioned, it is already implied you need to do it.
@@ -579,11 +586,11 @@ For the Phase 10 and 11 sections, all the DPS must place their ultimates in mele
 • For 4 man teams each DPS (Base and TL5) will take a side. Base usually goes South and TL5 North. This is only helpful on rotations with $purple and $green, as it is easier to tank the specials without having to move from the team.
 
 .
-**Safe method**
+__Safe Method:__
 
 It requires everyone to Ultimate on dropdown except for one of the Bomb Tanks. The other BT will use a threshold or two (depending on adrenaline management), and then build to 100% to $cade. The first $blue should be blocked by $disrupt, giving more time to build to Barricade. In the next phase, the BT that used $cade will now build to ultimate and vice versa.
 
-**Advanced method**
+__Advanced Method:__
 
 Requires everyone to Ultimate except for one BT (South) that will use all the strong thresholds and special attacks available. This is done to help with the push, usually referred to as 0-Link (zero link), to avoid having to use $cade. This method is not recommended on a team with multiple learners.
 
@@ -591,27 +598,28 @@ The safe method is not considered a common strategy anymore (as it aims for less
 The fast (advanced) method relies on the team pushing Vorago non-stop, but on a team with low damage it is hard to do so without a set rotation.
 
 .Phase 10 strategies
-__Phase 10:__
+> __**Phase 10**__
+
 In addition to the two methods, there are also some things to point out for some rotations. Make sure to also read about **Broken Team Splits** below, because it is a bug that happens on every rotation that has $ts as the second special.
 
-**Ceilings and Team Split** $ceil + $ts
+$ts __Ceilings and Team Split:__
 
 Avoid using $disrupt before the phase starts because $ts cancels defensives and $disrupt. Save it for after the $ts regardless of what method the team is using. If $cade is used for the $ts special, make sure to use it **after** the $ts and not before the special. This also applies to Scopulus $scop and Green bomb $green.
 
 .
-**Ceilings, Scopulus, Vitalis and The End** $ceil, $scop, $vitalis + $purple
+$pb __Ceilings, Scopulus, Vitalis and The End:__
 
 The DPS must step back to block the Vitalis orb on Phase 10 and 11. Make sure to not go further than Bomb Tanks, to avoid sharing $blue with each other. For the safe method, one of the BT will $cade and $cept the whole team before the Vitalis orb is launched. BTs will rotate $cade for each cycle if needed.
 
-**Green bomb** $green
+$green __Green Bomb:__
 
-Deal with the $green as usual. If it is on a Bomb Tank, they should use their Vitality potion $vitality. Optional: If the BT’s HP is too low, the Base Tank can heal $heal them before the $green hits. If it is on the DPS, eat up and let it bounce amongst the pile. Tank it (with $vitality) on your side of the arena if it is a 4 man team.
+Deal with the $green as usual. If it is on a Bomb Tank, they should use their Vitality potion $vitality. Optional: If the Bomb Tank's HP is too low, the Base Tank can heal $heal them before the $green hits. If it is on the DPS, eat up and let it bounce amongst the pile. Tank it (with $vitality) on your side of the arena if it is a 4 man team.
 
 The right $maul timing must be used to ensure a consistent Phase 11. Read below for the timings.
 At the end of the arena in Phase 10, and before it is mauled, the BT should drop a $dummy to build at the start of the next phase. This is even more helpful with a Shield Dome maul $dome $maul, explained below.
 
 .Broken Team Split
-__Broken Team Split:__
+$ts __Broken Team Split:__
 
 .
 https://i.imgur.com/fvNg9AV.png
@@ -623,14 +631,14 @@ The best way to reduce the damage from these is to not attack Vorago at all afte
 If you get $auto during a broken $ts, simply Pray Deflect Magic $deflectmagic, go to your colour box and eat up. Make sure to go closer to Vorago as soon as the Team Split explodes, otherwise you will drag more Blue bombs $blue into the DPS pile.
 
 .Mauling Phase 10
-__Mauling Phase 10:__
+> __**Mauling Phase 10**__
 
-Mauling Phase 10 is typically the TL5’s job, unless the base is melee $attack - this is because a melee base would always be in MD and will be able to $maul at the right time. The timing for the $maul is important because it determines what happens at the start of Phase 11.
+Mauling Phase 10 is typically the TL5's job, unless the base is melee $attack - this is because a melee base would always be in MD and will be able to $maul at the right time. The timing for the $maul is important because it determines what happens at the start of Phase 11.
 You must always wait for the special to be released before mauling, otherwise Vorago will start the next phase with it instead of Auto Attacks.
 
-If we take the example of Scopulus week, Vorago’s rotation for Phases 10 and 11 are as follows:
-Phase 10: **Purple bomb** $purple release → 5 Attacks $auto → **Reflect** $link (for 3 Attacks) → 3 Attacks $auto → **Team Split** $ts → 3 Attacks $auto
-Phase 11: **Purple bomb** $purple release → 5 Attacks $auto → **Reflect** $link (for 3 Attacks) → 3 Attacks $auto → **Vitalis orb** $vitalis → 3 Attacks $auto
+If we take the example of Scopulus week, Vorago's rotation for Phases 10 and 11 are as follows:
+• Phase 10: **Purple bomb** $purple release → 5 Attacks $auto → **Reflect** $link (for 3 Attacks) → 3 Attacks $auto → **Team Split** $ts → 3 Attacks $auto
+• Phase 11: **Purple bomb** $purple release → 5 Attacks $auto → **Reflect** $link (for 3 Attacks) → 3 Attacks $auto → **Vitalis orb** $vitalis → 3 Attacks $auto
 
 .
 If you maul in Phase 10 after 2 Attacks $auto have been released, Vorago has 3 remaining Attacks $auto in his rotation (because in Phase 10, there are a total of 5 $auto before the Reflect $link). At the start of Phase 11, he would perform these 3 $auto before continuing with his rotation, and going into $link.
@@ -639,30 +647,32 @@ If you mauled 4 Attacks $auto after $purple release at the start of Phase 10, th
 If you are unsure of how many Attacks $auto have been fired, it is better to keep Vorago in the $maul spot and $maul when $link starts.
 
 In summary, there are 3 times to $maul that are optimal for the kill, as they maximise the number of Attacks $auto in Phase 11 before the next special:
-1- When the **first special** begins
-2- When **Reflect** starts
-3- When the **second special** begins
+• #1: When the **first special** begins
+• #2 When **Reflect** $link starts
+• #3: When the **second special** begins
 
 .
 Mauling as soon as Reflect $link starts is good for all rotations, but it is not the best option.
 While this can seem complicated at first, mauling at the right time makes the kill easier because you do not have to calculate how many autos $auto remain from the Phase 10 rotation before the next special will occur in Phase 11.
 
 The following chart shows all the possible $maul timings for each rotation, and they assume the $maul occurred as soon as the special started, with no $auto in between the special release and the $maul.
+
 .
 https://i.imgur.com/9tJk0aI.png
 .
 
 If you get more than 2 $auto after a Special, go to the next $maul timing as it is best to skip the first timing to optimize the amount of Attacks $auto on the next phase.
 
-__Shield Dome mauling:__
+__Shield Dome Mauling:__
 
 This is a strategy that allows you to skip the $maul animation on Phase 10. It does not save time but allows everyone to build on the dummy $dummy while Vorago is still talking.
-It’s done by using Shield Dome $dome before clicking the maul $maul while Vorago is in the $maul spot. do not spam clicking your $dome or the $maul, otherwise it will not work.
+It is done by using Shield Dome $dome before clicking the maul $maul while Vorago is in the $maul spot. do not spam clicking your $dome or the $maul, otherwise it will not work.
 .
+
 https://i.imgur.com/3X7xQ5k.mp4
 .Phase 11 strategies
 
-__Phase 11:__
+> __**Phase 11**__
 
 This phase is dealt with in the same way as Phase 10, and following the same descriptions in the Overview above,
 The Bomb Tank that used Barricade $cade in Phase 10 should now build to Ultimate $sunshine $swiftness and the other BT should build to Barricade $cade.
@@ -673,6 +683,4 @@ Depending on the push, it might be better for BTs to Ultimate and threshold resp
 • $maul **DPS and TL5** {link:DPS and TL5}
 • $swh **Base Tank** {link:Base Tank}
 • $blue **Bomb Tank** {link:Bomb Tank}
-• $waterfall **Phase 9, 10 and 11** {link:Phase 9, Phase 10 and Phase 11}
-      • $cade **Phase 10** {link:Phase 10 strategies}
-      • $maul **Phase 11** {link:Phase 11 strategies}
+• $maul **Phase 9, 10 and 11** {link:Phase 9, Phase 10 and Phase 11}
