@@ -685,7 +685,8 @@ This phase is dealt with in the same way as Phase 10, and following the same des
 The Bomb Tank that used Barricade $cade in Phase 10 should now build to Ultimate $sunshine $swiftness and the other BT should build to Barricade $cade.
 Depending on the push, it might be better for BTs to Ultimate and threshold respectively. Only use Barricade $cade for one of the specials in Phase 11.
 
-.Index
+.index
+> __**Index**__
 • $pin **Introduction** {link:Introduction}
 • $maul **DPS and TL5** {link:DPS and TL5}
 • $swh **Base Tank** {link:Base Tank}
