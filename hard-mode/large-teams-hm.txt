@@ -42,7 +42,7 @@ These are just examples, you do not need all the switches and types of food. Sim
 https://i.imgur.com/JrtE7t0.png
 .
 
-The first section of this guide explains every phase and how to deal with it using general strategies. Every phase will have the respective attack order and relevant mechanics. This section will also treat TL5 as a DPS, and the DPS strategies / responsibilities will be explained only. This section covers phases 1 - 8.
+The first section of this guide explains every phase and how to deal with it using general strategies. Every phase will have the respective attack order and relevant mechanics. This section will also treat TL5 as a DPS: the DPS strategies and responsibilities will be explained only. This section covers phases 1 - 8.
 
 The second section is dedicated to tank roles. The Base Tank section is applicable to all styles, but the recommended combat style is melee $attack. The Bomb Tank section is applicable to ranged $ranged and mage $magic, with the only differences being the use of ultimates $sunshine $metamorphosis $ecb $swiftness. This section covers phases 1 - 8.
 
@@ -53,7 +53,10 @@ __Entry Hit:__
 
 The entry hit is the first difference with Normal Mode: `70,000` damage is split amongst all players that accepted the challenge. It is capped at `14,000` damage per player, instead of `12,500`. For a more information, check out our #basic-guide.
 
-Things that help getting the HP needed: Fortitude prayer $fortitude and a solid food $soup. You may also use your Vitality potion $vitality 15 seconds after challenging. The best way to time this is using Preparation $preparation as soon as the challenge prompt appears. Sip your Powerburst of Vitality when the cooldown is at 5 seconds left. Using Vitality $vitality **and** having the HP needed is recommended, because if you fail the entry hit due to timing your $vitality poorly, the team will most likely wait until its CD wears off, resulting in a waste of aura time.
+Things that help getting the HP needed: Fortitude prayer $fortitude and a solid food $soup. You may also use your Vitality potion $vitality 15 seconds after challenging. The best way to time this is using Preparation $preparation as soon as the challenge prompt appears. Sip your Powerburst of Vitality when the cooldown is at 5 seconds left on Preparation. Using Vitality $vitality **and** having the HP needed is recommended, because if you fail the entry hit due to timing your $vitality poorly, the team will most likely wait until its CD wears off, resulting in a waste of aura time.
+
+• Font of Life (Archaeology Relic) is helpful to get extra HP
+• Using the Thermal effect from Oo'glog is also helpful
 
 .
 __Phases and Mechanic Breakdown:__
@@ -68,9 +71,9 @@ There are 11 phases in Hard Mode and phases 1 - 8 stay always the same. Phase 9 
 ➔ Phase 6: Green Bomb $green
 ➔ Phase 7: Team Split $ts
 ➔ Phase 8: The End $purple
-➔ Phase 9
-➔ Phase 10
-➔ Phase 11
+➔ Phase 9 $waterfall
+➔ Phase 10 $maul
+➔ Phase 11 $maul
 
 .
 https://i.imgur.com/pB3bo1z.png
@@ -126,7 +129,7 @@ The DPS should stand at a maximum of 2 - 3 tiles away from Vorago throughout pha
 https://i.imgur.com/YIA0fWD.png
 .
 
-• Strategy summary
+__Strategy Summary:__
 .
 https://i.imgur.com/REZ0zYh.png
 .DPS/TL5 - Phase 1
@@ -138,13 +141,14 @@ Mechanic reference: #basic-guide
 In the start, every player will receive a Red Bomb $red that deals `2,000` damage, except the person who stood on the TL spot at face. However, if someone is nearby, that hit can increase, scaling like in Normal Mode. After the first wave of reds, all following bombs will scale with the HM base damage of `3,000`.
 
 • Spread out and stay in distance to other players in order to avoid increased damage
-• Surge $surge is not recommended, due to easily surging directly close to yet another player
+• Surge $surge is not recommended, as you might get too close to another player, resulting in PKs with the Reds $red
 • By the time the Red Bomb $red explodes, the Tl5 should be at the entry obstacle in the west
 • Due to all Blue Bomb's potential of dragging the climber, the TL5 must jump **as soon as possible**
 • Read up on #climbing to optimize your climbing speed
 
 There is always a chance of a random Red Bomb $red happening. If you get one, pray Magic $deflectmagic and move away from all players until it explodes. Do not go farther out than the Bomb Tanks.
 
+The following gif shows what's been explained above: the TL5 must get to the spot, Provoke $voke and Jump as soon as possible, regardless of Vorago's HP.
 .
 https://i.imgur.com/lQr0FfS.mp4
 .DPS/TL5 - Phase 2
@@ -196,11 +200,12 @@ https://i.imgur.com/G5hKzZw.png
 
 Mechanic reference: #vitalis
 
-Every person in the team that is not a Bomb Tank must stand north-east of Vorago and in melee distance (MD). Vitalii $vitalis can block you from moving, so if you are not in melee distance (MD) there is a chance of losing your Line of Sight (LoS), preventing you from using any offensive abilities.
+Every person in the team that is not a Bomb Tank must stand north-east of Vorago and in melee distance (MD). Vitalii $vitalis can block you from moving, so if you are not in melee distance (MD) there is a chance of losing your Line of Sight, preventing you from using any offensive abilities.
 
 • Use your SGB $sgb after Reflect $link if needed (or before if you are ranging)
 • Ignore all Vitalis Orbs as well as all spawned vitalii, since they will automatically disappear upon phase transition and not transfer to following phases
 • If Vorago happens to inflict bleeds $bleed, the Base, Bomb Tanks and TL5 will deal with them as usual
+• For 4 man teams it is recommended to deal with Bleeds like this: Base (1 2), TL5 (3 4), BT (5) due to the TL5 being in melee distance (MD)
 
 Once the phase is finished, build to 100% on a Combat Dummy $dummy or an alive Vitalis $vitalis.
 
@@ -236,6 +241,7 @@ Mechanic reference: #the-end
 
 • Due to the Stand Up being skipped in most scenarios, avoid tagging any bombs
 • Pre-ultimate before TC and use your strongest abilities $slice $piercing $wrack
+• Try to glitch out of arms if possible so you can Ultimate without having to move (due to Quadrants moving)
 • In case a Stand Up happens, eat to full HP and use Disruption Shield $disrupt and your Powerburst of Vitality $vitality (if either is available)
 
 .
@@ -283,7 +289,7 @@ https://imgur.com/a/tEIZHIg
 • Once Vorago spawns, use an ability and Provoke $voke shortly after (within the ability's GCD)
 • Take Vorago close to the North-East corner
 • Keep Vorago there until the climber reaches the final platform
-• At roughly 30 seconds, head west quickly (take 1 or 2 steps followed by Surge $surge)
+• At roughly 30 seconds, or before the TL5 jumps the to the last ledge, head west quickly (take 1 or 2 steps followed by Surge $surge)
 • Once the Top Lure voked $voke Vorago into spot, position south in MD and Provoke (utilize Bladed Dive $bd)
 
 .Base Tank - Phase 2
@@ -346,7 +352,7 @@ Make sure a Bomb Tank provokes $voke 2 - 3 GCDs after Target Cycle $tc. Do not r
 • A Combat Dummy $dummy will be placed on dropdown for the team to build adrenaline
 • If Ingenuity of the Humans $ingen is ready, you may use SGB $sgb to optimize your damage pre-Reflect $link
 
-If you receive a Green Bomb $green and expect it to explode, simply stay close to another player and let it bounce off you. For 4 man you can let it bounce and then use your Powerburst of Vitality $vitality when it targets you a second time. Since the Bomb Tank provokes $voke Vorago in this phase, you should not receive any additional damage, assuming proper positioning.
+If you receive a Green Bomb $green and expect it to explode, simply stay close to another DPS and let it bounce off you. For 4 man you can let it bounce and then use your Powerburst of Vitality $vitality when it targets you a second time. Since the Bomb Tank provokes $voke Vorago in this phase, you will not receive any additional damage, assuming proper positioning.
 
 $warning If the Green Bomb $green targets a Bomb Tank, heal $heal them after the second Blue Bomb's damage, right before the `10,000` damage. Although the Bomb Tanks should be using their Powerburst of Vitality $vitality on top, their death could yet be prevented by a simple cast of Heal Other.
 
