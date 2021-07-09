@@ -117,9 +117,9 @@ https://i.imgur.com/MI4OUYu.png
 • $purple **Phase 8 The End** {link:DPS/TL5 - Phase 8 The End}
 .
 
-The DPS and TL5 are essentially the same role with a few exceptions. On Phase 1, the TL5 must do the usual climb just like in Normal Mode and Provoke $voke. The DPS acts like a Normal Mode DPS: standing close to Vorago and helping lower the HP.
+The DPS and TL5 are essentially the same role with a few exceptions. In Phase 1, the TL5 must do the usual climb just like in Normal Mode and Provoke $voke. The DPS acts like a Normal Mode DPS: standing close to Vorago and helping lower the HP.
 
-• On phases 2 and 9 the TL5 takes bleeds $bleed, which leaves all other phases unchanged for all DPS and the TL5
+• In phases 2 and 9 the TL5 takes bleeds $bleed, which leaves all other phases unchanged for all DPS and the TL5
 • For this section of the guide, the TL5 is only mentioned when there is a specific responsibility they have to take care of
 
 The DPS should stand at a maximum of 2 - 3 tiles away from Vorago throughout phases 1 - 9, and up to 2 tiles for phases 10 - 11.
@@ -640,7 +640,7 @@ If you get $auto during a broken $ts, simply Pray Deflect Magic $deflectmagic, g
 .Mauling Phase 10
 > __**Mauling Phase 10**__
 
-Mauling Phase 10 is typically the TL5's job, unless the base is melee $attack - this is because a melee base would always be in MD and will be able to $maul at the right time. The timing for the $maul is important because it determines what happens at the start of Phase 11.
+Mauling Phase 10 is typically the TL5's job, unless the base is meleeing $attack - this is because a melee base would always be in MD and will be able to $maul at the right time. The timing for the $maul is important because it determines what happens at the start of Phase 11.
 You must always wait for the special to be released before mauling, otherwise Vorago will start the next phase with it instead of Auto Attacks.
 
 If we take the example of Scopulus week, Vorago's rotation for Phases 10 and 11 are as follows:
