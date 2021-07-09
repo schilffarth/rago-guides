@@ -79,7 +79,7 @@ There are 11 phases in Hard Mode and phases 1 - 8 stay always the same. Phase 9 
 https://i.imgur.com/pB3bo1z.png
 .
 
-Mauling on Phase 11 will grant you the in-game title `the Defeater` as well as an outfit piece depending on the weekly rotation. Having obtained all outfit pieces (6/6 rotations) is a requirement to be eligible to receive the Ancient Artefact (Bombi pet) drop. More information can be found in our #maul guide.
+Mauling in Phase 11 will grant you the in-game title `the Defeater` as well as an outfit piece depending on the weekly rotation. Having obtained all outfit pieces (6/6 rotations) is a requirement to be eligible to receive the Ancient Artefact (Bombi pet) drop. More information can be found in our #maul guide.
 
 .
 https://i.imgur.com/F61kKIC.png
@@ -587,7 +587,7 @@ The strategies for the 6 rotations can be summarised into two methods: the safe 
 For the Phase 10 and 11 sections, all the DPS must place their ultimates in melee distance. Whenever an ultimate is mentioned, it is already implied you need to do it.
 
 • Bomb Tanks will always split sides: one BT North (usually the one that ultimates) and the other BT South (DPS side).
-• Both BTs must use Disruption Shield $disrupt on Phase 9 when Vorago dies for Scopulus $scop, Vitalis $vitalis, Green bomb $green and The End $purple. This is done to block the first $blue on Phase 10 and then Barricade $cade (if needed) the second one. For Phase 11, BTs and DPS should use $disrupt when it is available.
+• Both BTs must use Disruption Shield $disrupt in Phase 9 when Vorago dies for Scopulus $scop, Vitalis $vitalis, Green bomb $green and The End $purple. This is done to block the first $blue in Phase 10 and then Barricade $cade (if needed) the second one. For Phase 11, BTs and DPS should use $disrupt when it is available.
 • If BTs do not have $disrupt active at the same time, the pushback from $blue will not be nullified.
 • For 4 man teams each DPS (Base and TL5) will take a side. Base usually goes South and TL5 North. This is only helpful on rotations with $purple and $green, as it is easier to tank the specials without having to move from the team.
 
@@ -599,6 +599,7 @@ It requires everyone to Ultimate on dropdown except for one of the Bomb Tanks. T
 __Advanced Method:__
 
 Requires everyone to Ultimate except for one BT (South) that will use all the strong thresholds and special attacks available. This is done to help with the push, usually referred to as 0-Link (zero link), to avoid having to use $cade. This method is not recommended on a team with multiple learners.
+The reason why only one of the BT will Ultimate is because the damage needed to push should be enough from the rest of the team's Ultimates and the BT thresholds. This way the BT that didn't Ultimate can do so in Phase 11
 
 The safe method is not considered a common strategy anymore (as it aims for less damage and a longer phase), but it is still recommended when there are multiple learners in the team.
 The fast (advanced) method relies on the team pushing Vorago non-stop, but on a team with low damage it is hard to do so without a set rotation.
@@ -615,7 +616,7 @@ Avoid using $disrupt before the phase starts because $ts cancels defensives and 
 .
 $pb __Ceilings, Scopulus, Vitalis and The End:__
 
-The DPS must step back to block the Vitalis orb on Phase 10 and 11. Make sure to not go further than Bomb Tanks, to avoid sharing $blue with each other. For the safe method, one of the BT will $cade and $cept the whole team before the Vitalis orb is launched. BTs will rotate $cade for each cycle if needed.
+The DPS must step back to block the Vitalis orb in Phase 10 and 11. Make sure to not go further than Bomb Tanks, to avoid sharing $blue with each other. For the safe method, one of the BT will $cade and $cept the whole team before the Vitalis orb is launched. BTs will rotate $cade for each cycle if needed.
 
 $green __Green Bomb:__
 
@@ -671,7 +672,7 @@ If you get more than 2 $auto after a Special, go to the next $maul timing as it 
 
 __Shield Dome Mauling:__
 
-This is a strategy that allows you to skip the $maul animation on Phase 10. It does not save time but allows everyone to build on the dummy $dummy while Vorago is still talking.
+This is a strategy that allows you to skip the $maul animation in Phase 10. It does not save time but allows everyone to build on the dummy $dummy while Vorago is still talking.
 It is done by using Shield Dome $dome before clicking the maul $maul while Vorago is in the $maul spot. do not spam clicking your $dome or the $maul, otherwise it will not work.
 .
 
