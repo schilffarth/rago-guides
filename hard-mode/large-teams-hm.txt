@@ -454,7 +454,7 @@ Both BTs stay north in this phase due to all others standing on the south side o
 
 Mechanic breakdown: #scopulus
 
-In the beginning, go to the south-west corner and ultimate as shown in the image. Utilize your apot $renewal in this phase.
+In the beginning, go to the south-west corner and ultimate as shown in the image. Utilize your adrenaline potion $apot in this phase.
 
 • Positioning in Phase 4 Scopulus
 .
@@ -528,7 +528,7 @@ The goal is to skip the Stand Up and avoid tagging any bombs.
 
 • $waterfall **Phase 9** {link:Phase 9}
 • $maulpiecehandle **Overview P10/11** {link:Phase 10 and 11 - Overview}
-• $shielddome **Phase 10** {link:Phase 10 strategies}
+• $tc **Phase 10** {link:Phase 10 strategies}
 • $maul **Phase 11** {link:Phase 11 strategies}
 
 .
@@ -545,9 +545,9 @@ This section will be split into a regular Phase 9 and a Phase 9 with Clone Skip.
 Bomb Tanks will take turns to Barricade $cade and Intercept $cept the team for each cycle. Make sure to designate who is going to $cade first.
 If Clone Skip fails, everyone must get closer to Vorago as soon as possible: DPS goes 2-3 steps away from Vorago and BTs at their usual distance.
 
-$ceiling __Ceilings:__
+$ceil __Ceilings:__
 
-BTs must $cade and $cept everyone when Vorago makes the animation to launch the rock. Also, if you are not responsible for bleeds $bleed, you should help the team to clear the rocks asap after you are $cept.
+BTs must $cade and $cept everyone when Vorago makes the animation to launch the rock. Also, if you are not responsible for bleeds $bleed, you should help the team to clear the rocks as soon as possible after you are intercepted.
 
 $scop __Scopulus:__
 
@@ -562,7 +562,7 @@ For the regular Phase 9, the whole team should be at the NE quadrant and the BTs
 .
 $green __Green Bomb:__
 
-• Regular Phase 9: BTs must build to 100% before the $green is launched. After the %green targets one person, one BT should $cade and $cept them.
+• Regular Phase 9: BTs must build to 100% before the $green is launched. After the $green targets one person, one BT should Barricade $cade and Intercept $cept them.
 
 • Clone Skip Phase 9: Both BTs should build to 100% for the first $green and deal with it as normal. For the second $green, the Base must also build to 100% to $cade and $cept the BT. If the $green is on one of the DPS, the BT with $cade off cooldown will $cade and $cept.
 
@@ -571,11 +571,11 @@ $ts __Team Split:__
 The BTs will $cade and $cept everyone after the $ts. 
 
 .
-$pb __The End:__
+$purple __The End:__
 
-BT 1 will be responsible for tagging reds $red and BT 2 will $cade and $cept them. It is important that everyone either glitches out of arms or stays MD while this is done, to avoid receiving damage from $red. The BT that tags must also go to the wall as soon as possible to avoid sharing $red.
-After that, BT 1 will build to 100% asap and will and $cept everyone right before the stand up of Vorago. Following that, the BT, who is under $cept (BT 2), should move away so the $red goes to him.
-If there are Ranger $ranged + Mage $magic BTs, it is preferable that the Range BT uses $cade and $cept the Mage BT that will tag the $red.
+BT 1 will be responsible for tagging Red bombs $red and BT 2 will $cade and $cept them. It is important that everyone either glitches out of arms or stays MD while this is done, to avoid receiving damage from Red bombs. The BT that tags must also go to the wall as soon as possible to avoid sharing Reds.
+After that, BT 1 will build to 100% asap and will and Intercept everyone right before Vorago stands up. Following that, the other BT (BT 2), should move away so the Red goes to them.
+If there are Ranger $ranged + Mage $magic BTs, it is preferable that the Range BT uses Barricade and Intercept the Mage BT that will tag the Red Bomb $red.
 
 Before the last Waterfall $waterfall, whoever is mauling must have Piece (a) $maulpiecea and Piece (b) $maulpieceb in their inventory. Make sure to grab the Piece (c) $maulpiecehandle and make the maul $maul before Phase 10 starts.
 One of the BT must drop a dummy $dummy at the end of this phase, preferably during the last $waterfall and close to the middle.
@@ -614,7 +614,7 @@ $ts __Ceilings and Team Split:__
 Avoid using $disrupt before the phase starts because $ts cancels defensives and $disrupt. Save it for after the $ts regardless of what method the team is using. If $cade is used for the $ts special, make sure to use it **after** the $ts and not before the special. This also applies to Scopulus $scop and Green bomb $green.
 
 .
-$pb __Ceilings, Scopulus, Vitalis and The End:__
+$purple __Ceilings, Scopulus, Vitalis and The End:__
 
 The DPS must step back to block the Vitalis orb in Phase 10 and 11. Make sure to not go further than Bomb Tanks, to avoid sharing $blue with each other. For the safe method, one of the BT will $cade and $cept the whole team before the Vitalis orb is launched. BTs will rotate $cade for each cycle if needed.
 
