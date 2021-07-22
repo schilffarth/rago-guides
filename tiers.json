@@ -257,12 +257,12 @@
       "reqs": [
         "`.info Experienced NM Base`",
         "Rotation-specific average kill time on b2b kills (1/6 rotations)",
-        "$rock Ceilings `9:23`",
-        "$scopp Scopulus `9:17`",
-        "$vit Vitalis `9:17`",
-        "$green Green Bomb `9:21`",
-        "$ts Team Split `9:31`",
-        "$purple The End `10:13`",
+        "Ceilings `9:23`",
+        "Scopulus `9:17`",
+        "Vitalis `9:17`",
+        "Green Bomb `9:21`",
+        "Team Split `9:31`",
+        "The End `10:13`",
         "Natty",
         "Solo Lure"
       ],
