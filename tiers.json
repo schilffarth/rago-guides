@@ -178,7 +178,8 @@
       "reqs": [
         "`.info Trio NM Base`",
         "4 KPH in Duo NM as Base Tank",
-        "Target Cycle"
+        "Target Cycle",
+        "Clone Skip",
       ],
       "apps": [
         "VOD of 1 kill as Base Tank on pace for 4 KPH",
