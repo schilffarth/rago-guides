@@ -3,7 +3,7 @@ Guide written by <@316175818458136588>.
 
 > __**Zero-Linking Vorago in Phase 5**__
 
-The purpose of this strategy is to finish Vorago off **before a Reflect** $link occurs.
+The purpose of this strategy is to finish Vorago off **before** the Reflect $link mechanic occurs.
 
 __Common Terms:__
 
@@ -21,9 +21,14 @@ __Required Knowledge:__
 
 • One tile push requires 20,000 damage dealt
 
-Imagine critting an Omnipower $omni on a target with `100` life points left. The Omnipower is in fact not going to deal its full potential (let us assume `15,000`), but will instead deal the exact remaining life points of `100`. At Vorago Phase 5, 10 and 11, the `20,000` damage act as individual health pools, so once a hit finishes the required cap, its remaining damage is lost entirely, just as if you were killing that `100` HP monster with a `15,000` Omnipower.
+Imagine using Dragon Breath $dbreah on a target with `100` life points left. The Dragon Breath is not going to deal its full potential (let's assume `10,000`), but will instead deal the exact remaining life points of `100`.
+At Vorago Phase 5, 10 and 11, the `20,000` damage act as individual health pools. So once a hit reaches the required cap, its remaining damage is lost entirely, just as if you were killing that `100` HP monster with a `10,000` Dragon Breath.
 
-**Vorago can only move 1 tile per tick.** Yet, other hit splats / damage dealt in the same tick as Vorago being pushed is not lost. It is going to count towards the so-called **Overflow** damage. It is simply added up to the next `20,000` damage needed to push the next tile.
+**Vorago can only move 1 tile per tick**, but other hit splats / damage dealt in the same tick as Vorago being pushed is not lost. It is going to count towards the so-called **Overflow** damage. It is simply added up to the next `20,000` damage needed to push the next tile.
+
+__Example:__
+
+The pool is at `18,000` → you use Snap Shot $snap (hits twice, assume each hit deals `5,000` damage) → the first hit contributes `2,000` to the cap and the remaining `3,000`is lost → the second hit is stored so the overflow pool is now at `5,000`
 
 .Stalling Vorago
 > __**Stalling Vorago**__
@@ -44,14 +49,15 @@ When Vorago gets pushed (both forwards and backwards), the next auto attack $aut
 .Approaching Zero-Links
 > __**Approaching Zero-Links**__
 
-• Push at Target Cycle $tc (deal `20,000` damage or more in the very first tick of TC)
+• Push on Target Cycle $tc (deal `20,000` damage or more in the very first tick after TC)
 • From there on, push once every GCD / 3 ticks (maximizing stall)
 • Focus on a consistent start of pushing multiple steps before the spec release
 
 Bare in mind that Zero-Linking is a team effort. Both players have to coordinate their rotations properly in order to achieve consistent and proper Zero-Links.
 
-.Examples
-> __**Examples**__
+
+.Rotation Examples
+> __**Rotation Examples**__
 
 Check out the official RagoHub spreadsheet for advanced Phase 5 ability rotations with the purpose of consistent 0-Linking:
 <https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit?usp=sharing>
@@ -63,4 +69,4 @@ Check out the official RagoHub spreadsheet for advanced Phase 5 ability rotation
 • $dome **Overflow** {link:Overflow}
 • $auto **Stalling** {link:Stalling Vorago}
 • $vuln **Approaching zero-links** {link:Approaching Zero-Links}
-• $maul **Examples** {link:Examples}
+• $maul **Rotation Examples** {link:Rotation Examples}
