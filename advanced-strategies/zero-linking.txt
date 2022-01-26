@@ -28,7 +28,7 @@ At Vorago Phase 5, 10 and 11, the `20,000` damage act as individual health pools
 
 __Example:__
 
-The pool is at `18,000` → you use Snap Shot $snap (hits twice, assume each hit deals `5,000` damage) → the first hit contributes `2,000` to the cap and the remaining `3,000`is lost → the second hit is stored so the overflow pool is now at `5,000`
+The pool is at `18,000` → you use Snap Shot $snap (hits twice, assume each hit deals `5,000` damage) → the first hit contributes `2,000` to the cap and the remaining `3,000`is lost → the second hit is stored and the overflow pool is now at `5,000`.
 
 .Stalling Vorago
 > __**Stalling Vorago**__
