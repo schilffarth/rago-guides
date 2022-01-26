@@ -21,7 +21,7 @@ __Required Knowledge:__
 
 • One tile push requires 20,000 damage dealt
 
-Imagine using Dragon Breath $dbreah on a target with `100` life points left. The Dragon Breath is not going to deal its full potential (let's assume `10,000`), but will instead deal the exact remaining life points of `100`.
+Imagine using Dragon Breath $dbreath on a target with `100` life points left. The Dragon Breath is not going to deal its full potential (let's assume `10,000`), but will instead deal the exact remaining life points of `100`.
 At Vorago Phase 5, 10 and 11, the `20,000` damage act as individual health pools. So once a hit reaches the required cap, its remaining damage is lost entirely, just as if you were killing that `100` HP monster with a `10,000` Dragon Breath.
 
 **Vorago can only move 1 tile per tick**, but other hit splats / damage dealt in the same tick as Vorago being pushed is not lost. It is going to count towards the so-called **Overflow** damage. It is simply added up to the next `20,000` damage needed to push the next tile.
