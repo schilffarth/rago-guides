@@ -36,6 +36,25 @@ Rago Hub maintains a spreadsheet with over 150+ unique ability rotations. Whilst
 
 Rago Hub spreadsheet: <https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit?usp=sharing>
 
+.Stepping under
+> __**Stepping Under**__
+
+This section explains the phenomenon of Blue Bombs $blue not being fired at you if **stepping under** Vorago. You can see an example of this here:
+.
+https://www.youtube.com/watch?v=Mii85UTiTdQ
+.
+• This is only applicable to the person that Vorago does **not** hold his current aggro
+• Melee Swipes $swipe will still hit you if the Base Tank stays in melee distance
+• Stepping under does **not** prevent random Red Bombs $red
+
+__Execution:__
+
+• Simply clicking the ground once after each offensive ability you do
+• It is recommended to step under with a slightly shifted camera angle from Vorago's backside, respectively the opposite side of the Base Tank
+• Commonly the person voking $voke positions either at the side of the L-Rock or to the north of Vorago
+• Channeled abilities (i.e.: Asphyxiate $asphyx) do not force your character to move back out
+• Flanking can be perfectly utilised while stepping under
+
 .Overview
 > __**Strategy Overview**__
 
