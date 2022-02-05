@@ -64,9 +64,71 @@ Position at the tile marked with a green cross, east to the entry.
 • Bladed Dive $bd
 • Bladed Dive $bd
 
+.Hammer Climb
+> __**Hammer Climb**__
+
+• Phase 1 standard and acceleration $accel climb: #climbing
+
+Hammer Climbing describes the use of Target Cycle $tc to attack Vorago before starting your climb in Phase 1 without losing any ticks in the process.
+
+• Force the first Red Bomb $red that is launched upon target cycling on the climber (yourself)
+• Apply SWH $swh on Vorago to save your Base Tank the adrenaline they would have needed for hammering themselves
+• Do not lose any ticks
+
+.Tips
+> __**Tips**__
+
+• The Target Cycle $tc tick (reference: #target-cycle) in Phase 1 is at `9.0` - `9.6` seconds
+• The starting red bomb $red is launched in the second tick at `9.6` - `10.2` seconds
+• Climbing an obstacle nullifies any damage dealt
+
+.Execution
+> __**Executing the hammer climb**__
+
+• Phase 1 arena reference
+.
+https://imgur.com/a/bzrSpA2
+.
+
+• GIF
+.
+https://imgur.com/a/CH3WonJ
+.
+
+__Preparation:__
+
+• Activate Excalibur $excal
+• Place a Combat Dummy $dummy at your drop down location (if your Base Tank requires one - **Do not place it in MD**)
+• Eat up to ~ `6,500` life points
+• Equip SWH $swh and Excalibur $excal
+• Position at the highlighted tile marked with $greencross, east to the entry
+• Select Bladed Dive $bd at the climb entrance
+• Activate IOTH $ingen (not too early, preferably at 5 second timer)
+
+__Execution:__
+
+• At 9 second timer, TC $tc > SWH spec $swh > activate BD $bd (all should be in the same tick)
+• Start climbing
+• **#2** Surge $surge
+• Walk for one tick to spot #3
+• **#3** Apply Guthix Staff $gstaff or use another ability
+• Surge $surge north
+• **#4** Anticipate $anticipation and eat once $soup $superbrew
+• **#5** Bladed Dive $bd across the corner (do not click too far in the north)
+• **#6** Hit Vorago with an ability and eat once $soup $superbrew
+• Surge $surge and jump
+
+.Examples
+> __**Example Climbs**__
+
+https://www.youtube.com/watch?v=i3gP7Tx2HlY
 .index
 > __**Index**__
 
 • $pin **Introduction** {link:Introduction}
 • $maulpiecea **Standard Climb** {link:Standard Climb}
 • $accel **Acceleration Climb** {link:Acceleration Climb}
+• $pin **Hammer Climb** {link:Hammer Climb}
+• $warning **Tips** {link:Tips}
+• $swh **Execution** {link:Execution}
+• $youtube **Examples**  {link:Examples}
