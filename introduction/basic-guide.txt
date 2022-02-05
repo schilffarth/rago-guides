@@ -21,11 +21,15 @@ __Challenging Vorago:__
 https://imgur.com/6UlUcjB
 .
 
-__Setup:__
+__Presets:__
 
 Some items are useless at Vorago, refer to #presets for an overview of what to take and adjust the examples to your needs. Preset example:
 .
 https://cdn.discordapp.com/attachments/728295935762759781/812498840217190420/unknown.png
+.
+
+Check our spreadsheet for other presets and setups.
+<https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw>
 .Basic Attacks
 
 > __**Vorago's Basic Attacks**__
