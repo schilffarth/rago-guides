@@ -400,6 +400,7 @@ Finish him! Congrats on your kill! Make sure to post your personal Duo Hard Mode
 > __**Index**__
 
 • $pin **Introduction** {link:Introduction}
+• :footprints: **Stepping under** {link:Stepping under}
 • $blue **Strategy Overview** {link:Overview}
 • $maulpiecea **Phase 1** {link:Phase 1}
 • $maulpieceb **Phase 2** {link:Phase 2}
