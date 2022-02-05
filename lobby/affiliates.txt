@@ -1,15 +1,3 @@
-.sheety
-$sheety __**Sheety**__ $sheety
-
-**Discord:** https://discord.gg/8WG7bR58QE
-
-Tired of losing ticks? Unsatisfied with your kill times? Sheety's got you covered!
-
-Sheety is a **Dynamic Rotation Builder** for RS3, featuring **automated adrenaline** and **damage calculations** as well as **advanced error detection** so everyone can write their own rotations with ease. Sheety is a spreadsheet that *everyone* can get for free.
-
-Our Discord offers a place of support and individual help for anything Sheety-related. We provide an FAQ and a voting-system for feedback.
-
-**Contact:** <@316175818458136588> and <@164133228989513728>
 .ragoiron
 
 $vorago __**Ironman Vorago Hub**__ $vorago
@@ -25,25 +13,13 @@ We offer:
 • Learner sessions at least once a week
 
 **Contact:** <@336592776181317654> and <@454373507967483917>
-.ragopvm
+.rockman
 
-$ragopvm __**Rago PvM**__ $ragopvm
+**•°•¸☄️Rockman Discord  |  Vorago & hard mode Vorago teams**
+       `·.,¸¸)
+Hello, we are a friendly community Vorago discord. Here you can find teams, get help and learn Vorago. Intended for all levels of experience at the boss. Both learners and experienced PvMers alike are welcome to join and find teams. This discord is a convenient place to find both normal & hard mode teams.
 
-**Discord:** https://discord.gg/Q8xpnYp
-
-Welcome to our community dedicated to everything Vorago related.
-
-Here you can:
-• Find, form and fill teams for all sizes, modes and skill levels
-• Daily Teaching sessions for 0 kc learners
-• Advanced classes for: Duo NM and Trio+ HM
-• Weekly 'Free maul' events
-• Short and in-depth Guides for DPS and all roles
-
-Learners and experienced players are welcome to join.
-Helping people improve is our main goal.
-
-**Contact:** <@300296497277173761>
+Link: https://discord.gg/Xr6mpyT
 .pvme
 
 $pvme __**PvM Encyclopedia**__ $pvme
