@@ -661,7 +661,7 @@ __**Magic**__
     • This is because you want to stall Vorago as much as possible, and disrupting first Blue bomb <:bluebomb:923249600276615200> will make the following Blue bombs come out faster
         - The best situations to use Disrupt <:disrupt:535614336207552523> is when you are confident you can generate enough stall by yourself without getting pushed back or it is going to push you same tick you are going to push it
 
-.Exampl
+.Example
 > **__Example Kills__**
 
 https://www.youtube.com/watch?v=kWm0H_ee6YA&ab_channel=DieAlive
