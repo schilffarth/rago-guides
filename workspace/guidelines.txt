@@ -21,11 +21,11 @@ https://cdn.discordapp.com/attachments/500971699349749760/814519604319223869/unk
 
 __Indices:__
 
-The bot automatically links messages by following a specific syntax. Messages are linked by assigning section identifiers to messages
-This identifier is added to the start of a message, appended to the content separator. For example: `.Introduction`
+Messages are linked by assigning section identifiers to messages. This identifier is added to the start of a message, appended to the content separator. For example: `.Introduction`.
 
 • `{link:New Message}` Retrieve the message link in the Index
 The message ID can be retrieved and linked by the syntax: `{link:identifier}`. These identifiers are case sensitive.
+This means that you can't call a section `.test` and then link it as `{link:TEST}`.
 
 .
 https://cdn.discordapp.com/attachments/500971699349749760/814519860158922802/unknown.png
