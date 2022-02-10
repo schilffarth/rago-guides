@@ -411,6 +411,7 @@ Finish him! Congrats on your kill! Make sure to post your personal Duo Hard Mode
 • $ceil **Phase 3 Ceilings** {link:Phase 3}
 • $scop **Phase  4 Scopulus** {link:Phase 4}
 • $vitalis **Phase 5 Vitalis** {link:Phase 5}
+.index
 • $green **Phase 6 Green Bomb** {link:Phase 6}
 • $ts **Phase 7 Team Split** {link:Phase 7}
 • $purple **Phase 8 The End** {link:Phase 8}
