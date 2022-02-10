@@ -85,7 +85,8 @@ https://i.imgur.com/wWCt7At.png
 
 __Emojis:__
 
-The emoji syntax is parsed by adding the character dollar `$` preceding to emoji keywords. For example, writing `$flush` will be converted to :flushed:. A full list of Emojis can be found in #emojis.
+To parse emojis, add the dollar character `$` preceding emoji keywords. For example, writing `$flush` will be converted to :flushed:. A full list of Emojis can be found in #emojis.
+You may also use PvME's builder to convert text into emoji IDs <https://pvme.github.io/rotation-builder/>.
 
 __Testing:__
 
