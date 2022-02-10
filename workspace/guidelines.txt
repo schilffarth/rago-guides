@@ -1,37 +1,40 @@
 .guidewriting
 > __**Guide Writing**__
 
-Before you dive into Rago Hub guide writing, you should take a couple of minutes for understanding the syntax that our <@&812409511179845663> Discord bot uses to parse guides into proper styling.
-
-__Character Limit:__
-
-Due to Discord messages having a limit of `2000` characters, guides need to be sent in multiple messages. To achieve an intentional separation of content into respective messages, this is simply achieved by adding a dot `.` to the start of a line.
+Before you dive into Rago Hub guide writing, you should take a couple of minutes to learn the syntax that our <@&812409511179845663> Discord bot uses to parse guides into proper styling.
 
 .
-__Indices:__
-
-• The bot automatically links messages by following a specific syntax. Messages are linked by assigning section identifiers to messages
-• This identifier is added to the start of a message, appended to the content separator. For example: `.Introduction`
-• The message ID can be retrieved and linked by the syntax: `{link:identifier}`. These identifiers are case sensitive with the used at the start of a section
-• The bot will automatically pin indices, which can be done by using the `.index` identifier for a section
-
 • `.` Write a new message
+Due to Discord messages having a limit of `2000` characters, guides need to be sent in multiple messages. To achieve an intentional separation of content into respective messages, this is simply achieved by adding a dot `.` to the start of a line.
+
 .
 https://cdn.discordapp.com/attachments/500971699349749760/814519501278019634/unknown.png
 .
 
-• `.newmessage` Assign a section ID to the message
-Section IDs that you assign with the dot-notation (i.e. `.intro` or `.p3`) should be written-out and capitalized. So, use `.Phase 3` instead of `.p3` and `.Introduction` instead of `.intro`.
+• `.New Message` Assign a section Identifier to the message
+These are known as identifiers, where the identifier is the word after the `.` (in this case, `New Message`).
+Section Identifiers should be written-out and capitalized. For example, use `.Phase 3` instead of `.p3`.
+
 .
 https://cdn.discordapp.com/attachments/500971699349749760/814519604319223869/unknown.png
 .
 
-• `{link:newmessage}` Retrieve the message link in the Index
+__Indices:__
+
+• The bot automatically links messages by following a specific syntax. Messages are linked by assigning section identifiers to messages
+• This identifier is added to the start of a message, appended to the content separator. For example: `.Introduction`
+
+
+• `{link:New Message}` Retrieve the message link in the Index
+The message ID can be retrieved and linked by the syntax: `{link:identifier}`. These identifiers are case sensitive.
+
 .
 https://cdn.discordapp.com/attachments/500971699349749760/814519860158922802/unknown.png
 .
 
 • `.index` Automatically pin the Index
+The bot will automatically pin indices, which can be done by using the `.index` identifier for a section.
+
 .
 https://cdn.discordapp.com/attachments/500971699349749760/814519920791781436/unknown.png
 .editmessages
@@ -58,25 +61,27 @@ https://cdn.discordapp.com/attachments/500971699349749760/814654038854991952/unk
 
 > __**Guide Styling**__
 
-• Avoid using contractions such as "isn't", rather use "is not" (formal writing)
+• Avoid using contractions such as "isn't"; use "is not"
+• Always leave one preceding and one trailing blank line for titles and images
 • Format damage numbers with in-line code blocks, i.e. `10,000`, `4,000`, `10,667`
 • Use british over american spelling, i.e. "colour" instead of "color"
 
-__Formatting a section:__
+__Sections:__
+
 • Section headlines: `> __**Headline**__`, one preceding and one trailing blank line
 • Title: `**Title**` - this should only be used when you want to split a section into sub-sections; otherwise use sub-headlines
-      • For example, you want to split Phase 3 (your Headlinea) into 6 rotations (Titles) with sub-sections (sub-headlines)
+      • For example, to split Phase 3 (your Headlinea) into 6 rotations (Titles) with sub-sections (sub-headlines)
       • Be consistent throughout the section. For example, if you used titles for `**Ceilings**` you must use them for other rotations too
 
 .
 https://i.imgur.com/wWCt7At.png
 .
-      
+
 • Sub-headlines: `__Sub-Headline:__`, one preceding and one trailing blank line
 • Listing: `• Item of a list`, one blank line before the first and one after the last item
-• Sub-listing: Add 6 spaces before the bullet `      • Item of a sub-list`
-• Images should be labeled as list items without colons or other formattin
-• Images and GIFs should be uploaded on <https://giphy.com/> or <https://imgur.com/>. Avoid using Discord links
+      • Sub-listing: Add 6 spaces before the bullet `      • Item of a sub-list`
+• Images should be labeled as list items without colons or other formatting
+• Images and GIFs should be uploaded on <https://giphy.com/> or <https://imgur.com/>
 
 __Emojis:__
 
