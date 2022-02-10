@@ -1,5 +1,5 @@
-.txtpost .Introduction
-Guide written by @Archeus#5674
+.Introduction
+Guide written by <@!781280949790572554>
 
 > **__Ability Travel Speed__**
 
