@@ -661,10 +661,9 @@ __**Magic**__
     • This is because you want to stall Vorago as much as possible, and disrupting first Blue bomb <:bluebomb:923249600276615200> will make the following Blue bombs come out faster
         - The best situations to use Disrupt <:disrupt:535614336207552523> is when you are confident you can generate enough stall by yourself without getting pushed back or it is going to push you same tick you are going to push it
 
-.
+.Exampl
 > **__Example Kills__**
 
-.Example
 https://www.youtube.com/watch?v=kWm0H_ee6YA&ab_channel=DieAlive
 .
 https://www.youtube.com/watch?v=aO1baVbQ6xQ&ab_channel=DieAlive
@@ -685,14 +684,14 @@ https://www.youtube.com/watch?v=aO1baVbQ6xQ&ab_channel=DieAlive
 • $gravity **Bring Him Down** {link:Bring Him Down}
 .index
 • $swh **Phase 3** {link:Phase 3}
-• $ceil **Phase3: Ceiling Collapse** {link:Phase3: Ceiling Collapse}
+• $ceil **Phase3: Ceiling Collapse** {link:Phase 3: Ceiling Collapse}
 • $scop **Phase 3: Scopulus** {link:Phase 3: Scopulus}
 • $green **Phase 3: Grene Bomb** {link:Phase 3: Grene Bomb}
 • $ts **Phase 3: Team Split** {link:Phase 3: Team Split}
 • $purple **Phase 3: The End** {link:Phase 3: The End}
 • $waterfall **Phase 4** {link:Phase 4}
-• $ts **Phase 5 Ts** {link:Phase 5 Ts}
-• $purple **Phase 5 Pb** {link:Phase 5 Pb}
-• $green **Phase 5 Gb** {link:Phase 5 Gb}
-• $maul **General P5 Notes** {link:General P5 Notes}
-• $youtube **Example Kills** {link:Example Kills}
+• $ts **Phase 5 Ts** {link:Phase 5 TS}
+• $purple **Phase 5 Pb** {link:Phase 5 PB}
+• $green **Phase 5 Gb** {link:Phase 5 GB}
+• $maul **General P5 Notes** {link:General P5 notes}
+• $youtube **Example Kills** {link:Example}
