@@ -668,11 +668,30 @@ __**Magic**__
 https://www.youtube.com/watch?v=kWm0H_ee6YA&ab_channel=DieAlive
 .
 https://www.youtube.com/watch?v=aO1baVbQ6xQ&ab_channel=DieAlive
-.
+.index
 
-.Index
+> __**Index**__
 
-
-
-
-
+• $pin **Introduction** {link:Introduction}
+• <:tectenergy:643161473375272990> **Drops** {link:Drops}
+• <:eofblue:780401412906680330> **Minimum Requirements** {link:Minimum Requirements}
+• <:tectmask:643849283199696917> **Presets** {link:Presets}
+• <:Invention:689509250946695292> **Invention Perks** {link:Invention Perks}
+• $archaeology **Relics** {link:Relics}
+• **Mechanics and Strategies** {link:Mechanics and Strategies}
+• $maulpiecea **Phase 1** {link:Phase 1}
+• $maulpieceb **Phase 2** {link:Phase 2}
+• <:dismember:535532879376023572> **Clearing Bleeds** {link:Clearing Bleeds}
+• $gravity **Bring Him Down** {link:Bring Him Down}
+• $swh **Phase 3** {link:Phase 3}
+• $ceil **Phase3: Ceiling Collapse** {link:Phase3: Ceiling Collapse}
+• $scop **Phase 3: Scopulus** {link:Phase 3: Scopulus}
+• $green **Phase 3: Grene Bomb** {link:Phase 3: Grene Bomb}
+• $ts **Phase 3: Team Split** {link:Phase 3: Team Split}
+• $purple **Phase 3: The End** {link:Phase 3: The End}
+• $waterfall **Phase 4** {link:Phase 4}
+• $ts **Phase 5 Ts** {link:Phase 5 Ts}
+• $purple **Phase 5 Pb** {link:Phase 5 Pb}
+• $green **Phase 5 Gb** {link:Phase 5 Gb}
+• $maul **General P5 Notes** {link:General P5 Notes}
+• $youtube **Example Kills** {link:Example Kills}
