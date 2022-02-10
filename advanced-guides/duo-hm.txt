@@ -3,6 +3,10 @@ Guide written by <@184918342392479744> and <@316175818458136588>. Thanks <@16866
 
 > __**Duo Hard Mode**__
 
+.
+https://i.imgur.com/xwkK1u3.png
+.
+
 This guide focuses on Duo Hard Mode Vorago only. If you're looking for the Duo Normal Mode guide, check out <#744505794682290217>. The most important and most difficult part about duo hard mode is that Vorago always fires 2 blue bombs at once, if two persons are in reach. To understand how to avoid a second blue bomb being launched, read through <#718435693432406157>. Up to P10 and P11, this is mostly handled with devo / cade cepting.
 
 .
