@@ -385,7 +385,7 @@ __Magic experienced method:__
 For Purple bomb you do not need to pray flick Blue bombs <:bluebomb:923249600276615200> at all which makes it significantly easier. You are also always going to tag all 3 Red bombs <:redbomb:761711981186646096> as this will reduce the burst damage you will receive during stand.
 
 .
-__Ranged:_
+__Ranged:__
 
 (-27) <:nat:535541258131865633> → (Build) → (<:RubyBakri:565726489413287956>) (TC) <:ingen:641339234111848463> <:swh:641670143197446182> <:eofspec:746403211908481184> → <:anti:535541306475151390> → <:surge:535533810004262912> → <:freedom:535541258240786434> → (Arms drop) <:sgb:626466665848242186> <:eofspec:746403211908481184> + <:adrenrenewal:736298121704767538> → <:ecb:615618531937222657> <:spec:537340400273195028> → <:gricocaroming:867678153966878740> → (<:HydrixBakri:550834403136503822>) <:dbow:643848618553507843> <:eofspec:746403211908481184> → <:corruptshot:535541306294796299> → <:rapid:535541270521708566> → <:gricocaroming:867678153966878740> → <:snap:535534127131394088> → (dw) <:frag:535541273755385885> → 2h Auto + <:ecb:615618531937222657> <:spec:537340400273195028>
 From here <:disrupt:535614336207552523> after Red bombs <:redbomb:761711981186646096> hit, build with basics and <:vitality:654618235097972737> stand.
@@ -395,7 +395,7 @@ From here <:disrupt:535614336207552523> after Red bombs <:redbomb:76171198118664
 Repeat the initial rotation skipping <:swh:641670143197446182> <:eofspec:746403211908481184> and use <:limitless:641339233638023179> if needed
 
 .
-__Magic:_
+__Magic:__
 
 (-27) <:nat:535541258131865633> → (Build) → (TC) <:ingen:641339234111848463> <:swh:641670143197446182> <:eofspec:746403211908481184> → <:anti:535541306475151390> → <:freedom:535541258240786434> → <:magmatempest:902209626509025290> → (Arms drop) <:bloodbarrage:537338981747261446> + <:omni:535533809664262179> → <:gconc:869285393223254107> → <:wrackandruin:856662355912032256> → <:bloodbarrage:537338981747261446> + <:tsunami:535533809995874304> → <:dbreath:535533833391702017> → <:bloodbarrage:537338981747261446> + <:gconc:869285393223254107> → <:soa:869284271595069451> <:spec:537340400273195028> → (Build to <:Sunshine:583430011948630016> + <:adrenrenewal:736298121704767538>) → s<:wm:535533809978966037> → (Stand) r<:wm:535533809978966037> + <:smoketendrils:536257336130404372> → <:omni:535533809664262179> → <:asphyx:535533833072672778> (3-hit) → <:gstaff:513203008608141314> <:eofspec:746403211908481184> → (Refl start) <:res:535541258844635148> → <:deto:535533833358016512> → (Refl end) <:bloodbarrage:537338981747261446> + <:deto:535533833358016512> + <:gstaff:513203008608141314> <:eofspec:746403211908481184>
 
@@ -409,7 +409,7 @@ __Magic:_
 *Note: For magic it is recommended to get 12 Exsanguinate <:exsanguinate:856635090745950258> stacks for Phase 5*
 
 .
-__Ceilings Collapse:_
+__Ceilings Collapse:__
 
 • Try to Resonance <:res:535541258844635148> 3rd Blue bomb <:bluebomb:923249600276615200> out of Waterfall to avoid losing healing from being already max Hp
     • Barricade <:cade:535541306353778689> and clear rocks leaving only one
@@ -420,7 +420,7 @@ __Ceilings Collapse:_
 • Do **not** Disrupt <:disrupt:535614336207552523> into Phase 5
 
 .
-__Scopulus:_
+__Scopulus:__
 
 •  Try to Resonance <:res:535541258844635148> 3rd Blue bomb <:bluebomb:923249600276615200> out of Waterfall to avoid losing healing from being already max Hp
     • Barricade <:cade:535541306353778689> the Red bomb <:redbomb:761711981186646096> (same method as Phase 2), clear Bleeds <:dismember:535532879376023572>
@@ -600,7 +600,7 @@ __Magic:__
 > __**Phase 5: Purple Bomb**__
 
 .
-.img:https://i.imgur.com/gg1VugJ.png
+https://i.imgur.com/gg1VugJ.png
 .
 
 __Ranged BSA start method:__
@@ -683,6 +683,7 @@ https://www.youtube.com/watch?v=aO1baVbQ6xQ&ab_channel=DieAlive
 • $maulpieceb **Phase 2** {link:Phase 2}
 • <:dismember:535532879376023572> **Clearing Bleeds** {link:Clearing Bleeds}
 • $gravity **Bring Him Down** {link:Bring Him Down}
+.index
 • $swh **Phase 3** {link:Phase 3}
 • $ceil **Phase3: Ceiling Collapse** {link:Phase3: Ceiling Collapse}
 • $scop **Phase 3: Scopulus** {link:Phase 3: Scopulus}
