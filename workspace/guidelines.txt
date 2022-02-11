@@ -69,14 +69,9 @@ https://cdn.discordapp.com/attachments/500971699349749760/814654038854991952/unk
 __Sections:__
 
 • Section headlines: `> __**Headline**__`, one preceding and one trailing blank line
-• Title: `**Title**` - this should only be used when you want to split a section into sub-sections; otherwise use sub-headlines
+• Title: `__**Title**__` - this should only be used when you want to split a section into sub-sections; otherwise use sub-headlines
       • For example, to split Phase 3 (your Headlinea) into 6 rotations (Titles) with sub-sections (sub-headlines)
       • Be consistent throughout the section. For example, if you used titles for `**Ceilings**` you must use them for other rotations too
-
-.
-https://i.imgur.com/wWCt7At.png
-.
-
 • Sub-headlines: `__Sub-Headline:__`, one preceding and one trailing blank line
 • Listing: `• Item of a list`, one blank line before the first and one after the last item
       • Sub-listing: Add 6 spaces before the bullet `      • Item of a sub-list`
