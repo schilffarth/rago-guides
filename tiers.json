@@ -141,7 +141,7 @@
       "name": "Duo T2",
       "reqs": [
         "Inherited skill requirements from `.info Duo T1`",
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n     - Ceilings `10:15`\n     - Scopulus `10:00`\n     - Vitalis `10:45`\n     - Green Bomb `10:15`\n     - Team Split `10:30`\n     - The End `11:05`",
+        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n     - Ceilings `10:15`\n - Scopulus `10:00`\n     - Vitalis `10:45`\n     - Green Bomb `10:15`\n     - Team Split `10:30`\n     - The End `11:05`",
         "Climber",
         "BD Bleeds"
       ],
