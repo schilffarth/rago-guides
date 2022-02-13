@@ -106,7 +106,7 @@
      {
       "name": "NM Exp",
       "reqs": [
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n     - Ceilings `10:15`\n     - Scopulus `10:00`\n     - Vitalis `10:45`\n     - Green Bomb `10:15`\n     - Team Split `10:30`\n     - The End `11:05`",
+        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n\t\t\t\t\t\t- Ceilings `10:15`\n\t\t\t\t\t\t- Scopulus `10:00`\n\t\t\t\t\t\t- Vitalis `10:45`\n\t\t\t\t\t\t- Green Bomb `10:15`\n\t\t\t\t\t\t- Team Split `10:30`\n\t\t\t\t\t\t- The End `11:05`",
         "Bleeds",
         "Heal Other",
         "Cade Cept",
@@ -114,7 +114,7 @@
       ],
       "apps": [
         "A vod of a P1 climb (36s + voke, can be done solo)",
-        "**AND** VODs of one kill on two different rotations with their specific timers\n     -  or: VOD of b2b kills with one of the timers achieved (average)"
+        "**AND** VODs of one kill on two different rotations with their specific timers\n\t\t\t\t\t\t-  or: VOD of b2b kills with one of the timers achieved (average)"
       ],
       "guides": [
         "trio",
@@ -128,10 +128,10 @@
       "name": "Duo T1",
       "reqs": [
         "Inherited skill requirements from `.info NM Exp`",
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n     - Ceilings `11:00`\n     - Scopulus `10:45`\n     - Vitalis `11:00`\n     - Green Bomb `11:00`\n     - Team Split `11:00`\n     - The End `11:30`"
+        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n\t\t\t\t\t\t- Ceilings `11:00`\n\t\t\t\t\t\t- Scopulus `10:45`\n\t\t\t\t\t\t- Vitalis `11:00`\n\t\t\t\t\t\t- Green Bomb `11:00`\n\t\t\t\t\t\t- Team Split `11:00`\n\t\t\t\t\t\t- The End `11:30`"
       ],
       "apps": [
-        "One of the following:\n     - VODs of one kill on two different rotations with their specific timers\n     - VOD of b2b kills with one of the timers achieved (average)"
+        "One of the following:\n\t\t\t\t\t\t- VODs of one kill on two different rotations with their specific timers\n\t\t\t\t\t\t- VOD of b2b kills with one of the timers achieved (average)"
       ],
       "guides": [
         "duo"
@@ -141,12 +141,12 @@
       "name": "Duo T2",
       "reqs": [
         "Inherited skill requirements from `.info Duo T1`",
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n     - Ceilings `10:15`\n     - Scopulus `10:00`\n     - Vitalis `10:45`\n     - Green Bomb `10:15`\n     - Team Split `10:30`\n     - The End `11:05`",
+        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n\t\t\t\t\t\t- Ceilings `10:15`\n\t\t\t\t\t\t- Scopulus `10:00`\n\t\t\t\t\t\t- Vitalis `10:45`\n\t\t\t\t\t\t- Green Bomb `10:15`\n\t\t\t\t\t\t- Team Split `10:30`\n\t\t\t\t\t\t- The End `11:05`",
         "Climber",
         "BD Bleeds"
       ],
       "apps": [
-        "One of the following:\n     - VODs of one kill on two different rotations with their specific timers\n     - VOD of b2b kills with one of the timers achieved (average)"
+        "One of the following:\n\t\t\t\t\t\t- VODs of one kill on two different rotations with their specific timers\n\t\t\t\t\t\t- VOD of b2b kills with one of the timers achieved (average)"
       ],
       "guides": [
         "duo",
@@ -158,7 +158,7 @@
       "name": "Duo T3",
       "reqs": [
         "Inherited skill requirements from `.info Duo T2`",
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n     - Ceilings `09:15`\n     - Scopulus `09:22`\n     - Vitalis `09:22`\n     - Green Bomb `09:26`\n     - Team Split `09:55`\n     - The End `10:10`",
+        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n\t\t\t\t\t\t- Ceilings `09:15`\n\t\t\t\t\t\t- Scopulus `09:22`\n\t\t\t\t\t\t- Vitalis `09:22`\n\t\t\t\t\t\t- Green Bomb `09:26`\n\t\t\t\t\t\t- Team Split `09:55`\n\t\t\t\t\t\t- The End `10:10`",
         "Natty",
         "Bleed Skip",
         "Target cycle",
@@ -166,7 +166,7 @@
         "Hammer Climber"
       ],
       "apps": [
-        "One of the following:\n     - VODs of one kill on two different rotations with their specific timers\n     - VOD of b2b kills with one of the timers achieved (average)"
+        "One of the following:\n\t\t\t\t\t\t- VODs of one kill on two different rotations with their specific timers\n\t\t\t\t\t\t- VOD of b2b kills with one of the timers achieved (average)"
       ],
       "guides": [
         "natty",
@@ -181,7 +181,7 @@
       "name": "Duo T4",
       "reqs": [
         "Inherited skill requirements from `.info Duo T3`",
-        "Achieve ONE of the timers\n     - Ceilings `08:40`\n     - Scopulus `09:02`\n     - Vitalis `08:52`\n     - Green Bomb `09:01`\n     - Team Split `09:15`\n     - The End `09:42`",
+        "Achieve ONE of the timers\n\t\t\t\t\t\t- Ceilings `08:40`\n\t\t\t\t\t\t- Scopulus `09:02`\n\t\t\t\t\t\t- Vitalis `08:52`\n\t\t\t\t\t\t- Green Bomb `09:01`\n\t\t\t\t\t\t- Team Split `09:15`\n\t\t\t\t\t\t- The End `09:42`",
         "Solo Lure",
         "Advanced Climber"
       ],
@@ -236,12 +236,12 @@
       "reqs": [
         "Inherited skill requirements from `.info Experienced HM`",
         "Team Size: Trio",
-        "Achieve both timers OR achieve ONE of the timers on b2b kills\n     - Any rotation `14:26`\n     - The End `15:03`",
+        "Achieve both timers OR achieve ONE of the timers on b2b kills\n\t\t\t\t\t\t- Any rotation `14:26`\n\t\t\t\t\t\t- The End `15:03`",
         "Natty",
         "Target Cycle"
       ],
       "apps": [
-        "One of the following:\n     - VODs of one kill on two different rotations with their specific timers\n     - VOD of b2b kills with one of the timers achieved (average)"
+        "One of the following:\n\t\t\t\t\t\t- VODs of one kill on two different rotations with their specific timers\n\t\t\t\t\t\t- VOD of b2b kills with one of the timers achieved (average)"
       ],
       "guides": [
         "trio-hm",
@@ -253,12 +253,12 @@
       "name": "Insane HM",
       "reqs": [
         "Inherited skill requirements from `.info Advanced HM`",
-        "Achieve both timers OR achieve ONE of the timers on b2b kills\n     - Any rotation `12:39`\n     - The End `13:16`",
+        "Achieve both timers OR achieve ONE of the timers on b2b kills\n\t\t\t\t\t\t- Any rotation `12:39`\n\t\t\t\t\t\t- The End `13:16`",
         "Solo Lure",
         "Advanced Climber"
       ],
       "apps": [
-        "One of the following:\n     - VODs of one kill on two different rotations with their specific timers\n     - VOD of b2b kills with one of the timers achieved (average)"
+        "One of the following:\n\t\t\t\t\t\t- VODs of one kill on two different rotations with their specific timers\n\t\t\t\t\t\t- VOD of b2b kills with one of the timers achieved (average)"
       ],
       "guides": [
         "trio-hm",
@@ -288,7 +288,7 @@
       "name": "Advanced Duo HM",
       "reqs": [
         "`.info Experienced Duo HM`",
-        "Average kill time in Duo HM on b2b kills (any rotation)\n     - Any rotation `18:30`\n     - The End `19:07`"
+        "Average kill time in Duo HM on b2b kills (any rotation)\n\t\t\t\t\t\t- Any rotation `18:30`\n\t\t\t\t\t\t- The End `19:07`"
       ],
       "apps": [
         "VOD of two b2b kills complying with the average kill time"
@@ -305,7 +305,7 @@
       "name": "Insane Duo HM",
       "reqs": [
         "`.info Advanced Duo HM`",
-        "Average kill time in Duo HM on b2b kills (any rotation)\n     - Any rotation `15:39`\n     - The End `16:16`"
+        "Average kill time in Duo HM on b2b kills (any rotation)\n\t\t\t\t\t\t- Any rotation `15:39`\n\t\t\t\t\t\t- The End `16:16`"
       ],
       "apps": [
         "VOD of two b2b kills complying with the average kill time"
