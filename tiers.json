@@ -103,6 +103,54 @@
         "solo"
       ]
     },
+    {
+      "name": "Vorago Master T1",
+      "reqs": [
+        "Achieve all Duo T2 timers (6/6 rotations)"
+      ],
+      "apps": [
+        "VOD of all 6 timers from Duo T2"
+      ],
+      "guides": [
+        "duo"
+      ]
+    },
+    {
+      "name": "Vorago Master T2",
+      "reqs": [
+        "Achieve all Duo T3 timers (6/6 rotations)"
+      ],
+      "apps": [
+        "VOD of all 6 timers from Duo T3"
+      ],
+      "guides": [
+        "duo"
+      ]
+    },
+    {
+      "name": "Vorago Master T3",
+      "reqs": [
+        "Achieve all Duo T4 timers (6/6 rotations)"
+      ],
+      "apps": [
+        "VOD of all 6 timers from Duo T4"
+      ],
+      "guides": [
+        "duo"
+      ]
+    },
+    {
+      "name": "Duo HM",
+      "reqs": [
+        "Achieve a Duo HM kill on any rotation (1/6)"
+      ],
+      "apps": [
+        "VOD of a successful Duo HM kill"
+      ],
+      "guides": [
+        "duo-hm"
+      ]
+    },
      {
       "name": "NM Exp",
       "reqs": [
