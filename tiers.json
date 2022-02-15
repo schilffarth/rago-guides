@@ -140,18 +140,6 @@
       ]
     },
     {
-      "name": "Duo HM",
-      "reqs": [
-        "Achieve a Duo HM kill on any rotation (1/6)"
-      ],
-      "apps": [
-        "VOD of a successful Duo HM kill"
-      ],
-      "guides": [
-        "duo-hm"
-      ]
-    },
-     {
       "name": "NM Exp",
       "reqs": [
         "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `10:15`\n- Scopulus `10:00`\n- Vitalis `10:45`\n- Green Bomb `10:15`\n- Team Split `10:30`\n- The End `11:05`",
