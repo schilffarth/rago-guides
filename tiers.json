@@ -352,6 +352,88 @@
         "stalling-abilities",
         "zero-linking"
       ]
+    },
+    {
+      "name": "Duo HM T1",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "solo"
+      ]
+    },    {
+      "name": "Duo HM T2",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "solo"
+      ]
+    },
+        {
+      "name": "Duo HM T3",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "solo"
+      ]
+    },
+        {
+      "name": "Trio HM T1",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "solo"
+      ]
+    },    {
+      "name": "Trio HM T2",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "solo"
+      ]
+    },
+        {
+      "name": "Trio HM T3",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "solo"
+      ]
+    },
+        {
+      "name": "HM Exp",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "solo"
+      ]
     }
   ]
 }
