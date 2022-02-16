@@ -356,7 +356,7 @@
     {
       "name": "Duo HM T1",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "• Proficiency in duo hard mode.\n• Requires a s20 minute duo hard mode kill as either role"
       ],
       "apps": [
         "VOD of a successful Solo Phase 5 on every rotation"
@@ -367,7 +367,7 @@
     },    {
       "name": "Duo HM T2",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "• High proficiency in duo hard mode\n• Requires a s18 minute duo hard mode kill as either role"
       ],
       "apps": [
         "VOD of a successful Solo Phase 5 on every rotation"
@@ -379,7 +379,7 @@
         {
       "name": "Duo HM T3",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "• Expert proficiency in duo hard mode\n• Requires a s17 minute duo hard mode kill as either role"
       ],
       "apps": [
         "VOD of a successful Solo Phase 5 on every rotation"
@@ -391,7 +391,7 @@
         {
       "name": "Trio HM T1",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "• Entry-level trio hard mode as either melee base, or bomb tank.\n• Requires a s16 minute trio hard mode kill as either role on any week.\n• Any mages using blitz as their primary spell will be auto failed."
       ],
       "apps": [
         "VOD of a successful Solo Phase 5 on every rotation"
@@ -402,7 +402,7 @@
     },    {
       "name": "Trio HM T2",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "• Proficiency in trio hard mode as either melee base, or bomb tank.\n• Requires a s15 minute trio hard mode kill as either role on any week.\n• Any mages using blitz as their primary spell will be auto failed."
       ],
       "apps": [
         "VOD of a successful Solo Phase 5 on every rotation"
@@ -414,7 +414,7 @@
         {
       "name": "Trio HM T3",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "• High proficiency in trio hard mode as either melee base, or bomb tank.\n• Requires a s14 minute trio hard mode kill as either role on any week.\n• Any mages using blitz as their primary spell will be auto failed."
       ],
       "apps": [
         "VOD of a successful Solo Phase 5 on every rotation"
@@ -426,7 +426,7 @@
         {
       "name": "HM Exp",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "• Proficiency in 4-Man Hard Mode\n• Requires a vod with a time of s16 minutes as either melee base, or bt in 4-Man Hard Mode"
       ],
       "apps": [
         "VOD of a successful Solo Phase 5 on every rotation"
