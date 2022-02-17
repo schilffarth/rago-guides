@@ -323,7 +323,6 @@
     {
       "name": "Advanced Duo HM",
       "reqs": [
-        "`.info Experienced Duo HM`",
         "Average kill time in Duo HM on b2b kills (any rotation)\n- Any rotation `18:30`\n- The End `19:07`"
       ],
       "apps": [
@@ -340,7 +339,6 @@
     {
       "name": "Insane Duo HM",
       "reqs": [
-        "`.info Advanced Duo HM`",
         "Average kill time in Duo HM on b2b kills (any rotation)\n- Any rotation `15:39`\n- The End `16:16`"
       ],
       "apps": [
@@ -356,10 +354,10 @@
     {
       "name": "Quarrymaster",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "World Record holder in any Vorago category on the PvM Records website https://https://pvm-records.com/"
       ],
       "apps": [
-        "VOD of a successful Solo Phase 5 on every rotation"
+        "Any proof that you are part of a Vorago WR"
       ],
       "guides": [
         "overview"
@@ -368,22 +366,24 @@
     {
       "name": "Duo HM T1",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "Proficiency in duo hard mode",
+        "Requires a s20 minute duo hard mode kill as either role"
       ],
       "apps": [
-        "VOD of a successful Solo Phase 5 on every rotation"
+        "VOD of sub 20 minute Duo HM kill"
       ],
       "guides": [
         "duo-hm"
       ]
-    },  
+    },
     {
       "name": "Duo HM T2",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "High proficiency in duo hard mode",
+        "Requires a s18 minute duo hard mode kill as either role"
       ],
       "apps": [
-        "VOD of a successful Solo Phase 5 on every rotation"
+        "VOD of sub 18 minute Duo HM kill"
       ],
       "guides": [
         "duo-hm"
@@ -392,10 +392,11 @@
     {
       "name": "Duo HM T3",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "Expert proficiency in duo hard mode",
+        "Requires a s17 minute duo hard mode kill as either role"
       ],
       "apps": [
-        "VOD of a successful Solo Phase 5 on every rotation"
+        "VOD of sub 17 minute Duo HM kill"
       ],
       "guides": [
         "duo-hm"
@@ -404,10 +405,12 @@
     {
       "name": "Trio HM T1",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "Proficiency in trio hard mode as either melee base, or bomb tank",
+        "Requires a s16 minute trio hard mode kill as either role on any week",
+        "Any mages using blitz as their primary spell will be auto failed"
       ],
       "apps": [
-        "VOD of a successful Solo Phase 5 on every rotation"
+        "VOD of sub 16 minute Trio HM kill"
       ],
       "guides": [
         "trio-hm"
@@ -416,10 +419,12 @@
     {
       "name": "Trio HM T2",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "Proficiency in trio hard mode as either melee base, or bomb tank",
+        "Requires a s15 minute trio hard mode kill as either role on any week",
+        "Any mages using blitz as their primary spell will be auto failed"
       ],
       "apps": [
-        "VOD of a successful Solo Phase 5 on every rotation"
+        "VOD of sub 15 minute Trio HM kill"
       ],
       "guides": [
         "trio-hm"
@@ -428,10 +433,12 @@
     {
       "name": "Trio HM T3",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "High proficiency in trio hard mode as either melee base, or bomb tank",
+        "Requires a s14 minute trio hard mode kill as either role on any week",
+        "Any mages using blitz as their primary spell will be auto failed"
       ],
       "apps": [
-        "VOD of a successful Solo Phase 5 on every rotation"
+        "VOD of sub 14 minute Trio HM kill"
       ],
       "guides": [
         "trio-hm"
@@ -440,10 +447,12 @@
     {
       "name": "HM Exp",
       "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
+        "Team size: 4 Man",
+        "Proficiency in 4-Man Hard Mode",
+        "Requires a vod with a time of s16 minutes as either melee base, or bt in 4-Man Hard Mode"
       ],
       "apps": [
-        "VOD of a successful Solo Phase 5 on every rotation"
+        "VOD of a sub 16 minute 4 Man HM kill as a tank role"
       ],
       "guides": [
         "large-hard-mode"
