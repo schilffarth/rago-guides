@@ -146,7 +146,7 @@
         "Bleeds",
         "Heal Other",
         "Cade Cept",
-        "Top Lure"
+        "Climber"
       ],
       "apps": [
         "A vod of a P1 climb (36s + voke, can be done solo)",
@@ -164,7 +164,8 @@
       "name": "Duo T1",
       "reqs": [
         "Inherited skill requirements from `.info NM Exp`",
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `11:00`\n- Scopulus `10:45`\n- Vitalis `11:00`\n- Green Bomb `11:00`\n- Team Split `11:00`\n- The End `11:30`"
+        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `11:00`\n- Scopulus `10:45`\n- Vitalis `11:00`\n- Green Bomb `11:00`\n- Team Split `11:00`\n- The End `11:30`",
+        "Climber"
       ],
       "apps": [
         "One of the following:\n- VODs of one kill on two different rotations with their specific timers\n- VOD of b2b kills with one of the timers achieved (average)"
@@ -197,7 +198,7 @@
         "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `09:15`\n- Scopulus `09:22`\n- Vitalis `09:22`\n- Green Bomb `09:26`\n- Team Split `09:55`\n- The End `10:10`",
         "Natty",
         "Bleed Skip",
-        "Target cycle",
+        "Target Cycle",
         "Recenter",
         "Hammer Climber"
       ],
@@ -238,7 +239,7 @@
         "Utilize Adrenaline potions and Ultimates at all necessary times",
         "Bleeds",
         "Heal Other",
-        "Cade cept",
+        "Cade Cept",
         "Climber"
       ],
       "apps": [
@@ -354,7 +355,7 @@
     {
       "name": "Quarrymaster",
       "reqs": [
-        "World Record holder in any Vorago category on the PvM Records website https://https://pvm-records.com/"
+        "World Record holder (1st place) in any Vorago category on the PvM Records website https://https://pvm-records.com/"
       ],
       "apps": [
         "Any proof that you are part of a Vorago WR"
