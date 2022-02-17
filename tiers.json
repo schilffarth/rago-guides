@@ -104,39 +104,15 @@
       ]
     },
     {
-      "name": "Vorago Master T1",
+      "name": "Quarrymaster",
       "reqs": [
-        "Achieve all Duo T2 timers (6/6 rotations)"
+        "World Record holder (1st place) in any Vorago category on the PvM Records website https://https://pvm-records.com/"
       ],
       "apps": [
-        "VOD of all 6 timers from Duo T2"
+        "Any proof that you are part of a Vorago WR"
       ],
       "guides": [
-        "duo"
-      ]
-    },
-    {
-      "name": "Vorago Master T2",
-      "reqs": [
-        "Achieve all Duo T3 timers (6/6 rotations)"
-      ],
-      "apps": [
-        "VOD of all 6 timers from Duo T3"
-      ],
-      "guides": [
-        "duo"
-      ]
-    },
-    {
-      "name": "Vorago Master T3",
-      "reqs": [
-        "Achieve all Duo T4 timers (6/6 rotations)"
-      ],
-      "apps": [
-        "VOD of all 6 timers from Duo T4"
-      ],
-      "guides": [
-        "duo"
+        "overview"
       ]
     },
     {
@@ -187,7 +163,7 @@
       ],
       "guides": [
         "duo",
-        "climber",
+        "climbing",
         "clearing-bleeds"
       ]
     },
@@ -232,6 +208,42 @@
       ]
     },
     {
+      "name": "Vorago Master T1",
+      "reqs": [
+        "Achieve all Duo T2 timers (6/6 rotations)"
+      ],
+      "apps": [
+        "VOD of all 6 timers from Duo T2"
+      ],
+      "guides": [
+        "duo"
+      ]
+    },
+    {
+      "name": "Vorago Master T2",
+      "reqs": [
+        "Achieve all Duo T3 timers (6/6 rotations)"
+      ],
+      "apps": [
+        "VOD of all 6 timers from Duo T3"
+      ],
+      "guides": [
+        "duo"
+      ]
+    },
+    {
+      "name": "Vorago Master T3",
+      "reqs": [
+        "Achieve all Duo T4 timers (6/6 rotations)"
+      ],
+      "apps": [
+        "VOD of all 6 timers from Duo T4"
+      ],
+      "guides": [
+        "duo"
+      ]
+    },
+    {
       "name": "Certified HM",
       "reqs": [
         "Team Size: 5 Man",
@@ -247,7 +259,7 @@
         "**AND** a VOD of 1 kill as the respective role on pace for 3 KPH"
       ],
       "guides": [
-        "large-teams-hm",
+        "large-hard-mode",
         "crack-healing",
         "cade-cept",
         "clearing-bleeds"
@@ -265,7 +277,7 @@
         "VOD of 1 kill as the respective role, on pace for 3 KPH"
       ],
       "guides": [
-        "large-teams-hm"
+        "large-hard-mode"
       ]
     },
     {
@@ -353,54 +365,17 @@
       ]
     },
     {
-      "name": "Quarrymaster",
+      "name": "HM Exp",
       "reqs": [
-        "World Record holder (1st place) in any Vorago category on the PvM Records website https://https://pvm-records.com/"
+        "Team size: 4 Man",
+        "Proficiency in 4-Man Hard Mode",
+        "Requires a vod with a time of s16 minutes as either melee base, or bt in 4-Man Hard Mode"
       ],
       "apps": [
-        "Any proof that you are part of a Vorago WR"
+        "VOD of a sub 16 minute 4 Man HM kill as a tank role"
       ],
       "guides": [
-        "overview"
-      ]
-    },
-    {
-      "name": "Duo HM T1",
-      "reqs": [
-        "Proficiency in duo hard mode",
-        "Requires a s20 minute duo hard mode kill as either role"
-      ],
-      "apps": [
-        "VOD of sub 20 minute Duo HM kill"
-      ],
-      "guides": [
-        "duo-hm"
-      ]
-    },
-    {
-      "name": "Duo HM T2",
-      "reqs": [
-        "High proficiency in duo hard mode",
-        "Requires a s18 minute duo hard mode kill as either role"
-      ],
-      "apps": [
-        "VOD of sub 18 minute Duo HM kill"
-      ],
-      "guides": [
-        "duo-hm"
-      ]
-    },
-    {
-      "name": "Duo HM T3",
-      "reqs": [
-        "Expert proficiency in duo hard mode",
-        "Requires a s17 minute duo hard mode kill as either role"
-      ],
-      "apps": [
-        "VOD of sub 17 minute Duo HM kill"
-      ],
-      "guides": [
-        "duo-hm"
+        "large-hard-mode"
       ]
     },
     {
@@ -446,17 +421,42 @@
       ]
     },
     {
-      "name": "HM Exp",
+      "name": "Duo HM T1",
       "reqs": [
-        "Team size: 4 Man",
-        "Proficiency in 4-Man Hard Mode",
-        "Requires a vod with a time of s16 minutes as either melee base, or bt in 4-Man Hard Mode"
+        "Proficiency in duo hard mode",
+        "Requires a s20 minute duo hard mode kill as either role"
       ],
       "apps": [
-        "VOD of a sub 16 minute 4 Man HM kill as a tank role"
+        "VOD of sub 20 minute Duo HM kill"
       ],
       "guides": [
-        "large-hard-mode"
+        "duo-hm"
+      ]
+    },
+    {
+      "name": "Duo HM T2",
+      "reqs": [
+        "High proficiency in duo hard mode",
+        "Requires a s18 minute duo hard mode kill as either role"
+      ],
+      "apps": [
+        "VOD of sub 18 minute Duo HM kill"
+      ],
+      "guides": [
+        "duo-hm"
+      ]
+    },
+    {
+      "name": "Duo HM T3",
+      "reqs": [
+        "Expert proficiency in duo hard mode",
+        "Requires a s17 minute duo hard mode kill as either role"
+      ],
+      "apps": [
+        "VOD of sub 17 minute Duo HM kill"
+      ],
+      "guides": [
+        "duo-hm"
       ]
     }
   ]
