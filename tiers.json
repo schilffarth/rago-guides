@@ -352,6 +352,102 @@
         "stalling-abilities",
         "zero-linking"
       ]
+    },
+    {
+      "name": "Quarrymaster",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "overview"
+      ]
+    },
+    {
+      "name": "Duo HM T1",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "duo-hm"
+      ]
+    },  
+    {
+      "name": "Duo HM T2",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "duo-hm"
+      ]
+    },
+    {
+      "name": "Duo HM T3",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "duo-hm"
+      ]
+    },
+    {
+      "name": "Trio HM T1",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "trio-hm"
+      ]
+    },
+    {
+      "name": "Trio HM T2",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "trio-hm"
+      ]
+    },
+    {
+      "name": "Trio HM T3",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "trio-hm"
+      ]
+    },
+    {
+      "name": "HM Exp",
+      "reqs": [
+        "Achieve a Solo Phase 5 on every rotation (4/4)"
+      ],
+      "apps": [
+        "VOD of a successful Solo Phase 5 on every rotation"
+      ],
+      "guides": [
+        "large-hard-mode"
+      ]
     }
   ]
 }
