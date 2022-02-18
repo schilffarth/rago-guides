@@ -1,7 +1,7 @@
 .guidewriting
 > __**Guide Writing**__
 
-Before you dive into Rago Hub guide writing, you should take a couple of minutes to learn the syntax that our <@&812409511179845663> Discord bot uses to parse guides into proper styling.
+Before you dive into Rago Hub guide writing, take a couple of minutes to learn the syntax that our <@&812409511179845663> Discord bot uses to parse guides into proper styling.
 
 .
 • `.` Write a new message
