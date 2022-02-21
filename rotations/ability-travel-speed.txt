@@ -1,5 +1,5 @@
 .Introduction
-Guide written by <@781280949790572554>
+Guide written by <@!781280949790572554>
 
 > **__Ability Travel Speed__**
 
@@ -7,7 +7,7 @@ Ability Travel Speed defines the amount of ticks an ability requires to connect 
 
 Vorago is a boss with very limited DPS time windows, thus maximizing all damage dealt is vital, so ensuring all your abilities are fast hitting where important can aid in increasing damage output before specific mechanics happen.
 
-In Phase 5 it is relatively important when following or creating rotations to exploit these hit timings to ensure you do not cause lost overflow, as Vorago can only move 1 tile per tick. Refer to <#734513733883396146> for more information.
+In Phase 5 it is relatively important when following or creating rotations to exploit these hit timings to ensure you do not cause lost overflow, as Vorago can only move 1 tile per tick. Refer to #zero-linking for more information.
 
 At certain distances from the true center of a target (for large mobs such as Vorago it is the South-West corner), abilities hit a tick later than usual (in rare instances it will get slower again), and so it is important to remain within that range if the rotation requires you to do fast hitting abilities just before Reflect $link - Most Rago Hub ability damage rotations require exactly that. Reference: https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg
 .Melee
@@ -31,7 +31,7 @@ https://cdn.discordapp.com/attachments/676485011268042761/802190375950876672/unk
 
 > **__Ranged__**
 
-Ranged is interesting in the fact that all its weapons have differing hit timings for certain abilities (i.e.: $snap  and Dazing Shot $gdazing). This is very important to remember for the weekly special mechanics Team Split $ts and The End $purple, where if you wish to Target Cycle $tc an ability (reference: <#731487797336211507> and <#701072208486727761>) it must be fast hitting (things that hit on tick 1 in the listed tables), otherwise its damage will be nulled due to mechanical reasons. Thus, it is recommended for Ranged to use fast hitting cosmetic overrides, as they turn selected slow hitting abilities into fast hitting abilities for several tiles before they get slowed again.
+Ranged is interesting in the fact that all its weapons have differing hit timings for certain abilities (i.e.: $snap  and Dazing Shot $gdazing). This is very important to remember for the weekly special mechanics Team Split $ts and The End $purple, where if you wish to Target Cycle $tc an ability (reference: #target-cycle and #natty) it must be fast hitting (things that hit on tick 1 in the listed tables), otherwise its damage will be nulled due to mechanical reasons. Thus, it is recommended for Ranged to use fast hitting cosmetic overrides, as they turn selected slow hitting abilities into fast hitting abilities for several tiles before they get slowed again.
 
 • $blowpipe Blowpipe
 .

@@ -3,6 +3,10 @@ Guide written by <@184918342392479744> and <@316175818458136588>. Thanks <@16866
 
 > __**Duo Hard Mode**__
 
+.
+https://i.imgur.com/xwkK1u3.png
+.
+
 This guide focuses on Duo Hard Mode Vorago only. If you're looking for the Duo Normal Mode guide, check out <#744505794682290217>. The most important and most difficult part about duo hard mode is that Vorago always fires 2 blue bombs at once, if two persons are in reach. To understand how to avoid a second blue bomb being launched, read through <#718435693432406157>. Up to P10 and P11, this is mostly handled with devo / cade cepting.
 
 .
@@ -35,6 +39,25 @@ __Ability Rotations:__
 Rago Hub maintains a spreadsheet with over 150+ unique ability rotations. Whilst the provided Duo Hard Mode ability rotations are aimed towards advanced and experienced Ragoers, it is still recommended to check them out. You can easily adjust the rotations to your personal preferences.
 
 Rago Hub spreadsheet: <https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit?usp=sharing>
+
+.Stepping under
+> __**Stepping Under**__
+
+This section explains the phenomenon of Blue Bombs $blue not being fired at you if **stepping under** Vorago. You can see an example of this here:
+.
+https://www.youtube.com/watch?v=Mii85UTiTdQ
+.
+• This is only applicable to the person that Vorago does **not** hold his current aggro
+• Melee Swipes $swipe will still hit you if the Base Tank stays in melee distance
+• Stepping under does **not** prevent random Red Bombs $red
+
+__Execution:__
+
+• Simply clicking the ground once after each offensive ability you do
+• It is recommended to step under with a slightly shifted camera angle from Vorago's backside, respectively the opposite side of the Base Tank
+• Commonly the person voking $voke positions either at the side of the L-Rock or to the north of Vorago
+• Channeled abilities (i.e.: Asphyxiate $asphyx) do not force your character to move back out
+• Flanking can be perfectly utilised while stepping under
 
 .Overview
 > __**Strategy Overview**__
@@ -273,7 +296,52 @@ __Phase End:__
 
 Just like in the end of Phase 2, it is highly recommended to place a combat dummy $dummy in the end of Phase 9. Use Natural Instinct (reference: #natty) to have more adrenaline available in the start of Phase 10.
 
+.Useful strategies
+> __**Useful strategies**__
+This section is about two strategies used on Phase 10 and 11. Both help with the kill speed and consistency.
+
+
+> __**SGB and Hammer without IOTH**__
+
+The purpose of this strategy is to explain how to effectively make use of off-style special attacks without wasting Ingenuity of the Humans $ingen.
+The exact same principle can be used to reapply Statius's warhammer and to SGB $sgb out of Team Splits during **Normal mode Phase 5 / Hard Mode Phase 10 and 11**, but can be used on any other phase for the same purpose.
+
+__Execution:__
+• Having 7 or more affinity stacks applied will be better, but isn’t necessary
+• Unequip your armour chest, legs and head
+• For every piece you remove you are more likely to hit, but it's an optional step
+• Activate Desolation $desolation / Malevolence $malevolence
+• Use the special attack
+
+> __**Lining Up**__
+
+Lining Up is described as a strategy for how to halve push back taken in Phases 10 and 11 in Hard Mode. The fundamental basis of both Bomb Tanks lining up is to stay in the same grid column, in order to be horizontally distanced to Vorago with an equal number of tiles.
+
+The reason for having the Bomb Tanks lined up is due to Vorago's push mechanic being limited to 1 tile per game tick. Lining up vertically causes both launched Blue Bombs to deal damage in the same tick. Vorago's push mechanic reference: #zero-linking.
+
+You must be lined up from the very start on, at any cast distance. Optimal distancing is at 3 - 5 tiles from Vorago, so that channels will not be interrupted by exceeding maximum cast distance, but it also provides appropriate space for when Vorago pushes multiple times backwards.
+
+Make sure to **always** maintain cast distance and readjust your positioning when your partner moves.
+
+.
+__Positioning after Team Splits:__
+
+You must both exit the Team Split at the same time and split to each respective side (North/South walls) **as soon as possible** to avoid sharing Blue Bombs.
+
+When leaving a Team Split, you should click on a tile that is exactly at the edge of the north / south wall. Generally, both players line up vertically on the Team Split **closer** to Vorago. Yet, if that respective position would end up being too close (less than 3 tiles distance), you should reposition at the former mentioned optimal distance of 3 - 5 tiles.
+
+Sometimes one person might have a far Team Split, while the other does not. In this case it would be best for the person farther out to reprisal or tank the Team Split preferably with vitality. If you don’t have enough HP, both players must watch out and initially line up at maximum cast distance (7 tiles with a ranger, 8 tiles with mages). After 2 GCDs, quickly move in in order to reposition at 3 - 5 tiles distanced to Vorago.
+
+• Phase 10
+.
+https://cdn.discordapp.com/attachments/680567174552617107/785250159462055946/p10.png
+.
+
+• Phase 11
+.
+https://cdn.discordapp.com/attachments/680567174552617107/785250944883228672/p11.png
 .Phase 10 Team Split
+** **
 > __**Phase 10 Team Split**__
 
 __Strategy:__
@@ -330,21 +398,24 @@ __Starting Phase 11:__
 
 __Mauling:__
 
-Finish him! Congrats on your kill! Make sure to post your personal Duo Hard Mode kill in #role-requests to be added to the official Vorago Duo Hard Mode Achievement spreadsheet and obtain the <@&801054841488801843> role.
+Finish him! Congrats on your kill! Make sure to post your personal Duo Hard Mode kill in #role-requests to be added to the official Vorago Duo Hard Mode Achievement spreadsheet and obtain the <@&824000121402425455> role.
 
 .index
 > __**Index**__
 
 • $pin **Introduction** {link:Introduction}
+• :footprints: **Stepping under** {link:Stepping under}
 • $blue **Strategy Overview** {link:Overview}
 • $maulpiecea **Phase 1** {link:Phase 1}
 • $maulpieceb **Phase 2** {link:Phase 2}
 • $ceil **Phase 3 Ceilings** {link:Phase 3}
 • $scop **Phase  4 Scopulus** {link:Phase 4}
 • $vitalis **Phase 5 Vitalis** {link:Phase 5}
+.index
 • $green **Phase 6 Green Bomb** {link:Phase 6}
 • $ts **Phase 7 Team Split** {link:Phase 7}
 • $purple **Phase 8 The End** {link:Phase 8}
 • $maulpiecehandle **Phase 9 Team Split** {link:Phase 9 Team Split}
+• $sgb **Useful strategies** {link:Useful strategies}
 • $ts **Phase 10 Team Split** {link:Phase 10 Team Split}
 • $maul **Phase 11 Team Split** {link:Phase 11 Team Split}

@@ -2,7 +2,9 @@
   "shortcuts": {
     "climbing": "#climbing Standard TL5 $maulpiecea and Acceleration $accel climbing",
     "hammerclimb": "#hammer-climb Everything about the Hammer Climb $swh",
-    "natty": "#natty\n• Timing Target Cycle $tc with Natural Instinct\n• Natural Instinct for Phase 1\n• Placing an ultimate in melee distance start of Phase 5\n• Properly using combat dummies $dummy at Vorago"
+    "natty": "#natty\n• Timing Target Cycle $tc with Natural Instinct\n• Natural Instinct for Phase 1\n• Placing an ultimate in melee distance start of Phase 5\n• Properly using combat dummies $dummy at Vorago",
+    "spreadsheet": "<https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg/edit?usp=sharing>",
+    "targetcycle": "#target-cycle Timing Target Cycle with ability CDs, the Alt1 application or cheesing TC"
   },
   "instinct": [
     ":natty"
@@ -16,156 +18,125 @@
   "circle": [
     "https://cdn.discordapp.com/attachments/676485011268042761/736324357843845209/circle.png"
   ],
-  "nat": [],
   "climb": [
     ":climbing",
     ":hammerclimb"
   ],
   "heal": [
-    "The #crack-healing guide features:",
-    " Timing Crack Healing",
-    " Other useful Heal Other timings"
+    "#crack-healing"
   ],
   "split": [
-    " Mechanic overview for the Team Split weekly special: #team-split",
-    " Ability damage rotations for Team Split: ",
-    " Breaking Team Splits:"
+    "#team-split Mechanic overview for the Team Split weekly special",
+    "#team-split Breaking Team Splits"
   ],
   "team": [
-    "If you are completely new to Vorago, read through our #basic-guide and #overview channels.",
-    "Team Forming:",
-    " Join our affiliates for Team Forming and teaching sessions: #team-forming",
-    " Rago PvM - https://discord.gg/Q8xpnYp",
-    " Ironman Vorago Hub - https://discord.gg/YrFydAQ",
-    "Team Split:",
-    " Mechanic overview for the Team Split weekly special: #team-split",
-    " Ability damage rotations for Team Split: ",
-    " Breaking Team Splits:"
+    "If you are completely new to Vorago, read through our #basic-guide and #overview",
+    "#team-forming Check out our affiliates for Vorago Team Forming",
+    "#team-split Mechanic overview for the Team Split weekly special",
+    "#team-split Breaking Team Splits"
   ],
   "solo": [
-    " Solo Lure in phase 1: #solo-lure",
-    " Soloing phase 5: #solo"
+    "#solo-lure Solo Lure in Phase 1 as Base Tank",
+    "#solo Soloing Phase 1 - 5"
   ],
   "hammer": [
-    " Hammer Climbing in phase 1: #hammer-climb",
-    " Hard Mode large team melee Hammer rotations:"
+    ":hammerclimb",
+    ":targetcycle"
   ],
   "center": [
-    " Positioning / recentering Vorago in phase 2: #recenter"
+    "#recenter Positioning / recentering Vorago in Phase 2"
   ],
   "sgb": [
-    " Using the Seren Godbow special attack off-style without the Ingenuity of the Humans: #sgb-without-ioth"
+    "#sgb-without-ioth Using the Seren Godbow or SWH special attack off-style without the Ingenuity of the Humans"
   ],
   "seren": [
-    " Using the Seren Godbow special attack off-style without the Ingenuity of the Humans: #sgb-without-ioth"
+    "#sgb-without-ioth Using the Seren Godbow or SWH special attack off-style without the Ingenuity of the Humans"
   ],
   "shard": [
-    " On-tick shattering in phase 2:"
+    "#overview On-tick shattering in Phase 2"
   ],
   "shat": [
-    " On-tick shattering in phase 2:"
+    "#overview On-tick shattering in Phase 2"
   ],
   "lure": [
-    " Trio Normal Mode as TL5: #trio",
-    " Top Lure for climbing phase 1: #climbing",
-    " Solo Lure in phase 1: #solo-lure"
+    "#trio Trio Normal Mode as TL5",
+    "#climbing Top Lure for climbing Phase 1",
+    "#solo-lure Solo Lure in Phase 1"
   ],
   "target": [
-    " Timing Target Cycle with ability CDs, the Alt1 application or cheesing TC: #target-cycle",
-    " Timing Target Cycle with Natural Instinct: #natty"
+    ":targetcycle",
+    ":natty"
   ],
   "cycle": [
-    " Timing Target Cycle with ability CDs, the Alt1 application or cheesing TC: #target-cycle",
-    " Timing Target Cycle with Natural Instinct: #natty"
+    ":targetcycle",
+    ":natty"
   ],
   "dum": [
-    "The #natty guide features:",
-    " Timing Target Cycle with Natural Instinct",
-    " Natural Instinct for phase 1",
-    " Placing an Ultimate in MD start of phase 5 ASAP",
-    " Properly using Combat Dummies at Vorago"
+    ":natty"
   ],
   "preset": [
-    " Everything about Vorago presets: #presets"
+    "#presets Everything about Vorago presets"
   ],
   "ceil": [
-    " Mechanic overview for the Ceilings weekly special: #ceilings",
-    " Ability damage rotations for Ceilings:"
+    "#ceilings Mechanic overview for the Ceilings weekly special"
   ],
   "scop": [
-    " Mechanic overview for the Scopulus weekly special: #scopulus",
-    " Ability damage rotations for Scopulus:"
+    "#scopulus Mechanic overview for the Scopulus weekly special"
   ],
   "green": [
-    " Mechanic overview for the Green Bomb weekly special: #green-bomb",
-    " Ability damage rotations for Green Bomb:"
+    "#green-bomb Mechanic overview for the Green Bomb weekly special"
   ],
   "pb": [
-    " Mechanic overview for the Purple Bomb weekly special: #the-end",
-    " Ability damage rotations for The End:"
+    "#the-end Mechanic overview for the Purple Bomb weekly special"
   ],
   "purple": [
-    " Mechanic overview for the Purple Bomb weekly special: #the-end",
-    " Ability damage rotations for The End:"
+    "#the-end Mechanic overview for the Purple Bomb weekly special"
   ],
   "mechanic": [
-    " An overview of all mechanics at Vorago: #overview",
-    " A phase breakdown covering the order of all phases in both Normal and Hard Mode:"
+    "#overview An overview of all mechanics and phases at Vorago"
   ],
   "overflow": [
-    " All knowledge about the Overflow mechanic in phases 5 / 10 / 11: #overflow",
-    " Approaching zero-links in duo: #zero-linking"
+    "#zero-linking All knowledge about the Overflow mechanic and approaching zero-links in duo"
   ],
   "link": [
-    " The Reflect mechanic: #mechanics",
-    " Approaching zero-links in duo: #zero-linking",
-    " Rago Hub invite: https://discord.gg/uqGJbKH"
+    "#overview The Reflect mechanic",
+    "#zero-link Approaching zero-links in duo",
+    "Rago Hub invite: https://discord.gg/uqGJbKH"
   ],
   "bleed": [
-    " The Bleed mechanic: #overview",
-    " Clearing Bleeds; also covers escape-bladed diving: #clearing-bleeds"
+    "#overview The Bleed mechanic",
+    "#clearing-bleeds Clearing Bleeds; also covers escape-bladed diving"
   ],
   "reflect": [
-    " The Reflect mechanic: #overview"
+    "#overview The Reflect mechanic"
   ],
   "cept": [
-    " Barricade Intercept: #cade-cept"
+    "#cade-cept Barricade Intercept"
   ],
   "cade": [
-    "• Barricade Intercept: #cade-cept"
+    "#cade-cept Barricade Intercept"
   ],
   "maul": [
-    " Maul of Omens:",
-    " Everything about the Maul of Omens: #maul",
-    " Obtaining the first Maul piece (a): #climbing",
-    "Phase 10 Maul Timings:",
-    " #ceilings Green Bomb release",
-    " #scopulus Team Split spawn",
-    " #vitalis start of Reflect",
-    " #green-bomb Green Bomb release",
-    " #team-split start of Reflect",
-    " #the-end after last Bleed"
+    "#maul Everything about the Maul of Omens",
+    "#climbing Obtaining the first Maul piece (a)",
+    "Phase 10 Maul Timings:\n- #ceilings Green Bomb release\n- #scopulus Team Split spawn\n- #vitalis start of Reflect\n- #green-bomb Green Bomb release\n- #team-split start of Reflect\n- #the-end after last Bleed"
   ],
   "normal": [
-    " 4man or larger teams: ",
-    " Trio #trio",
-    " Duo #duo",
-    " Soloing phase 5 #solo",
-    " Normal Mode ability damage rotations:"
+    "#trio Trio or larger teams",
+    "#duo",
+    "#solo Soloing Phase 1 - 5"
   ],
   "trio": [
-    " Trio Normal Mode #trio",
-    " Trio Hard Mode #trio-hm"
+    "#trio Trio or larger teams",
+    "#trio-hm Trio Hard Mode"
   ],
-  "4man": [
-    " 4man or larger Normal Mode: ",
-    " 4man Hard Mode:"
+  "man": [
+    "#trio Trio or larger teams"
   ],
   "base": [
-    " Positioning / recentering Vorago in phase 2: #recenter ",
-    " Responsibilities of the Base Tank in Normal Mode: #duo",
-    " Base Tank in Trio Hard Mode: #trio-hm",
-    " Base Tank in 4man Hard Mode or larger teams:"
+    "#recenter Positioning / recentering Vorago in Phase 2",
+    "#duo Responsibilities of the Base Tank in Normal Mode",
+    "#trio-hm Base Tank in Trio and 4man Hard Mode"
   ],
   "tl5": [
     " Role responsibilities for the TL5: #trio",
