@@ -118,7 +118,7 @@
     {
       "name": "NM Exp",
       "reqs": [
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `10:15`\n- Scopulus `10:00`\n- Vitalis `10:45`\n- Green Bomb `10:15`\n- Team Split `10:30`\n- The End `11:05`",
+        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `08:26`\n- Scopulus `08:11`\n- Vitalis `08:56`\n- Green Bomb `08:26`\n- Team Split `08:41`\n- The End `09:16`",
         "Bleeds",
         "Heal Other",
         "Cade Cept",
@@ -140,7 +140,7 @@
       "name": "Duo T1",
       "reqs": [
         "Inherited skill requirements from `.info NM Exp`",
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `11:00`\n- Scopulus `10:45`\n- Vitalis `11:00`\n- Green Bomb `11:00`\n- Team Split `11:00`\n- The End `11:30`",
+        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `09:15`\n- Scopulus `09:00`\n- Vitalis `09:15`\n- Green Bomb `09:15`\n- Team Split `09:15`\n- The End `09:45`",
         "Climber"
       ],
       "apps": [
@@ -154,7 +154,7 @@
       "name": "Duo T2",
       "reqs": [
         "Inherited skill requirements from `.info Duo T1`",
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n \t- Ceilings `10:15`\n \t- Scopulus `10:00`\n \t- Vitalis `10:45`\n \t- Green Bomb `10:15`\n \t- Team Split `10:30`\n \t- The End `11:05`",
+        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n \t- Ceilings `08:30`\n \t- Scopulus `08:15`\n \t- Vitalis `09:00`\n \t- Green Bomb `08:30`\n \t- Team Split `08:45`\n \t- The End `09:20`",
         "Climber",
         "BD Bleeds"
       ],
@@ -171,7 +171,7 @@
       "name": "Duo T3",
       "reqs": [
         "Inherited skill requirements from `.info Duo T2`",
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `09:15`\n- Scopulus `09:10`\n- Vitalis `09:22`\n- Green Bomb `09:26`\n- Team Split `09:55`\n- The End `10:10`",
+        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `07:26`\n- Scopulus `07:21`\n- Vitalis `07:33`\n- Green Bomb `07:37`\n- Team Split `08:06`\n- The End `08:21`",
         "Natty",
         "Bleed Skip",
         "Target Cycle",
@@ -194,7 +194,7 @@
       "name": "Duo T4",
       "reqs": [
         "Inherited skill requirements from `.info Duo T3`",
-        "Achieve ONE of the timers\n- Ceilings `08:40`\n- Scopulus `09:02`\n- Vitalis `08:52`\n- Green Bomb `09:01`\n- Team Split `09:15`\n- The End `09:42`",
+        "Achieve ONE of the timers\n- Ceilings `06:51`\n- Scopulus `07:13`\n- Vitalis `07:03`\n- Green Bomb `07:12`\n- Team Split `07:26`\n- The End `07:53`",
         "Solo Lure",
         "Advanced Climber"
       ],
