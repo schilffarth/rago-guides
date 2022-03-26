@@ -2,7 +2,7 @@ Guide written by Serene, <@164133228989513728> and <@316175818458136588>.
 
 > __**Duo Normal Mode**__
 
-This guide focusses on **duo** Normal Mode Vorago only. If you are looking for other team sizes, Hard Mode or advanced guides refer back to the #📌guide-index index channel. If you are interested in the basic mechanics that Vorago features, check out the #mechanics channel. The guide is split into two roles: Base Tank and Bomb Tank. Every section provides step-by-step instructions for both roles.
+This guide focuses on **duo** Normal Mode Vorago only. If you are looking for other team sizes, Hard Mode or advanced guides refer back to the #📌guide-index index channel. If you are interested in the basic mechanics that Vorago features, check out the #mechanics channel. The guide is split into two roles: Base Tank and Bomb Tank. Every section provides step-by-step instructions for both roles.
 
 • :pushpin: **Intro** https://discordapp.com/channels/670983760178839572/744505794682290217/749739700474085488
 • :maulpiecea: **Phase 1** https://discordapp.com/channels/670983760178839572/744505794682290217/749740026937737226
