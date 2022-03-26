@@ -32,8 +32,6 @@ __Execution:__
 • Step back out again
 • Cast Heal Other $heal on the team member with the lowest life points
 
-Alternating Barricade cooldowns for every Red Bomb in Phase 2 is significantly important. The cooldown of Barricade is too long to be back up for every Red Bomb you receive.
-
 .Two-Stepping
 > __**Two-Stepping**__
 

@@ -7,7 +7,7 @@ Guide written by <@184918342392479744> and <@316175818458136588>. Thanks <@16866
 https://i.imgur.com/xwkK1u3.png
 .
 
-This guide focuses on Duo Hard Mode Vorago only. If you're looking for the Duo Normal Mode guide, check out <#744505794682290217>. The most important and most difficult part about duo hard mode is that Vorago always fires 2 blue bombs at once, if two persons are in reach. To understand how to avoid a second blue bomb being launched, read through <#718435693432406157>. Up to P10 and P11, this is mostly handled with devo / cade cepting.
+This guide focuses on Duo Hard Mode Vorago only. If you're looking for the Duo Normal Mode guide, check out <#744505794682290217>. The most important and most difficult part about duo hard mode is that Vorago always fires 2 blue bombs at once, if two persons are in reach.
 
 .
 __Requirements:__
@@ -15,14 +15,12 @@ __Requirements:__
 • Knowledge how to Devotion / Barricade Intercept $devo $cade $cept - Reference: <#744505436685991986>
 • Ingenuity of the Humans $ingen
 • Statius's Warhammer $swh
-• Seren Godbow $sgb (to effectively use SGB in Duo HM as mage, refer to <#718431678086774925>)
 
 .
 __Recommendations:__
 
 • **Important:** Knowledge how to <#731487797336211507> $tc
 • Knowledge about stalling Vorago in phases 10 / 11 - Refererence: <#734513733883396146>
-• Knowledge about <#718435693432406157> to avoid Blue Bombs $blue
 • Limitless $limitless
 • Malletops for extended Barricade $cade
 • 2 dummies each player $dummy for phases 2, 4, 9 and 11
@@ -99,10 +97,8 @@ https://cdn.discordapp.com/attachments/676485011268042761/813169487863873566/duo
 • Ideally Vorago switches aggro to the Bomb Tank, if not, keep pray flicking
 *Note: Vorago does a slight turn-around of ~ 45° clock-wise if he switches aggro.*
 .
-• You can see Blue Bombs $blue being fired by watching Vorago's animation during the jump
 • If Vorago switches to the Bomb Tank during jump, voke $voke after, to allow your Bomb Tank to step under
 • If Vorago stays on the Base Tank, step under and Heal Other $heal / Devotion Intercept $devo $cept
-• After jump, use Metamorphosis $metamorphosis
 
 Base Tank Phase 1 Example: https://www.youtube.com/watch?v=GTs6laViJfE
 .
@@ -119,25 +115,21 @@ __Bomb tank:__
 .Phase 2
 > __**Phase 2**__
 
-Both players should utilise Guthix Staff $gstaff and Storm Shards $shard throughout the phase. Your goal should be to always apply 10 shards by Bring Him Down.
+Both players should utilise Guthix Staff $gstaff and Storm Shards $shard throughout the phase. Your goal should be to apply as many shards as you can by Bring Him Down.
 
 __Base tank:__
 
 • Bladed dive $bd back under Vorago after escaping $escape the second bleed $bleed, to avoid the launched Blue Bomb $blue
-• Red bombs 1 and 3 cade cept $cade $cept
-• Devotion $devo before second and last reflect $link to prevent eating during Bring Him Down
+• Cade cept $cade $cept the first Red Bomb $red
 
 __Bomb Tank:__
 
-• Cade cept $cade $cept the second Red Bomb $red
 • Tag all gravity fields $gravity
 
 __Bring Him Down:__
 
 • $ranged Ranged: $sgb > $snipe > $grico
 • $magic Mage: $barrage $wm > $dbreath > $barrage $asphyx
-
-If both players use magic, Shatter $shatter should be utilised for consistently passing the damage check.
 
 .Phase 3
 > __**Phase 3 Ceilings**__
