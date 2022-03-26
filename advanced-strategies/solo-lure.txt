@@ -8,6 +8,8 @@ Solo luring describes an advanced strategy to position Vorago at jump spot in Ph
 .Normal Mode
 > __**Normal Mode**__
 
+_Note:_ This strategy only works with a melee base
+
 • YouTube video guide
 https://www.youtube.com/watch?v=1mgdsTZGMuY
 .
