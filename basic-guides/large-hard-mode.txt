@@ -51,9 +51,7 @@ The last section explains phases 9 - 11 depending on the weekly special mechanic
 .
 __Entry Hit:__
 
-The entry hit is the first difference with Normal Mode: `70,000` damage is split amongst all players that accepted the challenge. It is capped at `14,000` damage per player, instead of `12,500`. For a more information, check out our #basic-guide.
-
-Things that help getting the HP needed: Fortitude prayer $fortitude and a solid food $soup. You may also use your Vitality potion $vitality 15 seconds after challenging. The best way to time this is using Preparation $preparation as soon as the challenge prompt appears. Sip your Powerburst of Vitality when the cooldown is at 5 seconds left on Preparation. Using Vitality $vitality **and** having the HP needed is recommended, because if you fail the entry hit due to timing your $vitality poorly, the team will most likely wait until its CD wears off, resulting in a waste of aura time.
+The entry hit is the first difference with Normal Mode: each player gets hit 90% of their total HP on dropdown, instead of the 70% seen in Normal Mode.
 
 • Font of Life (Archaeology Relic) is helpful to get extra HP
 • Using the Thermal effect from Oo'glog is also helpful
@@ -89,7 +87,7 @@ __Differences with Normal Mode:__
 
 Warnings: **This is the most important change in Hard Mode** $warning Warning messages do not appear in Hard Mode, which means that Reflect $link will not be announced, and thus it is easy to PK on accident if you do not know when the respective mechanic happens. Make sure you memorize all the Reflect timings for all the weekly special mechanics to avoid these issues. The only "warning" that appears is on The End (Phase 8) with the Purple Bomb $purple timer.
 
-• Entry hit: Total damage is increased from `50,000` to `70,000` and the player cap from `12,500` to `14,000`
+• Entry hit: Total damage is increased from `70%` to `90%` of the player's HP
 • Reflects: Players who attack during a Reflect $link will deal damage to both themselves and the linked players
 • Blue bombs: Up to 2 bombs $blue are fired at the same time instead of only one
 • Red bombs: Damage increased by 50%
