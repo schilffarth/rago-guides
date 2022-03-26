@@ -67,7 +67,7 @@ __Base Tank:__
 • Resonance :Resonance: the Blue Bomb :bluebomb: that is fired as the third Bleed is applied on your Bomb Tank
 • Get back into melee distance and voke :Provoke: Vorago back after the fifth Bleed is applied
 
-The Base Tank should be *cade cepting* the first and third Red Bomb :redbomb: during phase 2 (reference: #cade-cept)
+The Base Tank should be *cade cepting* the first Red Bomb :redbomb: during phase 2 (reference: #cade-cept)
 
 _ _
 __Bomb Tank:__
@@ -75,17 +75,15 @@ __Bomb Tank:__
 • Provoke :Provoke: after second Bleed :Dismember: 
 • Vorago will apply another 3 Bleeds onto the Bomb Tank, follow the instructions in #clearing-bleeds
 
-The Bomb Tank should be *cade cepting* the second Red Bomb :redbomb: during phase 2 (reference: #cade-cept)
-
 _ _
 __Bring Him Down:__
 
 #mechanics reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235595401756773
 
 • Each Reflect :reflect:, Gravity Fields :gravityorb: spawn across the arena, which have to be activated / clicked
-• Utilize Bladed Dive :BladedDive: to catch the fourth Gravity Field
+• Utilize Bladed Dive :BladedDive: to catch the second Gravity Field
 • As the last Gravity Field is applied, spam click Vorago to continue the mechanic **Bring Him Down**
-• To pass the damage check, do as much damage as you can with Thresholds and Basics
+• To pass the `50,000` damage check, do as much damage as you can with Thresholds and Basics
 • The second maul piece (b) :maulpieceb: will appear on the ground after passing BHD (reference: #maul)
 • Kill Vorago and welcome to phase 3!
 
