@@ -61,7 +61,7 @@ Bring Him Down :Vorago~2: reference: https://discordapp.com/channels/67098376017
 
 __Base Tank:__
 
-• Position south of the L-Rock, to make Vorago move into phase 2 center automatically as the first Bleed $bleed: is applied (reference: #recenter)
+• Position south of the L-Rock, to make Vorago move into phase 2 center automatically as the first Bleed $bleed is applied (reference: #recenter)
 • Freedom :Freedom: the first Bleed (reference: #clearing-bleeds)
 • Escape :Escape: the second Bleed 
 • Resonance :Resonance: the Blue Bomb $blue that is fired as the third Bleed is applied on your Bomb Tank
@@ -72,7 +72,7 @@ The Base Tank should be *cade cepting* the first and third Red Bomb $red during 
 _ _
 __Bomb Tank:__
 
-• Provoke $voke after second Bleed $bleed: 
+• Provoke $voke after second Bleed $bleed 
 • Vorago will apply another 3 Bleeds onto the Bomb Tank, follow the instructions in #clearing-bleeds
 
 The Bomb Tank should be *cade cepting* the second Red Bomb $red during phase 2 (reference: #cade-cept)
@@ -151,7 +151,7 @@ Maul pieces :maul: can be stuck beneath dropped rocks :ceiling:. To retrieve the
 • Bomb Tank Devotion $devo the first Blue Bomb after each Stone Clone :vitalis: 
 • At the Ceilings :ceiling: special attack Bomb Tank *cade cept* $cade $cept (reference: #cade-cept)
 • Both players clear as many rocks as possible (right click => "destroy")
-• Clear Bleeds $bleed: (reference: #clearing-bleeds)
+• Clear Bleeds $bleed (reference: #clearing-bleeds)
 • Off for Reflect $link
 
 _ _
@@ -197,7 +197,7 @@ As the "special attack", Vorago will instead launch a Red Bomb $red in phase 4.
 • Bomb Tank Resonance :Resonance: the first or second Blue Bomb $blue after each Waterfall :waterfall: 
 • Bomb Tank Devotion $devo the first Blue Bomb after each Stone Clone :vitalis: 
 • Bomb Tank force the Red Bomb on the Base Tank and *cade cept* $cade $cept (reference: #cade-cept)
-• Clear Bleeds $bleed: (reference: #clearing-bleeds)
+• Clear Bleeds $bleed (reference: #clearing-bleeds)
 • Off for Reflect $link
 
 _ _
@@ -230,13 +230,13 @@ __Phase 3:__
 • Base Tank Ultimate $link $swiftness $sunshine 
 • Start of Reflect $link Base Tank *devo cept* $devo :Intercept~1: (reference: #cade-cept)
 • After Reflect Bomb Tank *devo cept*
-• Base must Provoke $voke before Bleeds $bleed: 
+• Base must Provoke $voke before Bleeds $bleed 
 • Bomb Tank *cade cept* $cade $cept Bleeds 1 - 4
 • Base Tank Freedom :Freedom: the fourth Bleed
 • Bomb Tank Provoke and Freedom last Bleed
 • If Malletops :Malletops: are unlocked the Bomb Tank can *cade cept* all 5 Bleeds by refreshing Intercept :Intercept~1: 
 
-Alternatively you can skip Barricade $cade and focus on dealing enough damage to skip Bleeds $bleed:. This is only recommended if you are consistently dealing enough damage to at least skip the third Bleed.
+Alternatively you can skip Barricade $cade and focus on dealing enough damage to skip Bleeds $bleed. This is only recommended if you are consistently dealing enough damage to at least skip the third Bleed.
 
 _ _
 __Phase 4:__
@@ -248,10 +248,10 @@ __Phase 4:__
 • Place Dominion Mines :mine: at the correct location as the Vitalis orb is launched
 • Bomb Tank *cade cept* $cade $cept for the Vitalis orb
 • Prioritize killing all spawned Vitali :vitalis:
-• Clear Bleeds $bleed: (reference: #clearing-bleeds)
+• Clear Bleeds $bleed (reference: #clearing-bleeds)
 • Off for Reflect $link
 
-The Bomb Tank should walk away from Vorago :Vorago~2: sideways as the fourth Bleed $bleed: is applied and Surge $surge instead of Escape :Escape: in order to avoid getting stuck in front of a Vitalis :vitalis:.
+The Bomb Tank should walk away from Vorago :Vorago~2: sideways as the fourth Bleed $bleed is applied and Surge $surge instead of Escape :Escape: in order to avoid getting stuck in front of a Vitalis :vitalis:.
 
 _ _
 __Phase 5:__
@@ -264,7 +264,7 @@ As described in the #vitalis mechanic channel, Vitali :vitalis: occasionally for
 • Base Tank should keep attacking and stalling Vorago until Reflect $link 
 • Bomb Tank prioritizes killing all spawned Vitali :vitalis: 
 • Finish killing all Vitali during Reflect (watch out for randomly caused target switching)
-• Clear Bleeds $bleed: 
+• Clear Bleeds $bleed 
 • Switch roles after Bleeds and repeat with the Bomb Tank using their Ultimate and the Base Tank *cade cepting* the Vitalis orb
 • Repeat until Maul :maul: (reference: #maul)
 
@@ -297,7 +297,7 @@ __Phase 4:__
 • Bomb Tank Resonance :Resonance: the first or second Blue Bomb $blue after each Waterfall :waterfall: 
 • Bomb Tank Devotion $devo the first Blue Bomb after each Stone Clone :vitalis: 
 • Whoever does not receive the Green Bomb :GreenBomb~1: *cade cept* $cade $cept 
-• Clear Bleeds $bleed: (reference: #clearing-bleeds)
+• Clear Bleeds $bleed (reference: #clearing-bleeds)
 • Off for Reflect $link
 
 _ _
@@ -308,7 +308,7 @@ __Phase 5:__
 • Whoever receives the Green Bomb :greenbomb: steps closer to Vorago to not receive any more Blue Bombs $blue and tank the 10,000 typeless Green Bomb explosion
 • Whoever does not get the Green Bomb :greenbomb: steps farther away from Vorago to force all Blue Bombs $blue on them
 • Off for Reflect $link 
-• Clear Bleeds $bleed:
+• Clear Bleeds $bleed
 • Bomb Tank Barricade $cade the first Blue Bomb after Bleeds
 • Repeat until Maul :maul: (reference: #maul)
 
@@ -392,7 +392,7 @@ __Phase 5:__
 • Bomb Tank Intercept :Intercept~1: the Base Tank at Reflect $link 
 • Both players step in melee distance to Vorago (stepping MD gives Vorago a chance to use Swipes :swipe: instead of Blue Bombs which have a higher probability to be caught inside your Barricade)
 • As Barricade $cade runs out use Shield Dome :shielddome: 
-• Clear Bleeds $bleed: (reference: #clearing-bleeds)
+• Clear Bleeds $bleed (reference: #clearing-bleeds)
 • Base Tank *disrupt* the first and Barricade the second Blue Bomb
 • Threshold until Maul :maul: (reference: #maul)
 
