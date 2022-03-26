@@ -13,13 +13,8 @@ The following steps are only required if you have never been to Vorago before an
 
 __Challenging Vorago:__
 
-• Joining a fight at Vorago will start with every team member taking variable typeless damage up to `12,500` each player
-• Boost your life points above `12,500` in order to pass the entry hit (T90 shield, bonfire $bonfire and eat a Rocktail Soup $soup)
-• The Powerburst of Vitality $vitality can be utilised shortly before the entry hit (drink it ~ 15 seconds after challenging)
-
-.
-https://imgur.com/6UlUcjB
-.
+• Joining a fight at Vorago will start with every team member getting hit 70% of their HP 12 seconds after the initial challenge
+* Powerburst of Vitality $vitality does not work for decreasing the entry hit
 
 __Presets:__
 
@@ -50,7 +45,7 @@ https://imgur.com/a/GJ4Rctt
 Every phase has unique mechanics and conditions to defeat Vorago. In phases 2 and 4 the life points will keep resetting to `75,000` until specific mechanics have been passed.
 
 • $maulpiecea Phase 1: Vorago can be killed once the Top Lure jumps (reference: #climbing)
-• $maulpieceb Phase 2: Four gravity orbs $gravity must be tagged to proceed with Bring Him Down, after which Vorago can be killed
+• $maulpieceb Phase 2: Two gravity orbs $gravity must be tagged to proceed with Bring Him Down, after which Vorago can be killed
 • $blue Phase 3: Vorago dies once reaching `0` life points
 • $red Phase 4: Three waterfalls $waterfall have to be passed
 • $maul Phase 5: Vorago has to be pushed to the east and can then be defeated by using the Maul of Omens (reference: #maul)
@@ -83,7 +78,7 @@ $bleed 5 Bleeds ➔ $auto 3 auto attacks ➔ $link Reflect ➔ $auto 3 auto atta
 • If a bleed is not cleared before another is applied, the player will take `6,000` typeless damage
 • $link Reflect: Vorago links to a random player for **9.6** seconds, channeling all incoming damage towards them. Stop attacking during reflects
 
-The Base, Bomb Tank and TL5 deal with bleeds $bleed and Reds $red until the 4th Gravity Field $gravity is activated. At this point, Vorago progresses with the Bring Him Down mechanic (reference: #overview). Spam-click Vorago and deal damage with 1 - 2 thresholds until the fight phases.
+The Base, Bomb Tank and TL5 deal with bleeds $bleed and Reds $red until the second Gravity Field $gravity is activated. At this point, Vorago progresses with the Bring Him Down mechanic (reference: #overview). Spam-click Vorago and deal damage with 1 - 2 thresholds until the fight phases.
 
 If you happen to receive a Bleed $bleed, simply use Freedom $freedom to clear it. To read an in-depth explanation, refer to #clearing-bleeds.
 
