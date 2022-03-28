@@ -56,7 +56,7 @@ Climbing reference: #climbing
 
 > __**Phase 2**__
 
-Reflect $reflect  reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235485754261544
+Reflect $link  reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235485754261544
 Gravity Field $gravity reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235525743018046
 Bring Him Down $vorago reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235595401756773
 
@@ -226,7 +226,7 @@ __Phase 3:__
 • Stay next to each other in melee distance to Vorago
 • **Both players must camp melee $deflectmelee and flick to magic $deflectmagic pray for every Blue Bomb** $blue
 • Base Tank Ultimate $zerk $swiftness $sunshine 
-• Start of Reflect $reflect Base Tank *devo cept* $devo $cept (reference: #cade-cept)
+• Start of Reflect $link Base Tank *devo cept* $devo $cept (reference: #cade-cept)
 • After Reflect Bomb Tank *devo cept*
 • Base must Provoke $voke before Bleeds $bleed 
 • Bomb Tank *cade cept* $cade $cept Bleeds 1 - 4
@@ -259,7 +259,7 @@ As described in the #vitalis mechanic channel, Vitali $vitalis occasionally forc
 • Place Dominion Mines $mines start of phase (place them again whenever they are ready)
 • Base Tank Ultimate $zerk $swiftness $sunshine 
 • Bomb Tank *cade cept* $cade $cept the Vitalis orb
-• Base Tank should keep attacking and stalling Vorago until Reflect $reflect 
+• Base Tank should keep attacking and stalling Vorago until Reflect $link
 • Bomb Tank prioritizes killing all spawned Vitali $vitalis 
 • Finish killing all Vitali during Reflect (watch out for randomly caused target switching)
 • Clear Bleeds $bleed 
@@ -399,7 +399,7 @@ __Phase 5:__
 
 • $pin **Intro** https://discordapp.com/channels/670983760178839572/744505794682290217/749739700474085488
 • $maulpiecea **Phase 1** https://discordapp.com/channels/670983760178839572/744505794682290217/749740026937737226
-• $reflect **Phase 2** https://discordapp.com/channels/670983760178839572/744505794682290217/749743338923753553
+• $link **Phase 2** https://discordapp.com/channels/670983760178839572/744505794682290217/749743338923753553
 • $repeat **Weekly Rotations** https://discordapp.com/channels/670983760178839572/744505794682290217/749745242076348468
 • $ceil **Ceilings** https://discordapp.com/channels/670983760178839572/744505794682290217/749746564838326362
 • $scop **Scopulus** https://discordapp.com/channels/670983760178839572/744505794682290217/749746659273080904
