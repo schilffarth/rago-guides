@@ -4,9 +4,7 @@
 If you have never been to Vorago before, check out our #basic-guide.
 
 • Challenging Vorago will open a chat prompt for all players located in the starting area, asking to join the fight
-• **20 seconds** after Vorago is challenged, your team will be hit `50,000` typeless damage (`70,000` in Hard Mode)
-• The entry hit is split between all players that joined the challenge, capped at `12,500` each player (`14,000` in Hard Mode)
-• Challenging in Normal Mode with 5 players results in everyone taking `10,000` damage
+• **12 seconds** after Vorago is challenged, each player will be hit `70%` of their total HP by typeless damage (`90%` in Hard Mode)
 
 .
 https://imgur.com/6UlUcjB
@@ -94,7 +92,7 @@ __Gravity Fields:__
 • Each orb spawns randomly in one of the 9 square grids in the arena
 • Every Gravity Field progresses towards destabilizing Vorago in order to break off the second maul piece (b) $maulpieceb (reference: #maul)
 • Vorago must be kept in range to Gravity Fields or they can not be activated (reference: #recenter)
-• **4 orbs must be tagged** to enter the mechanic **Bring Him Down** (abbreviation: BHD)
+• **2 orbs must be tagged** to enter the mechanic **Bring Him Down** (abbreviation: BHD)
 
 .
 __Bring Him Down:__
