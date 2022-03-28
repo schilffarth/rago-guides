@@ -15,15 +15,15 @@ This guide focuses on **duo** Normal Mode Vorago only. If you are looking for ot
 • :teamsplit: **Team Split** https://discordapp.com/channels/670983760178839572/744505794682290217/749746788482809876
 • :purplebomb: **The End** https://discordapp.com/channels/670983760178839572/744505794682290217/749746810456899648
 
-_ _
 
+.
 > __**Phase 1**__
 
 __Base Tank:__
 
 Arena reference: https://cdn.discordapp.com/attachments/676485011268042761/749740415917359114/area_v1.png
 
-_ _
+.
 • Stay close to the northern wall, **not too far to the east** - If standing too far to the east, you will receive a lot of Blue Bombs :bluebomb:
 • Standing on these spots accordingly ensures that the Base Tank does not receive any Blue Bombs:
     - Green circle if tagging without Target Cycle
@@ -34,7 +34,7 @@ _ _
 
 South voking and the explained positioning can be simplified by learning the advanced strategy of solo luring: #solo-lure
 
-_ _
+.
 __Bomb Tank:__
 
 In duo, the responsibilities of the TL5 are merged into the Bomb Tank role. The Bomb Tank has to climb and perform the Top Lure in phase 1.
@@ -51,7 +51,7 @@ Climbing reference: #climbing
 • Jump once Vorago has low HP
 • You require one free inventory space to acquire the ancient maul piece (a) :maulpiecea: (reference: #maul)
 
-_ _
+.
 
 > __**Phase 2**__
 
@@ -69,13 +69,13 @@ __Base Tank:__
 
 The Base Tank should be *cade cepting* the first Red Bomb :redbomb: during phase 2 (reference: #cade-cept)
 
-_ _
+.
 __Bomb Tank:__
 
 • Provoke :Provoke: after second Bleed :Dismember: 
 • Vorago will apply another 3 Bleeds onto the Bomb Tank, follow the instructions in #clearing-bleeds
 
-_ _
+.
 __Bring Him Down:__
 
 #mechanics reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235595401756773
@@ -87,7 +87,7 @@ __Bring Him Down:__
 • The second maul piece (b) :maulpieceb: will appear on the ground after passing BHD (reference: #maul)
 • Kill Vorago and welcome to phase 3!
 
-_ _
+.
 
 > __**Weekly rotations**__
 
@@ -117,7 +117,7 @@ Every Wednesday at 00:00 GT (in-game reset), the weekly special rotation changes
     - Duo strategies: https://discordapp.com/channels/670983760178839572/744505794682290217/749746810456899648
     - Mechanic breakdown: #the-end
 
-_ _
+.
 
 > __**Ceilings**__
 
@@ -127,7 +127,7 @@ Mechanic breakdown: #ceilings
 • :waterfall: **Phase 4** https://discordapp.com/channels/670983760178839572/744505794682290217/749746610736726128
 • :maul: **Phase 5** https://discordapp.com/channels/670983760178839572/744505794682290217/749746617954992259
 
-_ _
+.
 __Phase 3:__
 
 This phase is FFA-Bomb Tank. Depending on where Vorago jumps to, you will be separated from your partner and anyone can receive blue bombs.
@@ -139,7 +139,7 @@ This phase is FFA-Bomb Tank. Depending on where Vorago jumps to, you will be sep
 
 Other than that, avoid getting hit by the rocks :ceiling:, and if the phase takes super long, consider *cade cepting* :Barricade~1: :cept: to clear the rocks.
 
-_ _
+.
 __Phase 4:__
 
 Maul pieces :maul: can be stuck beneath dropped rocks :ceiling:. To retrieve the Maul pieces, you have to destroy them.
@@ -152,14 +152,13 @@ Maul pieces :maul: can be stuck beneath dropped rocks :ceiling:. To retrieve the
 • Clear Bleeds :Dismember: (reference: #clearing-bleeds)
 • Off for Reflect :reflect:
 
-_ _
+.
 __Phase 5:__
 
 Ceilings :ceiling: phase 5 shares the same mechanic and strategies with #team-split :teamsplit: 
 Duo strategy: https://discordapp.com/channels/670983760178839572/744505794682290217/749746803380977766
 
-_ _
-
+.
 > __**Scopulus**__
 
 Mechanic breakdown: #scopulus 
@@ -170,7 +169,7 @@ Mechanic breakdown: #scopulus
 
 Arena reference: https://cdn.discordapp.com/attachments/676485011268042761/747035088776200313/scop_nm.png
 
-_ _
+.
 __Phase 3:__
 
 Ice Nihils :NihilPouch: will cause Scopuli :Scopulus~1: to randomly change their target!
@@ -186,7 +185,7 @@ Ice Nihils :NihilPouch: will cause Scopuli :Scopulus~1: to randomly change their
 
 Example POV for melee Base Tank: https://youtu.be/mbSZZITm5qg
 
-_ _
+.
 __Phase 4:__
 
 As the "special attack", Vorago will instead launch a Red Bomb :redbomb: in phase 4.
@@ -198,14 +197,14 @@ As the "special attack", Vorago will instead launch a Red Bomb :redbomb: in phas
 • Clear Bleeds :Dismember: (reference: #clearing-bleeds)
 • Off for Reflect :reflect:
 
-_ _
+.
 __Phase 5:__
 
 Scopulus :Scopulus~1: phase 5 shares the same mechanic and strategies with #the-end :purplebomb:
 Duo strategy: https://discordapp.com/channels/670983760178839572/744505794682290217/749746849736294401
 
-_ _
 
+.
 > __**Vitalis**__
 
 **Vitalis is by far the most difficult rotation and is only recommended for those already experienced in duo Vorago.**
@@ -220,7 +219,7 @@ Mechanic breakdown: #vitalis
 
 Arena reference: soon:tm:
 
-_ _
+.
 __Phase 3:__
 
 • Stay next to each other in melee distance to Vorago
@@ -236,7 +235,7 @@ __Phase 3:__
 
 Alternatively you can skip Barricade :Barricade~1: and focus on dealing enough damage to skip Bleeds :Dismember:. This is only recommended if you are consistently dealing enough damage to at least skip the third Bleed.
 
-_ _
+.
 __Phase 4:__
 
 • Base Tank Provoke :Provoke: the whole phase
@@ -251,7 +250,7 @@ __Phase 4:__
 
 The Bomb Tank should walk away from Vorago :Vorago~2: sideways as the fourth Bleed :Dismember: is applied and Surge :Surge: instead of Escape :Escape: in order to avoid getting stuck in front of a Vitalis :vitalis:.
 
-_ _
+.
 __Phase 5:__
 
 As described in the #vitalis mechanic channel, Vitali :vitalis: occasionally force your active target to switch back to Vorago. This can cause deadly PKs. Be careful your target stays on the Vitalis.
@@ -266,7 +265,7 @@ As described in the #vitalis mechanic channel, Vitali :vitalis: occasionally for
 • Switch roles after Bleeds and repeat with the Bomb Tank using their Ultimate and the Base Tank *cade cepting* the Vitalis orb
 • Repeat until Maul :maul: (reference: #maul)
 
-_ _
+.
 
 > __**Green Bomb**__
 
@@ -276,7 +275,7 @@ Mechanic breakdown: #green-bomb
 • :waterfall: **Phase 4** https://discordapp.com/channels/670983760178839572/744505794682290217/749746745516228740
 • :maul: **Phase 5** https://discordapp.com/channels/670983760178839572/744505794682290217/749746751006572657
 
-_ _
+.
 __Phase 3:__
 
 • Bomb Tank Provoke :Provoke: the whole phase
@@ -289,7 +288,7 @@ __Phase 3:__
 • Reprisal :Reprisal: can be utilised for the second Green Bomb
 • If more than two Green Bombs are expected to hit, make use of Intercept :cept: combined with Barricade :Barricade~1: or Immortality :Immortality: (reference: #cade-cept)
 
-_ _
+.
 __Phase 4:__
 
 • Base Tank Provoke :Provoke: the whole phase
@@ -299,7 +298,7 @@ __Phase 4:__
 • Clear Bleeds :Dismember: (reference: #clearing-bleeds)
 • Off for Reflect :reflect:
 
-_ _
+.
 __Phase 5:__
 
 • Both players Ultimate :Berserk: :DeathsSwiftness: :Sunshine~1: 
@@ -311,8 +310,7 @@ __Phase 5:__
 • Bomb Tank Barricade :Barricade~1: the first Blue Bomb after Bleeds
 • Repeat until Maul :maul: (reference: #maul)
 
-_ _
-
+.
 > __**Team Split**__
 
 Mechanic breakdown: #team-split 
@@ -321,7 +319,7 @@ Mechanic breakdown: #team-split
 • :waterfall: **Phase 4** https://discordapp.com/channels/670983760178839572/744505794682290217/749746798117257326
 • :maul: **Phase 5** https://discordapp.com/channels/670983760178839572/744505794682290217/749746803380977766
 
-_ _
+.
 __Phase 3:__
 
 • Step into your respective color for each Team Split :teamsplit:
@@ -330,7 +328,7 @@ __Phase 3:__
 • Off for Reflect :reflect:
 • At Red Bomb :redbomb: launch Base Tank steps out of melee distance and *devo cept* :Devotion: :cept:
 
-_ _
+.
 __Phase 4:__
 
 • Base Tank Provoke :Provoke: the whole phase
@@ -340,7 +338,7 @@ __Phase 4:__
 • Clear Bleeds :Dismember: (reference: #clearing-bleeds)
 • Off for Reflect :reflect:
 
-_ _
+.
 __Phase 5:__
 
 • Base Tank Ultimate :Berserk: :Sunshine~1: :DeathsSwiftness:
@@ -352,8 +350,8 @@ __Phase 5:__
 • Switch roles after Bleeds and repeat with the Bomb Tank using their Ultimate :DeathsSwiftness: :Sunshine~1: and the Base Tank following the same procedure as the Bomb Tank after Team Split :teamsplit:
 • Repeat until Maul :maul: (reference: #maul)
 
-_ _
 
+.
 > __**The End**__
 
 Mechanic breakdown: #the-end 
@@ -362,7 +360,7 @@ Mechanic breakdown: #the-end
 • :waterfall: **Phase 4** https://discordapp.com/channels/670983760178839572/744505794682290217/749746842090340354
 • :maul: **Phase 5** https://discordapp.com/channels/670983760178839572/744505794682290217/749746849736294401
 
-_ _
+.
 __Phase 3:__
 
 • Base Tank *devo cept* :Devotion: :cept: the quadrant with Blue Bombs :bluebomb: 
@@ -372,7 +370,7 @@ __Phase 3:__
 • Off for Reflect :reflect:
 • If a second stand up is possibly happening, switch roles (Bomb Tank *devo cepts* and Base Tank tags all Blue Bombs)
 
-_ _
+.
 __Phase 4:__
 
 • Bomb Tank *cade cept* :Barricade~1: :cept: (reference: #cade-cept) the quadrant with Red Bombs :redbomb: (Barricade can be replaced with *healing* :heal: the Base Tank to full HP)
@@ -380,7 +378,7 @@ __Phase 4:__
 • Base Tank *cade cept* the first Auto Attack / Blue Bomb :bluebomb: after Stand Up
 • Base Tank *devo cept* :Devotion: :cept: after the Red Bomb launch
 
-_ _
+.
 __Phase 5:__
 
 • Both players *disrupt* :disrupt: end of phase 4
@@ -395,8 +393,8 @@ __Phase 5:__
 • Base Tank *disrupt* the first and Barricade the second Blue Bomb
 • Threshold until Maul :maul: (reference: #maul)
 
-_ _
 
+.
 > __**Index**__
 
 • :pushpin: **Intro** https://discordapp.com/channels/670983760178839572/744505794682290217/749739700474085488
