@@ -4,6 +4,7 @@ Guide written by Serene, <@164133228989513728> and <@316175818458136588>.
 
 This guide focuses on **duo** Normal Mode Vorago only. If you are looking for other team sizes, Hard Mode or advanced guides refer back to the #📌guide-index index channel. If you are interested in the basic mechanics that Vorago features, check out the #mechanics channel. The guide is split into two roles: Base Tank and Bomb Tank. Every section provides step-by-step instructions for both roles.
 
+
 .
 > __**Phase 1**__
 
@@ -70,7 +71,7 @@ __Bring Him Down:__
 #mechanics reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235595401756773
 
 • Each Reflect $link, Gravity Fields $gravity spawn across the arena, which have to be activated / clicked
-• Utilize Bladed Dive $bd to catch the fourth Gravity Field
+• Utilize Bladed Dive $bd to catch the second Gravity Field
 • As the last Gravity Field is applied, spam click Vorago to continue the mechanic **Bring Him Down**
 • To pass the damage check, do as much damage as you can with Thresholds and Basics
 • The second maul piece (b) $maulpieceb will appear on the ground after passing BHD (reference: #maul)
@@ -280,7 +281,7 @@ __Phase 3:__
 __Phase 4:__
 
 • Base Tank Provoke $voke the whole phase
-• Bomb Tank Resonance $resonance the first or second Blue Bomb $blue after each Waterfall :waterfall: 
+• Bomb Tank Resonance $resonance the first or second Blue Bomb $blue after each Waterfall $waterfall
 • Bomb Tank Devotion $devo the first Blue Bomb after each Stone Clone $vitalis
 • Whoever does not receive the Green Bomb $green *cade cept* $cade $cept 
 • Clear Bleeds $bleed (reference: #clearing-bleeds)
@@ -353,10 +354,11 @@ __Phase 3:__
 
 • Base Tank *devo cept* $devo $cept the quadrant with Blue Bombs $blue 
 • Bomb Tank tags all Blue Bombs 
-• Both players tag 1-2 Red Bombs $red each
-• Ultimate $link $swiftness $sunshine between the two last quadrants
+• Ultimate $zerk $swiftness $sunshine between the two last quadrants
 • Off for Reflect $link
 • If a second stand up is possibly happening, switch roles (Bomb Tank *devo cepts* and Base Tank tags all Blue Bombs)
+
+• Recommended strategy: Don't tag Bombs and be ready to use your Powerburst of Vitality $vitality once Vorago stands up
 
 .
 __Phase 4:__
