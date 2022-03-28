@@ -83,7 +83,7 @@ __Bring Him Down:__
 • Each Reflect :reflect:, Gravity Fields :gravityorb: spawn across the arena, which have to be activated / clicked
 • Utilize Bladed Dive :BladedDive: to catch the second Gravity Field
 • As the last Gravity Field is applied, spam click Vorago to continue the mechanic **Bring Him Down**
-• To pass the `50,000` damage check, do as much damage as you can with Thresholds and Basics
+• To pass the damage check, do as much damage as you can with Thresholds and Basics
 • The second maul piece (b) :maulpieceb: will appear on the ground after passing BHD (reference: #maul)
 • Kill Vorago and welcome to phase 3!
 

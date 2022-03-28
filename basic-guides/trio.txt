@@ -18,7 +18,7 @@ $maulpiecea Climbing reference: #climbing.
 
 The only difference between Phase 1 in Trios compared to 4 man teams is that the TL5 will receive Blue Bombs $blue during the climb, since the Base Tank initially lures Vorago to the North-West rather than the North-East. This allows the Bomb Tank to focus on dealing damage.
 
-• Use Excalibur $excal on dropdown
+• Use Excalibur $excal before entry hit
 • Eat to `8,000` HP since you’re getting Blues $blue
 • The faster you are, the less damage you take
 • Provoke $voke from the appropriate spot when you have reached the final platform
