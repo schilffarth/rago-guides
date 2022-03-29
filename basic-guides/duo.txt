@@ -1,17 +1,21 @@
 Guide written by Serene, <@164133228989513728> and <@316175818458136588>.
 
+.Introduction
 > __**Duo Normal Mode**__
 
 This guide focuses on **duo** Normal Mode Vorago only. If you are interested in the basic mechanics that Vorago features, check out the #overview channel. The guide is split into two roles: Base Tank and Bomb Tank. Every section provides step-by-step instructions for both roles.
 
-.
+.Phase 1
 > __**Phase 1**__
 
 __Base Tank:__
 
-Arena reference: https://cdn.discordapp.com/attachments/676485011268042761/749740415917359114/area_v1.png
+Arena reference:
 
 .
+https://cdn.discordapp.com/attachments/676485011268042761/749740415917359114/area_v1.png
+.
+
 • Stay close to the northern wall, **not too far to the east** - If standing too far to the east, you will receive a lot of Blue Bombs $blue
 • Standing on these spots accordingly ensures that the Base Tank does not receive any Blue Bombs:
     - Green circle if tagging without Target Cycle
@@ -24,10 +28,8 @@ South voking and the explained positioning can be simplified by learning the adv
 
 .
 __Bomb Tank:__
-
 	
 In duo, the responsibilities of the TL5 are merged into the Bomb Tank role. The Bomb Tank has to climb and perform the Top Lure in phase 1.
-
 Climbing reference: #climbing 
 
 • Activate Excalibur $excal
@@ -40,13 +42,8 @@ Climbing reference: #climbing
 • Jump once Vorago has low HP
 • You require one free inventory space to acquire the ancient maul piece (a) $maulpiecea (reference: #maul)
 
-.
-
+.Phase 2
 > __**Phase 2**__
-
-Reflect $link  reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235485754261544
-Gravity Field $gravity reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235525743018046
-Bring Him Down $vorago reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235595401756773
 
 __Base Tank:__
 
@@ -76,54 +73,24 @@ __Bring Him Down:__
 • The second maul piece (b) $maulpieceb will appear on the ground after passing BHD (reference: #maul)
 • Kill Vorago and welcome to phase 3!
 
-.
-
-> __**Weekly rotations**__
+.Weekly specials
+> __**Weekly specials**__
 
 Every Wednesday at 00:00 GT (in-game reset), the weekly special rotation changes for Vorago. There is a total of 6 rotations: Ceilings $ceil, Scopulus $scop, Vitalis $vitalis, Green Bomb $green, Team Split $ts and The End $purple. Each of these rotations will affect the mechanics in phases 3, 4 and 5.
 
-• $ceil **Ceilings**
-    - Duo strategies: https://discordapp.com/channels/670983760178839572/744505794682290217/749746564838326362
-    - Mechanic breakdown: #ceilings 
-
-• $scop **Scopulus**
-    - Duo strategies: https://discordapp.com/channels/670983760178839572/744505794682290217/749746659273080904
-    - Mechanic breakdown: #scopulus  
-
-• $vitalis **Vitalis**
-    - Duo strategies: https://discordapp.com/channels/670983760178839572/744505794682290217/749746696837267587
-    - Mechanic breakdown: #vitalis 
-
-• $green **Green Bomb**
-    - Duo strategies: https://discordapp.com/channels/670983760178839572/744505794682290217/749746736389554256
-    - Mechanic breakdown: #green-bomb 
-
-• $ts **Team Split**
-    - Duo strategies: https://discordapp.com/channels/670983760178839572/744505794682290217/749746788482809876
-    - Mechanic breakdown: #team-split 
-
-• $purple **The End**
-    - Duo strategies: https://discordapp.com/channels/670983760178839572/744505794682290217/749746810456899648
-    - Mechanic breakdown: #the-end
-
-.
-
+.Ceilings
 > __**Ceilings**__
 
-Mechanic breakdown: #ceilings 
+$ceil Mechanic breakdown: #ceilings 
 
-• $ceil **Phase 3** https://discordapp.com/channels/670983760178839572/744505794682290217/749746603677712474
-• $waterfall **Phase 4** https://discordapp.com/channels/670983760178839572/744505794682290217/749746610736726128
-• $maul **Phase 5** https://discordapp.com/channels/670983760178839572/744505794682290217/749746617954992259
-
-.
 __Phase 3:__
 
 This phase is FFA-Bomb Tank. Depending on where Vorago jumps to, you will be separated from your partner and anyone can receive blue bombs.
+For this reason, whoever is the furthest from Vorago will be the Bomb Tank. To define this distance, both players should try to reach their ultimates, and whoever is far will take bombs
 
 • Bomb Tank Provoke $voke the whole phase
 • Vorago jumps after second Auto Attack
-• At Reflect $link Bomb Tank *devo cept* $devo $cept
+• At Reflect $link Bomb Tank can use Resonance or Devotion
 • At Red Bomb $red launch Base Tank *devo cept*
 
 Other than that, avoid getting hit by the rocks $ceil.
@@ -147,35 +114,34 @@ __Phase 5:__
 Ceilings $ceil phase 5 shares the same mechanic and strategies with #team-split $ts 
 Duo strategy: https://discordapp.com/channels/670983760178839572/744505794682290217/749746803380977766
 
-.
+.Scopulus
 > __**Scopulus**__
 
-Mechanic breakdown: #scopulus 
+$scop Mechanic breakdown: #scopulus 
 
-• $scop **Phase 3** https://discordapp.com/channels/670983760178839572/744505794682290217/749746663735951440
-• $waterfall **Phase 4** https://discordapp.com/channels/670983760178839572/744505794682290217/749746669863698502
-• $maul **Phase 5** https://discordapp.com/channels/670983760178839572/744505794682290217/749746676243103766
-
-Arena reference: https://cdn.discordapp.com/attachments/676485011268042761/747035088776200313/scop_nm.png
+Arena reference:
 
 .
+https://cdn.discordapp.com/attachments/676485011268042761/747035088776200313/scop_nm.png
+.
+
 __Phase 3:__
 
-Ice Nihils $nihilice will cause Scopuli $scop to randomly change their target!
+Ice Nihils $nihilice will cause Scopuli $scop to randomly change their target! Avoid using them.
 
 • Scopuli target those closest to them
 • Scopuli target those dealing the most damage to them
 • Bomb Tank positions in the very South-West corner and Ultimate $sunshine $swiftness 
 • Base Tank positions at the marked green cross $greencross and Ultimate
 • Base Tank tags the western Scopulus first and then the eastern to make sure both attack them
-• If maging the Base Tank can tag the eastern Scopulus with a Dragon Breath $dbreath to easily lure them immediately (combined with Target Cycle this becomes even more powerful - reference: #target-cycle)
+• If maging the Base Tank can tag the eastern Scopulus with a Dragon Breath $dbreath to easily lure them immediately. Combined with Target Cycle this becomes even more powerful (reference: #target-cycle)
 • Both players Devotion $devo once the first Scopulus $scop is about to die
 • Whenever a Scopulus starts walking towards the Bomb Tank, the Base Tank has to Provoke $voke immediately
 
 Example POV for melee Base Tank: https://youtu.be/mbSZZITm5qg
-
 .
-__Phase 4:__
+
+__Phase4:__
 
 As the "special attack", Vorago will instead launch a Red Bomb $red in phase 4.
 
@@ -192,21 +158,13 @@ __Phase 5:__
 Scopulus $scop phase 5 shares the same mechanic and strategies with #the-end $purple
 Duo strategy: https://discordapp.com/channels/670983760178839572/744505794682290217/749746849736294401
 
-
-.
+.Vitalis
 > __**Vitalis**__
 
-**Vitalis is by far the most difficult rotation and is only recommended for those already experienced in duo Vorago.**
+$vitalis Mechanic breakdown: #vitalis 
 
-$mines Dominion Mines are highly recommended to bring for phases 4 and 5!
-
-Mechanic breakdown: #vitalis 
-
-• $vitalis **Phase 3** https://discordapp.com/channels/670983760178839572/744505794682290217/749746699496587336
-• $waterfall **Phase 4** https://discordapp.com/channels/670983760178839572/744505794682290217/749746705070555268
-• $maul **Phase 5** https://discordapp.com/channels/670983760178839572/744505794682290217/749746710850306068
-
-Arena reference: soon:tm:
+Vitalis is considered the hardest week to Duo. It is recommended that you have previous duo experience before attempting this week.
+$mines Dominion Mines are highly recommended to bring for phases 4 and 5.
 
 .
 __Phase 3:__
@@ -254,15 +212,10 @@ As described in the #vitalis mechanic channel, Vitali $vitalis occasionally forc
 • Switch roles after Bleeds and repeat with the Bomb Tank using their Ultimate and the Base Tank *cade cepting* the Vitalis orb
 • Repeat until Maul $maul (reference: #maul)
 
-.
-
+.Green bomb
 > __**Green Bomb**__
 
-Mechanic breakdown: #green-bomb 
-
-• $green **Phase 3** https://discordapp.com/channels/670983760178839572/744505794682290217/749746739015188481
-• $waterfall **Phase 4** https://discordapp.com/channels/670983760178839572/744505794682290217/749746745516228740
-• $maul **Phase 5** https://discordapp.com/channels/670983760178839572/744505794682290217/749746751006572657
+$green Mechanic breakdown: #green-bomb 
 
 .
 __Phase 3:__
@@ -298,14 +251,10 @@ __Phase 5:__
 • Bomb Tank Barricade $cade the first Blue Bomb after Bleeds
 • Repeat until Maul $maul (reference: #maul)
 
-.
+.Team Split
 > __**Team Split**__
 
 Mechanic breakdown: #team-split 
-
-• $ts **Phase 3** https://discordapp.com/channels/670983760178839572/744505794682290217/749746791951368344
-• $waterfall **Phase 4** https://discordapp.com/channels/670983760178839572/744505794682290217/749746798117257326
-• $maul **Phase 5** https://discordapp.com/channels/670983760178839572/744505794682290217/749746803380977766
 
 .
 __Phase 3:__
@@ -338,15 +287,10 @@ __Phase 5:__
 • Switch roles after Bleeds and repeat with the Bomb Tank using their Ultimate $swiftness $sunshine and the Base Tank following the same procedure as the Bomb Tank after Team Split $ts
 • Repeat until Maul $maul (reference: #maul)
 
-
-.
+.The End
 > __**The End**__
 
-Mechanic breakdown: #the-end 
-
-• $purple **Phase 3** https://discordapp.com/channels/670983760178839572/744505794682290217/749746834964217928
-• $waterfall **Phase 4** https://discordapp.com/channels/670983760178839572/744505794682290217/749746842090340354
-• $maul **Phase 5** https://discordapp.com/channels/670983760178839572/744505794682290217/749746849736294401
+$purple Mechanic breakdown: #the-end 
 
 .
 __Phase 3:__
@@ -382,17 +326,16 @@ __Phase 5:__
 • Base Tank *disrupt* the first and Barricade the second Blue Bomb
 • Threshold until Maul $maul (reference: #maul)
 
-
-.
+.index
 > __**Index**__
 
-• $pin **Intro** https://discordapp.com/channels/670983760178839572/744505794682290217/749739700474085488
-• $maulpiecea **Phase 1** https://discordapp.com/channels/670983760178839572/744505794682290217/749740026937737226
-• $link **Phase 2** https://discordapp.com/channels/670983760178839572/744505794682290217/749743338923753553
-• $repeat **Weekly Rotations** https://discordapp.com/channels/670983760178839572/744505794682290217/749745242076348468
-• $ceil **Ceilings** https://discordapp.com/channels/670983760178839572/744505794682290217/749746564838326362
-• $scop **Scopulus** https://discordapp.com/channels/670983760178839572/744505794682290217/749746659273080904
-• $vitalis **Vitalis** https://discordapp.com/channels/670983760178839572/744505794682290217/749746696837267587
-• $green **Green Bomb** https://discordapp.com/channels/670983760178839572/744505794682290217/749746736389554256
-• $ts **Team Split** https://discordapp.com/channels/670983760178839572/744505794682290217/749746788482809876
-• $purple **The End** https://discordapp.com/channels/670983760178839572/744505794682290217/749746810456899648
+• $pin **Introduction** {link:Introduction}
+• $maulpiecea **Phase 1** {link:Phase 1}
+• $link **Phase 2** {link:Phase 2}
+• $repeat **Weekly Rotations** {link:Weekly Rotations}
+• $ceil **Ceilings** {link:Ceilings}
+• $scop **Scopulus** {link:Scopulus}
+• $vitalis **Vitalis** {link:Vitalis}
+• $green **Green Bomb** {link:Green Bomb}
+• $ts **Team Split** {link:Team Split}
+• $purple **The End** {link:The End}
