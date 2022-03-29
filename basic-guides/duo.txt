@@ -74,7 +74,7 @@ __Bring Him Down:__
 • Kill Vorago and welcome to phase 3!
 
 .Weekly specials
-> __**Weekly specials**__
+> __**Weekly Specials**__
 
 Every Wednesday at 00:00 GT (in-game reset), the weekly special rotation changes for Vorago. There is a total of 6 rotations: Ceilings $ceil, Scopulus $scop, Vitalis $vitalis, Green Bomb $green, Team Split $ts and The End $purple. Each of these rotations will affect the mechanics in phases 3, 4 and 5.
 
