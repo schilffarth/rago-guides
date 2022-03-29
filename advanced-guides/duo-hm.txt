@@ -351,7 +351,7 @@ __Strategy:__
 __Starting Phase 10:__
 
 • As you drop into Phase 10, the Base Tank should pre-ultimate $sunshine $swiftness and apply SWH $swh on TC $tc
-• Both players Disruption Shield :disrupt: the first Blue Bomb after the first Team Split $ts
+• Both players Disruption Shield $disrupt the first Blue Bomb after the first Team Split $ts
 • The Bomb Tank starts with cade cepting $cade $cept for the second Blue Bomb (tank the first with disrupt)
 • During Reflect $link, both players move melee distance for the third auto attack $auto
 • After the second Team Split, both players use thresholds

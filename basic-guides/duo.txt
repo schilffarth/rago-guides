@@ -2,19 +2,7 @@ Guide written by Serene, <@164133228989513728> and <@316175818458136588>.
 
 > __**Duo Normal Mode**__
 
-This guide focuses on **duo** Normal Mode Vorago only. If you are looking for other team sizes, Hard Mode or advanced guides refer back to the #📌guide-index index channel. If you are interested in the basic mechanics that Vorago features, check out the #mechanics channel. The guide is split into two roles: Base Tank and Bomb Tank. Every section provides step-by-step instructions for both roles.
-
-• $pin **Intro** https://discordapp.com/channels/670983760178839572/744505794682290217/749739700474085488
-• $maulpiecea **Phase 1** https://discordapp.com/channels/670983760178839572/744505794682290217/749740026937737226
-• $reflect **Phase 2** https://discordapp.com/channels/670983760178839572/744505794682290217/749743338923753553
-• $repeat **Weekly Rotations** https://discordapp.com/channels/670983760178839572/744505794682290217/749745242076348468
-• $ceil **Ceilings** https://discordapp.com/channels/670983760178839572/744505794682290217/749746564838326362
-• $scop **Scopulus** https://discordapp.com/channels/670983760178839572/744505794682290217/749746659273080904
-• $vitalis **Vitalis** https://discordapp.com/channels/670983760178839572/744505794682290217/749746696837267587
-• $green **Green Bomb** https://discordapp.com/channels/670983760178839572/744505794682290217/749746736389554256
-• $ts **Team Split** https://discordapp.com/channels/670983760178839572/744505794682290217/749746788482809876
-• $purple **The End** https://discordapp.com/channels/670983760178839572/744505794682290217/749746810456899648
-
+This guide focuses on **duo** Normal Mode Vorago only. If you are interested in the basic mechanics that Vorago features, check out the #overview channel. The guide is split into two roles: Base Tank and Bomb Tank. Every section provides step-by-step instructions for both roles.
 
 .
 > __**Phase 1**__
@@ -56,7 +44,7 @@ Climbing reference: #climbing
 
 > __**Phase 2**__
 
-Reflect $reflect  reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235485754261544
+Reflect $link  reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235485754261544
 Gravity Field $gravity reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235525743018046
 Bring Him Down $vorago reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235595401756773
 
@@ -81,7 +69,7 @@ __Bring Him Down:__
 
 #mechanics reference: https://discordapp.com/channels/670983760178839572/736325239138418719/749235595401756773
 
-• Each Reflect $reflect, Gravity Fields $gravity spawn across the arena, which have to be activated / clicked
+• Each Reflect $link, Gravity Fields $gravity spawn across the arena, which have to be activated / clicked
 • Utilize Bladed Dive $bd to catch the second Gravity Field
 • As the last Gravity Field is applied, spam click Vorago to continue the mechanic **Bring Him Down**
 • To pass the damage check, do as much damage as you can with Thresholds and Basics
@@ -135,10 +123,10 @@ This phase is FFA-Bomb Tank. Depending on where Vorago jumps to, you will be sep
 
 • Bomb Tank Provoke $voke the whole phase
 • Vorago jumps after second Auto Attack
-• At Reflect $reflect Bomb Tank *devo cept* $devo $cept
+• At Reflect $link Bomb Tank *devo cept* $devo $cept
 • At Red Bomb $red launch Base Tank *devo cept*
 
-Other than that, avoid getting hit by the rocks $ceil, and if the phase takes super long, consider *cade cepting* $cade $cept to clear the rocks.
+Other than that, avoid getting hit by the rocks $ceil.
 
 .
 __Phase 4:__
@@ -151,7 +139,7 @@ Maul pieces $maul can be stuck beneath dropped rocks $ceil. To retrieve the Maul
 • At the Ceilings $ceil special attack Bomb Tank *cade cept* $cade $cept (reference: #cade-cept)
 • Both players clear as many rocks as possible (right click => "destroy")
 • Clear Bleeds $bleed (reference: #clearing-bleeds)
-• Off for Reflect $reflect
+• Off for Reflect $link
 
 .
 __Phase 5:__
@@ -196,7 +184,7 @@ As the "special attack", Vorago will instead launch a Red Bomb $red in phase 4.
 • Bomb Tank Devotion $devo the first Blue Bomb after each Stone Clone $vitalis 
 • Bomb Tank force the Red Bomb on the Base Tank and *cade cept* $cade $cept (reference: #cade-cept)
 • Clear Bleeds $bleed (reference: #clearing-bleeds)
-• Off for Reflect $reflect
+• Off for Reflect $link
 
 .
 __Phase 5:__
@@ -226,13 +214,13 @@ __Phase 3:__
 • Stay next to each other in melee distance to Vorago
 • **Both players must camp melee $deflectmelee and flick to magic $deflectmagic pray for every Blue Bomb** $blue
 • Base Tank Ultimate $zerk $swiftness $sunshine 
-• Start of Reflect $reflect Base Tank *devo cept* $devo $cept (reference: #cade-cept)
+• Start of Reflect $link Base Tank *devo cept* $devo $cept (reference: #cade-cept)
 • After Reflect Bomb Tank *devo cept*
 • Base must Provoke $voke before Bleeds $bleed 
 • Bomb Tank *cade cept* $cade $cept Bleeds 1 - 4
 • Base Tank Freedom $freedom the fourth Bleed
 • Bomb Tank Provoke and Freedom last Bleed
-• If Malletops $Malletops are unlocked the Bomb Tank can *cade cept* all 5 Bleeds by refreshing Intercept $cept 
+• If Malletops $malletops are unlocked the Bomb Tank can *cade cept* all 5 Bleeds by refreshing Intercept $cept 
 
 Alternatively you can skip Barricade $cade and focus on dealing enough damage to skip Bleeds $bleed. This is only recommended if you are consistently dealing enough damage to at least skip the third Bleed.
 
@@ -247,7 +235,7 @@ __Phase 4:__
 • Bomb Tank *cade cept* $cade $cept for the Vitalis orb
 • Prioritize killing all spawned Vitali $vitalis
 • Clear Bleeds $bleed (reference: #clearing-bleeds)
-• Off for Reflect $reflect
+• Off for Reflect $link
 
 The Bomb Tank should walk away from Vorago $vorago sideways as the fourth Bleed $bleed is applied and Surge $surge instead of Escape $escape in order to avoid getting stuck in front of a Vitalis $vitalis.
 
@@ -259,7 +247,7 @@ As described in the #vitalis mechanic channel, Vitali $vitalis occasionally forc
 • Place Dominion Mines $mines start of phase (place them again whenever they are ready)
 • Base Tank Ultimate $zerk $swiftness $sunshine 
 • Bomb Tank *cade cept* $cade $cept the Vitalis orb
-• Base Tank should keep attacking and stalling Vorago until Reflect $reflect 
+• Base Tank should keep attacking and stalling Vorago until Reflect $link
 • Bomb Tank prioritizes killing all spawned Vitali $vitalis 
 • Finish killing all Vitali during Reflect (watch out for randomly caused target switching)
 • Clear Bleeds $bleed 
@@ -283,21 +271,20 @@ __Phase 3:__
 • Any Green Bomb $green targeting the Base Tank is simply tanked
 • Bomb Tank sip Powerburst of Vitality $vitality as the first Blue Bomb $blue hits you
 • With the Powerburst of Vitality you can easily tank 3 Blue Bombs as well as the 10,000 typeless Green Bomb explosion 
-• Off for Reflect $reflect
+• Off for Reflect $link
 • Resonance $resonance the second Blue Bomb after Reflect 
 • If the second Green Bomb targets the Bomb Tank, the Base Tank *devo cepts* $devo $cept
 • Reprisal $reprisal can be utilised for the second Green Bomb
-• If more than two Green Bombs are expected to hit, make use of Intercept $cept combined with Barricade $cade or Immortality $Immortality (reference: #cade-cept)
 
 .
 __Phase 4:__
 
 • Base Tank Provoke $voke the whole phase
-• Bomb Tank Resonance $resonance the first or second Blue Bomb $blue after each Waterfall $waterfall 
-• Bomb Tank Devotion $devo the first Blue Bomb after each Stone Clone $vitalis 
+• Bomb Tank Resonance $resonance the first or second Blue Bomb $blue after each Waterfall $waterfall
+• Bomb Tank Devotion $devo the first Blue Bomb after each Stone Clone $vitalis
 • Whoever does not receive the Green Bomb $green *cade cept* $cade $cept 
 • Clear Bleeds $bleed (reference: #clearing-bleeds)
-• Off for Reflect $reflect
+• Off for Reflect $link
 
 .
 __Phase 5:__
@@ -306,7 +293,7 @@ __Phase 5:__
 • Disruption Shield $disrupt the first Blue Bomb $blue
 • Whoever receives the Green Bomb $green steps closer to Vorago to not receive any more Blue Bombs $blue and tank the 10,000 typeless Green Bomb explosion
 • Whoever does not get the Green Bomb $green steps farther away from Vorago to force all Blue Bombs $blue on them
-• Off for Reflect $reflect 
+• Off for Reflect $link
 • Clear Bleeds $bleed
 • Bomb Tank Barricade $cade the first Blue Bomb after Bleeds
 • Repeat until Maul $maul (reference: #maul)
@@ -326,27 +313,27 @@ __Phase 3:__
 • Step into your respective color for each Team Split $ts
 • Reprisal $reprisal can be utilized perfectly for the 8,000 typeless hit from a Team Split explosion
 • Base Tank steps into melee distance to Vorago for the beginning
-• Off for Reflect $reflect
+• Off for Reflect $link
 • At Red Bomb $red launch Base Tank steps out of melee distance and *devo cept* $devo $cept
 
 .
 __Phase 4:__
 
 • Base Tank Provoke $voke the whole phase
-• Bomb Tank Resonance $resonance the first or second Blue Bomb $blue after each Waterfall $waterfall 
-• Bomb Tank Devotion $devo the first Blue Bomb after each Stone Clone $vitalis 
+• Bomb Tank Resonance $resonance the first or second Blue Bomb $blue after each Waterfall $waterfall
+• Bomb Tank Devotion $devo the first Blue Bomb after each Stone Clone $vitalis
 • After Team Split $ts Bomb Tank *cade cept* $cade $cept (reference: #cade-cept)
 • Clear Bleeds $bleed (reference: #clearing-bleeds)
-• Off for Reflect $reflect
+• Off for Reflect $link
 
 .
 __Phase 5:__
 
-• Base Tank Ultimate $zerk $sunshine $swiftness
-• Bomb Tank *disrupt* $disrupt the first and Barricade $cade the second Blue Bomb $blue 
-• Bomb Tank Intercept $cept the Base Tank at Reflect $reflect 
+• Base Tank Ultimate $zerk $swiftness $sunshine
+• Bomb Tank *disrupt* $disrupt the first and Barricade $cade the second Blue Bomb $blue
+• Bomb Tank Intercept $cept the Base Tank at Reflect $link
 • Both players step in melee distance to Vorago (stepping MD gives Vorago a chance to use Swipes $swipe instead of Blue Bombs which have a higher probability to be caught inside your Barricade)
-• As Barricade $cade runs out channel Shield Dome $dome 
+• As Barricade $cade runs out channel Shield Dome $dome
 • Clear Bleeds $bleed
 • Switch roles after Bleeds and repeat with the Bomb Tank using their Ultimate $swiftness $sunshine and the Base Tank following the same procedure as the Bomb Tank after Team Split $ts
 • Repeat until Maul $maul (reference: #maul)
@@ -366,10 +353,11 @@ __Phase 3:__
 
 • Base Tank *devo cept* $devo $cept the quadrant with Blue Bombs $blue 
 • Bomb Tank tags all Blue Bombs 
-• Both players tag 1-2 Red Bombs $red each
 • Ultimate $zerk $swiftness $sunshine between the two last quadrants
-• Off for Reflect $reflect
+• Off for Reflect $link
 • If a second stand up is possibly happening, switch roles (Bomb Tank *devo cepts* and Base Tank tags all Blue Bombs)
+
+• Recommended strategy: Don't tag Bombs and be ready to use your Powerburst of Vitality $vitality once Vorago stands up
 
 .
 __Phase 4:__
@@ -384,12 +372,12 @@ __Phase 5:__
 
 • Both players *disrupt* $disrupt end of phase 4
 • Base Tank stays 2 tiles and the Bomb Tank 1 tile away from melee distance
-• Base Tank start with Onslaught $onslaught (with Disruption Shield active from phase 4)
+• Base Tank should pre-Ultimate $zerk $swiftness $sunshine
 • Bomb Tank waits for the first Blue Bomb $blue to be fired at the Base Tank, then step out to receive the second Blue Bomb 
 • Bomb Tank *cade cept* $cade $cept the third Blue Bomb
-• Bomb Tank Intercept $cept the Base Tank at Reflect $reflect 
+• Bomb Tank Intercept $cept the Base Tank at Reflect $link 
 • Both players step in melee distance to Vorago (stepping MD gives Vorago a chance to use Swipes $swipe instead of Blue Bombs which have a higher probability to be caught inside your Barricade)
-• As Barricade $cade runs out use Shield Dome $dome 
+• As Barricade $cade runs out use Shield Dome $dome
 • Clear Bleeds $bleed (reference: #clearing-bleeds)
 • Base Tank *disrupt* the first and Barricade the second Blue Bomb
 • Threshold until Maul $maul (reference: #maul)
@@ -400,7 +388,7 @@ __Phase 5:__
 
 • $pin **Intro** https://discordapp.com/channels/670983760178839572/744505794682290217/749739700474085488
 • $maulpiecea **Phase 1** https://discordapp.com/channels/670983760178839572/744505794682290217/749740026937737226
-• $reflect **Phase 2** https://discordapp.com/channels/670983760178839572/744505794682290217/749743338923753553
+• $link **Phase 2** https://discordapp.com/channels/670983760178839572/744505794682290217/749743338923753553
 • $repeat **Weekly Rotations** https://discordapp.com/channels/670983760178839572/744505794682290217/749745242076348468
 • $ceil **Ceilings** https://discordapp.com/channels/670983760178839572/744505794682290217/749746564838326362
 • $scop **Scopulus** https://discordapp.com/channels/670983760178839572/744505794682290217/749746659273080904

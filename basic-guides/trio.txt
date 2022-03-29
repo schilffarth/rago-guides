@@ -56,7 +56,6 @@ The TL5 is expected to do the following for all Phase 5 regardless of the rotati
 
 • In the start, position in the South-East and deal damage (pre-ultimate)
 • Have the maul $maul ready in order to maul as soon as possible (reference: #maul)
-• If the Base Tank is meleeing, you must take over switching with the Bomb Tank (reference: #duo - Phase 5 strategies)
 
 .
 > __**Weekly Specials (Rotations)**__
@@ -77,7 +76,7 @@ This phase is FFA-Bomb Tank after Vorago jumps. Since you will be separated from
 • Use Thresholds at the start
 • Off for Reflect $link
 • Mid rocks should be destroyed (eat above `7,000` HP)
-• Position close to Vorago after his second jump and Onslaught $onslaught (make use of your Adrenaline Potion to reach adrenaline for Onslaught), melee uses Berserk $zerk
+• Position close to Vorago after his second jump and Ultimate $zerk $swiftness $sunshine
 
 __Phase 4:__
 
@@ -89,13 +88,14 @@ __Phase 5:__
 Ceilings $ceil Phase 5 shares the same mechanics and strategies with #team-split $ts. For this reason, this same strategy will appear on the Team Split section below.
 
 • Position in the South-East
-• Once the Team Split $ts spawned, activate your Ultimate $zerk $swiftness $sunshine (if TCing: Pre-Ultimate before TS spawn - Reference: #target-cycle)
+• Activate your Ultimate $swiftness $sunshine before the Team Split $ts spawns ($zerk inside the Team Split $ts if Melee)
 • After entering a TS, spam-click Vorago to automatically move back in the earliest that Vorago becomes attackable again and re-position yourself correctly in the South-East
 • Position closer than the Bomb Tank to not receive any Blue Bombs $blue
 • The easiest approach for not dragging Blue Bombs is to tank the first Team Split explosion and stay in your Ultimate in the South-East
 • Reprisal $reprisal can be utilized perfectly for the `8,000` typeless hit from a Team Split explosion (need to pick Vorago as active target for Reprisal to deal damage)
 • Repeat until Maul $maul
-• Gif for reference
+
+Gif for reference
 .
 https://cdn.discordapp.com/attachments/738844964447846473/814500478594842667/11_1.gif
 .Scopulus
@@ -125,11 +125,8 @@ __Phase 5:__
 Scopulus $scop Phase 5 shares the same mechanics and strategies with #the-end $purple. For that reason, this same strategy will appear on the The End section below.
 
 • Position in the north-east 1 tile away from melee distance
-• You can Onslaught $onslaught on dropdown or pre-Ultimate $zerk $swiftness $sunshine
-• If the team is able to push on dropdown, you can Onslaught in MD instead
-• Melee Base Tank will go south-east (non-melee Base Tanks usually go north and TL5 south instead)
-• Once your Purple Bomb timer hits 5 seconds (reference: #the-end), move to the North-East
-• After your Purple Bomb exploded, move back South
+• You can pre-Ultimate $zerk $swiftness $sunshine
+• Base Tank will go south-east (TL5 will go north-east). This ensures the Purple Bomb $purple will not deal AoE damage to other players
 
 .Vitalis
 > __**Vitalis**__
@@ -165,7 +162,8 @@ __Phase 5:__
 As described in the mechanics channel for #vitalis, Vitalii $vitalis occasionally force your active target to switch back to Vorago. This can cause deadly PKs. Be careful your target stays on the Vitalis, and avoid using any AoE abilities if it’s close to Reflect $link.
 
 • Place Dominion Mines close to MD as the Phase starts. Remember to place them again whenever they are off cooldown
-• Position in the South-East and pre-Ultimate $zerk $swiftness $sunshine
+• Base Tank and TL5 position in the South-East and pre-Ultimate $zerk $swiftness $sunshine
+• Bomb Tank should be positioned in the North-East, and get ready to Barricade Intercept $cade $cept the Base Tank and TL5
 • When the orb is released, step back, while following the South wall, to step on the Vitalis orb
 • Prioritize killing all spawned Vitalii
 • After blocking the orb go back to your spot 1-2 steps away from MD and by the south wall
@@ -182,7 +180,7 @@ $green Green Bomb reference: #green-bomb
 __Phase 3:__
 
 • Ultimate on dropdown away from everyone else, but in range to not get Bombs $blue
-• Tank all Green Bombs $green targeting you by eating above `10,000` HP or use the Powerburst of Vitality
+• Tank all Green Bombs $green targeting you by eating above `10,000` HP or use the Powerburst of Vitality $vitality
 • Do not accidentally bounce the Green Bomb $green on anyone
 
 __Phase 4:__
@@ -221,7 +219,7 @@ __Phase 3:__
 __Phase 5:__
 
 • Position in the South-East
-• Once the Team Split $ts spawned, activate your Ultimate $zerk $swiftness $sunshine (if TCing: Pre-Ultimate before TS spawn - Reference: #target-cycle)
+• Activate your Ultimate $swiftness $sunshine before the Team Split $ts spawns ($zerk inside the Team Split $ts if Melee)
 • After entering a TS, spam-click Vorago to automatically move back in the earliest that Vorago becomes attackable again and re-position yourself correctly in the South-East
 • Position closer than the Bomb Tank to not receive any Blue Bombs $blue
 • The easiest approach for not dragging Blue Bombs is to tank the first Team Split explosion and stay in your Ultimate in the South-East
@@ -251,11 +249,8 @@ __Phase 4:__
 __Phase 5:__
 
 • Position in the north-east 1 tile away from melee distance
-• You can Onslaught $onslaught on dropdown or pre-Ultimate $zerk $swiftness $sunshine
-• If the team is able to push on dropdown, you can Onslaught in MD instead
-• Melee Base Tank will go south-east (non-melee Base Tanks usually go north and TL5 south instead)
-• Once your Purple Bomb timer hits 5 seconds (reference: #the-end), move to the North-East
-• After your Purple Bomb exploded, move back South
+• You can pre-Ultimate $zerk $swiftness $sunshine
+• Base Tank will go south-east (TL5 will go north-east). This ensures the Purple Bomb $purple will not deal AoE damage to other players
 
 .index
 > __**Index**__
