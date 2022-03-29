@@ -73,7 +73,7 @@ __Bring Him Down:__
 • The second maul piece (b) $maulpieceb will appear on the ground after passing BHD (reference: #maul)
 • Kill Vorago and welcome to phase 3!
 
-.Weekly specials
+.Weekly Specials
 > __**Weekly Specials**__
 
 Every Wednesday at 00:00 GT (in-game reset), the weekly special rotation changes for Vorago. There is a total of 6 rotations: Ceilings $ceil, Scopulus $scop, Vitalis $vitalis, Green Bomb $green, Team Split $ts and The End $purple. Each of these rotations will affect the mechanics in phases 3, 4 and 5.
@@ -212,7 +212,7 @@ As described in the #vitalis mechanic channel, Vitali $vitalis occasionally forc
 • Switch roles after Bleeds and repeat with the Bomb Tank using their Ultimate and the Base Tank *cade cepting* the Vitalis orb
 • Repeat until Maul $maul (reference: #maul)
 
-.Green bomb
+.Green Bomb
 > __**Green Bomb**__
 
 $green Mechanic breakdown: #green-bomb 
@@ -332,7 +332,7 @@ __Phase 5:__
 • $pin **Introduction** {link:Introduction}
 • $maulpiecea **Phase 1** {link:Phase 1}
 • $link **Phase 2** {link:Phase 2}
-• $repeat **Weekly Rotations** {link:Weekly Rotations}
+• $repeat **Weekly Specials** {link:Weekly Specials}
 • $ceil **Ceilings** {link:Ceilings}
 • $scop **Scopulus** {link:Scopulus}
 • $vitalis **Vitalis** {link:Vitalis}
