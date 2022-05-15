@@ -9,8 +9,6 @@ Jump onto Vorago's back to loosen and pick up the Ancient Weapon Piece (a) $maul
 • Standard Climb: A simple order of Surge $surge and Bladed Dive $bd in order to achieve a 36 second voke $voke
 • Acceleration Climb: Reaching the final platform at 28.2 seconds by making use of the Powerburst Of Acceleration $accel (earliest jump at 28.8 seconds)
 
-Refer to #hammer-climb for advanced climbing methods.
-
 $warning In Hard Mode, every Blue Bomb $blue has a chance of dragging the climber back into the arena and the climb has to be restarted.
 
 .Standard Climb

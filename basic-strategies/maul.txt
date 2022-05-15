@@ -30,7 +30,7 @@ The constructed Maul $maul has a left-click option: "Finish him!". You can drag 
 
 __Hard Mode:__
 
-Mauling Vorago in Hard Mode phase 10 will transition you to phase 11. Adrenaline is drained to 0 and Vorago will jump back to the center, from where he needs to be pushed to the opposite side. Phase 11 can be mauled just like phase 5 in Normal Mode. Vorago's attack rotation continues in phase 11 according to when phase 10 was mauled. For Vorago's full attack rotations relate to the weekly rotation channels categorised under MECHANICS (reference: #phase-overview). Optimal phase 10 maul timing:
+Mauling Vorago in Hard Mode phase 10 will transition you to phase 11. Adrenaline is drained to 0 and Vorago will jump back to the center, from where he needs to be pushed to the opposite side. Phase 11 can be mauled just like phase 5 in Normal Mode. Vorago's attack rotation continues in phase 11 according to when phase 10 was mauled. For Vorago's full attack rotations relate to the weekly rotation channels categorised under MECHANICS. Optimal phase 10 maul timing:
 
 • $ceil #ceilings Green Bomb $green release
 • $scop #scopulus Team Split $ts spawn
