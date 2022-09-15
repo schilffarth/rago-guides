@@ -245,10 +245,10 @@
       ]
     },
     {
-      "name": "Certified HM",
+      "name": "HM Exp",
       "reqs": [
         "Team Size: 5 Man",
-        "3 KPH as Base Tank or Bomb Tank",
+        "Sub `12:00` on any rotation as any tank role",
         "Utilize Adrenaline potions and Ultimates at all necessary times",
         "Bleeds",
         "Heal Other",
@@ -257,7 +257,7 @@
       ],
       "apps": [
         "A VOD of a P1 climb (36s + voke). Not needed if you hold NM Tiers",
-        "**AND** a VOD of 1 kill as the respective role on pace for 3 KPH"
+        "**AND** a VOD of 1 full kill complying with the kill time requirement"
       ],
       "guides": [
         "large-hard-mode",
@@ -267,31 +267,32 @@
       ]
     },
     {
-      "name": "Experienced HM",
+      "name": "HM Advanced",
       "reqs": [
-        "Inherited skill requirements from `.info Certified HM`",
+        "Inherited skill requirements from `.info HM Exp`",
         "Team Size: 4 Man",
-        "3 KPH as Base Tank or Bomb Tank",
+        "Sub `12:00` on any rotation as any tank role",
         "Significantly contribute to progressing DPS phases"
       ],
       "apps": [
-        "VOD of 1 kill as the respective role, on pace for 3 KPH"
+        "VOD of 1 full kill complying with the kill time requirement"
       ],
       "guides": [
         "large-hard-mode"
       ]
     },
     {
-      "name": "Advanced HM",
+      "name": "Trio HM Exp",
       "reqs": [
-        "Inherited skill requirements from `.info Experienced HM`",
+        "Inherited skill requirements from `.info HM Advanced`",
         "Team Size: Trio",
-        "Achieve both timers OR achieve ONE of the timers on b2b kills\n- Any rotation `14:26`\n- The End `15:03`",
+        "Achieve both one kill sub `12:00` on any rotation",
         "Natty",
-        "Target Cycle"
+        "Target Cycle",
+        "Hammer Climber"
       ],
       "apps": [
-        "One of the following:\n- VODs of one kill on two different rotations with their specific timers\n- VOD of b2b kills with one of the timers achieved (average)"
+        "VOD of 1 full kill complying with the kill time requirement"
       ],
       "guides": [
         "trio-hm",
@@ -300,15 +301,15 @@
       ]
     },
     {
-      "name": "Insane HM",
+      "name": "Trio HM Advanced",
       "reqs": [
-        "Inherited skill requirements from `.info Advanced HM`",
-        "Achieve both timers OR achieve ONE of the timers on b2b kills\n- Any rotation `12:39`\n- The End `13:16`",
+        "Inherited skill requirements from `.info Trio HM Exp`",
+        "Achieve one kill sub `10:00` on any rotation",
         "Solo Lure",
         "Advanced Climber"
       ],
       "apps": [
-        "One of the following:\n- VODs of one kill on two different rotations with their specific timers\n- VOD of b2b kills with one of the timers achieved (average)"
+        "VOD of 1 full kill complying with the kill time requirement"
       ],
       "guides": [
         "trio-hm",
