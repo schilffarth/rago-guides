@@ -245,7 +245,7 @@
       ]
     },
     {
-      "name": "HM Exp",
+      "name": "HM T1",
       "reqs": [
         "Team Size: 5 Man",
         "Sub `12:00` on any rotation as any tank role",
@@ -267,9 +267,9 @@
       ]
     },
     {
-      "name": "HM Advanced",
+      "name": "HM T2",
       "reqs": [
-        "Inherited skill requirements from `.info HM Exp`",
+        "Inherited skill requirements from `.info HM T1`",
         "Team Size: 4 Man",
         "Sub `12:00` on any rotation as any tank role",
         "Significantly contribute to progressing DPS phases"
@@ -282,9 +282,9 @@
       ]
     },
     {
-      "name": "Trio HM Exp",
+      "name": "HM T3",
       "reqs": [
-        "Inherited skill requirements from `.info HM Advanced`",
+        "Inherited skill requirements from `.info HM T2`",
         "Team Size: Trio",
         "Achieve both one kill sub `12:00` on any rotation",
         "Natty",
@@ -301,9 +301,9 @@
       ]
     },
     {
-      "name": "Trio HM Advanced",
+      "name": "HM T4",
       "reqs": [
-        "Inherited skill requirements from `.info Trio HM Exp`",
+        "Inherited skill requirements from `.info HM T3`",
         "Achieve one kill sub `10:00` on any rotation",
         "Solo Lure",
         "Advanced Climber"
