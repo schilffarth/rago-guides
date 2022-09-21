@@ -283,18 +283,6 @@
          ]
       },
       {
-         "name":"Solo HM",
-         "reqs":[
-            "Achieve a Solo HM kill on any rotation (1/6)"
-         ],
-         "apps":[
-            "VOD of a successful Solo HM kill"
-         ],
-         "guides":[
-            "solo"
-         ]
-      },
-      {
          "name":"Duo HM T1",
          "reqs":[
             "Proficiency in duo hard mode",
@@ -354,6 +342,18 @@
          ],
          "guides":[
             "duo-hm"
+         ]
+      },
+            {
+         "name":"Solo HM",
+         "reqs":[
+            "Achieve a Solo HM kill on any rotation (1/6)"
+         ],
+         "apps":[
+            "VOD of a successful Solo HM kill"
+         ],
+         "guides":[
+            "solo"
          ]
       }
    ]
