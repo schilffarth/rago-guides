@@ -1,477 +1,358 @@
 {
-  "reqs": {
-    "Bleeds": "Perform all provokes of a kill in melee distance and clear them effectively",
-    "Heal Other": "Crack healing and usage of Heal Other during cade cepts",
-    "Cade Cept": "Cade cept at all required times",
-    "Climber": "Climb in P1 and provoke Vorago at 36 seconds",
-    "Target Cycle": "TC in combination with any fast ability on phase 3 and 5 (no running)",
-    "Recenter": "Recentering P2 from any location with any walking direction",
-    "BD Bleeds": "Escape-bladed dive to clear bleeds",
-    "Natty": "Natty without lost ticks until TC",
-    "Bleed Skip": "Perform a Bleed skip on Ceiling Collapse",
-    "Solo Lure": "Solo lure with south BD at 30,6 seconds",
-    "Hammer Climber": "Hammer on TC and perform a climb (final platform at 33s)",
-    "Advanced Climber": "Hammer on TC and perform an accelaration climb (final platform at 28,8s). Can be done in a separate clip"
-  },
-  "guides": {
-    "introduction": "813038513989222420",
-    "trio": "753663290718158898",
-    "duo": "744505794682290217",
-    "solo": "757226530194849832",
-    "large-hard-mode": "744505929759981619",
-    "trio-hm": "802162163686572082",
-    "duo-hm": "714808600123408384",
-    "climbing": "744505344088080434",
-    "clearing-bleeds": "742095011696476201",
-    "maul": "747079548348268584",
-    "cade-cept": "744505436685991986",
-    "clone-skip": "810845123914498048",
-    "crack-healing": "727940098158493761",
-    "natty": "701072208486727761",
-    "recenter": "734513334837182486",
-    "shatter": "941172804710178926",
-    "solo-lure": "734513833489596496",
-    "target-cycle": "731487797336211507",
-    "zero-linking": "734513733883396146",
-    "overview": "736325239138418719",
-    "ceilings": "741401762010759209",
-    "scopulus": "741401806864777340",
-    "vitalis": "741401849894273074",
-    "green-bomb": "741401890398535770",
-    "team-split": "741401929959211008",
-    "the-end": "741401962121265305",
-    "stalling-abilities": "810941436484517889"
-  },
-  "tiers": [
-    {
-      "name": "Trio HM",
-      "reqs": [
-        "Achieve a Trio HM kill on any rotation (1/6)"
-      ],
-      "apps": [
-        "VOD of a successful Trio HM kill"
-      ],
-      "guides": [
-        "trio-hm"
-      ]
-    },
-    {
-      "name": "Duo HM",
-      "reqs": [
-        "Achieve a Duo HM kill on any rotation (1/6)"
-      ],
-      "apps": [
-        "VOD of a successful Duo HM kill"
-      ],
-      "guides": [
-        "duo-hm"
-      ]
-    },
-    {
-      "name": "Duo HM 6/6",
-      "reqs": [
-        "Achieve a Duo HM kill on every rotation (6/6)"
-      ],
-      "apps": [
-        "VOD of a successful Duo HM kill on every rotation"
-      ],
-      "guides": [
-        "duo-hm"
-      ]
-    },
-    {
-      "name": "Solo Vorago",
-      "reqs": [
-        "Achieve a Solo Phase 5 on any rotation (1/4)"
-      ],
-      "apps": [
-        "VOD of a successful Solo Phase 5"
-      ],
-      "guides": [
-        "solo"
-      ]
-    },
-    {
-      "name": "Forever Alone",
-      "reqs": [
-        "Achieve a Solo Phase 5 on every rotation (4/4)"
-      ],
-      "apps": [
-        "VOD of a successful Solo Phase 5 on every rotation"
-      ],
-      "guides": [
-        "solo"
-      ]
-    },
-    {
-      "name": "Quarrymaster",
-      "reqs": [
-        "World Record holder (1st place) in any Vorago category on the PvM Records website https://pvm-records.com/"
-      ],
-      "apps": [
-        "Any proof that you are part of a Vorago WR"
-      ],
-      "guides": [
-        "overview"
-      ]
-    },
-    {
-      "name": "NM Exp",
-      "reqs": [
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `08:26`\n- Scopulus `08:11`\n- Vitalis `08:56`\n- Green Bomb `08:26`\n- Team Split `08:41`\n- The End `09:16`",
-        "Bleeds",
-        "Heal Other",
-        "Cade Cept",
-        "Climber"
-      ],
-      "apps": [
-        "A vod of a P1 climb (36s + voke, can be done solo)",
-        "**AND** VODs of one kill on two different rotations with their specific timers\n-  or: VOD of b2b kills with one of the timers achieved (average)"
-      ],
-      "guides": [
-        "trio",
-        "climbing",
-        "clearing-bleeds",
-        "crack-healing",
-        "cade-cept"
-      ]
-    },
-    {
-      "name": "Duo T1",
-      "reqs": [
-        "Inherited skill requirements from `.info NM Exp`",
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `08:55`\n- Scopulus `08:40`\n- Vitalis `08:55`\n- Green Bomb `08:55`\n- Team Split `08:55`\n- The End `09:25`",
-        "Climber",
-        "BD Bleeds"
-      ],
-      "apps": [
-        "One of the following:\n- VODs of one kill on two different rotations with their specific timers\n- VOD of b2b kills with one of the timers achieved (average)"
-      ],
-      "guides": [
-        "duo"
-      ]
-    },
-    {
-      "name": "Duo T2",
-      "reqs": [
-        "Inherited skill requirements from `.info Duo T1`",
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n \t- Ceilings `08:05`\n \t- Scopulus `07:50`\n \t- Vitalis `08:05`\n \t- Green Bomb `08:05`\n \t- Team Split `08:20`\n \t- The End `08:55`",
-        "Target Cycle"
-      ],
-      "apps": [
-        "One of the following:\n- VODs of one kill on two different rotations with their specific timers\n- VOD of b2b kills with one of the timers achieved (average)"
-      ],
-      "guides": [
-        "duo",
-        "climbing",
-        "clearing-bleeds",
-        "target-cycle"
-      ]
-    },
-     {
-      "name": "Duo T3",
-      "reqs": [
-        "Inherited skill requirements from `.info Duo T2`",
-        "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `07:18`\n- Scopulus `07:15`\n- Vitalis `07:27`\n- Green Bomb `07:18`\n- Team Split `07:48/07:34`\n- The End `08:15`",
-        "Natural Instinct with at least two adrenaline gaining abilities before TC",
-        "Target Cycle",
-        "Bleed Skip",
-        "Recenter",
-        "Hammer Climber"
-      ],
-      "apps": [
-        "One of the following:\n- VODs of one kill on two different rotations with their specific timers\n- VOD of b2b kills with one of the timers achieved (average)"
-      ],
-      "guides": [
-        "natty",
-        "target-cycle",
-        "stalling-abilities",
-        "recenter", 
-        "climbing", 
-        "zero-linking"
-      ]
-    },
-       {
-      "name": "Duo T4",
-      "reqs": [
-        "Inherited skill requirements from `.info Duo T3`",
-        "Achieve ONE of the timers\n- Ceilings `06:42`\n- Scopulus `07:02`\n- Vitalis `06:54`\n- Green Bomb `07:02`\n- Team Split `07:00/07:15`\n- The End `07:45`",
-        "Solo Lure",
-        "Advanced Climber"
-      ],
-      "apps": [
-        "VOD of one kill complying with one of the time requirements"
-      ],
-      "guides": [
-        "climbing",
-        "solo-lure",
-        "zero-linking"
-      ]
-    },
-    {
-      "name": "Vorago Master T1",
-      "reqs": [
-        "Achieve all Duo T2 timers (6/6 rotations)"
-      ],
-      "apps": [
-        "VOD of all 6 timers from Duo T2"
-      ],
-      "guides": [
-        "duo"
-      ]
-    },
-    {
-      "name": "Vorago Master T2",
-      "reqs": [
-        "Achieve all Duo T3 timers (6/6 rotations)"
-      ],
-      "apps": [
-        "VOD of all 6 timers from Duo T3"
-      ],
-      "guides": [
-        "duo"
-      ]
-    },
-    {
-      "name": "Vorago Master T3",
-      "reqs": [
-        "Achieve all Duo T4 timers (6/6 rotations)"
-      ],
-      "apps": [
-        "VOD of all 6 timers from Duo T4"
-      ],
-      "guides": [
-        "duo"
-      ]
-    },
-    {
-      "name": "HM T1",
-      "reqs": [
-        "Team Size: 5 Man",
-        "Sub `12:00` on any rotation as any tank role",
-        "Utilize Adrenaline potions and Ultimates at all necessary times",
-        "Bleeds",
-        "Heal Other",
-        "Cade Cept",
-        "Climber"
-      ],
-      "apps": [
-        "A VOD of a P1 climb (36s + voke). Not needed if you hold NM Tiers",
-        "**AND** a VOD of 1 full kill complying with the kill time requirement"
-      ],
-      "guides": [
-        "large-hard-mode",
-        "crack-healing",
-        "cade-cept",
-        "clearing-bleeds"
-      ]
-    },
-    {
-      "name": "HM T2",
-      "reqs": [
-        "Inherited skill requirements from `.info HM T1`",
-        "Team Size: 4 Man",
-        "Sub `12:00` on any rotation as any tank role",
-        "Significantly contribute to progressing DPS phases"
-      ],
-      "apps": [
-        "VOD of 1 full kill complying with the kill time requirement"
-      ],
-      "guides": [
-        "large-hard-mode"
-      ]
-    },
-    {
-      "name": "HM T3",
-      "reqs": [
-        "Inherited skill requirements from `.info HM T2`",
-        "Team Size: Trio",
-        "Achieve both one kill sub `12:00` on any rotation",
-        "Natty",
-        "Target Cycle",
-        "Hammer Climber"
-      ],
-      "apps": [
-        "VOD of 1 full kill complying with the kill time requirement"
-      ],
-      "guides": [
-        "trio-hm",
-        "natty",
-        "target-cycle"
-      ]
-    },
-    {
-      "name": "HM T4",
-      "reqs": [
-        "Inherited skill requirements from `.info HM T3`",
-        "Achieve one kill sub `10:00` on any rotation",
-        "Solo Lure",
-        "Advanced Climber"
-      ],
-      "apps": [
-        "VOD of 1 full kill complying with the kill time requirement"
-      ],
-      "guides": [
-        "trio-hm",
-        "solo-lure",
-        "stalling-abilities",
-        "zero-linking"
-      ]
-    },
-    {
-      "name": "Solo HM",
-      "reqs": [
-        "Achieve a Solo HM kill on any rotation (1/6)"
-      ],
-      "apps": [
-        "VOD of a successful Solo HM kill"
-      ],
-      "guides": [
-        "solo"
-      ]
-    },
-    {
-      "name": "Experienced Duo HM",
-      "reqs": [
-        "Successful kills on 2/6 rotations",
-        "One kill must be 20:00 or faster"
-      ],
-      "apps": [
-        "VOD of 1 full kill complying with the kill time"
-      ],
-      "guides": [
-        "duo-hm",
-        "clearing-bleeds",
-        "crack-healing",
-        "cade-cept",
-        "climbing"
-      ]
-    },
-    {
-      "name": "Advanced Duo HM",
-      "reqs": [
-        "Average kill time in Duo HM on b2b kills (any rotation)\n- Any rotation `18:30`\n- The End `19:07`"
-      ],
-      "apps": [
-        "VOD of two b2b kills complying with the average kill time"
-      ],
-      "guides": [
-        "duo-hm",
-        "target-cycle",
-        "recenter",
-        "climbing",
-        "zero-linking"
-      ]
-    },
-    {
-      "name": "Insane Duo HM",
-      "reqs": [
-        "Average kill time in Duo HM on b2b kills (any rotation)\n- Any rotation `15:39`\n- The End `16:16`"
-      ],
-      "apps": [
-        "VOD of two b2b kills complying with the average kill time"
-      ],
-      "guides": [
-        "duo-hm",
-        "natty",
-        "stalling-abilities",
-        "zero-linking"
-      ]
-    },
-    {
-      "name": "HM Exp",
-      "reqs": [
-        "Team size: 4 Man",
-        "Proficiency in 4-Man Hard Mode",
-        "Requires a vod with a time of s16 minutes as either melee base, or bt in 4-Man Hard Mode"
-      ],
-      "apps": [
-        "VOD of a sub 16 minute 4 Man HM kill as a tank role"
-      ],
-      "guides": [
-        "large-hard-mode"
-      ]
-    },
-    {
-      "name": "Trio HM T1",
-      "reqs": [
-        "Proficiency in trio hard mode as either melee base, or bomb tank",
-        "Requires a s16 minute trio hard mode kill as either role on any week",
-        "Any mages using blitz as their primary spell will be auto failed"
-      ],
-      "apps": [
-        "VOD of sub 16 minute Trio HM kill"
-      ],
-      "guides": [
-        "trio-hm"
-      ]
-    },
-    {
-      "name": "Trio HM T2",
-      "reqs": [
-        "Proficiency in trio hard mode as either melee base, or bomb tank",
-        "Requires a s15 minute trio hard mode kill as either role on any week",
-        "Any mages using blitz as their primary spell will be auto failed"
-      ],
-      "apps": [
-        "VOD of sub 15 minute Trio HM kill"
-      ],
-      "guides": [
-        "trio-hm"
-      ]
-    },
-    {
-      "name": "Trio HM T3",
-      "reqs": [
-        "High proficiency in trio hard mode as either melee base, or bomb tank",
-        "Requires a s14 minute trio hard mode kill as either role on any week",
-        "Any mages using blitz as their primary spell will be auto failed"
-      ],
-      "apps": [
-        "VOD of sub 14 minute Trio HM kill"
-      ],
-      "guides": [
-        "trio-hm"
-      ]
-    },
-    {
-      "name": "Duo HM T1",
-      "reqs": [
-        "Proficiency in duo hard mode",
-        "Requires a s20 minute duo hard mode kill as either role"
-      ],
-      "apps": [
-        "VOD of sub 20 minute Duo HM kill"
-      ],
-      "guides": [
-        "duo-hm"
-      ]
-    },
-    {
-      "name": "Duo HM T2",
-      "reqs": [
-        "High proficiency in duo hard mode",
-        "Requires a s18 minute duo hard mode kill as either role"
-      ],
-      "apps": [
-        "VOD of sub 18 minute Duo HM kill"
-      ],
-      "guides": [
-        "duo-hm"
-      ]
-    },
-    {
-      "name": "Duo HM T3",
-      "reqs": [
-        "Expert proficiency in duo hard mode",
-        "Requires a s17 minute duo hard mode kill as either role"
-      ],
-      "apps": [
-        "VOD of sub 17 minute Duo HM kill"
-      ],
-      "guides": [
-        "duo-hm"
-      ]
-    }
-  ]
-}
+   "reqs":{
+      "Bleeds":"Perform all provokes of a kill in melee distance and clear them effectively",
+      "Heal Other":"Crack healing and usage of Heal Other during cade cepts",
+      "Cade Cept":"Cade cept at all required times",
+      "Climber":"Climb in P1 and provoke Vorago at 36 seconds",
+      "Target Cycle":"TC in combination with any fast ability on phase 3 and 5 (no running)",
+      "Recenter":"Recentering P2 from any location with any walking direction",
+      "BD Bleeds":"Escape-bladed dive to clear bleeds",
+      "Natty":"Natty without lost ticks until TC",
+      "Bleed Skip":"Perform a Bleed skip on Ceiling Collapse",
+      "Solo Lure":"Solo lure with south BD at 30,6 seconds",
+      "Hammer Climber":"Hammer on TC and perform a climb (final platform at 33s)",
+      "Advanced Climber":"Hammer on TC and perform an accelaration climb (final platform at 28,8s). Can be done in a separate clip"
+   },
+   "guides":{
+      "introduction":"813038513989222420",
+      "trio":"753663290718158898",
+      "duo":"744505794682290217",
+      "solo":"757226530194849832",
+      "large-hard-mode":"744505929759981619",
+      "trio-hm":"802162163686572082",
+      "duo-hm":"714808600123408384",
+      "climbing":"744505344088080434",
+      "clearing-bleeds":"742095011696476201",
+      "maul":"747079548348268584",
+      "cade-cept":"744505436685991986",
+      "clone-skip":"810845123914498048",
+      "crack-healing":"727940098158493761",
+      "natty":"701072208486727761",
+      "recenter":"734513334837182486",
+      "shatter":"941172804710178926",
+      "solo-lure":"734513833489596496",
+      "target-cycle":"731487797336211507",
+      "zero-linking":"734513733883396146",
+      "overview":"736325239138418719",
+      "ceilings":"741401762010759209",
+      "scopulus":"741401806864777340",
+      "vitalis":"741401849894273074",
+      "green-bomb":"741401890398535770",
+      "team-split":"741401929959211008",
+      "the-end":"741401962121265305",
+      "stalling-abilities":"810941436484517889"
+   },
+   "tiers":[
+      {
+         "name":"NM Exp",
+         "reqs":[
+            "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `08:26`\n- Scopulus `08:11`\n- Vitalis `08:56`\n- Green Bomb `08:26`\n- Team Split `08:41`\n- The End `09:16`",
+            "Bleeds",
+            "Heal Other",
+            "Cade Cept",
+            "Climber"
+         ],
+         "apps":[
+            "A vod of a P1 climb (36s + voke, can be done solo)",
+            "**AND** VODs of one kill on two different rotations with their specific timers\n-  or: VOD of b2b kills with one of the timers achieved (average)"
+         ],
+         "guides":[
+            "trio",
+            "climbing",
+            "clearing-bleeds",
+            "crack-healing",
+            "cade-cept"
+         ]
+      },
+      {
+         "name":"Duo T1",
+         "reqs":[
+            "Inherited skill requirements from `.info NM Exp`",
+            "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `08:55`\n- Scopulus `08:40`\n- Vitalis `08:55`\n- Green Bomb `08:55`\n- Team Split `08:55`\n- The End `09:25`",
+            "Climber",
+            "BD Bleeds"
+         ],
+         "apps":[
+            "One of the following:\n- VODs of one kill on two different rotations with their specific timers\n- VOD of b2b kills with one of the timers achieved (average)"
+         ],
+         "guides":[
+            "duo"
+         ]
+      },
+      {
+         "name":"Duo T2",
+         "reqs":[
+            "Inherited skill requirements from `.info Duo T1`",
+            "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n \t- Ceilings `08:05`\n \t- Scopulus `07:50`\n \t- Vitalis `08:05`\n \t- Green Bomb `08:05`\n \t- Team Split `08:20`\n \t- The End `08:55`",
+            "Target Cycle"
+         ],
+         "apps":[
+            "One of the following:\n- VODs of one kill on two different rotations with their specific timers\n- VOD of b2b kills with one of the timers achieved (average)"
+         ],
+         "guides":[
+            "duo",
+            "climbing",
+            "clearing-bleeds",
+            "target-cycle"
+         ]
+      },
+      {
+         "name":"Duo T3",
+         "reqs":[
+            "Inherited skill requirements from `.info Duo T2`",
+            "Achieve TWO of the following timers OR achieve ONE of the timers on b2b kills\n- Ceilings `07:18`\n- Scopulus `07:15`\n- Vitalis `07:27`\n- Green Bomb `07:18`\n- Team Split `07:48/07:34`\n- The End `08:15`",
+            "Natural Instinct with at least two adrenaline gaining abilities before TC",
+            "Target Cycle",
+            "Bleed Skip",
+            "Recenter",
+            "Hammer Climber"
+         ],
+         "apps":[
+            "One of the following:\n- VODs of one kill on two different rotations with their specific timers\n- VOD of b2b kills with one of the timers achieved (average)"
+         ],
+         "guides":[
+            "natty",
+            "target-cycle",
+            "stalling-abilities",
+            "recenter",
+            "climbing",
+            "zero-linking"
+         ]
+      },
+      {
+         "name":"Duo T4",
+         "reqs":[
+            "Inherited skill requirements from `.info Duo T3`",
+            "Achieve ONE of the timers\n- Ceilings `06:42`\n- Scopulus `07:02`\n- Vitalis `06:54`\n- Green Bomb `07:02`\n- Team Split `07:00/07:15`\n- The End `07:45`",
+            "Solo Lure",
+            "Advanced Climber"
+         ],
+         "apps":[
+            "VOD of one kill complying with one of the time requirements"
+         ],
+         "guides":[
+            "climbing",
+            "solo-lure",
+            "zero-linking"
+         ]
+      },
+      {
+         "name":"Vorago Master T1",
+         "reqs":[
+            "Achieve all Duo T2 timers (6/6 rotations)"
+         ],
+         "apps":[
+            "VOD of all 6 timers from Duo T2"
+         ],
+         "guides":[
+            "duo"
+         ]
+      },
+      {
+         "name":"Vorago Master T2",
+         "reqs":[
+            "Achieve all Duo T3 timers (6/6 rotations)"
+         ],
+         "apps":[
+            "VOD of all 6 timers from Duo T3"
+         ],
+         "guides":[
+            "duo"
+         ]
+      },
+      {
+         "name":"Vorago Master T3",
+         "reqs":[
+            "Achieve all Duo T4 timers (6/6 rotations)"
+         ],
+         "apps":[
+            "VOD of all 6 timers from Duo T4"
+         ],
+         "guides":[
+            "duo"
+         ]
+      },
+      {
+         "name":"Quarrymaster",
+         "reqs":[
+            "World Record holder (1st place) in any Vorago category on the PvM Records website https://pvm-records.com/"
+         ],
+         "apps":[
+            "Any proof that you are part of a Vorago WR"
+         ],
+         "guides":[
+            "overview"
+         ]
+      },
+      {
+         "name":"Solo Vorago",
+         "reqs":[
+            "Achieve a Solo Phase 5 on any rotation (1/4)"
+         ],
+         "apps":[
+            "VOD of a successful Solo Phase 5"
+         ],
+         "guides":[
+            "solo"
+         ]
+      },
+      {
+         "name":"Forever Alone",
+         "reqs":[
+            "Achieve a Solo Phase 5 on every rotation (4/4)"
+         ],
+         "apps":[
+            "VOD of a successful Solo Phase 5 on every rotation"
+         ],
+         "guides":[
+            "solo"
+         ]
+      },
+      {
+         "name":"HM T1",
+         "reqs":[
+            "Team Size: 5 Man",
+            "Sub `12:00` on any rotation as any tank role",
+            "Utilize Adrenaline potions and Ultimates at all necessary times",
+            "Bleeds",
+            "Heal Other",
+            "Cade Cept",
+            "Climber"
+         ],
+         "apps":[
+            "A VOD of a P1 climb (36s + voke). Not needed if you hold NM Tiers",
+            "**AND** a VOD of 1 full kill complying with the kill time requirement"
+         ],
+         "guides":[
+            "large-hard-mode",
+            "crack-healing",
+            "cade-cept",
+            "clearing-bleeds"
+         ]
+      },
+      {
+         "name":"HM T2",
+         "reqs":[
+            "Inherited skill requirements from `.info HM T1`",
+            "Team Size: 4 Man",
+            "Sub `12:00` on any rotation as any tank role",
+            "Significantly contribute to progressing DPS phases"
+         ],
+         "apps":[
+            "VOD of 1 full kill complying with the kill time requirement"
+         ],
+         "guides":[
+            "large-hard-mode"
+         ]
+      },
+      {
+         "name":"HM T3",
+         "reqs":[
+            "Inherited skill requirements from `.info HM T2`",
+            "Team Size: Trio",
+            "Achieve both one kill sub `12:00` on any rotation",
+            "Natty",
+            "Target Cycle",
+            "Hammer Climber"
+         ],
+         "apps":[
+            "VOD of 1 full kill complying with the kill time requirement"
+         ],
+         "guides":[
+            "trio-hm",
+            "natty",
+            "target-cycle"
+         ]
+      },
+      {
+         "name":"HM T4",
+         "reqs":[
+            "Inherited skill requirements from `.info HM T3`",
+            "Achieve one kill sub `10:00` on any rotation",
+            "Solo Lure",
+            "Advanced Climber"
+         ],
+         "apps":[
+            "VOD of 1 full kill complying with the kill time requirement"
+         ],
+         "guides":[
+            "trio-hm",
+            "solo-lure",
+            "stalling-abilities",
+            "zero-linking"
+         ]
+      },
+      {
+         "name":"Solo HM",
+         "reqs":[
+            "Achieve a Solo HM kill on any rotation (1/6)"
+         ],
+         "apps":[
+            "VOD of a successful Solo HM kill"
+         ],
+         "guides":[
+            "solo"
+         ]
+      },
+      {
+         "name":"Duo HM T1",
+         "reqs":[
+            "Proficiency in duo hard mode",
+            "Requires a sub 14 minute duo hard mode kill"
+         ],
+         "apps":[
+            "VOD of sub 14 minute Duo HM kill"
+         ],
+         "guides":[
+            "duo-hm"
+         ]
+      },
+      {
+         "name":"Duo HM T2",
+         "reqs":[
+            "High proficiency in duo hard mode",
+            "Requires a sub 12 minute duo hard mode kill"
+         ],
+         "apps":[
+            "VOD of sub 12 minute Duo HM kill"
+         ],
+         "guides":[
+            "duo-hm"
+         ]
+      },
+      {
+         "name":"Trio HM",
+         "reqs":[
+            "Achieve a Trio HM kill on any rotation"
+         ],
+         "apps":[
+            "VOD of a successful Trio HM kill"
+         ],
+         "guides":[
+            "trio-hm"
+         ]
+      },
+      {
+         "name":"Duo HM",
+         "reqs":[
+            "Achieve a Duo HM kill on any rotation"
+         ],
+         "apps":[
+            "VOD of a successful Duo HM kill"
+         ],
+         "guides":[
+            "duo-hm"
+         ]
+      },
+      {
+         "name":"Duo HM 6/6",
+         "reqs":[
+            "Achieve a Duo HM kill on every rotation (6/6 rotations)"
+         ],
+         "apps":[
+            "VOD of a successful Duo HM kill on every rotation"
+         ],
+         "guides":[
+            "duo-hm"
+         ]
+      }
