@@ -62,7 +62,8 @@
             "clearing-bleeds",
             "crack-healing",
             "cade-cept"
-         ]
+         ],
+         "type":"normal_mode"
       },
       {
          "name":"Duo T1",
@@ -77,7 +78,8 @@
          ],
          "guides":[
             "duo"
-         ]
+         ],
+         "type":"normal_mode"
       },
       {
          "name":"Duo T2",
@@ -94,7 +96,8 @@
             "climbing",
             "clearing-bleeds",
             "target-cycle"
-         ]
+         ],
+         "type":"normal_mode"
       },
       {
          "name":"Duo T3",
@@ -117,7 +120,8 @@
             "recenter",
             "climbing",
             "zero-linking"
-         ]
+         ],
+         "type":"normal_mode"
       },
       {
          "name":"Duo T4",
@@ -134,7 +138,8 @@
             "climbing",
             "solo-lure",
             "zero-linking"
-         ]
+         ],
+         "type":"normal_mode"
       },
       {
          "name":"Vorago Master T1",
@@ -146,7 +151,8 @@
          ],
          "guides":[
             "duo"
-         ]
+         ],
+         "type":"achievement"
       },
       {
          "name":"Vorago Master T2",
@@ -158,7 +164,8 @@
          ],
          "guides":[
             "duo"
-         ]
+         ],
+         "type":"achievement"
       },
       {
          "name":"Vorago Master T3",
@@ -170,7 +177,8 @@
          ],
          "guides":[
             "duo"
-         ]
+         ],
+         "type":"achievement"
       },
       {
          "name":"Quarrymaster",
@@ -182,7 +190,8 @@
          ],
          "guides":[
             "overview"
-         ]
+         ],
+         "type":"achievement"
       },
       {
          "name":"Solo Vorago",
@@ -194,7 +203,8 @@
          ],
          "guides":[
             "solo"
-         ]
+         ],
+         "type":"achievement"
       },
       {
          "name":"Forever Alone",
@@ -206,7 +216,8 @@
          ],
          "guides":[
             "solo"
-         ]
+         ],
+         "type":"achievement"
       },
       {
          "name":"HM T1",
@@ -228,7 +239,8 @@
             "crack-healing",
             "cade-cept",
             "clearing-bleeds"
-         ]
+         ],
+         "type":"hard_mode"
       },
       {
          "name":"HM T2",
@@ -243,7 +255,8 @@
          ],
          "guides":[
             "large-hard-mode"
-         ]
+         ],
+         "type":"hard_mode"
       },
       {
          "name":"HM T3",
@@ -262,7 +275,8 @@
             "trio-hm",
             "natty",
             "target-cycle"
-         ]
+         ],
+         "type":"hard_mode"
       },
       {
          "name":"HM T4",
@@ -280,7 +294,8 @@
             "solo-lure",
             "stalling-abilities",
             "zero-linking"
-         ]
+         ],
+         "type":"hard_mode"
       },
       {
          "name":"Duo HM T1",
@@ -293,7 +308,8 @@
          ],
          "guides":[
             "duo-hm"
-         ]
+         ],
+         "type":"hard_mode"
       },
       {
          "name":"Duo HM T2",
@@ -306,7 +322,8 @@
          ],
          "guides":[
             "duo-hm"
-         ]
+         ],
+         "type":"hard_mode"
       },
       {
          "name":"Trio HM",
@@ -318,7 +335,8 @@
          ],
          "guides":[
             "trio-hm"
-         ]
+         ],
+         "type":"achievement"
       },
       {
          "name":"Duo HM",
@@ -330,7 +348,8 @@
          ],
          "guides":[
             "duo-hm"
-         ]
+         ],
+         "type":"achievement"
       },
       {
          "name":"Duo HM 6/6",
@@ -342,7 +361,8 @@
          ],
          "guides":[
             "duo-hm"
-         ]
+         ],
+         "type":"achievement"
       },
             {
          "name":"Solo HM",
@@ -354,7 +374,8 @@
          ],
          "guides":[
             "solo"
-         ]
+         ],
+         "type":"achievement"
       }
    ]
 }
