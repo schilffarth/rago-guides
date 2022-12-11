@@ -14,18 +14,18 @@
 <@&812637337774194689> Collaborator of the Rago Hub guide repository
 <@&824000122336706632>, <@&824000121402425455>, <@&824000119673585675>, <@&824000120424235099>, <@&824000118050390076> Achievement-based roles assigned for VOD submission
 <@&785253370889895937> Complies with the Real Ragoer requirements (10+ hours of Vorago per week and no PvM other than Vorago)
-<@&813078683069448222> Type **`!ragohub`** to self-assign the <@&813078683069448222> notification role
 
 .Staff:edit
 > __**Staff**__
 
-<@&747082974696177674>
+<@&671000019536707614>
+• <@144939325140762625>
+• <@300296497277173761>
+
+<@&833025086214242304>
 • <@167030651973795841>
 • <@104691370324688896>
-
-<@&671000019536707614>
-• <@316175818458136588>
-• <@300296497277173761>
+• <@291257966584397824>
 
 .Tier System
 > __**Tier System**__
